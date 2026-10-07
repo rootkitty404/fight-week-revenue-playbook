@@ -1,0 +1,2199 @@
+Staff_ID,Event_ID,Staff_Type,Role,Arrival_Day,Fee,Is_Local
+S00001,PE001,Promoter,Social Media,Tues.,$3.5K,No
+S00002,PE001,promoter staff,Commission Liaison,TUES,"$5,000",0
+S00003,PE001,PROMOTER,Matchmaking,Tuesday,"3,500",0
+S00004,PE001,promoter staff,Commission Liaison,Tue,"$3,500",0
+S00005,PE001,Promoter,PR & Media,Tues.,"$4,000",FALSE
+S00006,PE001,Promoter,Matchmaking,Tuesday,"$3,000",N
+S00007,PE001,Promoter,Talent Relations,Tue,3500,0
+S00008,PE001,PROMOTER,Commission Liaison,Tue,"3,500",No
+S00009,PE001,PROMOTER,Social Media,Tue,$3.5K,0
+S00010,PE001,promoter staff,Social Media,Tues.,"2,500",N
+S00011,PE001,promoter staff,Hospitality,Thursday,4000,FALSE
+S00012,PE001,PROMOTER,Credentialing,THURS,$5K,No
+S00013,PE001,PROMOTER,Hospitality,THURS,"$4,000",No
+S00014,PE001,promoter staff,Ticketing,Thurs,"4,000",FALSE
+S00015,PE001,Promoter,Security Lead,THURS,"$3,500",0
+S00016,PE001,Promoter,security lead,Thurs,"2,500",N
+S00017,PE001,production co,lighting,Thurs,N/A,FALSE
+S00018,PE001,Prod Company,Camera,Thurs,incl.,N
+S00019,PE001,Production Co.,Graphics,THURS,incl.,No
+S00020,PE001,Production Co.,Graphics,Thurs,incl.,N
+S00021,PE001,Production Co.,Ring Crew,THURS,incl.,N
+S00022,PE001,production co,video engineer,Thursday,,N
+S00023,PE001,Prod Company,Stage Manager,Thurs,incl.,N
+S00024,PE001,production co,Stage Manager,Thurs,N/A,FALSE
+S00025,PE001,Prod Company,Lighting,THURS,incl.,N
+S00026,PE001,production co,graphics,Thu,Included in flat fee,0
+S00027,PE001,Production Company,Graphics,THURS,incl.,FALSE
+S00028,PE001,Prod Company,Graphics,THURS,Included in flat fee,No
+S00029,PE001,Prod Company,Ring Crew,Thursday,Included in flat fee,N
+S00030,PE001,production co,Rigging,Thurs,Included in flat fee,N
+S00031,PE001,production co,Stage Manager,Thu,incl.,FALSE
+S00032,PE001,Production Company,camera,Thursday,Included in flat fee,0
+S00033,PE001,production co,Lighting,THURS,N/A,FALSE
+S00034,PE001,Production Co.,audio,Thu,Included in flat fee,No
+S00035,PE001,production co,Camera,Thu,incl.,No
+S00036,PE001,Production Company,Stage Manager,Thu,Included in flat fee,Y
+S00037,PE001,Prod Company,Lighting,Thursday,Included in flat fee,FALSE
+S00038,PE001,Prod Company,Lighting,Thu,,N
+S00039,PE001,Production Co.,Audio,Thursday,,0
+S00040,PE001,production co,Lighting,THURS,,N
+S00041,PE001,Production Co.,ring crew,Thu,,0
+S00042,PE001,Prod Company,Lighting,THURS,incl.,N
+S00043,PE001,Production Company,Audio,Thurs,Included in flat fee,No
+S00044,PE001,production co,Video Engineer,Thu,Included in flat fee,No
+S00045,PE001,Production Co.,Ring Crew,THURS,Included in flat fee,0
+S00046,PE001,Production Co.,graphics,Thu,N/A,N
+S00047,PE001,Production Co.,Lighting,Thursday,,No
+S00048,PE001,production co,Rigging,Thu,N/A,Yes
+S00049,PE001,production co,ring crew,Thurs,N/A,No
+S00050,PE001,production co,Ring Crew,Thursday,,FALSE
+S00051,PE001,production co,Ring Crew,Thu,,FALSE
+S00052,PE001,Prod Company,Lighting,THURS,N/A,0
+S00053,PE001,Production Co.,Ring Crew,Thursday,Included in flat fee,No
+S00054,PE001,Production Co.,Rigging,Thurs,Included in flat fee,N
+S00055,PE001,Production Co.,Camera,Thursday,,N
+S00056,PE002,PROMOTER,Matchmaking,Tue,3500,FALSE
+S00057,PE002,PROMOTER,Event Operations,Tue,"3,000",No
+S00058,PE002,PROMOTER,social media,TUES,"$4,500",Y
+S00059,PE002,promoter staff,event operations,Tues.,"4,500",No
+S00060,PE002,PROMOTER,Talent Relations,TUES,"4,000",N
+S00061,PE002,Promoter,Event Operations,Tuesday,"$3,500",FALSE
+S00062,PE002,Promoter,PR & Media,Tues.,"3,500",0
+S00063,PE002,Promoter,Matchmaking,Tue,"$3,500",No
+S00064,PE002,Promoter,Talent Relations,Tue,$3.5K,No
+S00065,PE002,promoter staff,Matchmaking,Tues.,"$3,500",0
+S00066,PE002,Promoter,Security Lead,Thurs,"4,000",FALSE
+S00067,PE002,PROMOTER,Event Operations,THURS,"$4,500",FALSE
+S00068,PE002,PROMOTER,Event Operations,THURS,3000,N
+S00069,PE002,Production Company,graphics,Thursday,,No
+S00070,PE002,Prod Company,Stage Manager,Thurs,incl.,No
+S00071,PE002,production co,ring crew,Thursday,Included in flat fee,N
+S00072,PE002,Production Co.,Ring Crew,THURS,incl.,No
+S00073,PE002,Production Company,Rigging,Thu,Included in flat fee,N
+S00074,PE002,Production Company,Rigging,Thursday,Included in flat fee,N
+S00075,PE002,Production Company,lighting,Thu,,0
+S00076,PE002,Prod Company,Stage Manager,Thu,N/A,Yes
+S00077,PE002,Production Co.,Camera,Thu,incl.,0
+S00078,PE002,Production Co.,graphics,Thurs,incl.,FALSE
+S00079,PE002,production co,Audio,Thursday,N/A,FALSE
+S00080,PE002,Production Co.,Ring Crew,THURS,Included in flat fee,0
+S00081,PE002,Production Co.,Rigging,Thursday,incl.,TRUE
+S00082,PE002,Prod Company,Graphics,Thursday,Included in flat fee,No
+S00083,PE002,production co,Video Engineer,Thurs,incl.,No
+S00084,PE002,Prod Company,Lighting,Thursday,Included in flat fee,FALSE
+S00085,PE002,Production Company,Rigging,Thurs,incl.,FALSE
+S00086,PE002,Prod Company,rigging,THURS,incl.,FALSE
+S00087,PE002,Prod Company,Video Engineer,Thursday,N/A,N
+S00088,PE002,Prod Company,Rigging,Thu,incl.,TRUE
+S00089,PE002,Production Co.,Audio,Thu,incl.,No
+S00090,PE003,Promoter,PR & Media,TUES,4000,N
+S00091,PE003,promoter staff,commission liaison,Tues.,"3,000",0
+S00092,PE003,PROMOTER,Matchmaking,Tuesday,4000,0
+S00093,PE003,Promoter,pr & media,Tues.,$3.5K,0
+S00094,PE003,Promoter,Commission Liaison,Tuesday,"3,500",FALSE
+S00095,PE003,promoter staff,PR & Media,Tue,"3,500",Y
+S00096,PE003,promoter staff,matchmaking,Tuesday,"$4,500",Yes
+S00097,PE003,Promoter,Matchmaking,Tuesday,"$5,000",FALSE
+S00098,PE003,PROMOTER,Event Operations,Tues.,$3.5K,0
+S00099,PE003,promoter staff,Commission Liaison,Tues.,"$5,000",FALSE
+S00100,PE003,promoter staff,Event Operations,THURS,"$4,000",FALSE
+S00101,PE003,PROMOTER,Credentialing,Thu,"2,500",0
+S00102,PE003,Promoter,Ticketing,THURS,4500,FALSE
+S00103,PE003,Promoter,Hospitality,Thu,"$3,500",0
+S00104,PE003,PROMOTER,Hospitality,Thu,"3,500",N
+S00105,PE003,promoter staff,Event Operations,Thurs,"$4,500",0
+S00106,PE003,Production Company,Camera,Thurs,,N
+S00107,PE003,Production Co.,graphics,Thu,incl.,FALSE
+S00108,PE003,Production Co.,Graphics,Thursday,Included in flat fee,0
+S00109,PE003,Production Company,Rigging,Thursday,Included in flat fee,No
+S00110,PE003,Production Company,Camera,THURS,incl.,FALSE
+S00111,PE003,Production Co.,Graphics,THURS,N/A,0
+S00112,PE003,production co,Lighting,THURS,N/A,FALSE
+S00113,PE003,Production Company,Rigging,Thursday,Included in flat fee,N
+S00114,PE003,Production Company,Audio,Thu,incl.,N
+S00115,PE003,Prod Company,Stage Manager,Thurs,N/A,FALSE
+S00116,PE003,production co,Ring Crew,Thurs,Included in flat fee,FALSE
+S00117,PE003,Production Co.,Stage Manager,THURS,N/A,FALSE
+S00118,PE003,production co,audio,Thursday,Included in flat fee,FALSE
+S00119,PE003,Production Co.,Graphics,Thu,incl.,0
+S00120,PE003,Production Company,stage manager,THURS,,0
+S00121,PE003,production co,Rigging,Thurs,incl.,N
+S00122,PE003,Production Co.,Ring Crew,Thursday,incl.,0
+S00123,PE003,Production Company,Audio,Thurs,Included in flat fee,FALSE
+S00124,PE003,Production Co.,rigging,Thu,incl.,0
+S00125,PE003,Production Co.,Graphics,Thursday,incl.,0
+S00126,PE003,Production Company,Audio,Thu,N/A,1
+S00127,PE003,Production Company,Audio,Thursday,Included in flat fee,0
+S00128,PE003,production co,Lighting,THURS,Included in flat fee,0
+S00129,PE003,Production Company,Ring Crew,Thu,Included in flat fee,FALSE
+S00130,PE003,Production Company,Graphics,THURS,incl.,0
+S00131,PE003,Production Company,Lighting,THURS,,N
+S00132,PE003,Production Co.,Stage Manager,THURS,,No
+S00133,PE003,Production Co.,Audio,THURS,N/A,N
+S00134,PE003,Prod Company,Video Engineer,Thurs,N/A,No
+S00135,PE003,Prod Company,Graphics,Thu,N/A,0
+S00136,PE003,Prod Company,Stage Manager,THURS,incl.,N
+S00137,PE003,Production Co.,Graphics,Thurs,N/A,N
+S00138,PE003,Production Company,Lighting,Thursday,incl.,N
+S00139,PE003,Prod Company,Camera,Thu,N/A,FALSE
+S00140,PE003,Production Company,Video Engineer,THURS,incl.,No
+S00141,PE003,Production Company,lighting,Thurs,N/A,1
+S00142,PE003,Production Company,lighting,Thursday,N/A,0
+S00143,PE003,Prod Company,Graphics,THURS,incl.,No
+S00144,PE004,PROMOTER,Commission Liaison,TUES,"4,000",No
+S00145,PE004,promoter staff,PR & Media,Tues.,"$3,500",0
+S00146,PE004,Promoter,commission liaison,Tue,"3,500",1
+S00147,PE004,promoter staff,Social Media,TUES,"4,500",No
+S00148,PE004,PROMOTER,Event Operations,Tuesday,3000,No
+S00149,PE004,promoter staff,Talent Relations,Tue,5000,1
+S00150,PE004,PROMOTER,Social Media,Tuesday,$4.5K,0
+S00151,PE004,promoter staff,Event Operations,TUES,"4,500",N
+S00152,PE004,promoter staff,Social Media,Tue,4500,0
+S00153,PE004,PROMOTER,Commission Liaison,Tues.,4500,N
+S00154,PE004,PROMOTER,Hospitality,Thursday,$3.5K,0
+S00155,PE004,promoter staff,Event Operations,THURS,"$3,500",N
+S00156,PE004,Promoter,Event Operations,Thurs,"$3,000",FALSE
+S00157,PE004,production co,Video Engineer,Thu,Included in flat fee,N
+S00158,PE004,Prod Company,camera,Thurs,N/A,0
+S00159,PE004,Prod Company,rigging,Thurs,Included in flat fee,N
+S00160,PE004,Production Co.,video engineer,Thurs,incl.,N
+S00161,PE004,Production Co.,camera,Thu,incl.,No
+S00162,PE004,Production Co.,Ring Crew,Thurs,,No
+S00163,PE004,Production Company,Lighting,THURS,,0
+S00164,PE004,production co,Camera,THURS,N/A,N
+S00165,PE004,Production Co.,Graphics,Thurs,N/A,No
+S00166,PE004,Production Company,Video Engineer,Thu,Included in flat fee,0
+S00167,PE004,Production Company,Rigging,Thu,incl.,FALSE
+S00168,PE004,production co,Video Engineer,THURS,Included in flat fee,0
+S00169,PE004,production co,stage manager,Thursday,N/A,0
+S00170,PE004,Prod Company,camera,Thurs,incl.,No
+S00171,PE004,production co,Graphics,THURS,incl.,No
+S00172,PE004,Prod Company,ring crew,Thu,incl.,N
+S00173,PE004,Prod Company,Stage Manager,THURS,Included in flat fee,No
+S00174,PE004,Prod Company,Stage Manager,THURS,incl.,0
+S00175,PE004,Production Company,ring crew,Thu,N/A,N
+S00176,PE004,Production Co.,Video Engineer,THURS,incl.,N
+S00177,PE005,Promoter,PR & Media,TUES,3000,No
+S00178,PE005,PROMOTER,matchmaking,TUES,$3K,N
+S00179,PE005,Promoter,Social Media,Tues.,4000,FALSE
+S00180,PE005,PROMOTER,Event Operations,TUES,5000,No
+S00181,PE005,PROMOTER,pr & media,TUES,"3,000",TRUE
+S00182,PE005,PROMOTER,Talent Relations,Tues.,"$3,500",1
+S00183,PE005,promoter staff,PR & Media,TUES,"3,500",0
+S00184,PE005,PROMOTER,Commission Liaison,Tues.,3500,FALSE
+S00185,PE005,promoter staff,Social Media,Tuesday,"$4,500",0
+S00186,PE005,PROMOTER,Social Media,TUES,$3.5K,FALSE
+S00187,PE005,Promoter,Event Operations,Thursday,"$4,000",No
+S00188,PE005,promoter staff,Ticketing,THURS,"4,500",Y
+S00189,PE005,PROMOTER,ticketing,THURS,$2.5K,TRUE
+S00190,PE005,production co,Rigging,Thursday,N/A,0
+S00191,PE005,production co,Video Engineer,Thurs,incl.,Yes
+S00192,PE005,Production Co.,Video Engineer,Thursday,,No
+S00193,PE005,Prod Company,Graphics,Thu,,No
+S00194,PE005,Production Co.,Video Engineer,Thursday,N/A,FALSE
+S00195,PE005,Production Co.,Video Engineer,Thursday,N/A,No
+S00196,PE005,Production Company,Lighting,Thurs,N/A,N
+S00197,PE005,production co,Graphics,Thu,N/A,No
+S00198,PE005,Production Company,Ring Crew,Thurs,Included in flat fee,0
+S00199,PE005,Production Co.,audio,Thu,,N
+S00200,PE005,production co,Video Engineer,Thursday,incl.,N
+S00201,PE005,Production Company,Stage Manager,THURS,,No
+S00202,PE005,Production Company,Camera,THURS,,0
+S00203,PE005,production co,Video Engineer,Thurs,,FALSE
+S00204,PE005,Production Co.,Rigging,Thursday,,No
+S00205,PE005,Prod Company,Graphics,Thu,,No
+S00206,PE005,Production Company,Stage Manager,Thu,incl.,N
+S00207,PE005,Prod Company,Graphics,THURS,incl.,N
+S00208,PE005,Production Company,rigging,Thursday,N/A,No
+S00209,PE006,PROMOTER,Talent Relations,Tues.,"$3,000",N
+S00210,PE006,promoter staff,Commission Liaison,Tuesday,4500,0
+S00211,PE006,Promoter,Matchmaking,Tue,4000,1
+S00212,PE006,Promoter,Matchmaking,Tues.,$4K,0
+S00213,PE006,PROMOTER,Talent Relations,Tues.,3500,No
+S00214,PE006,promoter staff,PR & Media,Tuesday,"2,500",No
+S00215,PE006,Promoter,Event Operations,TUES,2500,FALSE
+S00216,PE006,PROMOTER,Matchmaking,Tue,$4K,N
+S00217,PE006,PROMOTER,Social Media,Tuesday,$3.5K,FALSE
+S00218,PE006,promoter staff,commission liaison,Tues.,"$3,500",FALSE
+S00219,PE006,promoter staff,Security Lead,Thu,"$4,500",0
+S00220,PE006,promoter staff,Credentialing,THURS,$3.5K,FALSE
+S00221,PE006,promoter staff,Ticketing,THURS,"$3,500",0
+S00222,PE006,PROMOTER,Credentialing,Thursday,3500,0
+S00223,PE006,Production Co.,Video Engineer,Thurs,,No
+S00224,PE006,Prod Company,Camera,Thu,N/A,No
+S00225,PE006,Production Company,Lighting,THURS,,N
+S00226,PE006,production co,Ring Crew,Thurs,Included in flat fee,FALSE
+S00227,PE006,Production Company,Ring Crew,Thursday,Included in flat fee,N
+S00228,PE006,Prod Company,Ring Crew,Thu,N/A,No
+S00229,PE006,production co,Video Engineer,THURS,N/A,FALSE
+S00230,PE006,Production Company,ring crew,THURS,N/A,No
+S00231,PE006,Production Co.,Camera,Thursday,Included in flat fee,FALSE
+S00232,PE006,Prod Company,Stage Manager,Thurs,,No
+S00233,PE006,Production Co.,Video Engineer,Thursday,,FALSE
+S00234,PE006,production co,Graphics,Thurs,incl.,0
+S00235,PE006,production co,Stage Manager,Thu,,N
+S00236,PE006,Production Company,Graphics,THURS,Included in flat fee,0
+S00237,PE006,Production Company,Graphics,Thursday,N/A,FALSE
+S00238,PE006,Prod Company,Graphics,Thursday,Included in flat fee,N
+S00239,PE006,Production Co.,Rigging,THURS,N/A,FALSE
+S00240,PE006,Prod Company,audio,THURS,N/A,No
+S00241,PE006,Production Company,Camera,THURS,incl.,Y
+S00242,PE006,production co,audio,THURS,incl.,0
+S00243,PE006,Production Co.,Video Engineer,Thursday,N/A,No
+S00244,PE006,production co,Ring Crew,Thursday,N/A,0
+S00245,PE006,Prod Company,Rigging,Thursday,Included in flat fee,FALSE
+S00246,PE006,Production Co.,Ring Crew,Thursday,incl.,No
+S00247,PE006,production co,Ring Crew,THURS,,N
+S00248,PE006,Production Company,Stage Manager,Thursday,,0
+S00249,PE006,Production Co.,lighting,THURS,incl.,No
+S00250,PE006,Production Company,Camera,Thursday,N/A,0
+S00251,PE006,Prod Company,Lighting,Thursday,Included in flat fee,FALSE
+S00252,PE006,Production Company,Rigging,Thursday,N/A,No
+S00253,PE006,Production Co.,Audio,Thursday,N/A,FALSE
+S00254,PE006,production co,Stage Manager,Thurs,N/A,N
+S00255,PE006,production co,Camera,Thursday,Included in flat fee,No
+S00256,PE006,Production Co.,lighting,THURS,Included in flat fee,0
+S00257,PE006,Production Company,Stage Manager,Thurs,,No
+S00258,PE006,Production Company,Camera,Thu,Included in flat fee,0
+S00259,PE006,production co,Stage Manager,THURS,Included in flat fee,N
+S00260,PE006,production co,Video Engineer,Thurs,,FALSE
+S00261,PE006,Prod Company,Graphics,Thursday,Included in flat fee,FALSE
+S00262,PE007,promoter staff,Matchmaking,Tuesday,"$3,500",FALSE
+S00263,PE007,Promoter,talent relations,TUES,$3.5K,N
+S00264,PE007,Promoter,Matchmaking,TUES,"$4,500",0
+S00265,PE007,promoter staff,PR & Media,Tue,"3,000",FALSE
+S00266,PE007,PROMOTER,Talent Relations,Tue,"4,500",0
+S00267,PE007,PROMOTER,Matchmaking,Tuesday,"3,000",0
+S00268,PE007,Promoter,Talent Relations,Tuesday,3000,1
+S00269,PE007,Promoter,PR & Media,Tue,"$3,500",No
+S00270,PE007,Promoter,event operations,Tue,"$5,000",N
+S00271,PE007,promoter staff,Talent Relations,TUES,$5K,TRUE
+S00272,PE007,promoter staff,Credentialing,Thurs,$2.5K,N
+S00273,PE007,PROMOTER,Event Operations,Thurs,"3,000",No
+S00274,PE007,Promoter,Credentialing,THURS,"5,000",N
+S00275,PE007,Production Co.,Audio,THURS,,FALSE
+S00276,PE007,production co,lighting,Thu,N/A,FALSE
+S00277,PE007,Production Co.,Lighting,Thu,incl.,N
+S00278,PE007,Production Co.,Stage Manager,Thurs,Included in flat fee,TRUE
+S00279,PE007,Production Company,Rigging,Thursday,incl.,Yes
+S00280,PE007,production co,Camera,THURS,,No
+S00281,PE007,Prod Company,Graphics,Thurs,Included in flat fee,N
+S00282,PE007,production co,Lighting,Thu,incl.,N
+S00283,PE007,Prod Company,Stage Manager,THURS,incl.,N
+S00284,PE007,Production Co.,Audio,Thu,Included in flat fee,No
+S00285,PE007,Production Co.,Ring Crew,Thurs,,0
+S00286,PE007,Prod Company,Ring Crew,Thu,Included in flat fee,FALSE
+S00287,PE007,Prod Company,Audio,Thu,N/A,No
+S00288,PE007,Prod Company,Graphics,Thu,incl.,N
+S00289,PE007,production co,Video Engineer,Thu,incl.,FALSE
+S00290,PE007,production co,Camera,Thurs,,Y
+S00291,PE007,Production Company,Graphics,Thu,N/A,FALSE
+S00292,PE007,Production Co.,Stage Manager,Thu,Included in flat fee,FALSE
+S00293,PE007,Production Co.,Ring Crew,Thu,Included in flat fee,FALSE
+S00294,PE007,Production Company,graphics,Thurs,incl.,No
+S00295,PE007,Production Co.,Rigging,Thursday,N/A,FALSE
+S00296,PE007,Prod Company,Lighting,THURS,,Y
+S00297,PE007,Production Company,graphics,Thurs,Included in flat fee,No
+S00298,PE007,Prod Company,Graphics,Thu,N/A,N
+S00299,PE007,Production Co.,ring crew,THURS,Included in flat fee,N
+S00300,PE007,production co,Camera,Thurs,Included in flat fee,FALSE
+S00301,PE007,Production Co.,Ring Crew,Thursday,incl.,0
+S00302,PE007,Prod Company,Graphics,Thurs,incl.,N
+S00303,PE007,Production Company,Lighting,Thu,incl.,N
+S00304,PE007,Prod Company,Audio,THURS,N/A,0
+S00305,PE007,production co,Audio,Thursday,,0
+S00306,PE007,Production Company,Audio,Thursday,Included in flat fee,0
+S00307,PE007,Prod Company,graphics,THURS,N/A,N
+S00308,PE007,production co,Camera,THURS,incl.,No
+S00309,PE007,Production Co.,ring crew,Thurs,N/A,N
+S00310,PE007,Production Co.,stage manager,Thursday,incl.,0
+S00311,PE007,Production Company,stage manager,THURS,incl.,No
+S00312,PE007,production co,stage manager,Thursday,Included in flat fee,N
+S00313,PE007,production co,graphics,THURS,N/A,No
+S00314,PE007,Production Co.,lighting,THURS,,0
+S00315,PE008,PROMOTER,Talent Relations,TUES,$3.5K,N
+S00316,PE008,Promoter,matchmaking,Tuesday,"$3,000",0
+S00317,PE008,PROMOTER,Social Media,Tuesday,"$3,000",FALSE
+S00318,PE008,PROMOTER,pr & media,Tue,3500,No
+S00319,PE008,PROMOTER,matchmaking,Tue,4500,No
+S00320,PE008,promoter staff,Talent Relations,Tuesday,4500,N
+S00321,PE008,PROMOTER,Talent Relations,Tue,"$5,000",0
+S00322,PE008,Promoter,Social Media,Tue,"$4,500",No
+S00323,PE008,promoter staff,Social Media,Tues.,$3.5K,0
+S00324,PE008,Promoter,Event Operations,TUES,"3,000",1
+S00325,PE008,Promoter,Hospitality,Thursday,$3.5K,0
+S00326,PE008,Promoter,Event Operations,Thursday,$3K,0
+S00327,PE008,Production Company,Camera,THURS,N/A,FALSE
+S00328,PE008,Production Co.,Lighting,THURS,incl.,0
+S00329,PE008,Production Co.,graphics,Thursday,,FALSE
+S00330,PE008,Prod Company,Audio,Thu,Included in flat fee,N
+S00331,PE008,Production Co.,audio,Thurs,N/A,N
+S00332,PE008,Production Co.,Rigging,Thu,incl.,FALSE
+S00333,PE008,Production Co.,Ring Crew,Thursday,,No
+S00334,PE008,Production Co.,Ring Crew,Thu,N/A,FALSE
+S00335,PE008,Prod Company,Stage Manager,Thu,incl.,FALSE
+S00336,PE008,Production Co.,Lighting,Thurs,Included in flat fee,N
+S00337,PE008,Production Company,Rigging,Thurs,N/A,No
+S00338,PE008,Production Co.,Stage Manager,Thurs,Included in flat fee,1
+S00339,PE008,Production Co.,Lighting,Thurs,Included in flat fee,No
+S00340,PE008,Production Company,Rigging,THURS,Included in flat fee,FALSE
+S00341,PE008,Production Company,audio,THURS,,No
+S00342,PE008,production co,Graphics,Thu,incl.,No
+S00343,PE008,Production Company,camera,Thursday,N/A,N
+S00344,PE008,Prod Company,Video Engineer,THURS,Included in flat fee,FALSE
+S00345,PE009,PROMOTER,Commission Liaison,TUES,4000,FALSE
+S00346,PE009,promoter staff,Matchmaking,Tue,2500,No
+S00347,PE009,Promoter,Social Media,TUES,4000,FALSE
+S00348,PE009,PROMOTER,Event Operations,TUES,4500,0
+S00349,PE009,promoter staff,Commission Liaison,Tues.,"$3,500",N
+S00350,PE009,Promoter,Matchmaking,Tue,4500,No
+S00351,PE009,Promoter,Event Operations,Tues.,$4.5K,N
+S00352,PE009,PROMOTER,Event Operations,Tues.,4500,No
+S00353,PE009,promoter staff,Event Operations,TUES,"$3,500",No
+S00354,PE009,Promoter,Commission Liaison,Tuesday,4500,N
+S00355,PE009,PROMOTER,Hospitality,Thu,"$3,500",No
+S00356,PE009,Promoter,security lead,Thurs,$2.5K,N
+S00357,PE009,promoter staff,Credentialing,Thursday,"$5,000",No
+S00358,PE009,PROMOTER,Credentialing,Thu,5000,N
+S00359,PE009,promoter staff,Credentialing,THURS,3500,N
+S00360,PE009,promoter staff,Hospitality,Thu,"4,500",0
+S00361,PE009,Production Co.,Rigging,Thu,Included in flat fee,FALSE
+S00362,PE009,production co,graphics,THURS,,No
+S00363,PE009,Production Company,graphics,THURS,,No
+S00364,PE009,Prod Company,Lighting,Thursday,,FALSE
+S00365,PE009,production co,Stage Manager,Thurs,,N
+S00366,PE009,Prod Company,Camera,THURS,Included in flat fee,No
+S00367,PE009,Prod Company,Ring Crew,Thurs,incl.,Yes
+S00368,PE009,Prod Company,Ring Crew,Thursday,,Yes
+S00369,PE009,production co,Lighting,Thu,incl.,FALSE
+S00370,PE009,Production Company,Lighting,Thursday,Included in flat fee,FALSE
+S00371,PE009,Production Company,Video Engineer,Thu,,N
+S00372,PE009,production co,ring crew,THURS,incl.,0
+S00373,PE009,production co,Ring Crew,Thu,N/A,No
+S00374,PE009,Production Co.,Stage Manager,Thu,,FALSE
+S00375,PE009,Production Co.,Video Engineer,Thu,Included in flat fee,N
+S00376,PE009,Prod Company,audio,THURS,N/A,N
+S00377,PE009,Prod Company,Rigging,THURS,N/A,0
+S00378,PE009,Prod Company,audio,Thurs,Included in flat fee,No
+S00379,PE009,production co,Video Engineer,Thu,incl.,FALSE
+S00380,PE009,Production Company,Audio,THURS,,No
+S00381,PE009,Prod Company,Lighting,Thurs,incl.,No
+S00382,PE009,Prod Company,Graphics,THURS,,0
+S00383,PE009,Production Company,Rigging,Thu,incl.,N
+S00384,PE009,production co,Video Engineer,Thu,N/A,N
+S00385,PE009,Production Co.,Camera,THURS,Included in flat fee,No
+S00386,PE009,Production Co.,Lighting,Thursday,,0
+S00387,PE009,Production Company,Rigging,THURS,,Y
+S00388,PE009,Production Co.,Video Engineer,Thurs,,0
+S00389,PE009,Production Company,Stage Manager,Thursday,N/A,FALSE
+S00390,PE009,Production Company,Ring Crew,Thursday,N/A,N
+S00391,PE009,Production Company,Video Engineer,THURS,Included in flat fee,0
+S00392,PE009,Production Co.,Video Engineer,Thursday,Included in flat fee,FALSE
+S00393,PE009,Prod Company,Audio,Thu,Included in flat fee,0
+S00394,PE009,production co,video engineer,Thursday,N/A,No
+S00395,PE009,Production Co.,rigging,Thurs,incl.,FALSE
+S00396,PE009,Production Company,Video Engineer,THURS,incl.,0
+S00397,PE010,PROMOTER,event operations,Tues.,"2,500",N
+S00398,PE010,Promoter,Matchmaking,Tue,$4K,FALSE
+S00399,PE010,PROMOTER,event operations,Tuesday,4500,No
+S00400,PE010,promoter staff,Commission Liaison,Tues.,$4.5K,0
+S00401,PE010,PROMOTER,social media,Tuesday,"5,000",No
+S00402,PE010,PROMOTER,Talent Relations,Tues.,$2.5K,No
+S00403,PE010,promoter staff,Commission Liaison,Tue,"3,500",FALSE
+S00404,PE010,PROMOTER,Talent Relations,Tue,4500,0
+S00405,PE010,Promoter,talent relations,Tues.,4000,N
+S00406,PE010,Promoter,PR & Media,Tuesday,"$4,000",0
+S00407,PE010,promoter staff,event operations,Thu,3500,Yes
+S00408,PE010,PROMOTER,hospitality,Thurs,$4.5K,0
+S00409,PE010,Promoter,Event Operations,THURS,"$5,000",FALSE
+S00410,PE010,Promoter,Security Lead,THURS,$3.5K,N
+S00411,PE010,Production Co.,Ring Crew,Thurs,N/A,0
+S00412,PE010,Production Co.,Video Engineer,Thurs,incl.,0
+S00413,PE010,Production Company,Audio,THURS,,N
+S00414,PE010,Production Co.,Audio,Thurs,Included in flat fee,N
+S00415,PE010,Production Company,Camera,Thu,,No
+S00416,PE010,production co,lighting,Thursday,,FALSE
+S00417,PE010,Production Co.,Audio,THURS,Included in flat fee,No
+S00418,PE010,production co,Graphics,Thursday,incl.,0
+S00419,PE010,Production Company,Camera,Thurs,,N
+S00420,PE010,Prod Company,Stage Manager,THURS,incl.,0
+S00421,PE010,Production Company,Lighting,Thurs,N/A,FALSE
+S00422,PE010,Production Company,camera,Thursday,N/A,N
+S00423,PE010,Production Co.,Stage Manager,Thu,,0
+S00424,PE010,Prod Company,Graphics,Thu,N/A,No
+S00425,PE010,Production Co.,Audio,Thursday,incl.,FALSE
+S00426,PE010,Prod Company,stage manager,THURS,,0
+S00427,PE010,production co,Lighting,THURS,Included in flat fee,FALSE
+S00428,PE010,Prod Company,Rigging,Thu,N/A,FALSE
+S00429,PE010,Production Company,Lighting,Thurs,incl.,N
+S00430,PE010,production co,Video Engineer,Thursday,N/A,TRUE
+S00431,PE010,Production Co.,Lighting,Thurs,N/A,0
+S00432,PE010,Production Company,Rigging,Thurs,Included in flat fee,N
+S00433,PE010,Prod Company,Video Engineer,Thurs,,No
+S00434,PE010,production co,Graphics,Thurs,,0
+S00435,PE010,Production Company,Camera,Thurs,N/A,N
+S00436,PE010,Prod Company,Stage Manager,Thu,N/A,N
+S00437,PE010,Prod Company,graphics,THURS,Included in flat fee,FALSE
+S00438,PE010,Production Co.,Video Engineer,Thursday,N/A,FALSE
+S00439,PE010,Production Co.,Camera,Thu,N/A,N
+S00440,PE010,Production Co.,Rigging,Thurs,,No
+S00441,PE010,production co,stage manager,Thurs,Included in flat fee,N
+S00442,PE010,production co,Ring Crew,Thurs,,FALSE
+S00443,PE010,production co,Ring Crew,Thu,N/A,Y
+S00444,PE010,production co,Video Engineer,Thu,incl.,0
+S00445,PE010,Production Company,lighting,Thu,,No
+S00446,PE010,Prod Company,lighting,THURS,incl.,0
+S00447,PE010,Production Company,graphics,THURS,N/A,N
+S00448,PE010,Production Company,camera,THURS,incl.,FALSE
+S00449,PE010,Production Co.,Video Engineer,Thu,N/A,No
+S00450,PE010,Production Co.,Lighting,Thursday,incl.,1
+S00451,PE010,Production Company,Stage Manager,THURS,,0
+S00452,PE011,promoter staff,Commission Liaison,Tue,4500,1
+S00453,PE011,Promoter,Matchmaking,TUES,"$5,000",FALSE
+S00454,PE011,PROMOTER,Social Media,Tue,"4,000",Y
+S00455,PE011,promoter staff,matchmaking,TUES,"$5,000",0
+S00456,PE011,promoter staff,Commission Liaison,Tuesday,"4,000",1
+S00457,PE011,PROMOTER,PR & Media,Tues.,3500,N
+S00458,PE011,Promoter,Commission Liaison,Tue,"$4,500",FALSE
+S00459,PE011,Promoter,Matchmaking,Tue,2500,N
+S00460,PE011,promoter staff,Commission Liaison,Tues.,4000,0
+S00461,PE011,Promoter,PR & Media,Tuesday,"$4,000",No
+S00462,PE011,Promoter,Event Operations,Thurs,3000,N
+S00463,PE011,Promoter,Credentialing,Thursday,"$3,500",No
+S00464,PE011,PROMOTER,Credentialing,THURS,5000,0
+S00465,PE011,Prod Company,rigging,Thursday,N/A,0
+S00466,PE011,Production Co.,Ring Crew,Thu,Included in flat fee,N
+S00467,PE011,Production Company,Ring Crew,THURS,N/A,0
+S00468,PE011,Production Co.,audio,Thurs,incl.,N
+S00469,PE011,Production Co.,Video Engineer,Thursday,incl.,1
+S00470,PE011,production co,Graphics,THURS,,0
+S00471,PE011,Production Company,Video Engineer,Thurs,incl.,0
+S00472,PE011,Production Company,Ring Crew,Thu,,No
+S00473,PE011,production co,Lighting,Thursday,incl.,N
+S00474,PE011,production co,Lighting,THURS,Included in flat fee,0
+S00475,PE011,Production Co.,Graphics,Thu,Included in flat fee,N
+S00476,PE011,Production Co.,Camera,THURS,incl.,0
+S00477,PE011,Prod Company,Lighting,Thursday,N/A,TRUE
+S00478,PE011,Prod Company,Graphics,THURS,incl.,Yes
+S00479,PE011,Prod Company,Stage Manager,Thursday,incl.,FALSE
+S00480,PE011,Production Co.,Ring Crew,Thursday,,FALSE
+S00481,PE011,Production Co.,Camera,Thursday,,TRUE
+S00482,PE011,Prod Company,Video Engineer,Thursday,,FALSE
+S00483,PE011,Production Company,Camera,Thurs,,No
+S00484,PE012,PROMOTER,PR & Media,Tues.,"$2,500",FALSE
+S00485,PE012,PROMOTER,Social Media,Tues.,$4K,N
+S00486,PE012,promoter staff,Talent Relations,Tue,"$4,000",N
+S00487,PE012,PROMOTER,Talent Relations,Tue,"4,000",Y
+S00488,PE012,promoter staff,Talent Relations,Tues.,3000,No
+S00489,PE012,promoter staff,Commission Liaison,Tuesday,4500,No
+S00490,PE012,PROMOTER,Matchmaking,Tuesday,"$3,500",No
+S00491,PE012,Promoter,Commission Liaison,TUES,"$2,500",N
+S00492,PE012,Promoter,PR & Media,Tues.,3500,0
+S00493,PE012,PROMOTER,Event Operations,Tue,3500,FALSE
+S00494,PE012,Promoter,Security Lead,Thurs,"$3,500",0
+S00495,PE012,Promoter,Event Operations,Thurs,$4K,Yes
+S00496,PE012,PROMOTER,Event Operations,Thu,$2.5K,No
+S00497,PE012,Production Company,Rigging,THURS,N/A,No
+S00498,PE012,Prod Company,Rigging,THURS,Included in flat fee,No
+S00499,PE012,Production Company,Rigging,Thursday,Included in flat fee,N
+S00500,PE012,Prod Company,Video Engineer,THURS,Included in flat fee,N
+S00501,PE012,Prod Company,Camera,Thurs,incl.,N
+S00502,PE012,Prod Company,Lighting,Thu,incl.,No
+S00503,PE012,Prod Company,Ring Crew,Thu,,N
+S00504,PE012,Prod Company,Rigging,Thurs,Included in flat fee,N
+S00505,PE012,Production Company,stage manager,Thurs,Included in flat fee,N
+S00506,PE012,Production Company,Rigging,Thurs,,FALSE
+S00507,PE012,Production Company,Stage Manager,Thurs,N/A,Y
+S00508,PE012,production co,Ring Crew,Thursday,incl.,FALSE
+S00509,PE012,Production Company,Camera,Thu,incl.,No
+S00510,PE012,Production Company,Rigging,Thu,,0
+S00511,PE012,Production Co.,camera,Thursday,Included in flat fee,No
+S00512,PE012,Production Company,Camera,Thurs,incl.,FALSE
+S00513,PE012,production co,Rigging,Thurs,,0
+S00514,PE012,production co,Graphics,Thu,incl.,FALSE
+S00515,PE012,production co,Stage Manager,THURS,Included in flat fee,No
+S00516,PE012,Production Company,Graphics,Thursday,Included in flat fee,0
+S00517,PE012,Production Co.,Video Engineer,Thurs,,N
+S00518,PE012,production co,Rigging,Thu,N/A,No
+S00519,PE013,PROMOTER,PR & Media,Tues.,"$3,500",0
+S00520,PE013,Promoter,PR & Media,Tuesday,$4.5K,FALSE
+S00521,PE013,promoter staff,Commission Liaison,TUES,"4,500",Y
+S00522,PE013,Promoter,Talent Relations,Tues.,"2,500",No
+S00523,PE013,Promoter,pr & media,TUES,$3K,1
+S00524,PE013,Promoter,PR & Media,Tues.,3500,N
+S00525,PE013,PROMOTER,Matchmaking,Tues.,$3K,No
+S00526,PE013,promoter staff,Commission Liaison,Tue,$2.5K,0
+S00527,PE013,Promoter,Talent Relations,Tues.,"$3,000",Yes
+S00528,PE013,PROMOTER,Matchmaking,TUES,"$4,000",N
+S00529,PE013,PROMOTER,Hospitality,Thurs,"$3,500",0
+S00530,PE013,Promoter,Ticketing,Thursday,"4,000",FALSE
+S00531,PE013,PROMOTER,Ticketing,Thursday,3500,Yes
+S00532,PE013,Promoter,Event Operations,Thurs,"$3,000",FALSE
+S00533,PE013,promoter staff,Event Operations,Thursday,$2.5K,0
+S00534,PE013,PROMOTER,hospitality,THURS,$4.5K,N
+S00535,PE013,Prod Company,Graphics,Thu,Included in flat fee,FALSE
+S00536,PE013,Prod Company,audio,Thurs,incl.,0
+S00537,PE013,Production Company,Graphics,THURS,N/A,N
+S00538,PE013,production co,Ring Crew,Thursday,incl.,0
+S00539,PE013,Production Co.,Lighting,Thu,Included in flat fee,N
+S00540,PE013,Production Company,Rigging,Thursday,incl.,N
+S00541,PE013,Production Company,Stage Manager,Thu,N/A,0
+S00542,PE013,Prod Company,graphics,Thursday,Included in flat fee,FALSE
+S00543,PE013,Production Co.,Stage Manager,Thurs,,FALSE
+S00544,PE013,Prod Company,Audio,Thurs,incl.,No
+S00545,PE013,Prod Company,lighting,THURS,,0
+S00546,PE013,Prod Company,Ring Crew,THURS,N/A,No
+S00547,PE013,Production Company,Lighting,Thursday,Included in flat fee,No
+S00548,PE013,Production Company,Audio,THURS,incl.,N
+S00549,PE013,production co,Ring Crew,Thu,N/A,0
+S00550,PE013,production co,rigging,Thursday,Included in flat fee,FALSE
+S00551,PE013,Production Co.,video engineer,Thursday,Included in flat fee,0
+S00552,PE013,Prod Company,Lighting,Thu,incl.,FALSE
+S00553,PE013,Prod Company,Lighting,Thurs,incl.,0
+S00554,PE013,Production Company,Video Engineer,Thursday,N/A,N
+S00555,PE013,Production Co.,graphics,THURS,Included in flat fee,N
+S00556,PE013,Production Company,Ring Crew,Thu,N/A,FALSE
+S00557,PE013,Prod Company,Camera,THURS,N/A,N
+S00558,PE013,Prod Company,Audio,Thu,,0
+S00559,PE013,production co,Ring Crew,THURS,,No
+S00560,PE013,production co,ring crew,THURS,Included in flat fee,FALSE
+S00561,PE013,Production Company,Ring Crew,Thursday,incl.,N
+S00562,PE013,production co,Lighting,Thursday,Included in flat fee,No
+S00563,PE013,production co,Graphics,Thu,incl.,N
+S00564,PE013,Production Co.,Lighting,Thursday,incl.,N
+S00565,PE013,Prod Company,Rigging,THURS,incl.,0
+S00566,PE013,production co,Ring Crew,Thursday,Included in flat fee,FALSE
+S00567,PE013,Prod Company,Video Engineer,Thursday,incl.,N
+S00568,PE013,Prod Company,Ring Crew,Thu,,No
+S00569,PE013,production co,Camera,Thursday,N/A,No
+S00570,PE013,production co,Ring Crew,Thu,incl.,0
+S00571,PE013,Prod Company,lighting,Thurs,Included in flat fee,No
+S00572,PE013,Prod Company,Ring Crew,THURS,,No
+S00573,PE013,Production Co.,Graphics,Thu,incl.,N
+S00574,PE013,production co,Ring Crew,Thurs,,FALSE
+S00575,PE013,Production Co.,camera,THURS,incl.,0
+S00576,PE013,Prod Company,Lighting,THURS,incl.,N
+S00577,PE014,Promoter,Commission Liaison,Tuesday,"3,500",No
+S00578,PE014,Promoter,Commission Liaison,Tue,"$3,500",0
+S00579,PE014,PROMOTER,Social Media,Tuesday,"$3,000",0
+S00580,PE014,Promoter,Matchmaking,Tuesday,"$3,000",FALSE
+S00581,PE014,promoter staff,Event Operations,Tuesday,3500,0
+S00582,PE014,PROMOTER,talent relations,TUES,"5,000",0
+S00583,PE014,PROMOTER,Social Media,Tuesday,"3,500",No
+S00584,PE014,promoter staff,Social Media,Tue,"$3,500",TRUE
+S00585,PE014,Promoter,Commission Liaison,TUES,"2,500",FALSE
+S00586,PE014,PROMOTER,Event Operations,TUES,3500,N
+S00587,PE014,PROMOTER,Credentialing,Thursday,$3.5K,N
+S00588,PE014,PROMOTER,Credentialing,THURS,5000,N
+S00589,PE014,Production Co.,Video Engineer,Thursday,N/A,FALSE
+S00590,PE014,Production Company,camera,THURS,Included in flat fee,No
+S00591,PE014,Prod Company,camera,Thurs,N/A,No
+S00592,PE014,Prod Company,Ring Crew,Thu,N/A,No
+S00593,PE014,Production Co.,Graphics,THURS,N/A,No
+S00594,PE014,production co,Rigging,Thursday,,0
+S00595,PE014,Production Co.,Audio,Thurs,,No
+S00596,PE014,Production Co.,Stage Manager,THURS,incl.,FALSE
+S00597,PE014,production co,Graphics,Thurs,Included in flat fee,Y
+S00598,PE014,Production Company,Camera,Thursday,Included in flat fee,0
+S00599,PE014,Production Co.,Lighting,THURS,N/A,Y
+S00600,PE014,Production Company,Camera,THURS,N/A,N
+S00601,PE014,Prod Company,Lighting,Thurs,N/A,0
+S00602,PE014,Prod Company,Camera,Thursday,incl.,No
+S00603,PE014,production co,Video Engineer,Thurs,incl.,No
+S00604,PE014,Production Co.,Video Engineer,Thursday,incl.,FALSE
+S00605,PE014,production co,Video Engineer,THURS,N/A,N
+S00606,PE014,production co,Stage Manager,Thu,incl.,N
+S00607,PE014,Production Company,Lighting,Thu,,Y
+S00608,PE014,production co,Lighting,THURS,,No
+S00609,PE015,promoter staff,Matchmaking,TUES,$3.5K,0
+S00610,PE015,PROMOTER,Social Media,Tuesday,3500,No
+S00611,PE015,PROMOTER,Commission Liaison,Tuesday,"5,000",N
+S00612,PE015,PROMOTER,Social Media,Tues.,"$4,500",N
+S00613,PE015,promoter staff,social media,Tues.,"$4,500",N
+S00614,PE015,promoter staff,Event Operations,Tuesday,"4,000",N
+S00615,PE015,Promoter,PR & Media,TUES,"2,500",No
+S00616,PE015,PROMOTER,Event Operations,TUES,3500,Y
+S00617,PE015,promoter staff,Matchmaking,Tue,3500,0
+S00618,PE015,Promoter,pr & media,TUES,"4,000",FALSE
+S00619,PE015,promoter staff,Security Lead,Thurs,"$4,000",0
+S00620,PE015,Promoter,credentialing,Thu,2500,Y
+S00621,PE015,promoter staff,Ticketing,Thu,"3,500",N
+S00622,PE015,PROMOTER,Security Lead,Thursday,"5,000",1
+S00623,PE015,PROMOTER,Ticketing,Thursday,"$4,500",N
+S00624,PE015,Prod Company,Lighting,Thu,,FALSE
+S00625,PE015,Production Company,Lighting,Thurs,Included in flat fee,No
+S00626,PE015,Production Company,Audio,Thurs,Included in flat fee,FALSE
+S00627,PE015,Production Co.,Audio,Thurs,,N
+S00628,PE015,Prod Company,Video Engineer,Thursday,Included in flat fee,0
+S00629,PE015,Prod Company,Graphics,Thurs,incl.,No
+S00630,PE015,Prod Company,Audio,Thu,incl.,0
+S00631,PE015,Prod Company,video engineer,Thursday,incl.,FALSE
+S00632,PE015,Production Co.,Lighting,Thu,,FALSE
+S00633,PE015,Production Co.,video engineer,Thu,Included in flat fee,Y
+S00634,PE015,Production Co.,Ring Crew,Thu,N/A,Y
+S00635,PE015,Production Co.,Video Engineer,Thurs,Included in flat fee,0
+S00636,PE015,Prod Company,Video Engineer,THURS,incl.,0
+S00637,PE015,Prod Company,camera,Thu,Included in flat fee,N
+S00638,PE015,Prod Company,Stage Manager,Thurs,Included in flat fee,FALSE
+S00639,PE015,production co,Lighting,Thu,incl.,1
+S00640,PE015,Production Co.,Camera,Thurs,N/A,N
+S00641,PE015,Production Company,Video Engineer,Thursday,,N
+S00642,PE015,production co,Graphics,Thurs,Included in flat fee,N
+S00643,PE015,Production Company,Ring Crew,Thursday,Included in flat fee,FALSE
+S00644,PE015,production co,Audio,Thursday,,No
+S00645,PE015,Production Co.,Audio,Thurs,N/A,N
+S00646,PE015,Production Co.,Video Engineer,Thursday,Included in flat fee,N
+S00647,PE015,production co,audio,Thurs,Included in flat fee,0
+S00648,PE015,Prod Company,Camera,THURS,,FALSE
+S00649,PE015,Production Company,Graphics,Thurs,N/A,N
+S00650,PE015,Production Co.,lighting,Thu,Included in flat fee,FALSE
+S00651,PE015,Production Co.,graphics,Thursday,N/A,FALSE
+S00652,PE015,Production Company,Lighting,Thu,incl.,0
+S00653,PE015,Prod Company,lighting,Thurs,,FALSE
+S00654,PE015,Production Co.,Rigging,Thursday,,FALSE
+S00655,PE015,Prod Company,Camera,Thursday,N/A,N
+S00656,PE015,Production Company,Ring Crew,Thursday,,FALSE
+S00657,PE015,production co,Camera,THURS,incl.,0
+S00658,PE015,Production Co.,Graphics,THURS,incl.,N
+S00659,PE015,Production Company,audio,Thu,N/A,0
+S00660,PE015,Prod Company,Audio,Thursday,,FALSE
+S00661,PE016,Promoter,Event Operations,TUES,"$4,500",No
+S00662,PE016,Promoter,matchmaking,Tuesday,$5K,1
+S00663,PE016,Promoter,Event Operations,Tue,$3.5K,0
+S00664,PE016,promoter staff,Event Operations,Tuesday,3000,0
+S00665,PE016,promoter staff,PR & Media,Tuesday,"4,500",Y
+S00666,PE016,PROMOTER,Social Media,Tues.,2500,0
+S00667,PE016,PROMOTER,Event Operations,Tue,$3K,FALSE
+S00668,PE016,PROMOTER,Event Operations,TUES,$4.5K,No
+S00669,PE016,Promoter,event operations,Tue,"$4,000",Y
+S00670,PE016,Promoter,PR & Media,Tuesday,"$3,500",0
+S00671,PE016,Promoter,Credentialing,Thu,"$2,500",0
+S00672,PE016,Promoter,Credentialing,Thu,$4.5K,0
+S00673,PE016,Prod Company,video engineer,Thurs,N/A,N
+S00674,PE016,Production Co.,Video Engineer,Thursday,N/A,FALSE
+S00675,PE016,Production Company,Ring Crew,THURS,incl.,TRUE
+S00676,PE016,production co,Camera,Thurs,incl.,0
+S00677,PE016,Prod Company,Rigging,Thurs,incl.,N
+S00678,PE016,Production Co.,Video Engineer,Thu,N/A,0
+S00679,PE016,production co,Ring Crew,Thurs,incl.,TRUE
+S00680,PE016,Production Co.,Lighting,THURS,Included in flat fee,No
+S00681,PE016,Prod Company,ring crew,Thursday,,Yes
+S00682,PE016,production co,Rigging,THURS,,0
+S00683,PE016,Prod Company,Video Engineer,Thurs,Included in flat fee,Yes
+S00684,PE016,Production Company,Graphics,Thursday,,FALSE
+S00685,PE016,Production Co.,Stage Manager,Thu,,No
+S00686,PE016,Prod Company,audio,Thu,N/A,Yes
+S00687,PE016,Production Company,Ring Crew,Thurs,incl.,N
+S00688,PE016,production co,Camera,THURS,incl.,FALSE
+S00689,PE016,production co,Ring Crew,Thu,Included in flat fee,N
+S00690,PE016,Prod Company,graphics,Thursday,Included in flat fee,0
+S00691,PE016,Production Company,Graphics,THURS,,N
+S00692,PE016,Production Co.,Camera,THURS,,No
+S00693,PE016,Production Company,graphics,THURS,N/A,No
+S00694,PE016,Prod Company,Audio,Thurs,incl.,Y
+S00695,PE017,promoter staff,Social Media,Tues.,"4,000",0
+S00696,PE017,PROMOTER,PR & Media,Tuesday,"$3,000",No
+S00697,PE017,promoter staff,Commission Liaison,Tuesday,"$2,500",0
+S00698,PE017,Promoter,social media,Tue,$4.5K,0
+S00699,PE017,PROMOTER,Talent Relations,Tues.,"$3,000",0
+S00700,PE017,PROMOTER,pr & media,Tues.,2500,FALSE
+S00701,PE017,Promoter,Commission Liaison,TUES,5000,0
+S00702,PE017,promoter staff,Event Operations,Tues.,"4,500",0
+S00703,PE017,promoter staff,PR & Media,Tue,"$3,500",N
+S00704,PE017,PROMOTER,Commission Liaison,Tue,$3.5K,N
+S00705,PE017,promoter staff,Credentialing,Thu,2500,FALSE
+S00706,PE017,Production Company,Audio,THURS,N/A,0
+S00707,PE017,Prod Company,Stage Manager,THURS,N/A,0
+S00708,PE017,Production Company,Stage Manager,Thu,Included in flat fee,No
+S00709,PE017,Production Co.,Ring Crew,Thursday,N/A,No
+S00710,PE017,Prod Company,Stage Manager,Thursday,incl.,Y
+S00711,PE017,Production Co.,Camera,THURS,N/A,1
+S00712,PE017,Prod Company,Rigging,Thursday,Included in flat fee,0
+S00713,PE017,production co,Lighting,THURS,Included in flat fee,FALSE
+S00714,PE017,production co,Stage Manager,Thu,Included in flat fee,N
+S00715,PE017,production co,Graphics,Thurs,incl.,N
+S00716,PE017,production co,Ring Crew,Thu,Included in flat fee,FALSE
+S00717,PE017,Production Co.,video engineer,Thurs,,N
+S00718,PE017,Production Company,rigging,Thu,,No
+S00719,PE017,production co,Stage Manager,THURS,incl.,No
+S00720,PE017,Production Co.,graphics,Thurs,incl.,No
+S00721,PE017,Production Co.,Audio,Thursday,N/A,N
+S00722,PE017,Prod Company,Rigging,Thu,Included in flat fee,0
+S00723,PE017,Prod Company,Audio,Thursday,incl.,TRUE
+S00724,PE018,PROMOTER,Talent Relations,TUES,"4,500",TRUE
+S00725,PE018,PROMOTER,Commission Liaison,TUES,5000,No
+S00726,PE018,Promoter,Commission Liaison,Tues.,"3,500",0
+S00727,PE018,promoter staff,Commission Liaison,Tues.,"3,500",FALSE
+S00728,PE018,PROMOTER,Talent Relations,Tue,3000,FALSE
+S00729,PE018,PROMOTER,social media,TUES,"3,500",N
+S00730,PE018,promoter staff,Commission Liaison,Tue,$4.5K,N
+S00731,PE018,Promoter,PR & Media,Tue,"$3,500",FALSE
+S00732,PE018,PROMOTER,Social Media,Tues.,$5K,N
+S00733,PE018,promoter staff,talent relations,Tuesday,3500,FALSE
+S00734,PE018,promoter staff,event operations,Thursday,"$3,500",N
+S00735,PE018,PROMOTER,Security Lead,Thu,3500,No
+S00736,PE018,Promoter,Hospitality,Thurs,"3,000",N
+S00737,PE018,Production Co.,lighting,Thurs,N/A,0
+S00738,PE018,production co,Ring Crew,Thurs,incl.,N
+S00739,PE018,Production Company,camera,Thu,N/A,N
+S00740,PE018,Production Company,Ring Crew,Thursday,Included in flat fee,FALSE
+S00741,PE018,Prod Company,Lighting,Thurs,Included in flat fee,N
+S00742,PE018,Production Co.,Lighting,Thursday,Included in flat fee,No
+S00743,PE018,production co,lighting,Thurs,incl.,FALSE
+S00744,PE018,Prod Company,Stage Manager,Thu,N/A,FALSE
+S00745,PE018,production co,Stage Manager,THURS,Included in flat fee,No
+S00746,PE018,production co,Rigging,Thursday,N/A,No
+S00747,PE018,Production Company,Rigging,Thursday,,FALSE
+S00748,PE018,Production Co.,Ring Crew,Thurs,,N
+S00749,PE018,Prod Company,Video Engineer,THURS,incl.,0
+S00750,PE018,Prod Company,lighting,Thursday,incl.,FALSE
+S00751,PE018,Production Company,Rigging,Thurs,incl.,N
+S00752,PE018,Prod Company,Ring Crew,THURS,,0
+S00753,PE018,Prod Company,Lighting,Thu,N/A,FALSE
+S00754,PE018,Prod Company,Audio,THURS,,No
+S00755,PE018,Production Co.,Video Engineer,Thu,,0
+S00756,PE018,Prod Company,graphics,Thu,Included in flat fee,TRUE
+S00757,PE018,Prod Company,Camera,Thu,Included in flat fee,FALSE
+S00758,PE018,production co,Camera,Thu,Included in flat fee,No
+S00759,PE018,Production Company,Lighting,Thu,N/A,N
+S00760,PE018,Production Co.,Camera,THURS,N/A,No
+S00761,PE018,production co,Stage Manager,Thu,N/A,No
+S00762,PE018,Prod Company,Ring Crew,Thurs,incl.,No
+S00763,PE018,Prod Company,Ring Crew,Thu,,N
+S00764,PE018,Prod Company,Camera,Thu,N/A,0
+S00765,PE018,Production Company,Audio,Thurs,,FALSE
+S00766,PE018,Prod Company,video engineer,Thurs,,No
+S00767,PE018,Production Company,video engineer,Thu,N/A,FALSE
+S00768,PE018,Prod Company,Camera,Thursday,N/A,Yes
+S00769,PE018,Prod Company,Audio,THURS,Included in flat fee,Y
+S00770,PE018,Production Co.,Audio,Thu,,N
+S00771,PE018,Prod Company,stage manager,Thursday,,No
+S00772,PE018,Prod Company,Stage Manager,Thursday,Included in flat fee,N
+S00773,PE018,Prod Company,Video Engineer,Thursday,,Y
+S00774,PE018,Production Company,Stage Manager,Thu,N/A,No
+S00775,PE018,Production Company,Stage Manager,Thursday,Included in flat fee,0
+S00776,PE018,production co,Audio,THURS,N/A,FALSE
+S00777,PE019,promoter staff,talent relations,Tues.,"3,500",No
+S00778,PE019,promoter staff,pr & media,TUES,$3.5K,FALSE
+S00779,PE019,Promoter,matchmaking,Tuesday,"4,500",N
+S00780,PE019,promoter staff,Commission Liaison,Tue,5000,FALSE
+S00781,PE019,Promoter,pr & media,TUES,4000,No
+S00782,PE019,PROMOTER,Matchmaking,Tuesday,4000,No
+S00783,PE019,PROMOTER,Talent Relations,Tue,"$4,000",N
+S00784,PE019,Promoter,Matchmaking,Tues.,"$3,000",FALSE
+S00785,PE019,promoter staff,PR & Media,Tues.,"3,500",Y
+S00786,PE019,PROMOTER,Talent Relations,TUES,2500,No
+S00787,PE019,promoter staff,Credentialing,Thu,3000,FALSE
+S00788,PE019,Promoter,Ticketing,THURS,5000,No
+S00789,PE019,Promoter,Event Operations,Thurs,3500,0
+S00790,PE019,promoter staff,Security Lead,THURS,"$2,500",N
+S00791,PE019,promoter staff,Ticketing,THURS,$2.5K,0
+S00792,PE019,promoter staff,Security Lead,Thursday,"$4,500",N
+S00793,PE019,Production Company,Graphics,THURS,incl.,FALSE
+S00794,PE019,production co,audio,Thu,N/A,0
+S00795,PE019,production co,Lighting,Thu,,No
+S00796,PE019,production co,Graphics,Thursday,,FALSE
+S00797,PE019,production co,audio,Thurs,incl.,No
+S00798,PE019,Production Co.,Rigging,Thursday,N/A,1
+S00799,PE019,Prod Company,Ring Crew,THURS,,FALSE
+S00800,PE019,Production Co.,Audio,THURS,,N
+S00801,PE019,Prod Company,video engineer,Thurs,Included in flat fee,No
+S00802,PE019,production co,Audio,Thu,incl.,0
+S00803,PE019,Production Co.,Camera,Thu,N/A,N
+S00804,PE019,Prod Company,graphics,Thu,N/A,FALSE
+S00805,PE019,Prod Company,Ring Crew,Thu,,N
+S00806,PE019,production co,lighting,THURS,Included in flat fee,N
+S00807,PE019,Production Company,Camera,Thursday,,1
+S00808,PE019,Prod Company,Ring Crew,Thurs,incl.,FALSE
+S00809,PE019,Production Company,rigging,THURS,,Yes
+S00810,PE019,production co,Ring Crew,Thurs,,Yes
+S00811,PE019,production co,Audio,Thurs,Included in flat fee,0
+S00812,PE019,Production Co.,Camera,Thursday,Included in flat fee,No
+S00813,PE019,Production Company,Rigging,Thurs,Included in flat fee,N
+S00814,PE019,Production Company,Camera,THURS,,N
+S00815,PE019,Production Co.,Rigging,THURS,N/A,Y
+S00816,PE019,production co,Audio,Thursday,Included in flat fee,FALSE
+S00817,PE019,Production Co.,Rigging,Thurs,N/A,FALSE
+S00818,PE019,Production Company,Audio,Thursday,,0
+S00819,PE019,Production Co.,lighting,Thurs,Included in flat fee,No
+S00820,PE019,Production Co.,Audio,THURS,Included in flat fee,N
+S00821,PE019,Production Co.,video engineer,Thu,,0
+S00822,PE019,Production Company,Stage Manager,Thurs,,N
+S00823,PE019,Prod Company,Camera,THURS,Included in flat fee,No
+S00824,PE019,Prod Company,Graphics,THURS,incl.,FALSE
+S00825,PE019,Prod Company,Ring Crew,Thursday,Included in flat fee,N
+S00826,PE019,production co,Video Engineer,Thu,Included in flat fee,0
+S00827,PE019,Prod Company,Graphics,Thurs,N/A,FALSE
+S00828,PE019,Production Company,Camera,Thurs,Included in flat fee,FALSE
+S00829,PE019,Production Company,rigging,Thurs,N/A,0
+S00830,PE020,Promoter,Social Media,Tuesday,$5K,Yes
+S00831,PE020,PROMOTER,Social Media,Tuesday,"3,500",No
+S00832,PE020,Promoter,talent relations,Tue,$3.5K,N
+S00833,PE020,PROMOTER,Talent Relations,Tuesday,4500,No
+S00834,PE020,promoter staff,social media,Tues.,$4K,No
+S00835,PE020,promoter staff,Matchmaking,Tuesday,3000,No
+S00836,PE020,Promoter,Social Media,Tues.,2500,No
+S00837,PE020,PROMOTER,PR & Media,Tue,$3.5K,No
+S00838,PE020,promoter staff,Talent Relations,TUES,$3.5K,No
+S00839,PE020,PROMOTER,social media,Tues.,"$3,500",0
+S00840,PE020,Promoter,Ticketing,Thursday,"$3,000",FALSE
+S00841,PE020,Prod Company,lighting,Thursday,N/A,FALSE
+S00842,PE020,Prod Company,Stage Manager,Thursday,incl.,Y
+S00843,PE020,Production Co.,Camera,THURS,Included in flat fee,N
+S00844,PE020,production co,Graphics,Thursday,,N
+S00845,PE020,production co,Ring Crew,Thurs,,No
+S00846,PE020,Production Company,Video Engineer,Thurs,incl.,No
+S00847,PE020,production co,Audio,Thu,incl.,TRUE
+S00848,PE020,Production Company,Ring Crew,THURS,incl.,0
+S00849,PE020,production co,Ring Crew,THURS,incl.,FALSE
+S00850,PE020,Prod Company,video engineer,Thurs,N/A,Yes
+S00851,PE020,Production Co.,Rigging,THURS,incl.,N
+S00852,PE020,Prod Company,Camera,THURS,incl.,N
+S00853,PE020,Prod Company,Ring Crew,Thurs,,No
+S00854,PE020,Production Company,Graphics,Thursday,incl.,Y
+S00855,PE020,Prod Company,Lighting,Thu,incl.,N
+S00856,PE020,Production Company,Rigging,Thurs,incl.,0
+S00857,PE020,Production Company,Lighting,THURS,,0
+S00858,PE020,Production Company,Audio,Thu,,0
+S00859,PE020,Production Co.,Rigging,Thurs,N/A,FALSE
+S00860,PE020,Prod Company,video engineer,Thu,incl.,FALSE
+S00861,PE020,Production Company,Audio,THURS,Included in flat fee,1
+S00862,PE020,Prod Company,Graphics,Thu,incl.,No
+S00863,PE021,PROMOTER,commission liaison,Tuesday,$4.5K,N
+S00864,PE021,promoter staff,Social Media,Tues.,4000,0
+S00865,PE021,Promoter,Matchmaking,Tue,"$3,000",N
+S00866,PE021,Promoter,pr & media,Tues.,2500,FALSE
+S00867,PE021,promoter staff,event operations,Tue,"3,000",N
+S00868,PE021,PROMOTER,Commission Liaison,Tuesday,$4K,No
+S00869,PE021,promoter staff,Matchmaking,Tues.,"$4,000",No
+S00870,PE021,Promoter,Commission Liaison,Tuesday,$5K,N
+S00871,PE021,PROMOTER,Social Media,Tuesday,"5,000",N
+S00872,PE021,Promoter,Talent Relations,Tue,"$3,500",N
+S00873,PE021,PROMOTER,Hospitality,Thurs,"4,500",N
+S00874,PE021,Promoter,Ticketing,Thu,$4.5K,FALSE
+S00875,PE021,Production Co.,Audio,Thu,incl.,0
+S00876,PE021,Production Company,rigging,Thurs,,N
+S00877,PE021,production co,Lighting,Thurs,Included in flat fee,N
+S00878,PE021,Prod Company,rigging,THURS,Included in flat fee,0
+S00879,PE021,Production Co.,stage manager,Thursday,incl.,No
+S00880,PE021,production co,Stage Manager,Thursday,N/A,0
+S00881,PE021,production co,Rigging,Thu,incl.,0
+S00882,PE021,production co,Camera,Thursday,incl.,FALSE
+S00883,PE021,Production Co.,ring crew,Thurs,,No
+S00884,PE021,production co,Video Engineer,THURS,incl.,1
+S00885,PE021,Production Co.,Stage Manager,THURS,,0
+S00886,PE021,Production Company,Ring Crew,Thurs,,FALSE
+S00887,PE021,Production Co.,audio,Thurs,Included in flat fee,FALSE
+S00888,PE021,production co,Video Engineer,THURS,Included in flat fee,FALSE
+S00889,PE021,production co,Camera,Thurs,Included in flat fee,No
+S00890,PE021,production co,Audio,THURS,Included in flat fee,No
+S00891,PE021,Production Co.,Camera,Thursday,Included in flat fee,No
+S00892,PE021,Prod Company,Rigging,THURS,N/A,0
+S00893,PE021,Production Co.,Video Engineer,Thu,Included in flat fee,0
+S00894,PE022,promoter staff,Social Media,Tue,4000,No
+S00895,PE022,Promoter,Matchmaking,Tuesday,"$2,500",FALSE
+S00896,PE022,Promoter,Social Media,Tues.,$5K,0
+S00897,PE022,PROMOTER,Social Media,TUES,$3K,N
+S00898,PE022,promoter staff,Matchmaking,Tues.,"4,500",TRUE
+S00899,PE022,PROMOTER,Event Operations,Tues.,"$5,000",FALSE
+S00900,PE022,Promoter,Event Operations,Tue,"$3,500",No
+S00901,PE022,PROMOTER,PR & Media,Tues.,"$4,500",N
+S00902,PE022,promoter staff,matchmaking,Tues.,"$3,500",FALSE
+S00903,PE022,Promoter,Talent Relations,TUES,"4,000",N
+S00904,PE022,PROMOTER,Event Operations,Thursday,"$3,500",1
+S00905,PE022,Promoter,Credentialing,THURS,$4.5K,FALSE
+S00906,PE022,PROMOTER,Ticketing,Thu,$4.5K,N
+S00907,PE022,Production Co.,Camera,Thu,,No
+S00908,PE022,production co,Graphics,Thu,,0
+S00909,PE022,Production Company,Ring Crew,Thursday,N/A,No
+S00910,PE022,production co,Camera,Thu,,No
+S00911,PE022,production co,Rigging,Thu,Included in flat fee,N
+S00912,PE022,Production Co.,Graphics,Thursday,N/A,FALSE
+S00913,PE022,Production Co.,Stage Manager,Thurs,Included in flat fee,FALSE
+S00914,PE022,production co,rigging,Thurs,,No
+S00915,PE022,Prod Company,graphics,Thursday,N/A,0
+S00916,PE022,Production Co.,Ring Crew,Thurs,N/A,N
+S00917,PE022,production co,Stage Manager,THURS,incl.,0
+S00918,PE022,Prod Company,Audio,Thu,,No
+S00919,PE022,Prod Company,ring crew,Thursday,incl.,1
+S00920,PE022,Production Co.,Graphics,Thursday,,0
+S00921,PE022,Production Co.,Stage Manager,THURS,N/A,No
+S00922,PE022,Production Co.,graphics,THURS,Included in flat fee,No
+S00923,PE022,Prod Company,Ring Crew,Thursday,N/A,FALSE
+S00924,PE022,production co,Audio,THURS,incl.,0
+S00925,PE022,production co,Rigging,Thu,Included in flat fee,N
+S00926,PE022,Prod Company,Camera,Thursday,N/A,No
+S00927,PE022,production co,Stage Manager,Thu,,0
+S00928,PE023,promoter staff,PR & Media,Tue,2500,No
+S00929,PE023,promoter staff,Social Media,Tue,"$4,000",No
+S00930,PE023,Promoter,Commission Liaison,Tuesday,3500,N
+S00931,PE023,promoter staff,talent relations,TUES,$2.5K,FALSE
+S00932,PE023,promoter staff,commission liaison,Tue,2500,No
+S00933,PE023,PROMOTER,Event Operations,Tue,"$5,000",No
+S00934,PE023,promoter staff,PR & Media,Tue,3000,0
+S00935,PE023,promoter staff,PR & Media,TUES,$3.5K,FALSE
+S00936,PE023,PROMOTER,Talent Relations,Tuesday,5000,TRUE
+S00937,PE023,promoter staff,Social Media,Tue,"3,000",No
+S00938,PE023,PROMOTER,Event Operations,Thu,"$5,000",No
+S00939,PE023,promoter staff,Hospitality,THURS,$3K,FALSE
+S00940,PE023,production co,Lighting,Thurs,Included in flat fee,N
+S00941,PE023,production co,stage manager,Thu,incl.,No
+S00942,PE023,Production Company,Lighting,Thu,incl.,No
+S00943,PE023,Production Co.,Stage Manager,Thursday,N/A,FALSE
+S00944,PE023,production co,Camera,Thursday,,N
+S00945,PE023,Prod Company,audio,THURS,incl.,0
+S00946,PE023,production co,Stage Manager,Thu,incl.,No
+S00947,PE023,production co,Lighting,Thurs,N/A,N
+S00948,PE023,Production Company,Audio,Thursday,Included in flat fee,0
+S00949,PE023,Prod Company,Stage Manager,Thursday,,1
+S00950,PE023,production co,ring crew,THURS,incl.,FALSE
+S00951,PE023,Prod Company,camera,Thurs,N/A,No
+S00952,PE023,Prod Company,Graphics,THURS,,No
+S00953,PE023,production co,rigging,Thursday,,N
+S00954,PE023,Production Co.,Rigging,Thursday,incl.,FALSE
+S00955,PE023,production co,Video Engineer,Thurs,Included in flat fee,N
+S00956,PE023,Production Co.,Video Engineer,THURS,N/A,FALSE
+S00957,PE023,Production Co.,Lighting,Thursday,Included in flat fee,TRUE
+S00958,PE023,Prod Company,Audio,Thurs,Included in flat fee,0
+S00959,PE023,Prod Company,Rigging,Thursday,N/A,0
+S00960,PE023,Prod Company,Video Engineer,Thu,,No
+S00961,PE023,Prod Company,Audio,Thu,,N
+S00962,PE024,PROMOTER,Talent Relations,Tuesday,"5,000",FALSE
+S00963,PE024,PROMOTER,PR & Media,Tues.,"$5,000",FALSE
+S00964,PE024,Promoter,Social Media,Tues.,3500,FALSE
+S00965,PE024,Promoter,Social Media,TUES,"3,500",0
+S00966,PE024,Promoter,Talent Relations,Tuesday,"2,500",N
+S00967,PE024,Promoter,Event Operations,Tuesday,"4,000",N
+S00968,PE024,Promoter,commission liaison,Tue,"$4,500",0
+S00969,PE024,promoter staff,Talent Relations,Tuesday,$3.5K,No
+S00970,PE024,PROMOTER,Event Operations,TUES,$4.5K,0
+S00971,PE024,PROMOTER,Commission Liaison,Tue,$3.5K,No
+S00972,PE024,Promoter,credentialing,THURS,"$4,500",FALSE
+S00973,PE024,promoter staff,Credentialing,Thu,"$3,000",N
+S00974,PE024,PROMOTER,Credentialing,Thursday,"4,500",FALSE
+S00975,PE024,PROMOTER,Security Lead,THURS,"$5,000",Yes
+S00976,PE024,Promoter,Ticketing,Thurs,4500,TRUE
+S00977,PE024,production co,ring crew,Thu,incl.,FALSE
+S00978,PE024,Production Company,Rigging,Thu,N/A,0
+S00979,PE024,production co,Lighting,Thursday,incl.,1
+S00980,PE024,Production Co.,lighting,Thu,N/A,0
+S00981,PE024,Production Co.,Ring Crew,Thurs,incl.,N
+S00982,PE024,Production Co.,Rigging,THURS,incl.,N
+S00983,PE024,Production Company,Graphics,Thu,N/A,FALSE
+S00984,PE024,Production Company,stage manager,THURS,,N
+S00985,PE024,Prod Company,Graphics,Thurs,N/A,Y
+S00986,PE024,production co,Rigging,Thursday,Included in flat fee,N
+S00987,PE024,Production Company,Stage Manager,Thu,Included in flat fee,0
+S00988,PE024,Production Co.,Ring Crew,Thurs,incl.,Yes
+S00989,PE024,Production Company,Ring Crew,THURS,,N
+S00990,PE024,Prod Company,ring crew,Thursday,N/A,0
+S00991,PE024,Production Co.,audio,Thurs,incl.,FALSE
+S00992,PE024,Production Co.,Lighting,Thurs,,No
+S00993,PE024,production co,lighting,Thurs,incl.,0
+S00994,PE024,production co,Rigging,THURS,N/A,FALSE
+S00995,PE024,production co,Rigging,Thursday,incl.,No
+S00996,PE024,Production Company,Lighting,Thurs,Included in flat fee,1
+S00997,PE024,Production Co.,Stage Manager,Thurs,Included in flat fee,N
+S00998,PE024,production co,video engineer,Thu,N/A,No
+S00999,PE024,Prod Company,Audio,Thurs,,FALSE
+S01000,PE024,production co,Ring Crew,Thu,N/A,N
+S01001,PE024,Production Company,Graphics,Thursday,Included in flat fee,No
+S01002,PE024,Production Company,Lighting,Thurs,,1
+S01003,PE024,Prod Company,Rigging,Thursday,incl.,0
+S01004,PE024,Production Company,rigging,Thurs,N/A,0
+S01005,PE024,Production Co.,Lighting,THURS,,0
+S01006,PE024,production co,Camera,Thurs,N/A,FALSE
+S01007,PE024,Production Company,Audio,Thurs,N/A,N
+S01008,PE024,Prod Company,Stage Manager,Thurs,,No
+S01009,PE024,production co,Lighting,THURS,,N
+S01010,PE024,Production Company,Ring Crew,THURS,incl.,N
+S01011,PE024,Prod Company,Camera,Thursday,Included in flat fee,FALSE
+S01012,PE024,production co,Stage Manager,Thursday,,FALSE
+S01013,PE024,Prod Company,Video Engineer,Thursday,,1
+S01014,PE024,Production Co.,Lighting,THURS,N/A,FALSE
+S01015,PE024,Production Company,graphics,Thursday,incl.,0
+S01016,PE024,Prod Company,stage manager,Thursday,,FALSE
+S01017,PE024,Production Co.,Camera,Thu,Included in flat fee,No
+S01018,PE025,promoter staff,Matchmaking,TUES,5000,No
+S01019,PE025,promoter staff,Social Media,Tue,5000,N
+S01020,PE025,PROMOTER,Matchmaking,Tues.,$3K,No
+S01021,PE025,promoter staff,Commission Liaison,Tuesday,"3,500",FALSE
+S01022,PE025,promoter staff,Talent Relations,Tue,"$4,000",N
+S01023,PE025,promoter staff,Talent Relations,TUES,"$3,000",0
+S01024,PE025,Promoter,Commission Liaison,Tues.,$3.5K,No
+S01025,PE025,Promoter,Event Operations,Tuesday,"3,000",No
+S01026,PE025,promoter staff,Talent Relations,Tue,"$5,000",N
+S01027,PE025,Promoter,Commission Liaison,Tuesday,3000,N
+S01028,PE025,PROMOTER,Credentialing,THURS,3500,0
+S01029,PE025,Production Co.,rigging,Thu,incl.,0
+S01030,PE025,Prod Company,Graphics,Thu,N/A,No
+S01031,PE025,Production Company,Camera,Thurs,,FALSE
+S01032,PE025,Production Co.,Camera,Thurs,,FALSE
+S01033,PE025,production co,lighting,THURS,incl.,N
+S01034,PE025,production co,ring crew,Thurs,Included in flat fee,TRUE
+S01035,PE025,Prod Company,Ring Crew,THURS,N/A,No
+S01036,PE025,Production Company,Camera,Thu,incl.,No
+S01037,PE025,Production Co.,Stage Manager,Thu,,N
+S01038,PE025,production co,Camera,THURS,N/A,No
+S01039,PE025,Production Company,Camera,Thu,Included in flat fee,No
+S01040,PE025,Production Company,Camera,Thu,incl.,No
+S01041,PE025,Production Co.,ring crew,Thursday,,N
+S01042,PE025,production co,camera,THURS,incl.,N
+S01043,PE025,Production Co.,ring crew,Thu,,FALSE
+S01044,PE025,Production Company,Rigging,Thurs,,FALSE
+S01045,PE025,Production Co.,Graphics,Thursday,,N
+S01046,PE025,Production Co.,Audio,Thu,incl.,No
+S01047,PE025,Production Company,Audio,THURS,N/A,No
+S01048,PE026,PROMOTER,matchmaking,Tuesday,"3,000",FALSE
+S01049,PE026,PROMOTER,commission liaison,Tue,"5,000",0
+S01050,PE026,PROMOTER,Event Operations,Tue,3500,Yes
+S01051,PE026,PROMOTER,Social Media,TUES,"3,000",No
+S01052,PE026,promoter staff,Talent Relations,Tues.,3500,FALSE
+S01053,PE026,PROMOTER,Matchmaking,TUES,"3,000",FALSE
+S01054,PE026,PROMOTER,Commission Liaison,Tues.,2500,No
+S01055,PE026,promoter staff,matchmaking,Tues.,"5,000",Y
+S01056,PE026,PROMOTER,Matchmaking,TUES,$5K,0
+S01057,PE026,promoter staff,pr & media,Tuesday,4000,No
+S01058,PE026,PROMOTER,Ticketing,Thu,"3,000",N
+S01059,PE026,promoter staff,Event Operations,Thursday,"$2,500",1
+S01060,PE026,PROMOTER,credentialing,Thu,"3,000",FALSE
+S01061,PE026,production co,Graphics,Thurs,,N
+S01062,PE026,Production Company,Audio,Thu,N/A,N
+S01063,PE026,Production Co.,lighting,Thurs,N/A,FALSE
+S01064,PE026,Production Company,stage manager,THURS,N/A,0
+S01065,PE026,Prod Company,camera,THURS,N/A,FALSE
+S01066,PE026,Prod Company,Ring Crew,THURS,N/A,TRUE
+S01067,PE026,Production Co.,Graphics,THURS,N/A,No
+S01068,PE026,production co,Rigging,THURS,Included in flat fee,N
+S01069,PE026,production co,rigging,Thursday,incl.,0
+S01070,PE026,production co,Rigging,Thursday,Included in flat fee,FALSE
+S01071,PE026,Production Company,Rigging,Thurs,,0
+S01072,PE026,Production Company,Rigging,Thursday,incl.,0
+S01073,PE026,Production Co.,ring crew,THURS,N/A,N
+S01074,PE026,Production Company,Video Engineer,Thursday,N/A,N
+S01075,PE026,Production Company,Lighting,Thursday,incl.,No
+S01076,PE026,Production Co.,Graphics,Thurs,incl.,No
+S01077,PE026,Production Company,Stage Manager,Thurs,,FALSE
+S01078,PE026,production co,lighting,Thurs,incl.,Y
+S01079,PE026,production co,Ring Crew,Thu,Included in flat fee,Yes
+S01080,PE026,Production Co.,camera,Thursday,,No
+S01081,PE026,Production Co.,Video Engineer,Thursday,N/A,FALSE
+S01082,PE027,Promoter,social media,Tuesday,3500,No
+S01083,PE027,PROMOTER,event operations,Tuesday,"5,000",Yes
+S01084,PE027,promoter staff,Matchmaking,Tue,"$2,500",FALSE
+S01085,PE027,PROMOTER,Social Media,TUES,"5,000",N
+S01086,PE027,Promoter,Matchmaking,Tuesday,4500,N
+S01087,PE027,PROMOTER,PR & Media,Tuesday,4000,0
+S01088,PE027,promoter staff,Event Operations,Tue,3500,FALSE
+S01089,PE027,Promoter,pr & media,Tuesday,$3K,No
+S01090,PE027,promoter staff,Event Operations,Tue,"3,500",0
+S01091,PE027,PROMOTER,talent relations,Tue,"3,500",1
+S01092,PE027,Promoter,Event Operations,Thurs,$2.5K,0
+S01093,PE027,PROMOTER,Event Operations,THURS,$3K,0
+S01094,PE027,PROMOTER,Event Operations,Thurs,"$2,500",N
+S01095,PE027,promoter staff,Security Lead,Thurs,3500,No
+S01096,PE027,promoter staff,Ticketing,Thursday,4500,FALSE
+S01097,PE027,promoter staff,credentialing,Thursday,2500,N
+S01098,PE027,Production Company,Stage Manager,THURS,incl.,FALSE
+S01099,PE027,Production Co.,Audio,Thursday,incl.,N
+S01100,PE027,Prod Company,Rigging,Thu,incl.,Y
+S01101,PE027,Prod Company,Ring Crew,Thurs,,Y
+S01102,PE027,Production Co.,Stage Manager,Thu,N/A,TRUE
+S01103,PE027,Production Co.,Video Engineer,Thurs,N/A,FALSE
+S01104,PE027,Prod Company,Rigging,Thu,N/A,FALSE
+S01105,PE027,Production Co.,Video Engineer,Thu,N/A,Yes
+S01106,PE027,production co,Audio,Thu,,N
+S01107,PE027,Production Company,video engineer,Thu,incl.,0
+S01108,PE027,Production Co.,Ring Crew,Thursday,incl.,N
+S01109,PE027,Production Co.,Camera,Thursday,,N
+S01110,PE027,Production Company,rigging,Thurs,N/A,No
+S01111,PE027,Production Co.,camera,THURS,,0
+S01112,PE027,Prod Company,Graphics,THURS,Included in flat fee,0
+S01113,PE027,production co,Ring Crew,Thursday,Included in flat fee,1
+S01114,PE027,Production Company,Lighting,Thurs,Included in flat fee,FALSE
+S01115,PE027,production co,Stage Manager,THURS,Included in flat fee,No
+S01116,PE027,Production Co.,Graphics,Thursday,Included in flat fee,No
+S01117,PE027,Prod Company,Audio,Thurs,incl.,0
+S01118,PE027,Prod Company,Graphics,Thursday,,FALSE
+S01119,PE027,production co,Ring Crew,Thurs,Included in flat fee,No
+S01120,PE027,Production Co.,Lighting,Thurs,incl.,0
+S01121,PE027,Prod Company,Video Engineer,Thu,incl.,0
+S01122,PE027,Production Co.,Video Engineer,Thurs,N/A,FALSE
+S01123,PE027,Production Company,video engineer,Thu,Included in flat fee,N
+S01124,PE027,Production Company,Stage Manager,Thu,N/A,Y
+S01125,PE027,Production Co.,Camera,THURS,,FALSE
+S01126,PE027,Production Co.,camera,Thurs,Included in flat fee,TRUE
+S01127,PE027,Production Company,Lighting,Thurs,,No
+S01128,PE027,production co,video engineer,THURS,,No
+S01129,PE027,Prod Company,lighting,Thu,incl.,FALSE
+S01130,PE027,Production Co.,Audio,Thursday,Included in flat fee,N
+S01131,PE027,Production Co.,graphics,Thu,Included in flat fee,No
+S01132,PE027,Production Company,Lighting,Thurs,Included in flat fee,No
+S01133,PE027,Production Co.,Camera,Thursday,Included in flat fee,0
+S01134,PE028,Promoter,Social Media,TUES,3000,FALSE
+S01135,PE028,promoter staff,talent relations,TUES,"$2,500",N
+S01136,PE028,PROMOTER,Social Media,TUES,3500,N
+S01137,PE028,PROMOTER,talent relations,TUES,"$2,500",N
+S01138,PE028,Promoter,Commission Liaison,Tue,"$3,500",N
+S01139,PE028,PROMOTER,PR & Media,Tuesday,$2.5K,0
+S01140,PE028,promoter staff,Commission Liaison,TUES,5000,FALSE
+S01141,PE028,PROMOTER,Matchmaking,Tue,"3,500",FALSE
+S01142,PE028,PROMOTER,talent relations,Tuesday,3500,TRUE
+S01143,PE028,PROMOTER,Event Operations,Tue,$5K,Y
+S01144,PE028,promoter staff,hospitality,Thurs,"$5,000",TRUE
+S01145,PE028,PROMOTER,Credentialing,Thurs,$4.5K,N
+S01146,PE028,PROMOTER,Credentialing,Thu,"4,500",No
+S01147,PE028,Production Company,stage manager,THURS,,FALSE
+S01148,PE028,Production Company,lighting,THURS,,No
+S01149,PE028,Prod Company,graphics,Thurs,Included in flat fee,No
+S01150,PE028,production co,Graphics,Thurs,,Yes
+S01151,PE028,Production Company,Video Engineer,Thurs,,N
+S01152,PE028,Prod Company,Camera,Thu,N/A,N
+S01153,PE028,Prod Company,Graphics,Thurs,Included in flat fee,0
+S01154,PE028,Production Company,camera,Thu,N/A,N
+S01155,PE028,Prod Company,Stage Manager,THURS,,FALSE
+S01156,PE028,Production Company,Stage Manager,Thu,Included in flat fee,FALSE
+S01157,PE028,Prod Company,audio,Thu,incl.,N
+S01158,PE028,Production Co.,lighting,Thu,,FALSE
+S01159,PE028,Prod Company,graphics,Thursday,,N
+S01160,PE028,Production Company,Lighting,Thu,incl.,0
+S01161,PE028,production co,Graphics,Thurs,Included in flat fee,N
+S01162,PE028,Production Co.,camera,Thurs,incl.,0
+S01163,PE028,Production Co.,Audio,Thursday,Included in flat fee,TRUE
+S01164,PE028,Prod Company,Rigging,Thursday,Included in flat fee,0
+S01165,PE028,production co,Ring Crew,Thursday,Included in flat fee,1
+S01166,PE028,Prod Company,audio,Thu,Included in flat fee,0
+S01167,PE028,Production Co.,Camera,THURS,,0
+S01168,PE029,PROMOTER,Event Operations,Tuesday,$4K,N
+S01169,PE029,promoter staff,Event Operations,Tuesday,$4K,FALSE
+S01170,PE029,promoter staff,Talent Relations,Tues.,"$3,500",No
+S01171,PE029,PROMOTER,Commission Liaison,TUES,$2.5K,N
+S01172,PE029,promoter staff,Social Media,Tuesday,"5,000",TRUE
+S01173,PE029,Promoter,Event Operations,Tues.,4000,Y
+S01174,PE029,promoter staff,Event Operations,TUES,$4K,Y
+S01175,PE029,PROMOTER,Commission Liaison,Tues.,"2,500",0
+S01176,PE029,PROMOTER,Social Media,Tuesday,"3,500",FALSE
+S01177,PE029,PROMOTER,matchmaking,Tuesday,$4.5K,No
+S01178,PE029,Promoter,ticketing,Thursday,"$4,000",No
+S01179,PE029,Promoter,Event Operations,Thursday,4000,0
+S01180,PE029,Production Co.,Audio,Thu,incl.,No
+S01181,PE029,Production Co.,ring crew,Thu,N/A,N
+S01182,PE029,Production Co.,graphics,Thurs,,N
+S01183,PE029,Production Company,Graphics,Thurs,,N
+S01184,PE029,Production Company,Ring Crew,Thu,incl.,FALSE
+S01185,PE029,Production Company,Ring Crew,Thurs,Included in flat fee,TRUE
+S01186,PE029,production co,Lighting,Thursday,N/A,0
+S01187,PE029,Prod Company,Camera,Thursday,Included in flat fee,TRUE
+S01188,PE029,Prod Company,Ring Crew,THURS,Included in flat fee,N
+S01189,PE029,Production Co.,Camera,Thurs,,N
+S01190,PE029,Production Co.,Stage Manager,Thurs,N/A,N
+S01191,PE029,Production Company,Graphics,Thu,N/A,No
+S01192,PE029,Prod Company,Stage Manager,THURS,,No
+S01193,PE029,Production Company,Lighting,Thurs,N/A,N
+S01194,PE029,Production Company,Graphics,Thu,N/A,0
+S01195,PE029,Prod Company,graphics,THURS,,Y
+S01196,PE029,Production Co.,lighting,Thursday,N/A,N
+S01197,PE029,Production Co.,Lighting,THURS,N/A,FALSE
+S01198,PE030,promoter staff,Commission Liaison,Tue,$4K,FALSE
+S01199,PE030,Promoter,Matchmaking,Tues.,"3,000",0
+S01200,PE030,promoter staff,Social Media,TUES,4000,TRUE
+S01201,PE030,Promoter,Event Operations,TUES,"3,500",TRUE
+S01202,PE030,Promoter,talent relations,Tues.,"3,000",N
+S01203,PE030,Promoter,Social Media,Tuesday,4000,0
+S01204,PE030,promoter staff,Talent Relations,Tuesday,"$4,500",FALSE
+S01205,PE030,PROMOTER,Commission Liaison,TUES,"5,000",0
+S01206,PE030,promoter staff,Matchmaking,Tuesday,"2,500",FALSE
+S01207,PE030,Promoter,Matchmaking,Tuesday,"2,500",N
+S01208,PE030,Promoter,Credentialing,THURS,"5,000",FALSE
+S01209,PE030,promoter staff,Security Lead,Thurs,3500,N
+S01210,PE030,Prod Company,Stage Manager,Thurs,incl.,0
+S01211,PE030,Production Co.,Video Engineer,Thursday,Included in flat fee,0
+S01212,PE030,Production Company,Graphics,THURS,Included in flat fee,FALSE
+S01213,PE030,production co,Stage Manager,Thu,,0
+S01214,PE030,Prod Company,Rigging,Thu,,0
+S01215,PE030,Production Co.,Rigging,Thu,Included in flat fee,0
+S01216,PE030,production co,Stage Manager,Thu,,No
+S01217,PE030,Prod Company,Camera,Thurs,N/A,N
+S01218,PE030,production co,stage manager,Thu,incl.,Yes
+S01219,PE030,Prod Company,Ring Crew,Thursday,incl.,FALSE
+S01220,PE030,Production Company,Ring Crew,Thurs,incl.,0
+S01221,PE030,Production Co.,Rigging,THURS,N/A,TRUE
+S01222,PE030,Production Company,Video Engineer,Thursday,incl.,FALSE
+S01223,PE030,production co,Stage Manager,Thu,N/A,N
+S01224,PE030,production co,Audio,Thurs,incl.,0
+S01225,PE030,Prod Company,graphics,Thursday,Included in flat fee,No
+S01226,PE030,Production Company,Rigging,Thurs,incl.,No
+S01227,PE030,production co,ring crew,Thurs,Included in flat fee,No
+S01228,PE030,Production Co.,graphics,Thu,,N
+S01229,PE030,Prod Company,Video Engineer,Thu,incl.,FALSE
+S01230,PE030,Production Co.,Rigging,Thursday,,Yes
+S01231,PE031,promoter staff,PR & Media,Tue,3500,1
+S01232,PE031,PROMOTER,PR & Media,Tuesday,"3,500",No
+S01233,PE031,promoter staff,Commission Liaison,Tues.,"$4,000",FALSE
+S01234,PE031,promoter staff,Event Operations,TUES,$4.5K,0
+S01235,PE031,Promoter,talent relations,Tuesday,"$4,500",0
+S01236,PE031,promoter staff,Event Operations,Tuesday,$3K,No
+S01237,PE031,Promoter,Social Media,Tue,$3K,TRUE
+S01238,PE031,PROMOTER,Talent Relations,Tue,$2.5K,Yes
+S01239,PE031,PROMOTER,talent relations,Tuesday,"5,000",Y
+S01240,PE031,Promoter,pr & media,TUES,3000,0
+S01241,PE031,promoter staff,Credentialing,Thursday,2500,N
+S01242,PE031,production co,lighting,THURS,,N
+S01243,PE031,Prod Company,Graphics,Thu,incl.,N
+S01244,PE031,Prod Company,Camera,THURS,N/A,No
+S01245,PE031,Production Company,Audio,Thu,Included in flat fee,No
+S01246,PE031,production co,Stage Manager,Thurs,Included in flat fee,FALSE
+S01247,PE031,production co,camera,THURS,incl.,No
+S01248,PE031,Production Co.,Ring Crew,Thurs,,0
+S01249,PE031,Prod Company,stage manager,THURS,N/A,No
+S01250,PE031,production co,Ring Crew,THURS,,FALSE
+S01251,PE031,production co,graphics,THURS,N/A,N
+S01252,PE031,production co,Video Engineer,Thursday,incl.,No
+S01253,PE031,Production Company,Rigging,THURS,N/A,0
+S01254,PE031,Production Co.,ring crew,Thu,incl.,Y
+S01255,PE031,Production Co.,camera,THURS,Included in flat fee,0
+S01256,PE031,production co,Video Engineer,Thurs,,FALSE
+S01257,PE031,Prod Company,Lighting,Thu,,1
+S01258,PE031,Production Co.,Rigging,Thu,N/A,N
+S01259,PE031,production co,audio,Thu,Included in flat fee,No
+S01260,PE031,Prod Company,Ring Crew,Thurs,incl.,0
+S01261,PE031,production co,Audio,Thursday,N/A,Yes
+S01262,PE031,Production Co.,Graphics,Thursday,,FALSE
+S01263,PE031,production co,Stage Manager,Thursday,Included in flat fee,FALSE
+S01264,PE032,PROMOTER,Social Media,Tuesday,"$3,500",Y
+S01265,PE032,Promoter,Event Operations,Tues.,"$4,000",TRUE
+S01266,PE032,promoter staff,Event Operations,Tues.,2500,Yes
+S01267,PE032,PROMOTER,Event Operations,Tuesday,$5K,N
+S01268,PE032,Promoter,Social Media,Tues.,$3.5K,N
+S01269,PE032,PROMOTER,Matchmaking,TUES,3000,TRUE
+S01270,PE032,PROMOTER,Talent Relations,Tue,$4K,1
+S01271,PE032,PROMOTER,Social Media,Tues.,5000,0
+S01272,PE032,PROMOTER,Social Media,Tuesday,"$4,500",N
+S01273,PE032,PROMOTER,talent relations,Tue,5000,No
+S01274,PE032,Promoter,Credentialing,Thu,3500,FALSE
+S01275,PE032,Prod Company,Video Engineer,Thu,,FALSE
+S01276,PE032,Production Company,Lighting,THURS,Included in flat fee,N
+S01277,PE032,Production Co.,Lighting,Thursday,incl.,0
+S01278,PE032,Production Company,Stage Manager,Thursday,N/A,0
+S01279,PE032,production co,Video Engineer,Thursday,incl.,FALSE
+S01280,PE032,Production Co.,Video Engineer,Thurs,Included in flat fee,N
+S01281,PE032,Prod Company,Graphics,THURS,,N
+S01282,PE032,Production Company,Rigging,Thurs,,TRUE
+S01283,PE032,Prod Company,Stage Manager,THURS,,0
+S01284,PE032,Production Company,lighting,Thu,incl.,No
+S01285,PE032,production co,camera,Thurs,,No
+S01286,PE032,Prod Company,Rigging,Thursday,,No
+S01287,PE032,Production Company,Camera,Thurs,incl.,No
+S01288,PE032,Prod Company,ring crew,Thu,incl.,No
+S01289,PE032,Production Company,Stage Manager,THURS,N/A,FALSE
+S01290,PE032,Production Company,Rigging,Thurs,N/A,FALSE
+S01291,PE032,Production Co.,Audio,Thurs,N/A,0
+S01292,PE032,Production Company,stage manager,Thu,N/A,No
+S01293,PE032,Production Co.,Rigging,THURS,incl.,Y
+S01294,PE032,Production Co.,Graphics,THURS,,N
+S01295,PE033,PROMOTER,event operations,TUES,"4,500",0
+S01296,PE033,Promoter,Social Media,Tuesday,4500,N
+S01297,PE033,promoter staff,Matchmaking,Tues.,$5K,No
+S01298,PE033,promoter staff,commission liaison,Tuesday,"$3,000",0
+S01299,PE033,promoter staff,commission liaison,Tue,"$3,500",N
+S01300,PE033,promoter staff,pr & media,Tues.,3000,Yes
+S01301,PE033,Promoter,Social Media,Tues.,"4,000",FALSE
+S01302,PE033,PROMOTER,Event Operations,Tue,"$3,500",No
+S01303,PE033,PROMOTER,pr & media,Tue,"$5,000",No
+S01304,PE033,PROMOTER,Event Operations,Tues.,3500,FALSE
+S01305,PE033,PROMOTER,Hospitality,Thu,2500,TRUE
+S01306,PE033,Promoter,Credentialing,Thu,3000,Y
+S01307,PE033,promoter staff,Event Operations,THURS,"$4,500",0
+S01308,PE033,Prod Company,Graphics,THURS,Included in flat fee,N
+S01309,PE033,Prod Company,camera,Thursday,N/A,TRUE
+S01310,PE033,Production Company,Camera,Thurs,Included in flat fee,No
+S01311,PE033,Prod Company,Video Engineer,THURS,Included in flat fee,No
+S01312,PE033,Production Co.,Lighting,Thu,incl.,No
+S01313,PE033,Production Company,Rigging,Thurs,Included in flat fee,No
+S01314,PE033,production co,stage manager,Thu,incl.,0
+S01315,PE033,production co,Lighting,Thurs,N/A,No
+S01316,PE033,production co,Rigging,Thurs,,FALSE
+S01317,PE033,Prod Company,Camera,THURS,incl.,N
+S01318,PE033,Prod Company,video engineer,Thursday,incl.,N
+S01319,PE033,Prod Company,Video Engineer,Thursday,Included in flat fee,No
+S01320,PE033,Production Co.,Ring Crew,Thursday,incl.,Y
+S01321,PE033,Production Co.,Camera,Thursday,N/A,0
+S01322,PE033,production co,video engineer,Thurs,incl.,FALSE
+S01323,PE033,Production Co.,Lighting,Thu,,N
+S01324,PE033,Prod Company,Ring Crew,Thurs,Included in flat fee,FALSE
+S01325,PE033,Production Co.,Rigging,THURS,N/A,No
+S01326,PE033,production co,Stage Manager,THURS,Included in flat fee,FALSE
+S01327,PE033,Production Company,Ring Crew,THURS,N/A,0
+S01328,PE034,Promoter,Social Media,Tuesday,$3K,N
+S01329,PE034,Promoter,Event Operations,TUES,4500,No
+S01330,PE034,PROMOTER,Commission Liaison,Tue,"$3,000",Yes
+S01331,PE034,promoter staff,PR & Media,Tue,3500,0
+S01332,PE034,PROMOTER,PR & Media,Tuesday,"$4,500",0
+S01333,PE034,PROMOTER,Event Operations,Tue,$2.5K,FALSE
+S01334,PE034,Promoter,social media,Tue,4000,0
+S01335,PE034,Promoter,PR & Media,Tuesday,2500,N
+S01336,PE034,PROMOTER,Talent Relations,TUES,"3,500",No
+S01337,PE034,promoter staff,Matchmaking,Tue,5000,N
+S01338,PE034,PROMOTER,Ticketing,THURS,"4,500",1
+S01339,PE034,promoter staff,Hospitality,Thu,"3,500",FALSE
+S01340,PE034,Promoter,Security Lead,THURS,"$4,000",FALSE
+S01341,PE034,Production Co.,Camera,THURS,incl.,0
+S01342,PE034,Production Co.,Graphics,THURS,N/A,No
+S01343,PE034,production co,ring crew,Thurs,N/A,FALSE
+S01344,PE034,production co,Audio,Thu,N/A,FALSE
+S01345,PE034,production co,Stage Manager,Thursday,N/A,No
+S01346,PE034,Production Company,Lighting,Thurs,Included in flat fee,FALSE
+S01347,PE034,production co,Camera,Thurs,N/A,0
+S01348,PE034,Production Company,Lighting,Thursday,Included in flat fee,No
+S01349,PE034,production co,Ring Crew,THURS,incl.,0
+S01350,PE034,production co,Audio,Thursday,Included in flat fee,FALSE
+S01351,PE034,Prod Company,Ring Crew,Thurs,incl.,No
+S01352,PE034,production co,Stage Manager,Thursday,incl.,No
+S01353,PE034,Production Company,Graphics,THURS,Included in flat fee,FALSE
+S01354,PE034,production co,video engineer,THURS,Included in flat fee,0
+S01355,PE034,Production Company,Graphics,Thursday,incl.,N
+S01356,PE034,Prod Company,Audio,Thurs,,FALSE
+S01357,PE034,Production Co.,Rigging,Thurs,incl.,FALSE
+S01358,PE034,Production Company,audio,Thurs,,0
+S01359,PE034,production co,Rigging,Thurs,N/A,N
+S01360,PE034,production co,stage manager,Thurs,Included in flat fee,0
+S01361,PE035,promoter staff,Matchmaking,Tue,3000,FALSE
+S01362,PE035,promoter staff,Commission Liaison,Tuesday,"$5,000",N
+S01363,PE035,Promoter,Social Media,Tuesday,"3,500",No
+S01364,PE035,PROMOTER,Matchmaking,Tuesday,"5,000",No
+S01365,PE035,PROMOTER,Social Media,Tuesday,"4,000",TRUE
+S01366,PE035,promoter staff,Matchmaking,TUES,"$3,000",No
+S01367,PE035,Promoter,Social Media,TUES,2500,No
+S01368,PE035,PROMOTER,Commission Liaison,TUES,5000,FALSE
+S01369,PE035,PROMOTER,event operations,Tue,4500,0
+S01370,PE035,promoter staff,PR & Media,TUES,"3,500",No
+S01371,PE035,promoter staff,Hospitality,Thursday,$4K,N
+S01372,PE035,PROMOTER,credentialing,THURS,"4,000",Yes
+S01373,PE035,production co,Lighting,Thurs,N/A,FALSE
+S01374,PE035,Prod Company,Graphics,Thu,incl.,0
+S01375,PE035,Prod Company,graphics,Thursday,Included in flat fee,No
+S01376,PE035,Prod Company,Ring Crew,Thursday,Included in flat fee,0
+S01377,PE035,Production Company,camera,Thu,incl.,No
+S01378,PE035,Production Company,Camera,THURS,Included in flat fee,No
+S01379,PE035,production co,Lighting,Thursday,,0
+S01380,PE035,Production Company,Camera,Thursday,Included in flat fee,N
+S01381,PE035,Prod Company,Camera,Thu,incl.,N
+S01382,PE035,Production Company,Lighting,Thurs,incl.,N
+S01383,PE035,Production Company,Camera,Thu,Included in flat fee,FALSE
+S01384,PE035,Production Company,Ring Crew,Thu,,0
+S01385,PE035,production co,Lighting,Thurs,incl.,1
+S01386,PE035,Production Company,Lighting,Thu,incl.,N
+S01387,PE035,Prod Company,Stage Manager,Thurs,N/A,FALSE
+S01388,PE035,Prod Company,Graphics,Thursday,,N
+S01389,PE035,Production Company,Ring Crew,Thursday,,FALSE
+S01390,PE035,Production Co.,camera,Thu,,FALSE
+S01391,PE035,production co,stage manager,THURS,N/A,Yes
+S01392,PE035,Production Company,Graphics,Thu,,N
+S01393,PE035,Prod Company,camera,THURS,Included in flat fee,FALSE
+S01394,PE035,Production Co.,Camera,Thu,Included in flat fee,0
+S01395,PE036,Promoter,commission liaison,Tue,$3K,N
+S01396,PE036,Promoter,pr & media,TUES,"$4,000",FALSE
+S01397,PE036,PROMOTER,commission liaison,Tue,$5K,FALSE
+S01398,PE036,promoter staff,social media,Tues.,5000,FALSE
+S01399,PE036,promoter staff,Event Operations,Tues.,"3,500",FALSE
+S01400,PE036,Promoter,Matchmaking,Tues.,"$3,000",Y
+S01401,PE036,promoter staff,PR & Media,Tue,$3.5K,0
+S01402,PE036,Promoter,Matchmaking,TUES,3000,No
+S01403,PE036,Promoter,Talent Relations,TUES,$4K,N
+S01404,PE036,promoter staff,Talent Relations,Tues.,"$5,000",Y
+S01405,PE036,promoter staff,Security Lead,Thursday,"2,500",TRUE
+S01406,PE036,promoter staff,Ticketing,Thursday,$2.5K,FALSE
+S01407,PE036,Promoter,security lead,Thurs,"$3,500",FALSE
+S01408,PE036,PROMOTER,Event Operations,Thu,$5K,N
+S01409,PE036,PROMOTER,credentialing,Thu,$2.5K,0
+S01410,PE036,Production Co.,stage manager,Thu,Included in flat fee,No
+S01411,PE036,Production Company,Stage Manager,Thu,Included in flat fee,N
+S01412,PE036,Production Company,Video Engineer,Thurs,Included in flat fee,Y
+S01413,PE036,Production Company,audio,Thursday,,No
+S01414,PE036,Prod Company,video engineer,Thu,Included in flat fee,0
+S01415,PE036,Prod Company,Ring Crew,THURS,incl.,0
+S01416,PE036,Production Co.,Audio,Thursday,N/A,N
+S01417,PE036,Production Co.,Graphics,Thursday,Included in flat fee,Yes
+S01418,PE036,Prod Company,camera,Thursday,N/A,0
+S01419,PE036,Production Company,Graphics,THURS,incl.,N
+S01420,PE036,Production Company,Rigging,Thu,Included in flat fee,FALSE
+S01421,PE036,production co,Ring Crew,THURS,incl.,FALSE
+S01422,PE036,Production Co.,video engineer,Thursday,incl.,No
+S01423,PE036,production co,Video Engineer,THURS,incl.,N
+S01424,PE036,Production Co.,Camera,THURS,,N
+S01425,PE036,Production Co.,Graphics,Thursday,incl.,No
+S01426,PE036,Production Company,Rigging,THURS,N/A,FALSE
+S01427,PE036,Production Company,Ring Crew,Thurs,Included in flat fee,Yes
+S01428,PE036,Production Company,Video Engineer,THURS,Included in flat fee,FALSE
+S01429,PE036,production co,Lighting,Thu,N/A,FALSE
+S01430,PE036,Production Co.,rigging,Thurs,Included in flat fee,FALSE
+S01431,PE036,Prod Company,Rigging,THURS,N/A,N
+S01432,PE036,Production Company,rigging,THURS,,N
+S01433,PE036,Prod Company,Audio,Thu,N/A,0
+S01434,PE036,Production Co.,Lighting,THURS,,Yes
+S01435,PE036,Prod Company,Graphics,THURS,Included in flat fee,No
+S01436,PE036,Production Company,Camera,THURS,,N
+S01437,PE036,Prod Company,Stage Manager,Thu,Included in flat fee,N
+S01438,PE036,production co,Lighting,Thu,Included in flat fee,FALSE
+S01439,PE036,Production Co.,ring crew,Thursday,incl.,N
+S01440,PE036,Prod Company,ring crew,Thu,N/A,Yes
+S01441,PE036,production co,Audio,Thursday,N/A,0
+S01442,PE036,Prod Company,Camera,Thurs,Included in flat fee,No
+S01443,PE036,production co,Camera,Thurs,incl.,No
+S01444,PE036,Prod Company,Audio,Thurs,,0
+S01445,PE036,Production Company,camera,THURS,Included in flat fee,1
+S01446,PE036,Production Company,camera,THURS,,No
+S01447,PE036,Production Company,Video Engineer,Thursday,incl.,No
+S01448,PE036,Production Co.,Camera,THURS,Included in flat fee,N
+S01449,PE037,promoter staff,talent relations,Tues.,"5,000",0
+S01450,PE037,promoter staff,Social Media,Tues.,"4,000",FALSE
+S01451,PE037,promoter staff,Commission Liaison,TUES,$3K,FALSE
+S01452,PE037,PROMOTER,PR & Media,TUES,"$5,000",No
+S01453,PE037,PROMOTER,social media,Tue,"5,000",No
+S01454,PE037,PROMOTER,PR & Media,Tues.,"4,000",FALSE
+S01455,PE037,PROMOTER,Social Media,Tues.,"5,000",FALSE
+S01456,PE037,promoter staff,Matchmaking,TUES,"$2,500",0
+S01457,PE037,Promoter,Matchmaking,TUES,3500,No
+S01458,PE037,promoter staff,Event Operations,TUES,"2,500",0
+S01459,PE037,PROMOTER,credentialing,Thursday,"$4,000",FALSE
+S01460,PE037,promoter staff,Ticketing,Thu,"$3,500",Y
+S01461,PE037,promoter staff,security lead,Thurs,"3,500",No
+S01462,PE037,Promoter,Security Lead,THURS,2500,FALSE
+S01463,PE037,promoter staff,Ticketing,THURS,"$3,000",0
+S01464,PE037,production co,Camera,THURS,Included in flat fee,No
+S01465,PE037,Production Company,Ring Crew,Thurs,,0
+S01466,PE037,production co,Graphics,THURS,N/A,N
+S01467,PE037,Production Co.,Graphics,THURS,,No
+S01468,PE037,production co,stage manager,THURS,N/A,No
+S01469,PE037,Prod Company,Graphics,Thu,Included in flat fee,Y
+S01470,PE037,Prod Company,Camera,THURS,Included in flat fee,N
+S01471,PE037,production co,Camera,THURS,N/A,0
+S01472,PE037,production co,stage manager,Thu,N/A,FALSE
+S01473,PE037,Production Company,Rigging,Thurs,incl.,N
+S01474,PE037,Production Company,Audio,Thu,Included in flat fee,N
+S01475,PE037,Prod Company,lighting,Thursday,,0
+S01476,PE037,Production Co.,Audio,Thurs,N/A,No
+S01477,PE037,production co,Camera,THURS,N/A,N
+S01478,PE037,Production Company,Camera,Thursday,,0
+S01479,PE037,Production Company,Camera,THURS,incl.,No
+S01480,PE037,production co,Lighting,Thu,,FALSE
+S01481,PE037,Production Company,graphics,Thurs,N/A,Y
+S01482,PE037,production co,Lighting,THURS,incl.,N
+S01483,PE037,Production Company,Rigging,Thursday,Included in flat fee,0
+S01484,PE037,Production Company,audio,Thurs,incl.,1
+S01485,PE037,Prod Company,video engineer,THURS,Included in flat fee,No
+S01486,PE037,Prod Company,Camera,THURS,incl.,FALSE
+S01487,PE037,Prod Company,Video Engineer,Thurs,incl.,No
+S01488,PE037,Prod Company,Ring Crew,THURS,N/A,0
+S01489,PE037,Production Company,Lighting,Thu,incl.,N
+S01490,PE037,Prod Company,Ring Crew,THURS,,1
+S01491,PE037,production co,Video Engineer,Thurs,incl.,FALSE
+S01492,PE037,Prod Company,graphics,Thu,N/A,FALSE
+S01493,PE037,production co,lighting,Thursday,N/A,0
+S01494,PE037,Prod Company,rigging,THURS,N/A,N
+S01495,PE037,Production Company,Video Engineer,Thu,Included in flat fee,0
+S01496,PE037,production co,Ring Crew,Thurs,incl.,N
+S01497,PE037,production co,Graphics,Thurs,incl.,No
+S01498,PE037,Prod Company,Audio,Thurs,,0
+S01499,PE037,Production Co.,rigging,THURS,incl.,No
+S01500,PE037,Production Co.,Stage Manager,THURS,Included in flat fee,FALSE
+S01501,PE037,Prod Company,Video Engineer,Thu,incl.,0
+S01502,PE038,Promoter,pr & media,Tues.,$3K,No
+S01503,PE038,PROMOTER,Matchmaking,TUES,"$4,000",FALSE
+S01504,PE038,PROMOTER,PR & Media,Tuesday,$3.5K,1
+S01505,PE038,PROMOTER,Talent Relations,TUES,$5K,N
+S01506,PE038,Promoter,Commission Liaison,Tuesday,"$3,500",FALSE
+S01507,PE038,PROMOTER,Social Media,Tues.,4000,0
+S01508,PE038,Promoter,Talent Relations,TUES,5000,1
+S01509,PE038,Promoter,Talent Relations,Tue,"3,500",FALSE
+S01510,PE038,Promoter,PR & Media,Tuesday,"$4,000",0
+S01511,PE038,PROMOTER,PR & Media,Tue,4500,1
+S01512,PE038,PROMOTER,Event Operations,Thu,"$2,500",N
+S01513,PE038,promoter staff,Hospitality,Thu,$4K,N
+S01514,PE038,Promoter,Event Operations,Thursday,5000,No
+S01515,PE038,promoter staff,Hospitality,Thursday,"5,000",FALSE
+S01516,PE038,Prod Company,Rigging,Thu,N/A,0
+S01517,PE038,Production Co.,Rigging,Thurs,Included in flat fee,Yes
+S01518,PE038,production co,Video Engineer,THURS,Included in flat fee,N
+S01519,PE038,Prod Company,Graphics,Thu,,N
+S01520,PE038,Production Company,Audio,THURS,,N
+S01521,PE038,Production Company,Camera,Thurs,,No
+S01522,PE038,production co,Camera,Thurs,Included in flat fee,No
+S01523,PE038,production co,Video Engineer,THURS,N/A,No
+S01524,PE038,Production Co.,rigging,Thu,N/A,TRUE
+S01525,PE038,Production Company,Audio,THURS,,0
+S01526,PE038,production co,Stage Manager,Thurs,Included in flat fee,N
+S01527,PE038,Prod Company,camera,Thursday,incl.,No
+S01528,PE038,production co,Audio,Thurs,,FALSE
+S01529,PE038,production co,Camera,THURS,N/A,FALSE
+S01530,PE038,Production Company,Graphics,Thurs,N/A,N
+S01531,PE038,Prod Company,Rigging,Thu,incl.,N
+S01532,PE038,Prod Company,Rigging,THURS,incl.,N
+S01533,PE038,Prod Company,Camera,Thursday,incl.,N
+S01534,PE038,production co,Ring Crew,Thu,,No
+S01535,PE038,Prod Company,Graphics,THURS,N/A,No
+S01536,PE038,production co,Camera,THURS,Included in flat fee,1
+S01537,PE038,Production Co.,Graphics,Thurs,Included in flat fee,0
+S01538,PE038,Prod Company,stage manager,THURS,Included in flat fee,0
+S01539,PE038,Production Company,Audio,THURS,Included in flat fee,0
+S01540,PE038,production co,Ring Crew,Thu,N/A,N
+S01541,PE038,Production Co.,Video Engineer,Thu,N/A,No
+S01542,PE038,production co,Video Engineer,Thu,,No
+S01543,PE038,Production Co.,Stage Manager,Thursday,Included in flat fee,No
+S01544,PE038,production co,Video Engineer,Thursday,N/A,FALSE
+S01545,PE038,production co,Lighting,THURS,,N
+S01546,PE038,Production Company,Lighting,Thurs,N/A,FALSE
+S01547,PE038,Production Company,Graphics,Thu,N/A,N
+S01548,PE038,production co,Camera,Thurs,incl.,FALSE
+S01549,PE038,production co,Audio,Thursday,incl.,0
+S01550,PE038,Production Company,video engineer,Thursday,incl.,FALSE
+S01551,PE038,production co,lighting,Thu,N/A,FALSE
+S01552,PE038,production co,Audio,Thursday,Included in flat fee,N
+S01553,PE038,Production Company,Stage Manager,Thurs,incl.,FALSE
+S01554,PE038,Prod Company,Camera,Thurs,,No
+S01555,PE039,PROMOTER,PR & Media,Tuesday,$4.5K,FALSE
+S01556,PE039,PROMOTER,Event Operations,Tues.,"3,000",No
+S01557,PE039,Promoter,Event Operations,TUES,$4.5K,No
+S01558,PE039,promoter staff,Matchmaking,TUES,"$4,500",0
+S01559,PE039,PROMOTER,Event Operations,Tuesday,$4.5K,FALSE
+S01560,PE039,Promoter,PR & Media,Tue,2500,N
+S01561,PE039,promoter staff,Social Media,TUES,2500,No
+S01562,PE039,PROMOTER,event operations,TUES,2500,No
+S01563,PE039,promoter staff,Talent Relations,Tues.,"$3,500",No
+S01564,PE039,Promoter,Event Operations,Tues.,"$3,500",No
+S01565,PE039,PROMOTER,Hospitality,Thursday,3500,No
+S01566,PE039,Promoter,Ticketing,Thursday,5000,FALSE
+S01567,PE039,promoter staff,Ticketing,THURS,4500,0
+S01568,PE039,PROMOTER,event operations,THURS,$5K,No
+S01569,PE039,promoter staff,Hospitality,Thurs,5000,N
+S01570,PE039,Production Co.,Audio,Thursday,incl.,0
+S01571,PE039,Production Co.,Video Engineer,THURS,,FALSE
+S01572,PE039,Production Co.,Camera,Thurs,Included in flat fee,N
+S01573,PE039,Production Co.,Graphics,Thurs,Included in flat fee,N
+S01574,PE039,Production Co.,Stage Manager,Thu,N/A,No
+S01575,PE039,Prod Company,Rigging,Thurs,N/A,N
+S01576,PE039,Production Company,Video Engineer,Thursday,N/A,N
+S01577,PE039,Prod Company,Ring Crew,Thurs,Included in flat fee,No
+S01578,PE039,Production Co.,Graphics,Thurs,Included in flat fee,No
+S01579,PE039,production co,Video Engineer,Thurs,,FALSE
+S01580,PE039,Production Co.,Camera,Thu,N/A,FALSE
+S01581,PE039,Production Company,camera,Thursday,N/A,N
+S01582,PE039,Production Co.,Stage Manager,Thu,,N
+S01583,PE039,Prod Company,Camera,Thursday,,0
+S01584,PE039,Prod Company,Lighting,Thursday,incl.,FALSE
+S01585,PE039,production co,Audio,Thurs,incl.,No
+S01586,PE039,Production Company,Lighting,Thurs,,No
+S01587,PE039,Prod Company,audio,Thurs,N/A,FALSE
+S01588,PE039,production co,Graphics,Thu,incl.,No
+S01589,PE039,production co,Lighting,Thurs,,0
+S01590,PE039,Production Company,Graphics,Thursday,,0
+S01591,PE039,Production Company,ring crew,Thu,incl.,No
+S01592,PE039,Production Co.,Camera,THURS,incl.,0
+S01593,PE039,production co,Lighting,Thu,incl.,No
+S01594,PE039,Prod Company,Video Engineer,Thu,N/A,No
+S01595,PE039,production co,Graphics,Thu,N/A,N
+S01596,PE039,Production Co.,Camera,Thu,incl.,No
+S01597,PE039,Production Co.,Lighting,THURS,N/A,N
+S01598,PE039,production co,Lighting,Thursday,,Yes
+S01599,PE039,production co,Rigging,Thurs,N/A,TRUE
+S01600,PE039,Prod Company,ring crew,Thu,,FALSE
+S01601,PE039,production co,Lighting,THURS,,0
+S01602,PE039,Production Co.,Stage Manager,Thurs,,N
+S01603,PE039,Production Company,Rigging,Thu,N/A,0
+S01604,PE039,production co,Video Engineer,Thurs,Included in flat fee,N
+S01605,PE039,Production Company,Audio,Thurs,incl.,FALSE
+S01606,PE039,production co,camera,Thurs,N/A,Y
+S01607,PE039,production co,Video Engineer,THURS,N/A,N
+S01608,PE040,Promoter,Commission Liaison,TUES,"$5,000",No
+S01609,PE040,promoter staff,Event Operations,Tues.,"5,000",1
+S01610,PE040,Promoter,Event Operations,Tue,3000,FALSE
+S01611,PE040,promoter staff,social media,Tue,"4,500",N
+S01612,PE040,promoter staff,event operations,Tuesday,$3K,No
+S01613,PE040,Promoter,pr & media,Tue,"4,500",FALSE
+S01614,PE040,Promoter,Event Operations,Tuesday,2500,0
+S01615,PE040,PROMOTER,Commission Liaison,Tues.,"4,500",FALSE
+S01616,PE040,PROMOTER,Talent Relations,Tue,"$3,500",TRUE
+S01617,PE040,promoter staff,Talent Relations,Tuesday,"$4,000",N
+S01618,PE040,Promoter,Ticketing,THURS,"4,500",FALSE
+S01619,PE040,promoter staff,ticketing,THURS,"$4,000",Y
+S01620,PE040,promoter staff,ticketing,Thu,$3K,FALSE
+S01621,PE040,promoter staff,Ticketing,Thu,"4,500",FALSE
+S01622,PE040,Prod Company,Audio,Thurs,incl.,FALSE
+S01623,PE040,Production Co.,Camera,Thu,,N
+S01624,PE040,Prod Company,Audio,Thursday,Included in flat fee,0
+S01625,PE040,Prod Company,Video Engineer,Thurs,Included in flat fee,N
+S01626,PE040,Production Company,Ring Crew,THURS,N/A,FALSE
+S01627,PE040,Prod Company,Rigging,THURS,incl.,No
+S01628,PE040,production co,Rigging,Thurs,,N
+S01629,PE040,Prod Company,Audio,Thursday,N/A,No
+S01630,PE040,Prod Company,audio,THURS,N/A,0
+S01631,PE040,Production Company,Lighting,Thu,N/A,FALSE
+S01632,PE040,production co,Rigging,Thursday,incl.,N
+S01633,PE040,Prod Company,Camera,Thurs,Included in flat fee,No
+S01634,PE040,Production Company,Lighting,Thursday,,No
+S01635,PE040,Prod Company,Graphics,THURS,Included in flat fee,Yes
+S01636,PE040,Prod Company,Video Engineer,Thursday,Included in flat fee,FALSE
+S01637,PE040,Production Company,Stage Manager,THURS,incl.,0
+S01638,PE040,Production Co.,Rigging,Thu,N/A,N
+S01639,PE040,Prod Company,Stage Manager,Thurs,Included in flat fee,1
+S01640,PE040,Production Company,Camera,Thu,,No
+S01641,PE040,Production Co.,Rigging,Thu,Included in flat fee,Y
+S01642,PE040,Production Company,Ring Crew,Thurs,Included in flat fee,FALSE
+S01643,PE040,Production Company,Stage Manager,Thu,N/A,N
+S01644,PE040,Production Company,Stage Manager,Thu,incl.,FALSE
+S01645,PE040,production co,Ring Crew,Thu,Included in flat fee,Y
+S01646,PE040,Production Co.,Audio,Thurs,N/A,No
+S01647,PE040,Production Co.,Lighting,Thursday,Included in flat fee,FALSE
+S01648,PE040,Prod Company,Video Engineer,Thursday,,0
+S01649,PE040,Prod Company,audio,THURS,Included in flat fee,FALSE
+S01650,PE040,production co,Camera,Thursday,Included in flat fee,No
+S01651,PE040,Production Company,Ring Crew,Thu,incl.,FALSE
+S01652,PE040,Production Co.,Ring Crew,Thurs,,N
+S01653,PE040,Production Company,Ring Crew,THURS,Included in flat fee,FALSE
+S01654,PE040,Production Co.,Stage Manager,THURS,N/A,FALSE
+S01655,PE040,Production Co.,Ring Crew,THURS,Included in flat fee,No
+S01656,PE040,Production Co.,Stage Manager,Thursday,,No
+S01657,PE040,Production Co.,Video Engineer,Thu,,No
+S01658,PE040,Prod Company,Video Engineer,THURS,incl.,No
+S01659,PE040,production co,Camera,Thursday,incl.,No
+S01660,PE040,Production Co.,Ring Crew,THURS,N/A,0
+S01661,PE040,Production Co.,Graphics,Thurs,Included in flat fee,0
+S01662,PE040,production co,Video Engineer,THURS,,N
+S01663,PE040,Prod Company,Audio,Thursday,N/A,0
+S01664,PE041,PROMOTER,matchmaking,Tues.,$2.5K,FALSE
+S01665,PE041,PROMOTER,Event Operations,Tue,"$4,500",0
+S01666,PE041,PROMOTER,matchmaking,Tue,"2,500",No
+S01667,PE041,PROMOTER,Matchmaking,TUES,2500,0
+S01668,PE041,promoter staff,PR & Media,Tue,"$3,500",FALSE
+S01669,PE041,promoter staff,Matchmaking,TUES,"3,500",Y
+S01670,PE041,PROMOTER,PR & Media,Tuesday,4500,No
+S01671,PE041,promoter staff,Commission Liaison,Tues.,"$4,500",N
+S01672,PE041,promoter staff,Social Media,Tues.,$3.5K,FALSE
+S01673,PE041,promoter staff,pr & media,TUES,$3.5K,N
+S01674,PE041,promoter staff,Credentialing,Thurs,"$3,500",FALSE
+S01675,PE041,PROMOTER,security lead,Thursday,$2.5K,TRUE
+S01676,PE041,Promoter,Security Lead,Thu,$4K,No
+S01677,PE041,production co,Graphics,Thu,incl.,No
+S01678,PE041,production co,Graphics,Thu,incl.,FALSE
+S01679,PE041,Prod Company,Graphics,Thu,N/A,FALSE
+S01680,PE041,Prod Company,Audio,THURS,,0
+S01681,PE041,production co,Camera,Thu,N/A,No
+S01682,PE041,production co,Graphics,Thu,,FALSE
+S01683,PE041,Production Co.,Video Engineer,Thurs,,N
+S01684,PE041,Production Company,ring crew,Thursday,incl.,N
+S01685,PE041,production co,Lighting,Thu,,0
+S01686,PE041,production co,Camera,THURS,,No
+S01687,PE041,Production Company,Camera,Thurs,,N
+S01688,PE041,Production Co.,Rigging,Thurs,incl.,FALSE
+S01689,PE041,production co,Lighting,THURS,,FALSE
+S01690,PE041,Production Co.,Audio,Thu,N/A,0
+S01691,PE041,Production Co.,Rigging,THURS,,FALSE
+S01692,PE041,Prod Company,rigging,Thursday,incl.,N
+S01693,PE041,Production Co.,Audio,Thurs,incl.,N
+S01694,PE041,Production Company,ring crew,THURS,N/A,1
+S01695,PE041,Production Co.,Lighting,Thu,incl.,FALSE
+S01696,PE041,production co,Audio,Thurs,,0
+S01697,PE041,Production Company,stage manager,Thu,,N
+S01698,PE041,production co,Rigging,Thu,Included in flat fee,1
+S01699,PE042,PROMOTER,Matchmaking,TUES,"3,500",0
+S01700,PE042,Promoter,Social Media,Tuesday,$4.5K,No
+S01701,PE042,Promoter,Talent Relations,TUES,3500,N
+S01702,PE042,PROMOTER,matchmaking,Tues.,3000,FALSE
+S01703,PE042,PROMOTER,Event Operations,Tues.,4500,N
+S01704,PE042,Promoter,Event Operations,Tuesday,$3.5K,No
+S01705,PE042,PROMOTER,Commission Liaison,TUES,"$3,500",0
+S01706,PE042,PROMOTER,PR & Media,Tues.,"$3,500",N
+S01707,PE042,Promoter,talent relations,Tue,"$4,500",FALSE
+S01708,PE042,Promoter,Event Operations,Tue,$4K,No
+S01709,PE042,Promoter,Security Lead,Thursday,"3,500",Yes
+S01710,PE042,promoter staff,Event Operations,Thursday,$4K,N
+S01711,PE042,PROMOTER,Hospitality,Thu,"$3,000",N
+S01712,PE042,PROMOTER,Security Lead,Thurs,"$2,500",FALSE
+S01713,PE042,Production Company,Stage Manager,Thursday,incl.,Yes
+S01714,PE042,Production Co.,Audio,THURS,incl.,0
+S01715,PE042,Prod Company,Rigging,THURS,Included in flat fee,No
+S01716,PE042,Prod Company,Lighting,Thu,Included in flat fee,N
+S01717,PE042,Prod Company,Ring Crew,THURS,Included in flat fee,N
+S01718,PE042,Prod Company,Stage Manager,Thurs,incl.,FALSE
+S01719,PE042,Production Co.,audio,THURS,Included in flat fee,FALSE
+S01720,PE042,production co,Stage Manager,Thursday,,N
+S01721,PE042,Production Company,Graphics,Thu,N/A,FALSE
+S01722,PE042,Production Company,Camera,Thu,Included in flat fee,FALSE
+S01723,PE042,Production Co.,ring crew,Thurs,incl.,No
+S01724,PE042,Prod Company,audio,Thursday,incl.,0
+S01725,PE042,Prod Company,Graphics,Thurs,Included in flat fee,No
+S01726,PE042,production co,Stage Manager,THURS,Included in flat fee,N
+S01727,PE042,production co,lighting,Thursday,,FALSE
+S01728,PE042,production co,Ring Crew,Thursday,incl.,No
+S01729,PE042,Prod Company,Audio,Thu,N/A,No
+S01730,PE042,Prod Company,Lighting,Thu,incl.,N
+S01731,PE042,Production Company,Rigging,Thurs,,N
+S01732,PE042,Production Company,Lighting,Thurs,Included in flat fee,No
+S01733,PE042,Production Co.,Audio,Thursday,Included in flat fee,FALSE
+S01734,PE042,Production Co.,Video Engineer,Thursday,,No
+S01735,PE042,production co,graphics,Thurs,,No
+S01736,PE042,Production Company,Rigging,THURS,Included in flat fee,N
+S01737,PE042,Prod Company,Lighting,Thursday,,TRUE
+S01738,PE042,Production Company,Stage Manager,Thu,incl.,0
+S01739,PE042,Prod Company,Ring Crew,THURS,Included in flat fee,0
+S01740,PE042,Prod Company,rigging,Thu,incl.,N
+S01741,PE042,production co,Lighting,THURS,N/A,TRUE
+S01742,PE042,Production Co.,Stage Manager,Thurs,incl.,TRUE
+S01743,PE042,production co,Graphics,Thursday,,FALSE
+S01744,PE042,Prod Company,Video Engineer,THURS,,N
+S01745,PE042,Production Co.,camera,THURS,,No
+S01746,PE042,production co,Lighting,THURS,Included in flat fee,FALSE
+S01747,PE042,Prod Company,Camera,THURS,N/A,No
+S01748,PE042,production co,graphics,Thurs,Included in flat fee,N
+S01749,PE042,Production Co.,stage manager,THURS,Included in flat fee,0
+S01750,PE042,Prod Company,Video Engineer,Thurs,,FALSE
+S01751,PE042,Production Co.,Ring Crew,Thursday,,No
+S01752,PE042,Production Company,Graphics,Thu,N/A,0
+S01753,PE043,PROMOTER,Matchmaking,Tuesday,"3,000",FALSE
+S01754,PE043,PROMOTER,Social Media,Tue,"3,500",Yes
+S01755,PE043,Promoter,Social Media,Tuesday,$3K,FALSE
+S01756,PE043,PROMOTER,Matchmaking,Tues.,"2,500",N
+S01757,PE043,promoter staff,Event Operations,Tue,$3K,Y
+S01758,PE043,PROMOTER,Commission Liaison,TUES,"$3,500",0
+S01759,PE043,PROMOTER,Talent Relations,Tue,5000,0
+S01760,PE043,promoter staff,Talent Relations,Tue,"$4,500",0
+S01761,PE043,PROMOTER,matchmaking,Tue,"5,000",N
+S01762,PE043,Promoter,Matchmaking,Tues.,"$5,000",No
+S01763,PE043,promoter staff,Ticketing,Thurs,3000,FALSE
+S01764,PE043,PROMOTER,Credentialing,Thurs,3500,1
+S01765,PE043,promoter staff,security lead,Thu,$4.5K,1
+S01766,PE043,Production Co.,Graphics,Thursday,incl.,FALSE
+S01767,PE043,Prod Company,Ring Crew,Thu,,N
+S01768,PE043,production co,Stage Manager,Thursday,Included in flat fee,N
+S01769,PE043,Production Company,Stage Manager,THURS,incl.,FALSE
+S01770,PE043,Production Company,Camera,Thursday,,1
+S01771,PE043,Production Co.,Stage Manager,Thursday,incl.,No
+S01772,PE043,Prod Company,Camera,Thursday,,0
+S01773,PE043,production co,Stage Manager,THURS,,0
+S01774,PE043,Production Company,Video Engineer,Thurs,,0
+S01775,PE043,production co,Video Engineer,Thursday,,N
+S01776,PE043,Production Co.,Ring Crew,Thurs,incl.,0
+S01777,PE043,Production Company,Camera,THURS,Included in flat fee,N
+S01778,PE043,Prod Company,Camera,THURS,,No
+S01779,PE043,production co,Ring Crew,Thurs,incl.,0
+S01780,PE043,production co,stage manager,Thursday,,No
+S01781,PE043,Production Co.,Rigging,Thu,incl.,FALSE
+S01782,PE043,Production Company,video engineer,THURS,,No
+S01783,PE043,production co,Stage Manager,Thursday,incl.,N
+S01784,PE043,Prod Company,Video Engineer,Thu,N/A,N
+S01785,PE043,production co,Rigging,Thursday,,FALSE
+S01786,PE043,production co,ring crew,Thu,incl.,FALSE
+S01787,PE043,Prod Company,Lighting,Thursday,Included in flat fee,FALSE
+S01788,PE043,Production Company,Video Engineer,Thurs,Included in flat fee,N
+S01789,PE043,Production Co.,Rigging,Thu,N/A,N
+S01790,PE043,Prod Company,Camera,Thurs,incl.,N
+S01791,PE043,Production Co.,Rigging,Thu,N/A,No
+S01792,PE043,Prod Company,Camera,Thursday,Included in flat fee,N
+S01793,PE043,Production Company,lighting,Thursday,,N
+S01794,PE043,Production Company,Video Engineer,THURS,,0
+S01795,PE043,production co,Stage Manager,Thursday,Included in flat fee,FALSE
+S01796,PE043,production co,Camera,Thu,Included in flat fee,N
+S01797,PE043,Production Co.,Graphics,Thursday,N/A,0
+S01798,PE043,production co,camera,Thursday,Included in flat fee,N
+S01799,PE043,Prod Company,Rigging,Thursday,,N
+S01800,PE043,Prod Company,video engineer,Thurs,N/A,FALSE
+S01801,PE043,Prod Company,Rigging,THURS,incl.,0
+S01802,PE043,Production Co.,Ring Crew,Thursday,,0
+S01803,PE043,Production Company,Rigging,Thursday,Included in flat fee,No
+S01804,PE043,Production Company,lighting,THURS,,FALSE
+S01805,PE043,production co,Graphics,Thu,incl.,0
+S01806,PE043,Prod Company,Stage Manager,THURS,,FALSE
+S01807,PE044,promoter staff,Social Media,TUES,"$3,500",FALSE
+S01808,PE044,promoter staff,Event Operations,TUES,"$3,000",FALSE
+S01809,PE044,PROMOTER,Commission Liaison,Tue,5000,No
+S01810,PE044,promoter staff,Commission Liaison,Tue,$3K,N
+S01811,PE044,Promoter,Social Media,Tuesday,"$4,500",No
+S01812,PE044,promoter staff,event operations,TUES,"$3,500",FALSE
+S01813,PE044,PROMOTER,Matchmaking,TUES,$4.5K,FALSE
+S01814,PE044,PROMOTER,Social Media,TUES,"2,500",No
+S01815,PE044,Promoter,Event Operations,TUES,"$3,000",No
+S01816,PE044,Promoter,social media,TUES,"4,500",TRUE
+S01817,PE044,promoter staff,credentialing,Thurs,"3,500",No
+S01818,PE044,Promoter,Security Lead,Thu,"$4,500",TRUE
+S01819,PE044,PROMOTER,hospitality,Thu,2500,FALSE
+S01820,PE044,PROMOTER,Event Operations,Thursday,"3,500",FALSE
+S01821,PE044,Promoter,Event Operations,Thursday,$2.5K,No
+S01822,PE044,promoter staff,Ticketing,Thu,"$3,500",1
+S01823,PE044,production co,Camera,Thu,,No
+S01824,PE044,Prod Company,Rigging,Thurs,,N
+S01825,PE044,Prod Company,Video Engineer,THURS,Included in flat fee,Y
+S01826,PE044,Prod Company,Audio,THURS,incl.,No
+S01827,PE044,Production Co.,Video Engineer,THURS,N/A,0
+S01828,PE044,production co,Video Engineer,THURS,incl.,FALSE
+S01829,PE044,production co,Video Engineer,Thursday,N/A,0
+S01830,PE044,Prod Company,Graphics,THURS,,N
+S01831,PE044,Production Co.,Stage Manager,Thursday,N/A,0
+S01832,PE044,Prod Company,Lighting,Thurs,incl.,No
+S01833,PE044,Prod Company,video engineer,Thursday,incl.,0
+S01834,PE044,Production Co.,Stage Manager,THURS,N/A,FALSE
+S01835,PE044,Prod Company,Lighting,THURS,N/A,N
+S01836,PE044,Production Co.,Stage Manager,THURS,Included in flat fee,FALSE
+S01837,PE044,Prod Company,graphics,THURS,N/A,No
+S01838,PE044,production co,Rigging,Thu,Included in flat fee,N
+S01839,PE044,production co,Video Engineer,THURS,,0
+S01840,PE044,Prod Company,camera,Thu,incl.,1
+S01841,PE044,production co,Graphics,Thursday,N/A,No
+S01842,PE044,Production Co.,Lighting,Thu,N/A,0
+S01843,PE044,Production Co.,Video Engineer,Thu,Included in flat fee,FALSE
+S01844,PE044,Prod Company,Graphics,Thu,Included in flat fee,0
+S01845,PE044,production co,Camera,THURS,N/A,0
+S01846,PE044,Production Company,Graphics,Thursday,,FALSE
+S01847,PE044,production co,Camera,Thu,N/A,Y
+S01848,PE044,production co,Stage Manager,THURS,N/A,FALSE
+S01849,PE044,Production Co.,lighting,THURS,incl.,FALSE
+S01850,PE044,Production Company,video engineer,Thu,N/A,N
+S01851,PE044,Production Company,Ring Crew,Thursday,incl.,N
+S01852,PE044,Prod Company,Audio,Thurs,incl.,0
+S01853,PE044,Prod Company,Camera,Thu,,0
+S01854,PE044,Production Company,Stage Manager,Thu,incl.,FALSE
+S01855,PE044,Production Co.,Lighting,Thursday,Included in flat fee,N
+S01856,PE044,Production Company,ring crew,Thurs,,No
+S01857,PE044,Production Co.,Lighting,Thu,incl.,0
+S01858,PE044,Prod Company,video engineer,Thu,incl.,N
+S01859,PE044,Production Co.,Lighting,Thursday,incl.,No
+S01860,PE044,Production Co.,Audio,Thursday,,FALSE
+S01861,PE044,Production Co.,Graphics,Thursday,,No
+S01862,PE045,promoter staff,PR & Media,Tues.,$3.5K,FALSE
+S01863,PE045,Promoter,PR & Media,Tuesday,$4K,No
+S01864,PE045,PROMOTER,PR & Media,TUES,"$4,500",No
+S01865,PE045,Promoter,matchmaking,Tue,"$2,500",Y
+S01866,PE045,promoter staff,Matchmaking,Tuesday,"$3,500",FALSE
+S01867,PE045,Promoter,Event Operations,Tuesday,2500,Yes
+S01868,PE045,promoter staff,Talent Relations,Tue,"3,500",N
+S01869,PE045,PROMOTER,talent relations,Tue,"$4,000",0
+S01870,PE045,PROMOTER,Social Media,TUES,"$2,500",TRUE
+S01871,PE045,PROMOTER,Social Media,TUES,$3K,FALSE
+S01872,PE045,promoter staff,Security Lead,Thu,"$5,000",Yes
+S01873,PE045,promoter staff,Event Operations,Thurs,4000,N
+S01874,PE045,PROMOTER,Security Lead,Thu,$4K,N
+S01875,PE045,Promoter,security lead,Thurs,$4K,N
+S01876,PE045,Production Company,Camera,THURS,,0
+S01877,PE045,production co,Stage Manager,Thursday,N/A,No
+S01878,PE045,Production Company,Video Engineer,Thursday,,No
+S01879,PE045,production co,Rigging,Thu,,0
+S01880,PE045,Production Co.,Stage Manager,Thurs,incl.,No
+S01881,PE045,Production Company,Ring Crew,THURS,N/A,TRUE
+S01882,PE045,Production Company,Graphics,THURS,incl.,No
+S01883,PE045,production co,Stage Manager,Thurs,Included in flat fee,TRUE
+S01884,PE045,Prod Company,Lighting,THURS,incl.,No
+S01885,PE045,Production Co.,Audio,Thurs,N/A,FALSE
+S01886,PE045,Production Company,stage manager,THURS,incl.,N
+S01887,PE045,Production Co.,Graphics,Thursday,N/A,FALSE
+S01888,PE045,Production Company,Camera,Thursday,Included in flat fee,0
+S01889,PE045,Production Company,camera,Thu,N/A,No
+S01890,PE045,Prod Company,Video Engineer,Thu,N/A,N
+S01891,PE045,production co,Video Engineer,Thurs,Included in flat fee,No
+S01892,PE045,production co,Camera,Thu,N/A,FALSE
+S01893,PE045,Production Company,Camera,Thu,,0
+S01894,PE045,Prod Company,Stage Manager,Thu,N/A,FALSE
+S01895,PE045,Prod Company,Audio,Thurs,,No
+S01896,PE045,production co,Ring Crew,Thurs,N/A,FALSE
+S01897,PE045,production co,Stage Manager,Thurs,,FALSE
+S01898,PE045,Production Company,Audio,Thursday,,TRUE
+S01899,PE045,Prod Company,Video Engineer,Thurs,incl.,FALSE
+S01900,PE045,Production Company,video engineer,Thu,incl.,0
+S01901,PE045,Production Co.,Audio,Thursday,incl.,N
+S01902,PE045,Prod Company,Stage Manager,THURS,,FALSE
+S01903,PE045,Prod Company,video engineer,Thurs,incl.,FALSE
+S01904,PE045,Production Co.,rigging,Thurs,N/A,0
+S01905,PE045,production co,Stage Manager,Thurs,incl.,No
+S01906,PE045,production co,Rigging,Thu,,N
+S01907,PE045,production co,Rigging,Thursday,Included in flat fee,FALSE
+S01908,PE045,production co,Graphics,Thurs,,No
+S01909,PE045,Production Co.,Lighting,Thu,,N
+S01910,PE045,Production Co.,Video Engineer,Thu,N/A,1
+S01911,PE045,Production Co.,Video Engineer,Thurs,N/A,FALSE
+S01912,PE045,production co,Rigging,Thursday,incl.,N
+S01913,PE045,Production Co.,Camera,Thurs,,No
+S01914,PE045,Prod Company,Lighting,Thursday,Included in flat fee,Yes
+S01915,PE045,Production Company,ring crew,Thu,N/A,N
+S01916,PE045,Production Company,Audio,THURS,incl.,No
+S01917,PE045,production co,Video Engineer,THURS,Included in flat fee,FALSE
+S01918,PE046,promoter staff,Commission Liaison,Tuesday,$5K,No
+S01919,PE046,PROMOTER,Matchmaking,TUES,"$4,500",FALSE
+S01920,PE046,promoter staff,Talent Relations,Tue,$3.5K,No
+S01921,PE046,promoter staff,Commission Liaison,Tues.,"4,000",No
+S01922,PE046,promoter staff,Matchmaking,Tuesday,"4,000",Y
+S01923,PE046,promoter staff,Event Operations,Tues.,"$5,000",0
+S01924,PE046,promoter staff,event operations,Tue,"3,500",FALSE
+S01925,PE046,PROMOTER,social media,Tues.,3500,No
+S01926,PE046,promoter staff,PR & Media,Tues.,"$4,500",0
+S01927,PE046,PROMOTER,Matchmaking,TUES,"$3,500",0
+S01928,PE046,promoter staff,hospitality,Thu,3500,FALSE
+S01929,PE046,Production Company,Graphics,THURS,incl.,No
+S01930,PE046,Production Company,Camera,Thurs,Included in flat fee,FALSE
+S01931,PE046,production co,Lighting,Thu,incl.,FALSE
+S01932,PE046,Production Company,Ring Crew,THURS,N/A,No
+S01933,PE046,Production Co.,Stage Manager,Thu,,N
+S01934,PE046,Prod Company,Rigging,Thu,Included in flat fee,TRUE
+S01935,PE046,Prod Company,Rigging,Thu,N/A,N
+S01936,PE046,Production Company,Video Engineer,Thurs,incl.,0
+S01937,PE046,production co,Stage Manager,Thurs,incl.,0
+S01938,PE046,Production Co.,Lighting,THURS,N/A,No
+S01939,PE046,Prod Company,Rigging,THURS,,FALSE
+S01940,PE046,Production Company,Video Engineer,Thursday,incl.,No
+S01941,PE046,Prod Company,Audio,Thursday,incl.,No
+S01942,PE046,production co,Graphics,Thu,,N
+S01943,PE046,Production Company,Ring Crew,Thursday,,FALSE
+S01944,PE046,Production Co.,Camera,Thurs,N/A,FALSE
+S01945,PE046,Production Company,Rigging,Thu,N/A,N
+S01946,PE046,production co,Stage Manager,Thursday,incl.,0
+S01947,PE046,Production Company,Lighting,Thurs,incl.,0
+S01948,PE046,Production Co.,Lighting,Thu,Included in flat fee,No
+S01949,PE046,Prod Company,Stage Manager,THURS,N/A,No
+S01950,PE047,PROMOTER,Event Operations,Tues.,3000,N
+S01951,PE047,Promoter,Commission Liaison,TUES,$3.5K,N
+S01952,PE047,PROMOTER,event operations,Tues.,"$3,000",FALSE
+S01953,PE047,PROMOTER,talent relations,Tuesday,"$3,500",FALSE
+S01954,PE047,PROMOTER,Matchmaking,Tuesday,"$3,500",FALSE
+S01955,PE047,PROMOTER,commission liaison,Tuesday,"$5,000",FALSE
+S01956,PE047,promoter staff,Matchmaking,TUES,3000,FALSE
+S01957,PE047,PROMOTER,Event Operations,TUES,$4.5K,0
+S01958,PE047,PROMOTER,talent relations,Tuesday,4000,FALSE
+S01959,PE047,Promoter,social media,Tuesday,"$3,000",No
+S01960,PE047,Promoter,Event Operations,Thurs,$3.5K,N
+S01961,PE047,promoter staff,hospitality,Thursday,"$3,500",No
+S01962,PE047,PROMOTER,Security Lead,Thursday,"$4,000",1
+S01963,PE047,production co,Lighting,Thu,,N
+S01964,PE047,production co,Video Engineer,THURS,Included in flat fee,FALSE
+S01965,PE047,Production Company,Video Engineer,Thursday,,N
+S01966,PE047,Prod Company,Camera,Thurs,N/A,No
+S01967,PE047,Prod Company,camera,Thurs,incl.,No
+S01968,PE047,Production Co.,Lighting,Thurs,incl.,No
+S01969,PE047,Production Company,Graphics,Thursday,,0
+S01970,PE047,Production Co.,Graphics,THURS,,FALSE
+S01971,PE047,production co,Ring Crew,Thursday,Included in flat fee,N
+S01972,PE047,Production Co.,Ring Crew,Thurs,Included in flat fee,N
+S01973,PE047,Production Co.,audio,Thurs,,Y
+S01974,PE047,Production Co.,Video Engineer,THURS,incl.,Yes
+S01975,PE047,Prod Company,Ring Crew,THURS,N/A,No
+S01976,PE047,production co,audio,THURS,,0
+S01977,PE047,Prod Company,Graphics,THURS,,0
+S01978,PE047,Production Company,Audio,THURS,incl.,FALSE
+S01979,PE047,Production Co.,ring crew,Thursday,incl.,FALSE
+S01980,PE047,Production Co.,Audio,Thu,N/A,0
+S01981,PE048,Promoter,Talent Relations,Tue,$3K,0
+S01982,PE048,Promoter,Commission Liaison,Tuesday,$3K,0
+S01983,PE048,PROMOTER,Event Operations,TUES,"3,000",FALSE
+S01984,PE048,PROMOTER,PR & Media,Tuesday,"4,500",N
+S01985,PE048,Promoter,Event Operations,Tue,"$5,000",1
+S01986,PE048,promoter staff,Commission Liaison,Tue,$4.5K,1
+S01987,PE048,PROMOTER,PR & Media,Tuesday,"4,000",0
+S01988,PE048,Promoter,Event Operations,Tuesday,"$3,500",TRUE
+S01989,PE048,PROMOTER,Event Operations,Tuesday,"3,000",0
+S01990,PE048,promoter staff,PR & Media,Tuesday,"$3,500",FALSE
+S01991,PE048,promoter staff,Credentialing,THURS,3500,0
+S01992,PE048,Promoter,Ticketing,Thursday,$3K,Y
+S01993,PE048,promoter staff,Security Lead,THURS,"3,500",0
+S01994,PE048,promoter staff,Security Lead,Thurs,4500,0
+S01995,PE048,Promoter,Event Operations,Thurs,$5K,N
+S01996,PE048,Promoter,Security Lead,Thurs,"$3,000",N
+S01997,PE048,Production Co.,Audio,Thursday,,0
+S01998,PE048,production co,Ring Crew,Thursday,incl.,0
+S01999,PE048,Production Company,Audio,Thurs,,1
+S02000,PE048,Production Co.,Ring Crew,Thu,incl.,0
+S02001,PE048,Production Company,Lighting,Thu,incl.,0
+S02002,PE048,Prod Company,Ring Crew,Thurs,incl.,N
+S02003,PE048,Production Co.,lighting,Thurs,incl.,FALSE
+S02004,PE048,Production Company,Rigging,Thursday,N/A,No
+S02005,PE048,Prod Company,Video Engineer,Thu,incl.,No
+S02006,PE048,production co,Video Engineer,Thu,,0
+S02007,PE048,Prod Company,Ring Crew,Thursday,incl.,FALSE
+S02008,PE048,production co,Audio,THURS,incl.,FALSE
+S02009,PE048,Prod Company,Lighting,Thurs,Included in flat fee,0
+S02010,PE048,production co,Ring Crew,Thurs,N/A,No
+S02011,PE048,Prod Company,Camera,THURS,N/A,N
+S02012,PE048,Production Co.,Graphics,Thurs,,No
+S02013,PE048,Production Company,Lighting,Thu,,FALSE
+S02014,PE048,Production Co.,Lighting,Thursday,incl.,FALSE
+S02015,PE048,Prod Company,camera,Thurs,Included in flat fee,N
+S02016,PE048,Production Company,lighting,Thursday,Included in flat fee,FALSE
+S02017,PE048,Prod Company,graphics,THURS,N/A,0
+S02018,PE048,production co,Rigging,Thursday,Included in flat fee,N
+S02019,PE048,Production Company,Camera,Thurs,N/A,N
+S02020,PE048,Production Company,Stage Manager,Thursday,N/A,FALSE
+S02021,PE048,Production Company,Rigging,THURS,incl.,No
+S02022,PE048,production co,Stage Manager,Thurs,,No
+S02023,PE048,production co,Lighting,Thurs,,0
+S02024,PE048,Prod Company,Stage Manager,Thursday,N/A,No
+S02025,PE048,Production Company,Video Engineer,Thu,,N
+S02026,PE048,Production Co.,Video Engineer,THURS,Included in flat fee,No
+S02027,PE048,Production Co.,Stage Manager,Thurs,incl.,N
+S02028,PE048,Production Co.,ring crew,Thu,Included in flat fee,N
+S02029,PE048,production co,Camera,Thursday,incl.,No
+S02030,PE048,Production Co.,Rigging,THURS,Included in flat fee,No
+S02031,PE048,Production Company,Rigging,Thurs,N/A,No
+S02032,PE048,Prod Company,Stage Manager,Thursday,Included in flat fee,0
+S02033,PE048,Production Company,Stage Manager,Thu,incl.,Y
+S02034,PE048,Production Company,lighting,Thurs,incl.,No
+S02035,PE048,Production Company,Lighting,THURS,incl.,FALSE
+S02036,PE048,Production Company,Ring Crew,Thursday,,FALSE
+S02037,PE049,promoter staff,pr & media,TUES,2500,0
+S02038,PE049,promoter staff,Social Media,Tues.,$2.5K,0
+S02039,PE049,PROMOTER,social media,Tuesday,"$4,500",No
+S02040,PE049,Promoter,Commission Liaison,TUES,$3.5K,No
+S02041,PE049,Promoter,Social Media,Tuesday,5000,FALSE
+S02042,PE049,promoter staff,Commission Liaison,TUES,3500,N
+S02043,PE049,PROMOTER,talent relations,Tuesday,"$2,500",No
+S02044,PE049,Promoter,Talent Relations,Tue,3500,N
+S02045,PE049,promoter staff,Commission Liaison,Tue,"4,000",No
+S02046,PE049,Promoter,Matchmaking,TUES,"$4,000",TRUE
+S02047,PE049,PROMOTER,credentialing,THURS,$3.5K,0
+S02048,PE049,Promoter,Event Operations,Thu,"$3,500",FALSE
+S02049,PE049,PROMOTER,Hospitality,THURS,"3,500",Y
+S02050,PE049,production co,Video Engineer,THURS,,0
+S02051,PE049,Production Company,Audio,Thurs,N/A,N
+S02052,PE049,Production Company,Audio,Thursday,Included in flat fee,FALSE
+S02053,PE049,Prod Company,Rigging,Thursday,,No
+S02054,PE049,Production Company,Audio,Thursday,N/A,1
+S02055,PE049,Prod Company,Video Engineer,THURS,Included in flat fee,0
+S02056,PE049,Production Company,Graphics,THURS,,No
+S02057,PE049,Production Company,Stage Manager,Thu,N/A,0
+S02058,PE049,production co,Audio,THURS,incl.,No
+S02059,PE049,production co,Camera,Thu,,FALSE
+S02060,PE049,Prod Company,Audio,THURS,,FALSE
+S02061,PE049,Production Company,stage manager,Thurs,Included in flat fee,N
+S02062,PE049,Production Company,Lighting,Thurs,,FALSE
+S02063,PE049,Prod Company,Video Engineer,Thursday,,0
+S02064,PE049,Production Co.,Stage Manager,Thu,incl.,N
+S02065,PE049,Production Company,Camera,Thurs,Included in flat fee,No
+S02066,PE049,Production Company,Camera,Thurs,,0
+S02067,PE049,Production Company,Camera,Thurs,Included in flat fee,0
+S02068,PE049,production co,Stage Manager,Thursday,incl.,No
+S02069,PE049,Production Co.,Ring Crew,Thu,N/A,Y
+S02070,PE049,Prod Company,Rigging,Thurs,incl.,0
+S02071,PE049,Production Co.,Lighting,THURS,incl.,FALSE
+S02072,PE049,Production Co.,Stage Manager,Thursday,incl.,Yes
+S02073,PE049,production co,Ring Crew,Thurs,Included in flat fee,1
+S02074,PE049,Prod Company,Lighting,Thu,N/A,N
+S02075,PE049,production co,audio,Thursday,Included in flat fee,No
+S02076,PE049,Production Co.,Camera,Thu,N/A,FALSE
+S02077,PE049,Production Company,Video Engineer,Thu,Included in flat fee,N
+S02078,PE049,Production Co.,Rigging,Thursday,incl.,No
+S02079,PE049,Prod Company,ring crew,THURS,N/A,0
+S02080,PE049,Production Company,Graphics,Thurs,incl.,No
+S02081,PE049,production co,Stage Manager,Thu,Included in flat fee,N
+S02082,PE049,Production Company,Rigging,Thurs,Included in flat fee,0
+S02083,PE049,Production Co.,Camera,Thursday,N/A,0
+S02084,PE049,Production Co.,Rigging,Thurs,,No
+S02085,PE049,Production Company,Camera,THURS,N/A,No
+S02086,PE049,production co,Graphics,Thu,N/A,0
+S02087,PE049,Production Company,audio,Thurs,incl.,N
+S02088,PE049,Prod Company,Video Engineer,Thurs,,0
+S02089,PE049,production co,stage manager,Thu,,No
+S02090,PE050,Promoter,Social Media,TUES,"3,500",FALSE
+S02091,PE050,promoter staff,Commission Liaison,Tues.,"$5,000",FALSE
+S02092,PE050,promoter staff,Commission Liaison,TUES,"$3,500",Yes
+S02093,PE050,PROMOTER,talent relations,TUES,"4,000",TRUE
+S02094,PE050,promoter staff,Social Media,TUES,5000,0
+S02095,PE050,promoter staff,social media,Tue,"$2,500",0
+S02096,PE050,Promoter,Talent Relations,TUES,5000,0
+S02097,PE050,PROMOTER,commission liaison,Tuesday,3500,N
+S02098,PE050,promoter staff,matchmaking,Tues.,$4.5K,No
+S02099,PE050,promoter staff,Talent Relations,Tue,$2.5K,0
+S02100,PE050,PROMOTER,event operations,Thurs,"$3,500",N
+S02101,PE050,Promoter,Ticketing,THURS,$4.5K,FALSE
+S02102,PE050,promoter staff,hospitality,Thu,"$4,500",0
+S02103,PE050,promoter staff,Ticketing,Thurs,$5K,FALSE
+S02104,PE050,Production Company,Camera,Thu,,No
+S02105,PE050,Prod Company,ring crew,THURS,,0
+S02106,PE050,Production Company,Lighting,THURS,,0
+S02107,PE050,Production Company,Audio,Thurs,Included in flat fee,No
+S02108,PE050,Production Co.,Video Engineer,THURS,Included in flat fee,No
+S02109,PE050,Production Company,Graphics,Thurs,Included in flat fee,1
+S02110,PE050,production co,Graphics,THURS,incl.,FALSE
+S02111,PE050,Production Company,Stage Manager,Thurs,N/A,FALSE
+S02112,PE050,Production Co.,Graphics,THURS,incl.,0
+S02113,PE050,Prod Company,Audio,Thursday,N/A,No
+S02114,PE050,production co,Rigging,THURS,Included in flat fee,N
+S02115,PE050,Production Company,Audio,Thurs,,N
+S02116,PE050,Production Company,Graphics,Thurs,N/A,No
+S02117,PE050,Production Co.,Audio,Thu,incl.,0
+S02118,PE050,Prod Company,Camera,Thurs,,No
+S02119,PE050,production co,rigging,Thurs,,No
+S02120,PE050,Production Company,Graphics,THURS,N/A,0
+S02121,PE050,production co,Rigging,Thursday,Included in flat fee,FALSE
+S02122,PE050,production co,Camera,Thurs,N/A,N
+S02123,PE050,production co,Rigging,Thurs,Included in flat fee,N
+S02124,PE050,Production Company,Video Engineer,Thurs,,FALSE
+S02125,PE050,Prod Company,Rigging,Thursday,,FALSE
+S02126,PE050,Production Co.,Graphics,Thurs,incl.,FALSE
+S02127,PE050,Production Co.,rigging,THURS,,No
+S02128,PE050,Prod Company,Rigging,Thurs,incl.,FALSE
+S02129,PE050,Prod Company,Audio,Thursday,Included in flat fee,0
+S02130,PE050,Production Company,Audio,Thurs,incl.,N
+S02131,PE050,Production Co.,Ring Crew,Thursday,Included in flat fee,FALSE
+S02132,PE050,Production Company,Graphics,Thurs,N/A,FALSE
+S02133,PE050,Production Company,Video Engineer,Thu,incl.,0
+S02134,PE050,Prod Company,stage manager,Thursday,incl.,0
+S02135,PE050,Production Co.,Camera,Thu,incl.,FALSE
+S02136,PE050,Production Co.,Audio,Thurs,Included in flat fee,N
+S02137,PE050,production co,camera,Thu,N/A,FALSE
+S02138,PE050,Production Company,camera,Thursday,incl.,1
+S02139,PE050,Prod Company,ring crew,THURS,N/A,N
+S02140,PE050,Production Co.,Rigging,Thu,N/A,N
+S02141,PE050,Prod Company,Lighting,Thursday,Included in flat fee,FALSE
+S02142,PE050,Prod Company,ring crew,Thurs,,N
+S02143,PE050,Production Co.,Graphics,THURS,N/A,0
+S02144,PE051,Promoter,social media,TUES,4500,No
+S02145,PE051,Promoter,pr & media,Tues.,$2.5K,N
+S02146,PE051,promoter staff,Matchmaking,TUES,$5K,0
+S02147,PE051,promoter staff,Event Operations,Tuesday,3500,Yes
+S02148,PE051,Promoter,Event Operations,TUES,"$3,500",N
+S02149,PE051,promoter staff,Commission Liaison,Tue,"2,500",Yes
+S02150,PE051,Promoter,Talent Relations,Tuesday,2500,0
+S02151,PE051,promoter staff,social media,Tue,"2,500",No
+S02152,PE051,promoter staff,PR & Media,Tues.,"$3,000",N
+S02153,PE051,Promoter,Commission Liaison,Tuesday,"2,500",N
+S02154,PE051,promoter staff,Security Lead,Thursday,"5,000",0
+S02155,PE051,promoter staff,Security Lead,THURS,4000,N
+S02156,PE051,promoter staff,ticketing,Thursday,"$5,000",FALSE
+S02157,PE051,PROMOTER,Security Lead,THURS,4500,N
+S02158,PE051,PROMOTER,Event Operations,Thurs,5000,1
+S02159,PE051,promoter staff,Event Operations,Thursday,"$2,500",N
+S02160,PE051,Production Company,Camera,Thursday,Included in flat fee,N
+S02161,PE051,production co,stage manager,Thursday,N/A,0
+S02162,PE051,Production Company,rigging,Thu,Included in flat fee,No
+S02163,PE051,production co,Camera,THURS,,No
+S02164,PE051,production co,Audio,Thu,Included in flat fee,No
+S02165,PE051,Production Company,Ring Crew,Thursday,,0
+S02166,PE051,Production Co.,Ring Crew,Thurs,Included in flat fee,0
+S02167,PE051,production co,Lighting,Thurs,N/A,N
+S02168,PE051,Production Company,Lighting,Thursday,incl.,N
+S02169,PE051,Prod Company,Lighting,Thu,N/A,No
+S02170,PE051,Production Company,Lighting,Thurs,,No
+S02171,PE051,Prod Company,Stage Manager,Thurs,N/A,0
+S02172,PE051,production co,Ring Crew,Thurs,N/A,0
+S02173,PE051,production co,Graphics,Thursday,,N
+S02174,PE051,Production Co.,Lighting,Thursday,incl.,0
+S02175,PE051,production co,audio,THURS,N/A,No
+S02176,PE051,Production Co.,Audio,Thursday,Included in flat fee,0
+S02177,PE051,Production Co.,Video Engineer,Thursday,N/A,FALSE
+S02178,PE051,Prod Company,Graphics,Thurs,,No
+S02179,PE051,Production Co.,Audio,Thurs,,N
+S02180,PE051,production co,Audio,Thu,,N
+S02181,PE051,Prod Company,Camera,THURS,N/A,N
+S02182,PE051,Production Company,graphics,Thursday,Included in flat fee,Y
+S02183,PE051,Production Company,rigging,Thurs,incl.,No
+S02184,PE051,Production Co.,Rigging,Thurs,incl.,FALSE
+S02185,PE051,Prod Company,Lighting,THURS,Included in flat fee,No
+S02186,PE051,Production Co.,Graphics,Thursday,incl.,No
+S02187,PE051,Prod Company,Video Engineer,THURS,incl.,0
+S02188,PE051,Prod Company,Ring Crew,Thu,Included in flat fee,No
+S02189,PE051,Prod Company,Camera,THURS,,0
+S02190,PE051,production co,Lighting,Thursday,incl.,N
+S02191,PE051,Production Company,Lighting,Thursday,N/A,0
+S02192,PE051,production co,Camera,Thursday,Included in flat fee,N
+S02193,PE051,Production Company,Camera,Thursday,incl.,0
+S02194,PE051,production co,rigging,Thu,N/A,FALSE
+S02195,PE051,Production Company,Graphics,Thurs,Included in flat fee,FALSE
+S02196,PE051,Prod Company,audio,THURS,,0
+S02197,PE051,Production Company,Ring Crew,Thursday,Included in flat fee,No
+S02198,PE051,Prod Company,camera,Thursday,N/A,FALSE

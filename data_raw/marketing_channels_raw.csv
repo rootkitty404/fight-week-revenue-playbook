@@ -1,0 +1,358 @@
+Event_ID,Market,Channel,Spend,Tickets_Attributed
+PE001,New York,Paid Social,109270,6092
+PE001,NYC,Billboards,58780,1251
+PE001,"New York, NY",Influencers,47190,3518
+PE001,New York,Local Radio,37270,1604
+PE001,New York,Spanish-language Radio,16830,847
+PE001,"New York, NY",Gym & Barbershop Partners,"16,690",1656
+PE001,"New York, NY",Email Presale,"25,890",9433
+PE002,Houston,Paid Social,"22,390",783
+PE002,Texas,Billboards,13140,211
+PE002,TX,Influencers,10100,516
+PE002,TX,Local Radio,9380,536
+PE002,Texas,Spanish-language Radio,"4,220",615
+PE002,Texas,Gym & Barbershop Partners,4110,1084
+PE002,Houston,Email Presale,"5,110",1774
+PE003,Atlanta,Paid Social,108260,6799
+PE003,Atlanta,Billboards,55300,1185
+PE003,ATL,Influencers,46960,3163
+PE003,"Atlanta, GA",Local Radio,34310,1221
+PE003,Atlanta,Spanish-language Radio,16870,756
+PE003,Atlanta,Gym & Barbershop Partners,17570,2359
+PE003,Atlanta,Email Presale,31760,11625
+PE004,Philly,Paid Social,14210,427
+PE004,Philadelphia,Billboards,9280,119
+PE004,Philadelphia,Influencers,5120,205
+PE004,Philadelphia,Local Radio,"5,070",346
+PE004,Philadelphia,Spanish-language Radio,1990,70
+PE004,Philly,Gym & Barbershop Partners,"2,240",711
+PE004,Philly,Email Presale,3840,1126
+PE005,DC,Paid Social,"10,760",317
+PE005,DMV,Billboards,6100,80
+PE005,DMV,Influencers,"4,490",204
+PE005,DMV,Local Radio,"2,670",174
+PE005,DMV,Spanish-language Radio,1170,33
+PE005,DMV,Gym & Barbershop Partners,1120,402
+PE005,DMV,Email Presale,1900,716
+PE006,New York,Paid Social,88890,5354
+PE006,New York,Billboards,55690,1091
+PE006,NYC,Influencers,41640,2792
+PE006,NYC,Local Radio,"36,350",1332
+PE006,New York,Spanish-language Radio,"12,920",840
+PE006,"New York, NY",Gym & Barbershop Partners,12520,1280
+PE006,"New York, NY",Email Presale,25950,8359
+PE007,Las Vegas,Paid Social,145400,8659
+PE007,Las Vegas,Billboards,83980,1655
+PE007,Las Vegas,Influencers,54200,3270
+PE007,Vegas,Local Radio,62960,2747
+PE007,Las Vegas,Spanish-language Radio,27070,1759
+PE007,Las Vegas,Gym & Barbershop Partners,"22,760",2644
+PE007,Las Vegas,Email Presale,34770,11614
+PE008,DMV,Paid Social,30060,1031
+PE008,DMV,Billboards,12420,174
+PE008,DMV,Influencers,11340,605
+PE008,DMV,Local Radio,"8,930",554
+PE008,DMV,Spanish-language Radio,3840,88
+PE008,DMV,Gym & Barbershop Partners,3380,981
+PE008,Washington DC,Email Presale,5760,2137
+PE009,NYC,Paid Social,"110,200",5475
+PE009,New York,Billboards,53070,1186
+PE009,New York,Influencers,46880,3266
+PE009,New York,Local Radio,37730,1435
+PE009,New York,Spanish-language Radio,"16,800",957
+PE009,New York,Gym & Barbershop Partners,16850,1883
+PE009,New York,Email Presale,25680,7882
+PE010,Las Vegas,Paid Social,165550,8358
+PE010,Vegas,Billboards,"81,050",2034
+PE010,Las Vegas,Influencers,"62,230",4051
+PE010,Vegas,Local Radio,46090,1657
+PE010,Vegas,Spanish-language Radio,19050,1208
+PE010,Las Vegas,Gym & Barbershop Partners,23850,2793
+PE010,Las Vegas,Email Presale,32640,10467
+PE011,Texas,Paid Social,20180,704
+PE011,Texas,Billboards,10720,164
+PE011,Houston,Influencers,8440,412
+PE011,TX,Local Radio,"7,720",413
+PE011,TX,Spanish-language Radio,3410,622
+PE011,Texas,Gym & Barbershop Partners,"2,920",645
+PE011,Texas,Email Presale,5710,1962
+PE012,Philadelphia,Paid Social,"16,760",624
+PE012,Philly,Billboards,"10,010",155
+PE012,Philadelphia,Influencers,5840,246
+PE012,Philadelphia,Local Radio,5220,332
+PE012,Philadelphia,Spanish-language Radio,2020,77
+PE012,Philadelphia,Gym & Barbershop Partners,"2,120",641
+PE012,Philly,Email Presale,3930,1255
+PE013,New York,Paid Social,182470,9490
+PE013,"New York, NY",Billboards,77760,1745
+PE013,New York,Influencers,73630,4738
+PE013,New York,Local Radio,59740,2402
+PE013,NYC,Spanish-language Radio,"25,470",1420
+PE013,NYC,Gym & Barbershop Partners,24620,
+PE013,New York,Email Presale,29370,9783
+PE014,DMV,Paid Social,13670,422
+PE014,D.M.V.,Billboards,8370,115
+PE014,DMV,Influencers,7120,290
+PE014,DMV,Local Radio,5940,315
+PE014,DMV,Spanish-language Radio,2700,68
+PE014,DMV,Gym & Barbershop Partners,"2,620",863
+PE014,DMV,Email Presale,3740,1098
+PE015,Las Vegas,Paid Social,180840,9461
+PE015,Las Vegas,Billboards,100300,2448
+PE015,Las Vegas,Influencers,62580,
+PE015,Las Vegas,Local Radio,"43,590",1906
+PE015,Las Vegas,Spanish-language Radio,17580,1165
+PE015,Las Vegas,Gym & Barbershop Partners,20750,2211
+PE015,Vegas,Email Presale,27720,10066
+PE016,DMV,Paid Social,11700,411
+PE016,DMV,Billboards,6300,87
+PE016,DMV,Influencers,3900,155
+PE016,DMV,Local Radio,4030,208
+PE016,DMV,Spanish-language Radio,1850,49
+PE016,DMV,Gym & Barbershop Partners,"1,320",510
+PE016,DMV,Email Presale,2820,847
+PE017,DMV,Paid Social,17480,
+PE017,DMV,Billboards,9630,120
+PE017,DMV,Influencers,5210,245
+PE017,DMV,Local Radio,4470,287
+PE017,DC,Spanish-language Radio,2020,61
+PE017,DC,Gym & Barbershop Partners,2030,708
+PE017,DMV,Email Presale,"3,570",1130
+PE018,NYC,Paid Social,120700,5983
+PE018,"New York, NY",Billboards,63110,1240
+PE018,NYC,Influencers,"41,400",2641
+PE018,New York,Local Radio,"39,880",1515
+PE018,NYC,Spanish-language Radio,17050,1056
+PE018,NYC,Gym & Barbershop Partners,"14,300",1867
+PE018,NYC,Email Presale,"29,550",11139
+PE019,Vegas,Paid Social,"92,270",4527
+PE019,Vegas,Billboards,61790,1486
+PE019,Vegas,Influencers,39010,2632
+PE019,Las Vegas,Local Radio,"36,340",1277
+PE019,Las Vegas,Spanish-language Radio,16310,1185
+PE019,Vegas,Gym & Barbershop Partners,11610,1177
+PE019,Vegas,Email Presale,22850,8783
+PE020,DMV,Paid Social,15160,576
+PE020,DC,Billboards,10030,
+PE020,DMV,Influencers,6530,337
+PE020,DMV,Local Radio,6220,352
+PE020,DMV,Spanish-language Radio,2590,60
+PE020,Washington DC,Gym & Barbershop Partners,1980,714
+PE020,DMV,Email Presale,3620,1096
+PE021,Texas,Paid Social,25380,813
+PE021,Texas,Billboards,11850,178
+PE021,Texas,Influencers,8870,413
+PE021,Texas,Local Radio,8970,517
+PE021,Texas,Spanish-language Radio,3760,632
+PE021,Texas,Gym & Barbershop Partners,"2,950",797
+PE021,Texas,Email Presale,4640,1384
+PE022,Philly,Paid Social,17790,573
+PE022,Philly,Billboards,10190,
+PE022,Philly,Influencers,"5,630",266
+PE022,PHL,Local Radio,5650,361
+PE022,Philadelphia,Spanish-language Radio,1770,52
+PE022,Philadelphia,Gym & Barbershop Partners,2160,711
+PE022,Philadelphia,Email Presale,"4,020",1344
+PE023,DMV,Paid Social,30790,1170
+PE023,Washington DC,Billboards,17200,248
+PE023,DMV,Influencers,10480,527
+PE023,DMV,Local Radio,11460,684
+PE023,DC,Spanish-language Radio,4100,101
+PE023,DMV,Gym & Barbershop Partners,4430,1317
+PE023,DMV,Email Presale,7420,2627
+PE024,"New York, NY",Paid Social,150780,7930
+PE024,New York,Billboards,86320,1771
+PE024,New York,Influencers,65670,4520
+PE024,New York,Local Radio,42540,1603
+PE024,New York,Spanish-language Radio,24770,1459
+PE024,"New York, NY",Gym & Barbershop Partners,"19,610",2255
+PE024,New York,Email Presale,33010,11459
+PE025,TX,Paid Social,20860,711
+PE025,Texas,Billboards,"12,640",212
+PE025,Texas,Influencers,9440,504
+PE025,Texas,Local Radio,7570,517
+PE025,TX,Spanish-language Radio,2730,532
+PE025,Texas,Gym & Barbershop Partners,3670,902
+PE025,Texas,Email Presale,4890,1786
+PE026,Philadelphia,Paid Social,33440,1056
+PE026,Philadelphia,Billboards,"21,030",274
+PE026,PHL,Influencers,14680,748
+PE026,Philadelphia,Local Radio,15180,1025
+PE026,Philadelphia,Spanish-language Radio,6610,224
+PE026,Philadelphia,Gym & Barbershop Partners,6470,2340
+PE026,Philadelphia,Email Presale,"7,960",2846
+PE027,Vegas,Paid Social,154820,7516
+PE027,Las Vegas,Billboards,"97,320",2106
+PE027,Las Vegas,Influencers,51030,3912
+PE027,Vegas,Local Radio,"45,020",1921
+PE027,Las Vegas,Spanish-language Radio,22010,1374
+PE027,Vegas,Gym & Barbershop Partners,16760,1913
+PE027,Las Vegas,Email Presale,33320,12953
+PE028,Philadelphia,Paid Social,12750,407
+PE028,Philly,Billboards,7860,105
+PE028,Philadelphia,Influencers,4910,208
+PE028,Philadelphia,Local Radio,4590,254
+PE028,Philly,Spanish-language Radio,"2,170",64
+PE028,Philadelphia,Gym & Barbershop Partners,"1,620",523
+PE028,Philadelphia,Email Presale,3400,1124
+PE029,Texas,Paid Social,25210,
+PE029,Texas,Billboards,13300,192
+PE029,Texas,Influencers,10350,418
+PE029,Texas,Local Radio,8800,563
+PE029,Texas,Spanish-language Radio,3340,503
+PE029,Houston,Gym & Barbershop Partners,4290,1208
+PE029,Texas,Email Presale,5540,1987
+PE030,Houston,Paid Social,34670,1035
+PE030,Texas,Billboards,24350,392
+PE030,TX,Influencers,16300,840
+PE030,Texas,Local Radio,14260,860
+PE030,Texas,Spanish-language Radio,5430,998
+PE030,Texas,Gym & Barbershop Partners,4710,1172
+PE030,Houston,Email Presale,7940,2392
+PE031,Houston,Paid Social,17250,675
+PE031,TX,Billboards,9380,145
+PE031,Texas,Influencers,5710,234
+PE031,Texas,Local Radio,4790,273
+PE031,Texas,Spanish-language Radio,"2,240",340
+PE031,Texas,Gym & Barbershop Partners,2580,678
+PE031,Texas,Email Presale,"3,600",1196
+PE032,Washington DC,Paid Social,"37,780",1199
+PE032,Washington DC,Billboards,21470,346
+PE032,DMV,Influencers,15130,602
+PE032,DMV,Local Radio,13580,888
+PE032,DMV,Spanish-language Radio,6320,167
+PE032,DMV,Gym & Barbershop Partners,6850,2466
+PE032,DMV,Email Presale,9070,2716
+PE033,DMV,Paid Social,"10,350",306
+PE033,DMV,Billboards,"6,680",95
+PE033,DMV,Influencers,3490,157
+PE033,DC,Local Radio,"3,380",204
+PE033,DMV,Spanish-language Radio,1580,46
+PE033,DMV,Gym & Barbershop Partners,"1,270",443
+PE033,DMV,Email Presale,2130,820
+PE034,Texas,Paid Social,"36,720",1216
+PE034,Texas,Billboards,"21,260",264
+PE034,Texas,Influencers,11990,550
+PE034,Houston,Local Radio,"11,590",715
+PE034,Texas,Spanish-language Radio,3760,583
+PE034,Houston,Gym & Barbershop Partners,4930,1073
+PE034,Houston,Email Presale,6740,2485
+PE035,Philly,Paid Social,"12,560",407
+PE035,Philadelphia,Billboards,6480,100
+PE035,Philadelphia,Influencers,"4,540",226
+PE035,Philadelphia,Local Radio,5100,281
+PE035,Philadelphia,Spanish-language Radio,"1,710",51
+PE035,Philadelphia,Gym & Barbershop Partners,1820,659
+PE035,Philadelphia,Email Presale,2620,807
+PE036,New York,Paid Social,166780,10393
+PE036,"New York, NY",Billboards,"76,910",1605
+PE036,New York,Influencers,"71,230",4956
+PE036,NYC,Local Radio,61290,2420
+PE036,New York,Spanish-language Radio,21750,1167
+PE036,NYC,Gym & Barbershop Partners,23020,2333
+PE036,"New York, NY",Email Presale,30780,9685
+PE037,Vegas,Paid Social,"77,490",3849
+PE037,Las Vegas,Billboards,45280,1055
+PE037,Las Vegas,Influencers,36830,2193
+PE037,Las Vegas,Local Radio,"29,170",
+PE037,Las Vegas,Spanish-language Radio,"12,700",853
+PE037,Vegas,Gym & Barbershop Partners,"9,260",980
+PE037,Las Vegas,Email Presale,16650,4845
+PE038,"New York, NY",Paid Social,"181,740",10361
+PE038,New York,Billboards,"98,040",2009
+PE038,New York,Influencers,"69,720",4172
+PE038,New York,Local Radio,70440,3000
+PE038,New York,Spanish-language Radio,"25,230",1603
+PE038,"New York, NY",Gym & Barbershop Partners,29440,2944
+PE038,NYC,Email Presale,35590,10522
+PE039,"New York, NY",Paid Social,90430,
+PE039,"New York, NY",Billboards,57090,1179
+PE039,New York,Influencers,38390,2280
+PE039,NYC,Local Radio,32810,1456
+PE039,"New York, NY",Spanish-language Radio,13580,874
+PE039,New York,Gym & Barbershop Partners,"12,310",1260
+PE039,New York,Email Presale,24650,8655
+PE040,Atlanta,Paid Social,142000,8704
+PE040,Atlanta,Billboards,79340,1607
+PE040,Atlanta,Influencers,55500,3739
+PE040,ATL,Local Radio,57580,1986
+PE040,Atlanta,Spanish-language Radio,23320,869
+PE040,Atlanta,Gym & Barbershop Partners,19790,3070
+PE040,ATL,Email Presale,32380,10975
+PE041,Philadelphia,Paid Social,"13,930",458
+PE041,Philadelphia,Billboards,9490,130
+PE041,PHL,Influencers,"5,520",291
+PE041,Philadelphia,Local Radio,5190,303
+PE041,Philadelphia,Spanish-language Radio,"1,980",67
+PE041,PHL,Gym & Barbershop Partners,2110,759
+PE041,PHL,Email Presale,"3,410",1011
+PE042,Las Vegas,Paid Social,"74,540",4577
+PE042,Las Vegas,Billboards,48440,1134
+PE042,Las Vegas,Influencers,"38,070",2332
+PE042,Las Vegas,Local Radio,32980,1159
+PE042,Vegas,Spanish-language Radio,13870,935
+PE042,Las Vegas,Gym & Barbershop Partners,10930,1317
+PE042,Vegas,Email Presale,23210,6987
+PE043,"Atlanta, GA",Paid Social,"131,690",6394
+PE043,Atlanta,Billboards,78530,1667
+PE043,Atlanta,Influencers,"51,080",3781
+PE043,"Atlanta, GA",Local Radio,32190,1453
+PE043,Atlanta,Spanish-language Radio,18790,734
+PE043,Atlanta,Gym & Barbershop Partners,"17,260",2509
+PE043,"Atlanta, GA",Email Presale,27980,9692
+PE044,Las Vegas,Paid Social,139390,8094
+PE044,Las Vegas,Billboards,94330,1899
+PE044,Las Vegas,Influencers,71400,5102
+PE044,Las Vegas,Local Radio,61940,2341
+PE044,Las Vegas,Spanish-language Radio,21980,1818
+PE044,Vegas,Gym & Barbershop Partners,"28,280",2824
+PE044,Vegas,Email Presale,37900,12631
+PE045,Vegas,Paid Social,143000,8521
+PE045,Vegas,Billboards,83620,1717
+PE045,Las Vegas,Influencers,45050,2980
+PE045,Las Vegas,Local Radio,39800,1794
+PE045,Las Vegas,Spanish-language Radio,16980,1415
+PE045,Las Vegas,Gym & Barbershop Partners,"18,660",1883
+PE045,Vegas,Email Presale,30770,11138
+PE046,Houston,Paid Social,15590,591
+PE046,Houston,Billboards,"11,510",160
+PE046,Houston,Influencers,"6,640",281
+PE046,Texas,Local Radio,6590,342
+PE046,Houston,Spanish-language Radio,2020,365
+PE046,TX,Gym & Barbershop Partners,2940,825
+PE046,TX,Email Presale,3420,1010
+PE047,Philly,Paid Social,28310,1010
+PE047,PHL,Billboards,17090,239
+PE047,Philadelphia,Influencers,12720,508
+PE047,PHL,Local Radio,10490,704
+PE047,Philadelphia,Spanish-language Radio,4060,151
+PE047,Philly,Gym & Barbershop Partners,3970,1171
+PE047,Philadelphia,Email Presale,"7,290",2245
+PE048,ATL,Paid Social,100990,5707
+PE048,Atlanta,Billboards,62170,1479
+PE048,Atlanta,Influencers,"36,900",2603
+PE048,"Atlanta, GA",Local Radio,"42,480",1426
+PE048,"Atlanta, GA",Spanish-language Radio,17100,687
+PE048,ATL,Gym & Barbershop Partners,12480,1655
+PE048,Atlanta,Email Presale,23350,7709
+PE049,Vegas,Paid Social,"99,160",5221
+PE049,Las Vegas,Billboards,50580,1015
+PE049,Vegas,Influencers,38640,2550
+PE049,Las Vegas,Local Radio,31380,1242
+PE049,Vegas,Spanish-language Radio,14130,934
+PE049,Vegas,Gym & Barbershop Partners,13260,1638
+PE049,Las Vegas,Email Presale,"19,360",6801
+PE050,Vegas,Paid Social,74910,4043
+PE050,Las Vegas,Billboards,50490,1028
+PE050,Las Vegas,Influencers,41280,2498
+PE050,Vegas,Local Radio,"34,430",1205
+PE050,Las Vegas,Spanish-language Radio,11550,873
+PE050,Vegas,Gym & Barbershop Partners,13200,1534
+PE050,Las Vegas,Email Presale,"19,960",6643
+PE051,New York,Paid Social,126830,6310
+PE051,New York,Billboards,99960,
+PE051,New York,Influencers,68200,4043
+PE051,New York,Local Radio,47400,2074
+PE051,NYC,Spanish-language Radio,19510,1181
+PE051,New York,Gym & Barbershop Partners,25270,2475
+PE051,New York,Email Presale,37250,11724

@@ -1,0 +1,358 @@
+Event_ID,Market,Channel,Spend,Tickets_Attributed,Card_Type,Cost_Per_Ticket
+PE001,New York,Paid Social,109270.0,6092.0,Big,17.94
+PE001,New York,Billboards,58780.0,1251.0,Big,46.99
+PE001,New York,Influencers,47190.0,3518.0,Big,13.41
+PE001,New York,Local Radio,37270.0,1604.0,Big,23.24
+PE001,New York,Spanish-language Radio,16830.0,847.0,Big,19.87
+PE001,New York,Gym & Barbershop Partners,16690.0,1656.0,Big,10.08
+PE001,New York,Email Presale,25890.0,9433.0,Big,2.74
+PE002,Texas,Paid Social,22390.0,783.0,Mid-sized,28.6
+PE002,Texas,Billboards,13140.0,211.0,Mid-sized,62.27
+PE002,Texas,Influencers,10100.0,516.0,Mid-sized,19.57
+PE002,Texas,Local Radio,9380.0,536.0,Mid-sized,17.5
+PE002,Texas,Spanish-language Radio,4220.0,615.0,Mid-sized,6.86
+PE002,Texas,Gym & Barbershop Partners,4110.0,1084.0,Mid-sized,3.79
+PE002,Texas,Email Presale,5110.0,1774.0,Mid-sized,2.88
+PE003,Atlanta,Paid Social,108260.0,6799.0,Big,15.92
+PE003,Atlanta,Billboards,55300.0,1185.0,Big,46.67
+PE003,Atlanta,Influencers,46960.0,3163.0,Big,14.85
+PE003,Atlanta,Local Radio,34310.0,1221.0,Big,28.1
+PE003,Atlanta,Spanish-language Radio,16870.0,756.0,Big,22.31
+PE003,Atlanta,Gym & Barbershop Partners,17570.0,2359.0,Big,7.45
+PE003,Atlanta,Email Presale,31760.0,11625.0,Big,2.73
+PE004,Philadelphia,Paid Social,14210.0,427.0,Mid-sized,33.28
+PE004,Philadelphia,Billboards,9280.0,119.0,Mid-sized,77.98
+PE004,Philadelphia,Influencers,5120.0,205.0,Mid-sized,24.98
+PE004,Philadelphia,Local Radio,5070.0,346.0,Mid-sized,14.65
+PE004,Philadelphia,Spanish-language Radio,1990.0,70.0,Mid-sized,28.43
+PE004,Philadelphia,Gym & Barbershop Partners,2240.0,711.0,Mid-sized,3.15
+PE004,Philadelphia,Email Presale,3840.0,1126.0,Mid-sized,3.41
+PE005,DMV,Paid Social,10760.0,317.0,Mid-sized,33.94
+PE005,DMV,Billboards,6100.0,80.0,Mid-sized,76.25
+PE005,DMV,Influencers,4490.0,204.0,Mid-sized,22.01
+PE005,DMV,Local Radio,2670.0,174.0,Mid-sized,15.34
+PE005,DMV,Spanish-language Radio,1170.0,33.0,Mid-sized,35.45
+PE005,DMV,Gym & Barbershop Partners,1120.0,402.0,Mid-sized,2.79
+PE005,DMV,Email Presale,1900.0,716.0,Mid-sized,2.65
+PE006,New York,Paid Social,88890.0,5354.0,Big,16.6
+PE006,New York,Billboards,55690.0,1091.0,Big,51.04
+PE006,New York,Influencers,41640.0,2792.0,Big,14.91
+PE006,New York,Local Radio,36350.0,1332.0,Big,27.29
+PE006,New York,Spanish-language Radio,12920.0,840.0,Big,15.38
+PE006,New York,Gym & Barbershop Partners,12520.0,1280.0,Big,9.78
+PE006,New York,Email Presale,25950.0,8359.0,Big,3.1
+PE007,Las Vegas,Paid Social,145400.0,8659.0,Big,16.79
+PE007,Las Vegas,Billboards,83980.0,1655.0,Big,50.74
+PE007,Las Vegas,Influencers,54200.0,3270.0,Big,16.57
+PE007,Las Vegas,Local Radio,62960.0,2747.0,Big,22.92
+PE007,Las Vegas,Spanish-language Radio,27070.0,1759.0,Big,15.39
+PE007,Las Vegas,Gym & Barbershop Partners,22760.0,2644.0,Big,8.61
+PE007,Las Vegas,Email Presale,34770.0,11614.0,Big,2.99
+PE008,DMV,Paid Social,30060.0,1031.0,Mid-sized,29.16
+PE008,DMV,Billboards,12420.0,174.0,Mid-sized,71.38
+PE008,DMV,Influencers,11340.0,605.0,Mid-sized,18.74
+PE008,DMV,Local Radio,8930.0,554.0,Mid-sized,16.12
+PE008,DMV,Spanish-language Radio,3840.0,88.0,Mid-sized,43.64
+PE008,DMV,Gym & Barbershop Partners,3380.0,981.0,Mid-sized,3.45
+PE008,DMV,Email Presale,5760.0,2137.0,Mid-sized,2.7
+PE009,New York,Paid Social,110200.0,5475.0,Big,20.13
+PE009,New York,Billboards,53070.0,1186.0,Big,44.75
+PE009,New York,Influencers,46880.0,3266.0,Big,14.35
+PE009,New York,Local Radio,37730.0,1435.0,Big,26.29
+PE009,New York,Spanish-language Radio,16800.0,957.0,Big,17.55
+PE009,New York,Gym & Barbershop Partners,16850.0,1883.0,Big,8.95
+PE009,New York,Email Presale,25680.0,7882.0,Big,3.26
+PE010,Las Vegas,Paid Social,165550.0,8358.0,Big,19.81
+PE010,Las Vegas,Billboards,81050.0,2034.0,Big,39.85
+PE010,Las Vegas,Influencers,62230.0,4051.0,Big,15.36
+PE010,Las Vegas,Local Radio,46090.0,1657.0,Big,27.82
+PE010,Las Vegas,Spanish-language Radio,19050.0,1208.0,Big,15.77
+PE010,Las Vegas,Gym & Barbershop Partners,23850.0,2793.0,Big,8.54
+PE010,Las Vegas,Email Presale,32640.0,10467.0,Big,3.12
+PE011,Texas,Paid Social,20180.0,704.0,Mid-sized,28.66
+PE011,Texas,Billboards,10720.0,164.0,Mid-sized,65.37
+PE011,Texas,Influencers,8440.0,412.0,Mid-sized,20.49
+PE011,Texas,Local Radio,7720.0,413.0,Mid-sized,18.69
+PE011,Texas,Spanish-language Radio,3410.0,622.0,Mid-sized,5.48
+PE011,Texas,Gym & Barbershop Partners,2920.0,645.0,Mid-sized,4.53
+PE011,Texas,Email Presale,5710.0,1962.0,Mid-sized,2.91
+PE012,Philadelphia,Paid Social,16760.0,624.0,Mid-sized,26.86
+PE012,Philadelphia,Billboards,10010.0,155.0,Mid-sized,64.58
+PE012,Philadelphia,Influencers,5840.0,246.0,Mid-sized,23.74
+PE012,Philadelphia,Local Radio,5220.0,332.0,Mid-sized,15.72
+PE012,Philadelphia,Spanish-language Radio,2020.0,77.0,Mid-sized,26.23
+PE012,Philadelphia,Gym & Barbershop Partners,2120.0,641.0,Mid-sized,3.31
+PE012,Philadelphia,Email Presale,3930.0,1255.0,Mid-sized,3.13
+PE013,New York,Paid Social,182470.0,9490.0,Big,19.23
+PE013,New York,Billboards,77760.0,1745.0,Big,44.56
+PE013,New York,Influencers,73630.0,4738.0,Big,15.54
+PE013,New York,Local Radio,59740.0,2402.0,Big,24.87
+PE013,New York,Spanish-language Radio,25470.0,1420.0,Big,17.94
+PE013,New York,Gym & Barbershop Partners,24620.0,,Big,
+PE013,New York,Email Presale,29370.0,9783.0,Big,3.0
+PE014,DMV,Paid Social,13670.0,422.0,Mid-sized,32.39
+PE014,DMV,Billboards,8370.0,115.0,Mid-sized,72.78
+PE014,DMV,Influencers,7120.0,290.0,Mid-sized,24.55
+PE014,DMV,Local Radio,5940.0,315.0,Mid-sized,18.86
+PE014,DMV,Spanish-language Radio,2700.0,68.0,Mid-sized,39.71
+PE014,DMV,Gym & Barbershop Partners,2620.0,863.0,Mid-sized,3.04
+PE014,DMV,Email Presale,3740.0,1098.0,Mid-sized,3.41
+PE015,Las Vegas,Paid Social,180840.0,9461.0,Big,19.11
+PE015,Las Vegas,Billboards,100300.0,2448.0,Big,40.97
+PE015,Las Vegas,Influencers,62580.0,,Big,
+PE015,Las Vegas,Local Radio,43590.0,1906.0,Big,22.87
+PE015,Las Vegas,Spanish-language Radio,17580.0,1165.0,Big,15.09
+PE015,Las Vegas,Gym & Barbershop Partners,20750.0,2211.0,Big,9.38
+PE015,Las Vegas,Email Presale,27720.0,10066.0,Big,2.75
+PE016,DMV,Paid Social,11700.0,411.0,Mid-sized,28.47
+PE016,DMV,Billboards,6300.0,87.0,Mid-sized,72.41
+PE016,DMV,Influencers,3900.0,155.0,Mid-sized,25.16
+PE016,DMV,Local Radio,4030.0,208.0,Mid-sized,19.38
+PE016,DMV,Spanish-language Radio,1850.0,49.0,Mid-sized,37.76
+PE016,DMV,Gym & Barbershop Partners,1320.0,510.0,Mid-sized,2.59
+PE016,DMV,Email Presale,2820.0,847.0,Mid-sized,3.33
+PE017,DMV,Paid Social,17480.0,,Mid-sized,
+PE017,DMV,Billboards,9630.0,120.0,Mid-sized,80.25
+PE017,DMV,Influencers,5210.0,245.0,Mid-sized,21.27
+PE017,DMV,Local Radio,4470.0,287.0,Mid-sized,15.57
+PE017,DMV,Spanish-language Radio,2020.0,61.0,Mid-sized,33.11
+PE017,DMV,Gym & Barbershop Partners,2030.0,708.0,Mid-sized,2.87
+PE017,DMV,Email Presale,3570.0,1130.0,Mid-sized,3.16
+PE018,New York,Paid Social,120700.0,5983.0,Big,20.17
+PE018,New York,Billboards,63110.0,1240.0,Big,50.9
+PE018,New York,Influencers,41400.0,2641.0,Big,15.68
+PE018,New York,Local Radio,39880.0,1515.0,Big,26.32
+PE018,New York,Spanish-language Radio,17050.0,1056.0,Big,16.15
+PE018,New York,Gym & Barbershop Partners,14300.0,1867.0,Big,7.66
+PE018,New York,Email Presale,29550.0,11139.0,Big,2.65
+PE019,Las Vegas,Paid Social,92270.0,4527.0,Big,20.38
+PE019,Las Vegas,Billboards,61790.0,1486.0,Big,41.58
+PE019,Las Vegas,Influencers,39010.0,2632.0,Big,14.82
+PE019,Las Vegas,Local Radio,36340.0,1277.0,Big,28.46
+PE019,Las Vegas,Spanish-language Radio,16310.0,1185.0,Big,13.76
+PE019,Las Vegas,Gym & Barbershop Partners,11610.0,1177.0,Big,9.86
+PE019,Las Vegas,Email Presale,22850.0,8783.0,Big,2.6
+PE020,DMV,Paid Social,15160.0,576.0,Mid-sized,26.32
+PE020,DMV,Billboards,10030.0,,Mid-sized,
+PE020,DMV,Influencers,6530.0,337.0,Mid-sized,19.38
+PE020,DMV,Local Radio,6220.0,352.0,Mid-sized,17.67
+PE020,DMV,Spanish-language Radio,2590.0,60.0,Mid-sized,43.17
+PE020,DMV,Gym & Barbershop Partners,1980.0,714.0,Mid-sized,2.77
+PE020,DMV,Email Presale,3620.0,1096.0,Mid-sized,3.3
+PE021,Texas,Paid Social,25380.0,813.0,Mid-sized,31.22
+PE021,Texas,Billboards,11850.0,178.0,Mid-sized,66.57
+PE021,Texas,Influencers,8870.0,413.0,Mid-sized,21.48
+PE021,Texas,Local Radio,8970.0,517.0,Mid-sized,17.35
+PE021,Texas,Spanish-language Radio,3760.0,632.0,Mid-sized,5.95
+PE021,Texas,Gym & Barbershop Partners,2950.0,797.0,Mid-sized,3.7
+PE021,Texas,Email Presale,4640.0,1384.0,Mid-sized,3.35
+PE022,Philadelphia,Paid Social,17790.0,573.0,Mid-sized,31.05
+PE022,Philadelphia,Billboards,10190.0,,Mid-sized,
+PE022,Philadelphia,Influencers,5630.0,266.0,Mid-sized,21.17
+PE022,Philadelphia,Local Radio,5650.0,361.0,Mid-sized,15.65
+PE022,Philadelphia,Spanish-language Radio,1770.0,52.0,Mid-sized,34.04
+PE022,Philadelphia,Gym & Barbershop Partners,2160.0,711.0,Mid-sized,3.04
+PE022,Philadelphia,Email Presale,4020.0,1344.0,Mid-sized,2.99
+PE023,DMV,Paid Social,30790.0,1170.0,Mid-sized,26.32
+PE023,DMV,Billboards,17200.0,248.0,Mid-sized,69.35
+PE023,DMV,Influencers,10480.0,527.0,Mid-sized,19.89
+PE023,DMV,Local Radio,11460.0,684.0,Mid-sized,16.75
+PE023,DMV,Spanish-language Radio,4100.0,101.0,Mid-sized,40.59
+PE023,DMV,Gym & Barbershop Partners,4430.0,1317.0,Mid-sized,3.36
+PE023,DMV,Email Presale,7420.0,2627.0,Mid-sized,2.82
+PE024,New York,Paid Social,150780.0,7930.0,Big,19.01
+PE024,New York,Billboards,86320.0,1771.0,Big,48.74
+PE024,New York,Influencers,65670.0,4520.0,Big,14.53
+PE024,New York,Local Radio,42540.0,1603.0,Big,26.54
+PE024,New York,Spanish-language Radio,24770.0,1459.0,Big,16.98
+PE024,New York,Gym & Barbershop Partners,19610.0,2255.0,Big,8.7
+PE024,New York,Email Presale,33010.0,11459.0,Big,2.88
+PE025,Texas,Paid Social,20860.0,711.0,Mid-sized,29.34
+PE025,Texas,Billboards,12640.0,212.0,Mid-sized,59.62
+PE025,Texas,Influencers,9440.0,504.0,Mid-sized,18.73
+PE025,Texas,Local Radio,7570.0,517.0,Mid-sized,14.64
+PE025,Texas,Spanish-language Radio,2730.0,532.0,Mid-sized,5.13
+PE025,Texas,Gym & Barbershop Partners,3670.0,902.0,Mid-sized,4.07
+PE025,Texas,Email Presale,4890.0,1786.0,Mid-sized,2.74
+PE026,Philadelphia,Paid Social,33440.0,1056.0,Mid-sized,31.67
+PE026,Philadelphia,Billboards,21030.0,274.0,Mid-sized,76.75
+PE026,Philadelphia,Influencers,14680.0,748.0,Mid-sized,19.63
+PE026,Philadelphia,Local Radio,15180.0,1025.0,Mid-sized,14.81
+PE026,Philadelphia,Spanish-language Radio,6610.0,224.0,Mid-sized,29.51
+PE026,Philadelphia,Gym & Barbershop Partners,6470.0,2340.0,Mid-sized,2.76
+PE026,Philadelphia,Email Presale,7960.0,2846.0,Mid-sized,2.8
+PE027,Las Vegas,Paid Social,154820.0,7516.0,Big,20.6
+PE027,Las Vegas,Billboards,97320.0,2106.0,Big,46.21
+PE027,Las Vegas,Influencers,51030.0,3912.0,Big,13.04
+PE027,Las Vegas,Local Radio,45020.0,1921.0,Big,23.44
+PE027,Las Vegas,Spanish-language Radio,22010.0,1374.0,Big,16.02
+PE027,Las Vegas,Gym & Barbershop Partners,16760.0,1913.0,Big,8.76
+PE027,Las Vegas,Email Presale,33320.0,12953.0,Big,2.57
+PE028,Philadelphia,Paid Social,12750.0,407.0,Mid-sized,31.33
+PE028,Philadelphia,Billboards,7860.0,105.0,Mid-sized,74.86
+PE028,Philadelphia,Influencers,4910.0,208.0,Mid-sized,23.61
+PE028,Philadelphia,Local Radio,4590.0,254.0,Mid-sized,18.07
+PE028,Philadelphia,Spanish-language Radio,2170.0,64.0,Mid-sized,33.91
+PE028,Philadelphia,Gym & Barbershop Partners,1620.0,523.0,Mid-sized,3.1
+PE028,Philadelphia,Email Presale,3400.0,1124.0,Mid-sized,3.02
+PE029,Texas,Paid Social,25210.0,,Mid-sized,
+PE029,Texas,Billboards,13300.0,192.0,Mid-sized,69.27
+PE029,Texas,Influencers,10350.0,418.0,Mid-sized,24.76
+PE029,Texas,Local Radio,8800.0,563.0,Mid-sized,15.63
+PE029,Texas,Spanish-language Radio,3340.0,503.0,Mid-sized,6.64
+PE029,Texas,Gym & Barbershop Partners,4290.0,1208.0,Mid-sized,3.55
+PE029,Texas,Email Presale,5540.0,1987.0,Mid-sized,2.79
+PE030,Texas,Paid Social,34670.0,1035.0,Mid-sized,33.5
+PE030,Texas,Billboards,24350.0,392.0,Mid-sized,62.12
+PE030,Texas,Influencers,16300.0,840.0,Mid-sized,19.4
+PE030,Texas,Local Radio,14260.0,860.0,Mid-sized,16.58
+PE030,Texas,Spanish-language Radio,5430.0,998.0,Mid-sized,5.44
+PE030,Texas,Gym & Barbershop Partners,4710.0,1172.0,Mid-sized,4.02
+PE030,Texas,Email Presale,7940.0,2392.0,Mid-sized,3.32
+PE031,Texas,Paid Social,17250.0,675.0,Mid-sized,25.56
+PE031,Texas,Billboards,9380.0,145.0,Mid-sized,64.69
+PE031,Texas,Influencers,5710.0,234.0,Mid-sized,24.4
+PE031,Texas,Local Radio,4790.0,273.0,Mid-sized,17.55
+PE031,Texas,Spanish-language Radio,2240.0,340.0,Mid-sized,6.59
+PE031,Texas,Gym & Barbershop Partners,2580.0,678.0,Mid-sized,3.81
+PE031,Texas,Email Presale,3600.0,1196.0,Mid-sized,3.01
+PE032,DMV,Paid Social,37780.0,1199.0,Mid-sized,31.51
+PE032,DMV,Billboards,21470.0,346.0,Mid-sized,62.05
+PE032,DMV,Influencers,15130.0,602.0,Mid-sized,25.13
+PE032,DMV,Local Radio,13580.0,888.0,Mid-sized,15.29
+PE032,DMV,Spanish-language Radio,6320.0,167.0,Mid-sized,37.84
+PE032,DMV,Gym & Barbershop Partners,6850.0,2466.0,Mid-sized,2.78
+PE032,DMV,Email Presale,9070.0,2716.0,Mid-sized,3.34
+PE033,DMV,Paid Social,10350.0,306.0,Mid-sized,33.82
+PE033,DMV,Billboards,6680.0,95.0,Mid-sized,70.32
+PE033,DMV,Influencers,3490.0,157.0,Mid-sized,22.23
+PE033,DMV,Local Radio,3380.0,204.0,Mid-sized,16.57
+PE033,DMV,Spanish-language Radio,1580.0,46.0,Mid-sized,34.35
+PE033,DMV,Gym & Barbershop Partners,1270.0,443.0,Mid-sized,2.87
+PE033,DMV,Email Presale,2130.0,820.0,Mid-sized,2.6
+PE034,Texas,Paid Social,36720.0,1216.0,Mid-sized,30.2
+PE034,Texas,Billboards,21260.0,264.0,Mid-sized,80.53
+PE034,Texas,Influencers,11990.0,550.0,Mid-sized,21.8
+PE034,Texas,Local Radio,11590.0,715.0,Mid-sized,16.21
+PE034,Texas,Spanish-language Radio,3760.0,583.0,Mid-sized,6.45
+PE034,Texas,Gym & Barbershop Partners,4930.0,1073.0,Mid-sized,4.59
+PE034,Texas,Email Presale,6740.0,2485.0,Mid-sized,2.71
+PE035,Philadelphia,Paid Social,12560.0,407.0,Mid-sized,30.86
+PE035,Philadelphia,Billboards,6480.0,100.0,Mid-sized,64.8
+PE035,Philadelphia,Influencers,4540.0,226.0,Mid-sized,20.09
+PE035,Philadelphia,Local Radio,5100.0,281.0,Mid-sized,18.15
+PE035,Philadelphia,Spanish-language Radio,1710.0,51.0,Mid-sized,33.53
+PE035,Philadelphia,Gym & Barbershop Partners,1820.0,659.0,Mid-sized,2.76
+PE035,Philadelphia,Email Presale,2620.0,807.0,Mid-sized,3.25
+PE036,New York,Paid Social,166780.0,10393.0,Big,16.05
+PE036,New York,Billboards,76910.0,1605.0,Big,47.92
+PE036,New York,Influencers,71230.0,4956.0,Big,14.37
+PE036,New York,Local Radio,61290.0,2420.0,Big,25.33
+PE036,New York,Spanish-language Radio,21750.0,1167.0,Big,18.64
+PE036,New York,Gym & Barbershop Partners,23020.0,2333.0,Big,9.87
+PE036,New York,Email Presale,30780.0,9685.0,Big,3.18
+PE037,Las Vegas,Paid Social,77490.0,3849.0,Big,20.13
+PE037,Las Vegas,Billboards,45280.0,1055.0,Big,42.92
+PE037,Las Vegas,Influencers,36830.0,2193.0,Big,16.79
+PE037,Las Vegas,Local Radio,29170.0,,Big,
+PE037,Las Vegas,Spanish-language Radio,12700.0,853.0,Big,14.89
+PE037,Las Vegas,Gym & Barbershop Partners,9260.0,980.0,Big,9.45
+PE037,Las Vegas,Email Presale,16650.0,4845.0,Big,3.44
+PE038,New York,Paid Social,181740.0,10361.0,Big,17.54
+PE038,New York,Billboards,98040.0,2009.0,Big,48.8
+PE038,New York,Influencers,69720.0,4172.0,Big,16.71
+PE038,New York,Local Radio,70440.0,3000.0,Big,23.48
+PE038,New York,Spanish-language Radio,25230.0,1603.0,Big,15.74
+PE038,New York,Gym & Barbershop Partners,29440.0,2944.0,Big,10.0
+PE038,New York,Email Presale,35590.0,10522.0,Big,3.38
+PE039,New York,Paid Social,90430.0,,Big,
+PE039,New York,Billboards,57090.0,1179.0,Big,48.42
+PE039,New York,Influencers,38390.0,2280.0,Big,16.84
+PE039,New York,Local Radio,32810.0,1456.0,Big,22.53
+PE039,New York,Spanish-language Radio,13580.0,874.0,Big,15.54
+PE039,New York,Gym & Barbershop Partners,12310.0,1260.0,Big,9.77
+PE039,New York,Email Presale,24650.0,8655.0,Big,2.85
+PE040,Atlanta,Paid Social,142000.0,8704.0,Big,16.31
+PE040,Atlanta,Billboards,79340.0,1607.0,Big,49.37
+PE040,Atlanta,Influencers,55500.0,3739.0,Big,14.84
+PE040,Atlanta,Local Radio,57580.0,1986.0,Big,28.99
+PE040,Atlanta,Spanish-language Radio,23320.0,869.0,Big,26.84
+PE040,Atlanta,Gym & Barbershop Partners,19790.0,3070.0,Big,6.45
+PE040,Atlanta,Email Presale,32380.0,10975.0,Big,2.95
+PE041,Philadelphia,Paid Social,13930.0,458.0,Mid-sized,30.41
+PE041,Philadelphia,Billboards,9490.0,130.0,Mid-sized,73.0
+PE041,Philadelphia,Influencers,5520.0,291.0,Mid-sized,18.97
+PE041,Philadelphia,Local Radio,5190.0,303.0,Mid-sized,17.13
+PE041,Philadelphia,Spanish-language Radio,1980.0,67.0,Mid-sized,29.55
+PE041,Philadelphia,Gym & Barbershop Partners,2110.0,759.0,Mid-sized,2.78
+PE041,Philadelphia,Email Presale,3410.0,1011.0,Mid-sized,3.37
+PE042,Las Vegas,Paid Social,74540.0,4577.0,Big,16.29
+PE042,Las Vegas,Billboards,48440.0,1134.0,Big,42.72
+PE042,Las Vegas,Influencers,38070.0,2332.0,Big,16.33
+PE042,Las Vegas,Local Radio,32980.0,1159.0,Big,28.46
+PE042,Las Vegas,Spanish-language Radio,13870.0,935.0,Big,14.83
+PE042,Las Vegas,Gym & Barbershop Partners,10930.0,1317.0,Big,8.3
+PE042,Las Vegas,Email Presale,23210.0,6987.0,Big,3.32
+PE043,Atlanta,Paid Social,131690.0,6394.0,Big,20.6
+PE043,Atlanta,Billboards,78530.0,1667.0,Big,47.11
+PE043,Atlanta,Influencers,51080.0,3781.0,Big,13.51
+PE043,Atlanta,Local Radio,32190.0,1453.0,Big,22.15
+PE043,Atlanta,Spanish-language Radio,18790.0,734.0,Big,25.6
+PE043,Atlanta,Gym & Barbershop Partners,17260.0,2509.0,Big,6.88
+PE043,Atlanta,Email Presale,27980.0,9692.0,Big,2.89
+PE044,Las Vegas,Paid Social,139390.0,8094.0,Big,17.22
+PE044,Las Vegas,Billboards,94330.0,1899.0,Big,49.67
+PE044,Las Vegas,Influencers,71400.0,5102.0,Big,13.99
+PE044,Las Vegas,Local Radio,61940.0,2341.0,Big,26.46
+PE044,Las Vegas,Spanish-language Radio,21980.0,1818.0,Big,12.09
+PE044,Las Vegas,Gym & Barbershop Partners,28280.0,2824.0,Big,10.01
+PE044,Las Vegas,Email Presale,37900.0,12631.0,Big,3.0
+PE045,Las Vegas,Paid Social,143000.0,8521.0,Big,16.78
+PE045,Las Vegas,Billboards,83620.0,1717.0,Big,48.7
+PE045,Las Vegas,Influencers,45050.0,2980.0,Big,15.12
+PE045,Las Vegas,Local Radio,39800.0,1794.0,Big,22.19
+PE045,Las Vegas,Spanish-language Radio,16980.0,1415.0,Big,12.0
+PE045,Las Vegas,Gym & Barbershop Partners,18660.0,1883.0,Big,9.91
+PE045,Las Vegas,Email Presale,30770.0,11138.0,Big,2.76
+PE046,Texas,Paid Social,15590.0,591.0,Mid-sized,26.38
+PE046,Texas,Billboards,11510.0,160.0,Mid-sized,71.94
+PE046,Texas,Influencers,6640.0,281.0,Mid-sized,23.63
+PE046,Texas,Local Radio,6590.0,342.0,Mid-sized,19.27
+PE046,Texas,Spanish-language Radio,2020.0,365.0,Mid-sized,5.53
+PE046,Texas,Gym & Barbershop Partners,2940.0,825.0,Mid-sized,3.56
+PE046,Texas,Email Presale,3420.0,1010.0,Mid-sized,3.39
+PE047,Philadelphia,Paid Social,28310.0,1010.0,Mid-sized,28.03
+PE047,Philadelphia,Billboards,17090.0,239.0,Mid-sized,71.51
+PE047,Philadelphia,Influencers,12720.0,508.0,Mid-sized,25.04
+PE047,Philadelphia,Local Radio,10490.0,704.0,Mid-sized,14.9
+PE047,Philadelphia,Spanish-language Radio,4060.0,151.0,Mid-sized,26.89
+PE047,Philadelphia,Gym & Barbershop Partners,3970.0,1171.0,Mid-sized,3.39
+PE047,Philadelphia,Email Presale,7290.0,2245.0,Mid-sized,3.25
+PE048,Atlanta,Paid Social,100990.0,5707.0,Big,17.7
+PE048,Atlanta,Billboards,62170.0,1479.0,Big,42.04
+PE048,Atlanta,Influencers,36900.0,2603.0,Big,14.18
+PE048,Atlanta,Local Radio,42480.0,1426.0,Big,29.79
+PE048,Atlanta,Spanish-language Radio,17100.0,687.0,Big,24.89
+PE048,Atlanta,Gym & Barbershop Partners,12480.0,1655.0,Big,7.54
+PE048,Atlanta,Email Presale,23350.0,7709.0,Big,3.03
+PE049,Las Vegas,Paid Social,99160.0,5221.0,Big,18.99
+PE049,Las Vegas,Billboards,50580.0,1015.0,Big,49.83
+PE049,Las Vegas,Influencers,38640.0,2550.0,Big,15.15
+PE049,Las Vegas,Local Radio,31380.0,1242.0,Big,25.27
+PE049,Las Vegas,Spanish-language Radio,14130.0,934.0,Big,15.13
+PE049,Las Vegas,Gym & Barbershop Partners,13260.0,1638.0,Big,8.1
+PE049,Las Vegas,Email Presale,19360.0,6801.0,Big,2.85
+PE050,Las Vegas,Paid Social,74910.0,4043.0,Big,18.53
+PE050,Las Vegas,Billboards,50490.0,1028.0,Big,49.11
+PE050,Las Vegas,Influencers,41280.0,2498.0,Big,16.53
+PE050,Las Vegas,Local Radio,34430.0,1205.0,Big,28.57
+PE050,Las Vegas,Spanish-language Radio,11550.0,873.0,Big,13.23
+PE050,Las Vegas,Gym & Barbershop Partners,13200.0,1534.0,Big,8.6
+PE050,Las Vegas,Email Presale,19960.0,6643.0,Big,3.0
+PE051,New York,Paid Social,126830.0,6310.0,Big,20.1
+PE051,New York,Billboards,99960.0,,Big,
+PE051,New York,Influencers,68200.0,4043.0,Big,16.87
+PE051,New York,Local Radio,47400.0,2074.0,Big,22.85
+PE051,New York,Spanish-language Radio,19510.0,1181.0,Big,16.52
+PE051,New York,Gym & Barbershop Partners,25270.0,2475.0,Big,10.21
+PE051,New York,Email Presale,37250.0,11724.0,Big,3.18

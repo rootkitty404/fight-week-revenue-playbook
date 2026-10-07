@@ -1,0 +1,715 @@
+Event_ID,Market,Card_Type,Room_Size,Line,Amount,Direction
+PE001,New York,Big,Arena (15K+),Gate,4112595.6,Revenue
+PE002,Texas,Mid-sized,Arena (15K+),Gate,708793.0,Revenue
+PE003,Atlanta,Big,Arena (15K+),Gate,4923711.7,Revenue
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate,615467.1,Revenue
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate,393621.8,Revenue
+PE006,New York,Big,Arena (15K+),Gate,4170344.3,Revenue
+PE007,Las Vegas,Big,Arena (15K+),Gate,6542063.100000001,Revenue
+PE008,DMV,Mid-sized,Arena (15K+),Gate,726493.9,Revenue
+PE009,New York,Big,Arena (15K+),Gate,4029861.8,Revenue
+PE010,Las Vegas,Big,Arena (15K+),Gate,5914531.600000001,Revenue
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate,914471.7999999999,Revenue
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate,634198.3999999999,Revenue
+PE013,New York,Big,Arena (15K+),Gate,6536629.6,Revenue
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate,651188.7000000001,Revenue
+PE015,Las Vegas,Big,Arena (15K+),Gate,6038073.9,Revenue
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate,464876.69999999995,Revenue
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate,607562.8,Revenue
+PE018,New York,Big,Arena (15K+),Gate,4627324.1,Revenue
+PE019,Las Vegas,Big,Arena (15K+),Gate,4039513.8,Revenue
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate,651225.2,Revenue
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate,974846.2,Revenue
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate,615518.2,Revenue
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate,1172349.7,Revenue
+PE024,New York,Big,Arena (15K+),Gate,6306425.0,Revenue
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate,908316.3,Revenue
+PE026,Philadelphia,Mid-sized,Arena (15K+),Gate,1156796.3,Revenue
+PE027,Las Vegas,Big,Arena (15K+),Gate,5809761.7,Revenue
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate,565615.3,Revenue
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate,1110279.7,Revenue
+PE030,Texas,Mid-sized,Arena (15K+),Gate,1132389.5,Revenue
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate,679065.6,Revenue
+PE032,DMV,Mid-sized,Arena (15K+),Gate,1192136.1,Revenue
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate,407502.69999999995,Revenue
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate,1323275.7000000002,Revenue
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate,511601.4,Revenue
+PE036,New York,Big,Arena (15K+),Gate,6782895.300000001,Revenue
+PE037,Las Vegas,Big,Arena (15K+),Gate,3209875.7,Revenue
+PE038,New York,Big,Arena (15K+),Gate,7927400.4,Revenue
+PE039,New York,Big,Arena (15K+),Gate,3672625.0,Revenue
+PE040,Atlanta,Big,Arena (15K+),Gate,6081687.4,Revenue
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate,608407.2,Revenue
+PE042,Las Vegas,Big,Arena (15K+),Gate,3536554.6,Revenue
+PE043,Atlanta,Big,Arena (15K+),Gate,4736115.9,Revenue
+PE044,Las Vegas,Big,Arena (15K+),Gate,6877716.4,Revenue
+PE045,Las Vegas,Big,Arena (15K+),Gate,5580312.1,Revenue
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate,713962.4,Revenue
+PE047,Philadelphia,Mid-sized,Arena (15K+),Gate,855693.7,Revenue
+PE048,Atlanta,Big,Arena (15K+),Gate,4383752.7,Revenue
+PE049,Las Vegas,Big,Arena (15K+),Gate,3483611.0999999996,Revenue
+PE050,Las Vegas,Big,Arena (15K+),Gate,3557787.1999999997,Revenue
+PE051,New York,Big,Arena (15K+),Gate,6213760.1,Revenue
+PE001,New York,Big,Arena (15K+),DAZN_Fee,1350000.0,Revenue
+PE002,Texas,Mid-sized,Arena (15K+),DAZN_Fee,300000.0,Revenue
+PE003,Atlanta,Big,Arena (15K+),DAZN_Fee,1070000.0,Revenue
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,310000.0,Revenue
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,300000.0,Revenue
+PE006,New York,Big,Arena (15K+),DAZN_Fee,1260000.0,Revenue
+PE007,Las Vegas,Big,Arena (15K+),DAZN_Fee,2140000.0,Revenue
+PE008,DMV,Mid-sized,Arena (15K+),DAZN_Fee,330000.0,Revenue
+PE009,New York,Big,Arena (15K+),DAZN_Fee,1260000.0,Revenue
+PE010,Las Vegas,Big,Arena (15K+),DAZN_Fee,1690000.0,Revenue
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,350000.0,Revenue
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,320000.0,Revenue
+PE013,New York,Big,Arena (15K+),DAZN_Fee,2010000.0,Revenue
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,380000.0,Revenue
+PE015,Las Vegas,Big,Arena (15K+),DAZN_Fee,2000000.0,Revenue
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,330000.0,Revenue
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,340000.0,Revenue
+PE018,New York,Big,Arena (15K+),DAZN_Fee,1210000.0,Revenue
+PE019,Las Vegas,Big,Arena (15K+),DAZN_Fee,1140000.0,Revenue
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,260000.0,Revenue
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,380000.0,Revenue
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,260000.0,Revenue
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,370000.0,Revenue
+PE024,New York,Big,Arena (15K+),DAZN_Fee,2040000.0,Revenue
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,260000.0,Revenue
+PE026,Philadelphia,Mid-sized,Arena (15K+),DAZN_Fee,360000.0,Revenue
+PE027,Las Vegas,Big,Arena (15K+),DAZN_Fee,1670000.0,Revenue
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,290000.0,Revenue
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,440000.0,Revenue
+PE030,Texas,Mid-sized,Arena (15K+),DAZN_Fee,370000.0,Revenue
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,320000.0,Revenue
+PE032,DMV,Mid-sized,Arena (15K+),DAZN_Fee,370000.0,Revenue
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,320000.0,Revenue
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,420000.0,Revenue
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,340000.0,Revenue
+PE036,New York,Big,Arena (15K+),DAZN_Fee,2110000.0,Revenue
+PE037,Las Vegas,Big,Arena (15K+),DAZN_Fee,1030000.0,Revenue
+PE038,New York,Big,Arena (15K+),DAZN_Fee,1780000.0,Revenue
+PE039,New York,Big,Arena (15K+),DAZN_Fee,1140000.0,Revenue
+PE040,Atlanta,Big,Arena (15K+),DAZN_Fee,2190000.0,Revenue
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,430000.0,Revenue
+PE042,Las Vegas,Big,Arena (15K+),DAZN_Fee,960000.0,Revenue
+PE043,Atlanta,Big,Arena (15K+),DAZN_Fee,1110000.0,Revenue
+PE044,Las Vegas,Big,Arena (15K+),DAZN_Fee,1750000.0,Revenue
+PE045,Las Vegas,Big,Arena (15K+),DAZN_Fee,1720000.0,Revenue
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),DAZN_Fee,270000.0,Revenue
+PE047,Philadelphia,Mid-sized,Arena (15K+),DAZN_Fee,280000.0,Revenue
+PE048,Atlanta,Big,Arena (15K+),DAZN_Fee,1180000.0,Revenue
+PE049,Las Vegas,Big,Arena (15K+),DAZN_Fee,970000.0,Revenue
+PE050,Las Vegas,Big,Arena (15K+),DAZN_Fee,910000.0,Revenue
+PE051,New York,Big,Arena (15K+),DAZN_Fee,1820000.0,Revenue
+PE001,New York,Big,Arena (15K+),Sponsorship,300000.0,Revenue
+PE002,Texas,Mid-sized,Arena (15K+),Sponsorship,49900.0,Revenue
+PE003,Atlanta,Big,Arena (15K+),Sponsorship,434400.0,Revenue
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,44900.0,Revenue
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,61400.0,Revenue
+PE006,New York,Big,Arena (15K+),Sponsorship,257800.0,Revenue
+PE007,Las Vegas,Big,Arena (15K+),Sponsorship,374000.0,Revenue
+PE008,DMV,Mid-sized,Arena (15K+),Sponsorship,51500.0,Revenue
+PE009,New York,Big,Arena (15K+),Sponsorship,194000.0,Revenue
+PE010,Las Vegas,Big,Arena (15K+),Sponsorship,327000.0,Revenue
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,41200.0,Revenue
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,75300.0,Revenue
+PE013,New York,Big,Arena (15K+),Sponsorship,287600.0,Revenue
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,39400.0,Revenue
+PE015,Las Vegas,Big,Arena (15K+),Sponsorship,235500.0,Revenue
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,28100.0,Revenue
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,73100.0,Revenue
+PE018,New York,Big,Arena (15K+),Sponsorship,86300.0,Revenue
+PE019,Las Vegas,Big,Arena (15K+),Sponsorship,266200.0,Revenue
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,44000.0,Revenue
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,21900.0,Revenue
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,45300.0,Revenue
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,70200.0,Revenue
+PE024,New York,Big,Arena (15K+),Sponsorship,228300.0,Revenue
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,35200.0,Revenue
+PE026,Philadelphia,Mid-sized,Arena (15K+),Sponsorship,28300.0,Revenue
+PE027,Las Vegas,Big,Arena (15K+),Sponsorship,256200.0,Revenue
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,91000.0,Revenue
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,31700.0,Revenue
+PE030,Texas,Mid-sized,Arena (15K+),Sponsorship,35300.0,Revenue
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,62600.0,Revenue
+PE032,DMV,Mid-sized,Arena (15K+),Sponsorship,54200.0,Revenue
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,51700.0,Revenue
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,78100.0,Revenue
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,35400.0,Revenue
+PE036,New York,Big,Arena (15K+),Sponsorship,367600.0,Revenue
+PE037,Las Vegas,Big,Arena (15K+),Sponsorship,286700.0,Revenue
+PE038,New York,Big,Arena (15K+),Sponsorship,143400.0,Revenue
+PE039,New York,Big,Arena (15K+),Sponsorship,135000.0,Revenue
+PE040,Atlanta,Big,Arena (15K+),Sponsorship,359700.0,Revenue
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,70900.0,Revenue
+PE042,Las Vegas,Big,Arena (15K+),Sponsorship,414500.0,Revenue
+PE043,Atlanta,Big,Arena (15K+),Sponsorship,217900.0,Revenue
+PE044,Las Vegas,Big,Arena (15K+),Sponsorship,207400.0,Revenue
+PE045,Las Vegas,Big,Arena (15K+),Sponsorship,304400.0,Revenue
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Sponsorship,55300.0,Revenue
+PE047,Philadelphia,Mid-sized,Arena (15K+),Sponsorship,88100.0,Revenue
+PE048,Atlanta,Big,Arena (15K+),Sponsorship,249200.0,Revenue
+PE049,Las Vegas,Big,Arena (15K+),Sponsorship,166100.0,Revenue
+PE050,Las Vegas,Big,Arena (15K+),Sponsorship,316100.0,Revenue
+PE051,New York,Big,Arena (15K+),Sponsorship,484400.0,Revenue
+PE001,New York,Big,Arena (15K+),Hospitality,302120.0,Revenue
+PE002,Texas,Mid-sized,Arena (15K+),Hospitality,62930.0,Revenue
+PE003,Atlanta,Big,Arena (15K+),Hospitality,283260.0,Revenue
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,52150.0,Revenue
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,56730.0,Revenue
+PE006,New York,Big,Arena (15K+),Hospitality,298010.0,Revenue
+PE007,Las Vegas,Big,Arena (15K+),Hospitality,393030.0,Revenue
+PE008,DMV,Mid-sized,Arena (15K+),Hospitality,57040.0,Revenue
+PE009,New York,Big,Arena (15K+),Hospitality,450360.0,Revenue
+PE010,Las Vegas,Big,Arena (15K+),Hospitality,409620.0,Revenue
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,62100.0,Revenue
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,55450.0,Revenue
+PE013,New York,Big,Arena (15K+),Hospitality,660590.0,Revenue
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,46680.0,Revenue
+PE015,Las Vegas,Big,Arena (15K+),Hospitality,451620.0,Revenue
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,36550.0,Revenue
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,41250.0,Revenue
+PE018,New York,Big,Arena (15K+),Hospitality,395920.0,Revenue
+PE019,Las Vegas,Big,Arena (15K+),Hospitality,343720.0,Revenue
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,96100.0,Revenue
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,64560.0,Revenue
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,52700.0,Revenue
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,83760.0,Revenue
+PE024,New York,Big,Arena (15K+),Hospitality,477000.0,Revenue
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,75500.0,Revenue
+PE026,Philadelphia,Mid-sized,Arena (15K+),Hospitality,74320.0,Revenue
+PE027,Las Vegas,Big,Arena (15K+),Hospitality,503720.0,Revenue
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,55950.0,Revenue
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,57240.0,Revenue
+PE030,Texas,Mid-sized,Arena (15K+),Hospitality,63180.0,Revenue
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,63990.0,Revenue
+PE032,DMV,Mid-sized,Arena (15K+),Hospitality,54780.0,Revenue
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,41720.0,Revenue
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,82680.0,Revenue
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,56450.0,Revenue
+PE036,New York,Big,Arena (15K+),Hospitality,574890.0,Revenue
+PE037,Las Vegas,Big,Arena (15K+),Hospitality,305700.0,Revenue
+PE038,New York,Big,Arena (15K+),Hospitality,455600.0,Revenue
+PE039,New York,Big,Arena (15K+),Hospitality,316880.0,Revenue
+PE040,Atlanta,Big,Arena (15K+),Hospitality,449290.0,Revenue
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,48100.0,Revenue
+PE042,Las Vegas,Big,Arena (15K+),Hospitality,425770.0,Revenue
+PE043,Atlanta,Big,Arena (15K+),Hospitality,380340.0,Revenue
+PE044,Las Vegas,Big,Arena (15K+),Hospitality,397710.0,Revenue
+PE045,Las Vegas,Big,Arena (15K+),Hospitality,422460.0,Revenue
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hospitality,56750.0,Revenue
+PE047,Philadelphia,Mid-sized,Arena (15K+),Hospitality,52450.0,Revenue
+PE048,Atlanta,Big,Arena (15K+),Hospitality,285540.0,Revenue
+PE049,Las Vegas,Big,Arena (15K+),Hospitality,267710.0,Revenue
+PE050,Las Vegas,Big,Arena (15K+),Hospitality,290070.0,Revenue
+PE051,New York,Big,Arena (15K+),Hospitality,507100.0,Revenue
+PE001,New York,Big,Arena (15K+),Fight_Week,140746.27,Revenue
+PE002,Texas,Mid-sized,Arena (15K+),Fight_Week,31570.760000000002,Revenue
+PE003,Atlanta,Big,Arena (15K+),Fight_Week,193253.43,Revenue
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,26205.98,Revenue
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,39585.979999999996,Revenue
+PE006,New York,Big,Arena (15K+),Fight_Week,96967.97,Revenue
+PE007,Las Vegas,Big,Arena (15K+),Fight_Week,91681.52,Revenue
+PE008,DMV,Mid-sized,Arena (15K+),Fight_Week,36737.45,Revenue
+PE009,New York,Big,Arena (15K+),Fight_Week,112028.06,Revenue
+PE010,Las Vegas,Big,Arena (15K+),Fight_Week,228911.84,Revenue
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,58881.87,Revenue
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,30639.09,Revenue
+PE013,New York,Big,Arena (15K+),Fight_Week,199626.4,Revenue
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,45499.84,Revenue
+PE015,Las Vegas,Big,Arena (15K+),Fight_Week,132791.15,Revenue
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,39306.869999999995,Revenue
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,36156.9,Revenue
+PE018,New York,Big,Arena (15K+),Fight_Week,92415.63,Revenue
+PE019,Las Vegas,Big,Arena (15K+),Fight_Week,124588.31,Revenue
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,59010.549999999996,Revenue
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,51371.53,Revenue
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,41233.25,Revenue
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,33761.6,Revenue
+PE024,New York,Big,Arena (15K+),Fight_Week,156561.62,Revenue
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,46792.71,Revenue
+PE026,Philadelphia,Mid-sized,Arena (15K+),Fight_Week,53755.8,Revenue
+PE027,Las Vegas,Big,Arena (15K+),Fight_Week,131763.96000000002,Revenue
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,38641.21,Revenue
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,30205.149999999998,Revenue
+PE030,Texas,Mid-sized,Arena (15K+),Fight_Week,27840.03,Revenue
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,68268.95,Revenue
+PE032,DMV,Mid-sized,Arena (15K+),Fight_Week,27720.989999999998,Revenue
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,63876.42,Revenue
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,21032.510000000002,Revenue
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,52442.37,Revenue
+PE036,New York,Big,Arena (15K+),Fight_Week,111177.11,Revenue
+PE037,Las Vegas,Big,Arena (15K+),Fight_Week,127965.81999999999,Revenue
+PE038,New York,Big,Arena (15K+),Fight_Week,211626.86000000002,Revenue
+PE039,New York,Big,Arena (15K+),Fight_Week,109100.79000000001,Revenue
+PE040,Atlanta,Big,Arena (15K+),Fight_Week,181563.66,Revenue
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,42498.6,Revenue
+PE042,Las Vegas,Big,Arena (15K+),Fight_Week,158837.37,Revenue
+PE043,Atlanta,Big,Arena (15K+),Fight_Week,216904.84,Revenue
+PE044,Las Vegas,Big,Arena (15K+),Fight_Week,111953.29000000001,Revenue
+PE045,Las Vegas,Big,Arena (15K+),Fight_Week,145338.97,Revenue
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fight_Week,63221.99,Revenue
+PE047,Philadelphia,Mid-sized,Arena (15K+),Fight_Week,51762.409999999996,Revenue
+PE048,Atlanta,Big,Arena (15K+),Fight_Week,198583.6,Revenue
+PE049,Las Vegas,Big,Arena (15K+),Fight_Week,175242.85,Revenue
+PE050,Las Vegas,Big,Arena (15K+),Fight_Week,122926.53,Revenue
+PE051,New York,Big,Arena (15K+),Fight_Week,263785.85,Revenue
+PE001,New York,Big,Arena (15K+),Hotel_Commission,29095.5,Revenue
+PE002,Texas,Mid-sized,Arena (15K+),Hotel_Commission,7095.780000000001,Revenue
+PE003,Atlanta,Big,Arena (15K+),Hotel_Commission,9079.2,Revenue
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,3852.2,Revenue
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,9102.48,Revenue
+PE006,New York,Big,Arena (15K+),Hotel_Commission,14764.56,Revenue
+PE007,Las Vegas,Big,Arena (15K+),Hotel_Commission,21573.46,Revenue
+PE008,DMV,Mid-sized,Arena (15K+),Hotel_Commission,10352.4,Revenue
+PE009,New York,Big,Arena (15K+),Hotel_Commission,21286.02,Revenue
+PE010,Las Vegas,Big,Arena (15K+),Hotel_Commission,22927.68,Revenue
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,5742.0,Revenue
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,6788.1,Revenue
+PE013,New York,Big,Arena (15K+),Hotel_Commission,4177.28,Revenue
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,6582.6,Revenue
+PE015,Las Vegas,Big,Arena (15K+),Hotel_Commission,33791.7,Revenue
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,8524.92,Revenue
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,10209.599999999999,Revenue
+PE018,New York,Big,Arena (15K+),Hotel_Commission,5564.16,Revenue
+PE019,Las Vegas,Big,Arena (15K+),Hotel_Commission,14837.76,Revenue
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,1781.12,Revenue
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,7150.4800000000005,Revenue
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,8103.2,Revenue
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,8339.3,Revenue
+PE024,New York,Big,Arena (15K+),Hotel_Commission,15887.16,Revenue
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,9724.2,Revenue
+PE026,Philadelphia,Mid-sized,Arena (15K+),Hotel_Commission,12573.6,Revenue
+PE027,Las Vegas,Big,Arena (15K+),Hotel_Commission,6639.2,Revenue
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,2136.24,Revenue
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,1184.2,Revenue
+PE030,Texas,Mid-sized,Arena (15K+),Hotel_Commission,9028.8,Revenue
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,3738.6,Revenue
+PE032,DMV,Mid-sized,Arena (15K+),Hotel_Commission,7978.08,Revenue
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,6617.52,Revenue
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,6460.2,Revenue
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,8269.5,Revenue
+PE036,New York,Big,Arena (15K+),Hotel_Commission,32882.0,Revenue
+PE037,Las Vegas,Big,Arena (15K+),Hotel_Commission,23885.88,Revenue
+PE038,New York,Big,Arena (15K+),Hotel_Commission,7665.0,Revenue
+PE039,New York,Big,Arena (15K+),Hotel_Commission,26647.8,Revenue
+PE040,Atlanta,Big,Arena (15K+),Hotel_Commission,26094.6,Revenue
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,4694.4,Revenue
+PE042,Las Vegas,Big,Arena (15K+),Hotel_Commission,23020.8,Revenue
+PE043,Atlanta,Big,Arena (15K+),Hotel_Commission,10957.2,Revenue
+PE044,Las Vegas,Big,Arena (15K+),Hotel_Commission,23003.760000000002,Revenue
+PE045,Las Vegas,Big,Arena (15K+),Hotel_Commission,30592.739999999998,Revenue
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Hotel_Commission,10248.3,Revenue
+PE047,Philadelphia,Mid-sized,Arena (15K+),Hotel_Commission,15946.44,Revenue
+PE048,Atlanta,Big,Arena (15K+),Hotel_Commission,20347.2,Revenue
+PE049,Las Vegas,Big,Arena (15K+),Hotel_Commission,13068.0,Revenue
+PE050,Las Vegas,Big,Arena (15K+),Hotel_Commission,6519.0,Revenue
+PE051,New York,Big,Arena (15K+),Hotel_Commission,18002.28,Revenue
+PE001,New York,Big,Arena (15K+),Purses,1832600.0,Cost
+PE002,Texas,Mid-sized,Arena (15K+),Purses,660600.0,Cost
+PE003,Atlanta,Big,Arena (15K+),Purses,1627500.0,Cost
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Purses,332700.0,Cost
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Purses,390300.0,Cost
+PE006,New York,Big,Arena (15K+),Purses,1586300.0,Cost
+PE007,Las Vegas,Big,Arena (15K+),Purses,2948500.0,Cost
+PE008,DMV,Mid-sized,Arena (15K+),Purses,519300.0,Cost
+PE009,New York,Big,Arena (15K+),Purses,1713500.0,Cost
+PE010,Las Vegas,Big,Arena (15K+),Purses,2821000.0,Cost
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Purses,295500.0,Cost
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Purses,399700.0,Cost
+PE013,New York,Big,Arena (15K+),Purses,4264400.0,Cost
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Purses,587800.0,Cost
+PE015,Las Vegas,Big,Arena (15K+),Purses,3788100.0,Cost
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Purses,402600.0,Cost
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Purses,313200.0,Cost
+PE018,New York,Big,Arena (15K+),Purses,1611100.0,Cost
+PE019,Las Vegas,Big,Arena (15K+),Purses,1446700.0,Cost
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Purses,375000.0,Cost
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Purses,534000.0,Cost
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Purses,406300.0,Cost
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Purses,427700.0,Cost
+PE024,New York,Big,Arena (15K+),Purses,2619200.0,Cost
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Purses,342000.0,Cost
+PE026,Philadelphia,Mid-sized,Arena (15K+),Purses,633800.0,Cost
+PE027,Las Vegas,Big,Arena (15K+),Purses,3240200.0,Cost
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Purses,335000.0,Cost
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Purses,470200.0,Cost
+PE030,Texas,Mid-sized,Arena (15K+),Purses,696700.0,Cost
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Purses,331600.0,Cost
+PE032,DMV,Mid-sized,Arena (15K+),Purses,704800.0,Cost
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Purses,316500.0,Cost
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Purses,427300.0,Cost
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Purses,348900.0,Cost
+PE036,New York,Big,Arena (15K+),Purses,4496900.0,Cost
+PE037,Las Vegas,Big,Arena (15K+),Purses,1972600.0,Cost
+PE038,New York,Big,Arena (15K+),Purses,3297700.0,Cost
+PE039,New York,Big,Arena (15K+),Purses,1430500.0,Cost
+PE040,Atlanta,Big,Arena (15K+),Purses,2695400.0,Cost
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Purses,425300.0,Cost
+PE042,Las Vegas,Big,Arena (15K+),Purses,1370700.0,Cost
+PE043,Atlanta,Big,Arena (15K+),Purses,1395400.0,Cost
+PE044,Las Vegas,Big,Arena (15K+),Purses,3354700.0,Cost
+PE045,Las Vegas,Big,Arena (15K+),Purses,4300000.0,Cost
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Purses,337600.0,Cost
+PE047,Philadelphia,Mid-sized,Arena (15K+),Purses,717400.0,Cost
+PE048,Atlanta,Big,Arena (15K+),Purses,1433900.0,Cost
+PE049,Las Vegas,Big,Arena (15K+),Purses,1660000.0,Cost
+PE050,Las Vegas,Big,Arena (15K+),Purses,1935000.0,Cost
+PE051,New York,Big,Arena (15K+),Purses,2343300.0,Cost
+PE001,New York,Big,Arena (15K+),Fighter_Travel,51900.0,Cost
+PE002,Texas,Mid-sized,Arena (15K+),Fighter_Travel,42560.0,Cost
+PE003,Atlanta,Big,Arena (15K+),Fighter_Travel,50610.0,Cost
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,42090.0,Cost
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,45600.0,Cost
+PE006,New York,Big,Arena (15K+),Fighter_Travel,62430.0,Cost
+PE007,Las Vegas,Big,Arena (15K+),Fighter_Travel,54840.0,Cost
+PE008,DMV,Mid-sized,Arena (15K+),Fighter_Travel,20880.0,Cost
+PE009,New York,Big,Arena (15K+),Fighter_Travel,57500.0,Cost
+PE010,Las Vegas,Big,Arena (15K+),Fighter_Travel,48300.0,Cost
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,45040.0,Cost
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,40820.0,Cost
+PE013,New York,Big,Arena (15K+),Fighter_Travel,51900.0,Cost
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,48690.0,Cost
+PE015,Las Vegas,Big,Arena (15K+),Fighter_Travel,52910.0,Cost
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,45600.0,Cost
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,50500.0,Cost
+PE018,New York,Big,Arena (15K+),Fighter_Travel,58920.0,Cost
+PE019,Las Vegas,Big,Arena (15K+),Fighter_Travel,54840.0,Cost
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,39420.0,Cost
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,43800.0,Cost
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,40820.0,Cost
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,45600.0,Cost
+PE024,New York,Big,Arena (15K+),Fighter_Travel,68030.0,Cost
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,42070.0,Cost
+PE026,Philadelphia,Mid-sized,Arena (15K+),Fighter_Travel,46940.0,Cost
+PE027,Las Vegas,Big,Arena (15K+),Fighter_Travel,60040.0,Cost
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,35970.0,Cost
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,34890.0,Cost
+PE030,Texas,Mid-sized,Arena (15K+),Fighter_Travel,33160.0,Cost
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,39100.0,Cost
+PE032,DMV,Mid-sized,Arena (15K+),Fighter_Travel,44320.0,Cost
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,53590.0,Cost
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,46770.0,Cost
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,40300.0,Cost
+PE036,New York,Big,Arena (15K+),Fighter_Travel,68030.0,Cost
+PE037,Las Vegas,Big,Arena (15K+),Fighter_Travel,63310.0,Cost
+PE038,New York,Big,Arena (15K+),Fighter_Travel,51230.0,Cost
+PE039,New York,Big,Arena (15K+),Fighter_Travel,62430.0,Cost
+PE040,Atlanta,Big,Arena (15K+),Fighter_Travel,47400.0,Cost
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,46940.0,Cost
+PE042,Las Vegas,Big,Arena (15K+),Fighter_Travel,54840.0,Cost
+PE043,Atlanta,Big,Arena (15K+),Fighter_Travel,63450.0,Cost
+PE044,Las Vegas,Big,Arena (15K+),Fighter_Travel,60040.0,Cost
+PE045,Las Vegas,Big,Arena (15K+),Fighter_Travel,63310.0,Cost
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Fighter_Travel,43800.0,Cost
+PE047,Philadelphia,Mid-sized,Arena (15K+),Fighter_Travel,59180.0,Cost
+PE048,Atlanta,Big,Arena (15K+),Fighter_Travel,52500.0,Cost
+PE049,Las Vegas,Big,Arena (15K+),Fighter_Travel,52910.0,Cost
+PE050,Las Vegas,Big,Arena (15K+),Fighter_Travel,48300.0,Cost
+PE051,New York,Big,Arena (15K+),Fighter_Travel,46300.0,Cost
+PE001,New York,Big,Arena (15K+),Staff,123840.0,Cost
+PE002,Texas,Mid-sized,Arena (15K+),Staff,79160.0,Cost
+PE003,Atlanta,Big,Arena (15K+),Staff,113960.0,Cost
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Staff,83615.0,Cost
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Staff,76180.0,Cost
+PE006,New York,Big,Arena (15K+),Staff,111410.0,Cost
+PE007,Las Vegas,Big,Arena (15K+),Staff,98690.0,Cost
+PE008,DMV,Mid-sized,Arena (15K+),Staff,75330.0,Cost
+PE009,New York,Big,Arena (15K+),Staff,125420.0,Cost
+PE010,Las Vegas,Big,Arena (15K+),Staff,110610.0,Cost
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Staff,77830.0,Cost
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Staff,78340.0,Cost
+PE013,New York,Big,Arena (15K+),Staff,117660.0,Cost
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Staff,73830.0,Cost
+PE015,Las Vegas,Big,Arena (15K+),Staff,107820.0,Cost
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Staff,71660.0,Cost
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Staff,68270.0,Cost
+PE018,New York,Big,Arena (15K+),Staff,107520.0,Cost
+PE019,Las Vegas,Big,Arena (15K+),Staff,110530.0,Cost
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Staff,69110.0,Cost
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Staff,78600.0,Cost
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Staff,84585.0,Cost
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Staff,75640.0,Cost
+PE024,New York,Big,Arena (15K+),Staff,120090.0,Cost
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Staff,71440.0,Cost
+PE026,Philadelphia,Mid-sized,Arena (15K+),Staff,75400.0,Cost
+PE027,Las Vegas,Big,Arena (15K+),Staff,104100.0,Cost
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Staff,77900.0,Cost
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Staff,69670.0,Cost
+PE030,Texas,Mid-sized,Arena (15K+),Staff,72400.0,Cost
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Staff,63250.0,Cost
+PE032,DMV,Mid-sized,Arena (15K+),Staff,67080.0,Cost
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Staff,79880.0,Cost
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Staff,78920.0,Cost
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Staff,78380.0,Cost
+PE036,New York,Big,Arena (15K+),Staff,109460.0,Cost
+PE037,Las Vegas,Big,Arena (15K+),Staff,108980.0,Cost
+PE038,New York,Big,Arena (15K+),Staff,111850.0,Cost
+PE039,New York,Big,Arena (15K+),Staff,120450.0,Cost
+PE040,Atlanta,Big,Arena (15K+),Staff,105280.0,Cost
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Staff,77585.0,Cost
+PE042,Las Vegas,Big,Arena (15K+),Staff,104390.0,Cost
+PE043,Atlanta,Big,Arena (15K+),Staff,97880.0,Cost
+PE044,Las Vegas,Big,Arena (15K+),Staff,109850.0,Cost
+PE045,Las Vegas,Big,Arena (15K+),Staff,99200.0,Cost
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Staff,74260.0,Cost
+PE047,Philadelphia,Mid-sized,Arena (15K+),Staff,78240.0,Cost
+PE048,Atlanta,Big,Arena (15K+),Staff,110040.0,Cost
+PE049,Las Vegas,Big,Arena (15K+),Staff,96230.0,Cost
+PE050,Las Vegas,Big,Arena (15K+),Staff,109220.0,Cost
+PE051,New York,Big,Arena (15K+),Staff,118790.0,Cost
+PE001,New York,Big,Arena (15K+),Venue,463159.0,Cost
+PE002,Texas,Mid-sized,Arena (15K+),Venue,333100.0,Cost
+PE003,Atlanta,Big,Arena (15K+),Venue,464844.0,Cost
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Venue,77053.0,Cost
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Venue,67396.0,Cost
+PE006,New York,Big,Arena (15K+),Venue,586000.0,Cost
+PE007,Las Vegas,Big,Arena (15K+),Venue,477247.0,Cost
+PE008,DMV,Mid-sized,Arena (15K+),Venue,322538.0,Cost
+PE009,New York,Big,Arena (15K+),Venue,407988.0,Cost
+PE010,Las Vegas,Big,Arena (15K+),Venue,490000.0,Cost
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Venue,85289.0,Cost
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Venue,106300.0,Cost
+PE013,New York,Big,Arena (15K+),Venue,552684.26,Cost
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Venue,92500.0,Cost
+PE015,Las Vegas,Big,Arena (15K+),Venue,475479.0,Cost
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Venue,81521.0,Cost
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Venue,107300.0,Cost
+PE018,New York,Big,Arena (15K+),Venue,404500.0,Cost
+PE019,Las Vegas,Big,Arena (15K+),Venue,476638.0,Cost
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Venue,95688.0,Cost
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Venue,79801.49,Cost
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Venue,85049.0,Cost
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Venue,79958.17,Cost
+PE024,New York,Big,Arena (15K+),Venue,591100.0,Cost
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Venue,76691.0,Cost
+PE026,Philadelphia,Mid-sized,Arena (15K+),Venue,299684.66000000003,Cost
+PE027,Las Vegas,Big,Arena (15K+),Venue,503305.0,Cost
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Venue,75600.0,Cost
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Venue,76909.0,Cost
+PE030,Texas,Mid-sized,Arena (15K+),Venue,331970.83999999997,Cost
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Venue,91752.34,Cost
+PE032,DMV,Mid-sized,Arena (15K+),Venue,307511.0,Cost
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Venue,73488.91,Cost
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Venue,103260.0,Cost
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Venue,111900.0,Cost
+PE036,New York,Big,Arena (15K+),Venue,416516.0,Cost
+PE037,Las Vegas,Big,Arena (15K+),Venue,436021.0,Cost
+PE038,New York,Big,Arena (15K+),Venue,450565.67000000004,Cost
+PE039,New York,Big,Arena (15K+),Venue,493007.73,Cost
+PE040,Atlanta,Big,Arena (15K+),Venue,396621.0,Cost
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Venue,100754.87,Cost
+PE042,Las Vegas,Big,Arena (15K+),Venue,370841.0,Cost
+PE043,Atlanta,Big,Arena (15K+),Venue,390702.0,Cost
+PE044,Las Vegas,Big,Arena (15K+),Venue,411700.0,Cost
+PE045,Las Vegas,Big,Arena (15K+),Venue,541497.13,Cost
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Venue,86975.0,Cost
+PE047,Philadelphia,Mid-sized,Arena (15K+),Venue,304168.0,Cost
+PE048,Atlanta,Big,Arena (15K+),Venue,479052.0,Cost
+PE049,Las Vegas,Big,Arena (15K+),Venue,463547.15,Cost
+PE050,Las Vegas,Big,Arena (15K+),Venue,462253.0,Cost
+PE051,New York,Big,Arena (15K+),Venue,486730.0,Cost
+PE001,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE002,Texas,Mid-sized,Arena (15K+),Production,20000.0,Cost
+PE003,Atlanta,Big,Arena (15K+),Production,40000.0,Cost
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE006,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE007,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE008,DMV,Mid-sized,Arena (15K+),Production,20000.0,Cost
+PE009,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE010,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE013,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE015,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE018,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE019,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE024,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE026,Philadelphia,Mid-sized,Arena (15K+),Production,20000.0,Cost
+PE027,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE030,Texas,Mid-sized,Arena (15K+),Production,20000.0,Cost
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE032,DMV,Mid-sized,Arena (15K+),Production,20000.0,Cost
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE036,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE037,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE038,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE039,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE040,Atlanta,Big,Arena (15K+),Production,40000.0,Cost
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE042,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE043,Atlanta,Big,Arena (15K+),Production,40000.0,Cost
+PE044,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE045,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Production,20000.0,Cost
+PE047,Philadelphia,Mid-sized,Arena (15K+),Production,20000.0,Cost
+PE048,Atlanta,Big,Arena (15K+),Production,40000.0,Cost
+PE049,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE050,Las Vegas,Big,Arena (15K+),Production,40000.0,Cost
+PE051,New York,Big,Arena (15K+),Production,40000.0,Cost
+PE001,New York,Big,Arena (15K+),Gate_Tax,205590.86,Cost
+PE002,Texas,Mid-sized,Arena (15K+),Gate_Tax,35400.0,Cost
+PE003,Atlanta,Big,Arena (15K+),Gate_Tax,246148.2,Cost
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,30799.0,Cost
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,19678.0,Cost
+PE006,New York,Big,Arena (15K+),Gate_Tax,208500.0,Cost
+PE007,Las Vegas,Big,Arena (15K+),Gate_Tax,523652.0,Cost
+PE008,DMV,Mid-sized,Arena (15K+),Gate_Tax,36300.0,Cost
+PE009,New York,Big,Arena (15K+),Gate_Tax,201400.0,Cost
+PE010,Las Vegas,Big,Arena (15K+),Gate_Tax,473200.0,Cost
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,45700.0,Cost
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,31708.56,Cost
+PE013,New York,Big,Arena (15K+),Gate_Tax,326838.5,Cost
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,32521.0,Cost
+PE015,Las Vegas,Big,Arena (15K+),Gate_Tax,482472.0,Cost
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,23200.0,Cost
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,30400.0,Cost
+PE018,New York,Big,Arena (15K+),Gate_Tax,231430.0,Cost
+PE019,Las Vegas,Big,Arena (15K+),Gate_Tax,323254.0,Cost
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,32600.0,Cost
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,48742.26,Cost
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,30768.0,Cost
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,58612.04,Cost
+PE024,New York,Big,Arena (15K+),Gate_Tax,315400.0,Cost
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,45425.54,Cost
+PE026,Philadelphia,Mid-sized,Arena (15K+),Gate_Tax,57837.0,Cost
+PE027,Las Vegas,Big,Arena (15K+),Gate_Tax,464800.0,Cost
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,28300.0,Cost
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,55514.0,Cost
+PE030,Texas,Mid-sized,Arena (15K+),Gate_Tax,56614.0,Cost
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,33400.0,Cost
+PE032,DMV,Mid-sized,Arena (15K+),Gate_Tax,59527.0,Cost
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,20373.0,Cost
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,66149.0,Cost
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,25581.0,Cost
+PE036,New York,Big,Arena (15K+),Gate_Tax,339100.0,Cost
+PE037,Las Vegas,Big,Arena (15K+),Gate_Tax,256800.0,Cost
+PE038,New York,Big,Arena (15K+),Gate_Tax,396380.02,Cost
+PE039,New York,Big,Arena (15K+),Gate_Tax,183656.0,Cost
+PE040,Atlanta,Big,Arena (15K+),Gate_Tax,304000.0,Cost
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,30422.3,Cost
+PE042,Las Vegas,Big,Arena (15K+),Gate_Tax,282900.0,Cost
+PE043,Atlanta,Big,Arena (15K+),Gate_Tax,236800.0,Cost
+PE044,Las Vegas,Big,Arena (15K+),Gate_Tax,550269.0,Cost
+PE045,Las Vegas,Big,Arena (15K+),Gate_Tax,446600.0,Cost
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Gate_Tax,35700.0,Cost
+PE047,Philadelphia,Mid-sized,Arena (15K+),Gate_Tax,42600.0,Cost
+PE048,Atlanta,Big,Arena (15K+),Gate_Tax,219170.0,Cost
+PE049,Las Vegas,Big,Arena (15K+),Gate_Tax,279123.4,Cost
+PE050,Las Vegas,Big,Arena (15K+),Gate_Tax,284633.54,Cost
+PE051,New York,Big,Arena (15K+),Gate_Tax,310671.0,Cost
+PE001,New York,Big,Arena (15K+),Officials_and_Medical,49060.0,Cost
+PE002,Texas,Mid-sized,Arena (15K+),Officials_and_Medical,32900.0,Cost
+PE003,Atlanta,Big,Arena (15K+),Officials_and_Medical,53500.0,Cost
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,32100.0,Cost
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,32533.86,Cost
+PE006,New York,Big,Arena (15K+),Officials_and_Medical,48892.74,Cost
+PE007,Las Vegas,Big,Arena (15K+),Officials_and_Medical,54197.0,Cost
+PE008,DMV,Mid-sized,Arena (15K+),Officials_and_Medical,34696.64,Cost
+PE009,New York,Big,Arena (15K+),Officials_and_Medical,47794.0,Cost
+PE010,Las Vegas,Big,Arena (15K+),Officials_and_Medical,59171.0,Cost
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,31444.44,Cost
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,34830.0,Cost
+PE013,New York,Big,Arena (15K+),Officials_and_Medical,51400.0,Cost
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,31541.0,Cost
+PE015,Las Vegas,Big,Arena (15K+),Officials_and_Medical,60200.0,Cost
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,33036.0,Cost
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,29811.32,Cost
+PE018,New York,Big,Arena (15K+),Officials_and_Medical,58600.0,Cost
+PE019,Las Vegas,Big,Arena (15K+),Officials_and_Medical,48499.0,Cost
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,27738.0,Cost
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,28540.17,Cost
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,29365.42,Cost
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,32968.0,Cost
+PE024,New York,Big,Arena (15K+),Officials_and_Medical,57600.0,Cost
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,30757.0,Cost
+PE026,Philadelphia,Mid-sized,Arena (15K+),Officials_and_Medical,33457.0,Cost
+PE027,Las Vegas,Big,Arena (15K+),Officials_and_Medical,52009.62,Cost
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,30740.0,Cost
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,29100.0,Cost
+PE030,Texas,Mid-sized,Arena (15K+),Officials_and_Medical,35181.07,Cost
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,34300.0,Cost
+PE032,DMV,Mid-sized,Arena (15K+),Officials_and_Medical,30700.0,Cost
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,28056.04,Cost
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,34841.68,Cost
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,29300.0,Cost
+PE036,New York,Big,Arena (15K+),Officials_and_Medical,47470.880000000005,Cost
+PE037,Las Vegas,Big,Arena (15K+),Officials_and_Medical,48920.58,Cost
+PE038,New York,Big,Arena (15K+),Officials_and_Medical,49915.71,Cost
+PE039,New York,Big,Arena (15K+),Officials_and_Medical,50597.26,Cost
+PE040,Atlanta,Big,Arena (15K+),Officials_and_Medical,45953.0,Cost
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,27347.0,Cost
+PE042,Las Vegas,Big,Arena (15K+),Officials_and_Medical,51624.0,Cost
+PE043,Atlanta,Big,Arena (15K+),Officials_and_Medical,54474.0,Cost
+PE044,Las Vegas,Big,Arena (15K+),Officials_and_Medical,50371.0,Cost
+PE045,Las Vegas,Big,Arena (15K+),Officials_and_Medical,58590.0,Cost
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Officials_and_Medical,26922.0,Cost
+PE047,Philadelphia,Mid-sized,Arena (15K+),Officials_and_Medical,32223.38,Cost
+PE048,Atlanta,Big,Arena (15K+),Officials_and_Medical,51729.55,Cost
+PE049,Las Vegas,Big,Arena (15K+),Officials_and_Medical,45941.0,Cost
+PE050,Las Vegas,Big,Arena (15K+),Officials_and_Medical,55351.0,Cost
+PE051,New York,Big,Arena (15K+),Officials_and_Medical,59684.0,Cost
+PE001,New York,Big,Arena (15K+),Marketing,311920.0,Cost
+PE002,Texas,Mid-sized,Arena (15K+),Marketing,68450.0,Cost
+PE003,Atlanta,Big,Arena (15K+),Marketing,311030.0,Cost
+PE004,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Marketing,41750.0,Cost
+PE005,DMV,Mid-sized,Mid-sized room (4K-7.5K),Marketing,28210.0,Cost
+PE006,New York,Big,Arena (15K+),Marketing,273960.0,Cost
+PE007,Las Vegas,Big,Arena (15K+),Marketing,431140.0,Cost
+PE008,DMV,Mid-sized,Arena (15K+),Marketing,75730.0,Cost
+PE009,New York,Big,Arena (15K+),Marketing,307210.0,Cost
+PE010,Las Vegas,Big,Arena (15K+),Marketing,430460.0,Cost
+PE011,Texas,Mid-sized,Mid-sized room (4K-7.5K),Marketing,59100.0,Cost
+PE012,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Marketing,45900.0,Cost
+PE013,New York,Big,Arena (15K+),Marketing,473060.0,Cost
+PE014,DMV,Mid-sized,Mid-sized room (4K-7.5K),Marketing,44160.0,Cost
+PE015,Las Vegas,Big,Arena (15K+),Marketing,453360.0,Cost
+PE016,DMV,Mid-sized,Mid-sized room (4K-7.5K),Marketing,31920.0,Cost
+PE017,DMV,Mid-sized,Mid-sized room (4K-7.5K),Marketing,44410.0,Cost
+PE018,New York,Big,Arena (15K+),Marketing,325990.0,Cost
+PE019,Las Vegas,Big,Arena (15K+),Marketing,280180.0,Cost
+PE020,DMV,Mid-sized,Mid-sized room (4K-7.5K),Marketing,46130.0,Cost
+PE021,Texas,Mid-sized,Mid-sized room (4K-7.5K),Marketing,66420.0,Cost
+PE022,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Marketing,47210.0,Cost
+PE023,DMV,Mid-sized,Mid-sized room (4K-7.5K),Marketing,85880.0,Cost
+PE024,New York,Big,Arena (15K+),Marketing,422700.0,Cost
+PE025,Texas,Mid-sized,Mid-sized room (4K-7.5K),Marketing,61800.0,Cost
+PE026,Philadelphia,Mid-sized,Arena (15K+),Marketing,105370.0,Cost
+PE027,Las Vegas,Big,Arena (15K+),Marketing,420280.0,Cost
+PE028,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Marketing,37300.0,Cost
+PE029,Texas,Mid-sized,Mid-sized room (4K-7.5K),Marketing,70830.0,Cost
+PE030,Texas,Mid-sized,Arena (15K+),Marketing,107660.0,Cost
+PE031,Texas,Mid-sized,Mid-sized room (4K-7.5K),Marketing,45550.0,Cost
+PE032,DMV,Mid-sized,Arena (15K+),Marketing,110200.0,Cost
+PE033,DMV,Mid-sized,Mid-sized room (4K-7.5K),Marketing,28880.0,Cost
+PE034,Texas,Mid-sized,Mid-sized room (4K-7.5K),Marketing,96990.0,Cost
+PE035,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Marketing,34830.0,Cost
+PE036,New York,Big,Arena (15K+),Marketing,451760.0,Cost
+PE037,Las Vegas,Big,Arena (15K+),Marketing,227380.0,Cost
+PE038,New York,Big,Arena (15K+),Marketing,510200.0,Cost
+PE039,New York,Big,Arena (15K+),Marketing,269260.0,Cost
+PE040,Atlanta,Big,Arena (15K+),Marketing,409910.0,Cost
+PE041,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),Marketing,41630.0,Cost
+PE042,Las Vegas,Big,Arena (15K+),Marketing,242040.0,Cost
+PE043,Atlanta,Big,Arena (15K+),Marketing,357520.0,Cost
+PE044,Las Vegas,Big,Arena (15K+),Marketing,455220.0,Cost
+PE045,Las Vegas,Big,Arena (15K+),Marketing,377880.0,Cost
+PE046,Texas,Mid-sized,Mid-sized room (4K-7.5K),Marketing,48710.0,Cost
+PE047,Philadelphia,Mid-sized,Arena (15K+),Marketing,83930.0,Cost
+PE048,Atlanta,Big,Arena (15K+),Marketing,295470.0,Cost
+PE049,Las Vegas,Big,Arena (15K+),Marketing,266510.0,Cost
+PE050,Las Vegas,Big,Arena (15K+),Marketing,245820.0,Cost
+PE051,New York,Big,Arena (15K+),Marketing,424420.0,Cost

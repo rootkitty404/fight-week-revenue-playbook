@@ -1,0 +1,2199 @@
+Staff_ID,Event_ID,Staff_Type,Role,Arrival_Day,Fee,Is_Local,Team_Hotel_Rate,Card_Type,Travel_Cost,Total_Cost
+S00001,PE001,Promoter,Social Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00002,PE001,Promoter,Commission Liaison,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S00003,PE001,Promoter,Matchmaking,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00004,PE001,Promoter,Commission Liaison,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00005,PE001,Promoter,PR & Media,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S00006,PE001,Promoter,Matchmaking,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S00007,PE001,Promoter,Talent Relations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00008,PE001,Promoter,Commission Liaison,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00009,PE001,Promoter,Social Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00010,PE001,Promoter,Social Media,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S00011,PE001,Promoter,Hospitality,Thursday,4000.0,False,260.0,Big,1430.0,5430.0
+S00012,PE001,Promoter,Credentialing,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S00013,PE001,Promoter,Hospitality,Thursday,4000.0,False,260.0,Big,1430.0,5430.0
+S00014,PE001,Promoter,Ticketing,Thursday,4000.0,False,260.0,Big,1430.0,5430.0
+S00015,PE001,Promoter,Security Lead,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00016,PE001,Promoter,Security Lead,Thursday,2500.0,False,260.0,Big,1430.0,3930.0
+S00017,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00018,PE001,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00019,PE001,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00020,PE001,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00021,PE001,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00022,PE001,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00023,PE001,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00024,PE001,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00025,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00026,PE001,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00027,PE001,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00028,PE001,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00029,PE001,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00030,PE001,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00031,PE001,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00032,PE001,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00033,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00034,PE001,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00035,PE001,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00036,PE001,Production Company,Stage Manager,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00037,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00038,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00039,PE001,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00040,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00041,PE001,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00042,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00043,PE001,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00044,PE001,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00045,PE001,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00046,PE001,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00047,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00048,PE001,Production Company,Rigging,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00049,PE001,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00050,PE001,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00051,PE001,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00052,PE001,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00053,PE001,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00054,PE001,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00055,PE001,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00056,PE002,Promoter,Matchmaking,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S00057,PE002,Promoter,Event Operations,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S00058,PE002,Promoter,Social Media,Tuesday,4500.0,True,170.0,Mid-sized,0.0,4500.0
+S00059,PE002,Promoter,Event Operations,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S00060,PE002,Promoter,Talent Relations,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S00061,PE002,Promoter,Event Operations,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S00062,PE002,Promoter,PR & Media,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S00063,PE002,Promoter,Matchmaking,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S00064,PE002,Promoter,Talent Relations,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S00065,PE002,Promoter,Matchmaking,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S00066,PE002,Promoter,Security Lead,Thursday,4000.0,False,170.0,Mid-sized,1160.0,5160.0
+S00067,PE002,Promoter,Event Operations,Thursday,4500.0,False,170.0,Mid-sized,1160.0,5660.0
+S00068,PE002,Promoter,Event Operations,Thursday,3000.0,False,170.0,Mid-sized,1160.0,4160.0
+S00069,PE002,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00070,PE002,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00071,PE002,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00072,PE002,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00073,PE002,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00074,PE002,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00075,PE002,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00076,PE002,Production Company,Stage Manager,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S00077,PE002,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00078,PE002,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00079,PE002,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00080,PE002,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00081,PE002,Production Company,Rigging,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S00082,PE002,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00083,PE002,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00084,PE002,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00085,PE002,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00086,PE002,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00087,PE002,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00088,PE002,Production Company,Rigging,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S00089,PE002,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00090,PE003,Promoter,PR & Media,Tuesday,4000.0,False,210.0,Big,1800.0,5800.0
+S00091,PE003,Promoter,Commission Liaison,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S00092,PE003,Promoter,Matchmaking,Tuesday,4000.0,False,210.0,Big,1800.0,5800.0
+S00093,PE003,Promoter,PR & Media,Tuesday,3500.0,False,210.0,Big,1800.0,5300.0
+S00094,PE003,Promoter,Commission Liaison,Tuesday,3500.0,False,210.0,Big,1800.0,5300.0
+S00095,PE003,Promoter,PR & Media,Tuesday,3500.0,True,210.0,Big,0.0,3500.0
+S00096,PE003,Promoter,Matchmaking,Tuesday,4500.0,True,210.0,Big,0.0,4500.0
+S00097,PE003,Promoter,Matchmaking,Tuesday,5000.0,False,210.0,Big,1800.0,6800.0
+S00098,PE003,Promoter,Event Operations,Tuesday,3500.0,False,210.0,Big,1800.0,5300.0
+S00099,PE003,Promoter,Commission Liaison,Tuesday,5000.0,False,210.0,Big,1800.0,6800.0
+S00100,PE003,Promoter,Event Operations,Thursday,4000.0,False,210.0,Big,1280.0,5280.0
+S00101,PE003,Promoter,Credentialing,Thursday,2500.0,False,210.0,Big,1280.0,3780.0
+S00102,PE003,Promoter,Ticketing,Thursday,4500.0,False,210.0,Big,1280.0,5780.0
+S00103,PE003,Promoter,Hospitality,Thursday,3500.0,False,210.0,Big,1280.0,4780.0
+S00104,PE003,Promoter,Hospitality,Thursday,3500.0,False,210.0,Big,1280.0,4780.0
+S00105,PE003,Promoter,Event Operations,Thursday,4500.0,False,210.0,Big,1280.0,5780.0
+S00106,PE003,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00107,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00108,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00109,PE003,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00110,PE003,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00111,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00112,PE003,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00113,PE003,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00114,PE003,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00115,PE003,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00116,PE003,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00117,PE003,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00118,PE003,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00119,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00120,PE003,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00121,PE003,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00122,PE003,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00123,PE003,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00124,PE003,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00125,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00126,PE003,Production Company,Audio,Thursday,0.0,True,210.0,Big,0.0,0.0
+S00127,PE003,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00128,PE003,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00129,PE003,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00130,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00131,PE003,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00132,PE003,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00133,PE003,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00134,PE003,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00135,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00136,PE003,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00137,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00138,PE003,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00139,PE003,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00140,PE003,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00141,PE003,Production Company,Lighting,Thursday,0.0,True,210.0,Big,0.0,0.0
+S00142,PE003,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00143,PE003,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S00144,PE004,Promoter,Commission Liaison,Tuesday,4000.0,False,185.0,Mid-sized,1675.0,5675.0
+S00145,PE004,Promoter,PR & Media,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S00146,PE004,Promoter,Commission Liaison,Tuesday,3500.0,True,185.0,Mid-sized,0.0,3500.0
+S00147,PE004,Promoter,Social Media,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S00148,PE004,Promoter,Event Operations,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S00149,PE004,Promoter,Talent Relations,Tuesday,5000.0,True,185.0,Mid-sized,0.0,5000.0
+S00150,PE004,Promoter,Social Media,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S00151,PE004,Promoter,Event Operations,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S00152,PE004,Promoter,Social Media,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S00153,PE004,Promoter,Commission Liaison,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S00154,PE004,Promoter,Hospitality,Thursday,3500.0,False,185.0,Mid-sized,1205.0,4705.0
+S00155,PE004,Promoter,Event Operations,Thursday,3500.0,False,185.0,Mid-sized,1205.0,4705.0
+S00156,PE004,Promoter,Event Operations,Thursday,3000.0,False,185.0,Mid-sized,1205.0,4205.0
+S00157,PE004,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00158,PE004,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00159,PE004,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00160,PE004,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00161,PE004,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00162,PE004,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00163,PE004,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00164,PE004,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00165,PE004,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00166,PE004,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00167,PE004,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00168,PE004,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00169,PE004,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00170,PE004,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00171,PE004,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00172,PE004,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00173,PE004,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00174,PE004,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00175,PE004,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00176,PE004,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00177,PE005,Promoter,PR & Media,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00178,PE005,Promoter,Matchmaking,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00179,PE005,Promoter,Social Media,Tuesday,4000.0,False,190.0,Mid-sized,1700.0,5700.0
+S00180,PE005,Promoter,Event Operations,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S00181,PE005,Promoter,PR & Media,Tuesday,3000.0,True,190.0,Mid-sized,0.0,3000.0
+S00182,PE005,Promoter,Talent Relations,Tuesday,3500.0,True,190.0,Mid-sized,0.0,3500.0
+S00183,PE005,Promoter,PR & Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00184,PE005,Promoter,Commission Liaison,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00185,PE005,Promoter,Social Media,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00186,PE005,Promoter,Social Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00187,PE005,Promoter,Event Operations,Thursday,4000.0,False,190.0,Mid-sized,1220.0,5220.0
+S00188,PE005,Promoter,Ticketing,Thursday,4500.0,True,190.0,Mid-sized,0.0,4500.0
+S00189,PE005,Promoter,Ticketing,Thursday,2500.0,True,190.0,Mid-sized,0.0,2500.0
+S00190,PE005,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00191,PE005,Production Company,Video Engineer,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00192,PE005,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00193,PE005,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00194,PE005,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00195,PE005,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00196,PE005,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00197,PE005,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00198,PE005,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00199,PE005,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00200,PE005,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00201,PE005,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00202,PE005,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00203,PE005,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00204,PE005,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00205,PE005,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00206,PE005,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00207,PE005,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00208,PE005,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00209,PE006,Promoter,Talent Relations,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S00210,PE006,Promoter,Commission Liaison,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00211,PE006,Promoter,Matchmaking,Tuesday,4000.0,True,260.0,Big,0.0,4000.0
+S00212,PE006,Promoter,Matchmaking,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S00213,PE006,Promoter,Talent Relations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00214,PE006,Promoter,PR & Media,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S00215,PE006,Promoter,Event Operations,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S00216,PE006,Promoter,Matchmaking,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S00217,PE006,Promoter,Social Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00218,PE006,Promoter,Commission Liaison,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00219,PE006,Promoter,Security Lead,Thursday,4500.0,False,260.0,Big,1430.0,5930.0
+S00220,PE006,Promoter,Credentialing,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00221,PE006,Promoter,Ticketing,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00222,PE006,Promoter,Credentialing,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00223,PE006,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00224,PE006,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00225,PE006,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00226,PE006,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00227,PE006,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00228,PE006,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00229,PE006,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00230,PE006,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00231,PE006,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00232,PE006,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00233,PE006,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00234,PE006,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00235,PE006,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00236,PE006,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00237,PE006,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00238,PE006,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00239,PE006,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00240,PE006,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00241,PE006,Production Company,Camera,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00242,PE006,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00243,PE006,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00244,PE006,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00245,PE006,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00246,PE006,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00247,PE006,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00248,PE006,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00249,PE006,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00250,PE006,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00251,PE006,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00252,PE006,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00253,PE006,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00254,PE006,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00255,PE006,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00256,PE006,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00257,PE006,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00258,PE006,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00259,PE006,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00260,PE006,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00261,PE006,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00262,PE007,Promoter,Matchmaking,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00263,PE007,Promoter,Talent Relations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00264,PE007,Promoter,Matchmaking,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S00265,PE007,Promoter,PR & Media,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S00266,PE007,Promoter,Talent Relations,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S00267,PE007,Promoter,Matchmaking,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S00268,PE007,Promoter,Talent Relations,Tuesday,3000.0,True,220.0,Big,0.0,3000.0
+S00269,PE007,Promoter,PR & Media,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00270,PE007,Promoter,Event Operations,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S00271,PE007,Promoter,Talent Relations,Tuesday,5000.0,True,220.0,Big,0.0,5000.0
+S00272,PE007,Promoter,Credentialing,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S00273,PE007,Promoter,Event Operations,Thursday,3000.0,False,220.0,Big,1310.0,4310.0
+S00274,PE007,Promoter,Credentialing,Thursday,5000.0,False,220.0,Big,1310.0,6310.0
+S00275,PE007,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00276,PE007,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00277,PE007,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00278,PE007,Production Company,Stage Manager,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00279,PE007,Production Company,Rigging,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00280,PE007,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00281,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00282,PE007,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00283,PE007,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00284,PE007,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00285,PE007,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00286,PE007,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00287,PE007,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00288,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00289,PE007,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00290,PE007,Production Company,Camera,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00291,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00292,PE007,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00293,PE007,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00294,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00295,PE007,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00296,PE007,Production Company,Lighting,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00297,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00298,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00299,PE007,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00300,PE007,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00301,PE007,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00302,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00303,PE007,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00304,PE007,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00305,PE007,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00306,PE007,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00307,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00308,PE007,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00309,PE007,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00310,PE007,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00311,PE007,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00312,PE007,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00313,PE007,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00314,PE007,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00315,PE008,Promoter,Talent Relations,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00316,PE008,Promoter,Matchmaking,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00317,PE008,Promoter,Social Media,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00318,PE008,Promoter,PR & Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00319,PE008,Promoter,Matchmaking,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00320,PE008,Promoter,Talent Relations,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00321,PE008,Promoter,Talent Relations,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S00322,PE008,Promoter,Social Media,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00323,PE008,Promoter,Social Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00324,PE008,Promoter,Event Operations,Tuesday,3000.0,True,190.0,Mid-sized,0.0,3000.0
+S00325,PE008,Promoter,Hospitality,Thursday,3500.0,False,190.0,Mid-sized,1220.0,4720.0
+S00326,PE008,Promoter,Event Operations,Thursday,3000.0,False,190.0,Mid-sized,1220.0,4220.0
+S00327,PE008,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00328,PE008,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00329,PE008,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00330,PE008,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00331,PE008,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00332,PE008,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00333,PE008,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00334,PE008,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00335,PE008,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00336,PE008,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00337,PE008,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00338,PE008,Production Company,Stage Manager,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00339,PE008,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00340,PE008,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00341,PE008,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00342,PE008,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00343,PE008,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00344,PE008,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00345,PE009,Promoter,Commission Liaison,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S00346,PE009,Promoter,Matchmaking,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S00347,PE009,Promoter,Social Media,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S00348,PE009,Promoter,Event Operations,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00349,PE009,Promoter,Commission Liaison,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00350,PE009,Promoter,Matchmaking,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00351,PE009,Promoter,Event Operations,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00352,PE009,Promoter,Event Operations,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00353,PE009,Promoter,Event Operations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00354,PE009,Promoter,Commission Liaison,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00355,PE009,Promoter,Hospitality,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00356,PE009,Promoter,Security Lead,Thursday,2500.0,False,260.0,Big,1430.0,3930.0
+S00357,PE009,Promoter,Credentialing,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S00358,PE009,Promoter,Credentialing,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S00359,PE009,Promoter,Credentialing,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00360,PE009,Promoter,Hospitality,Thursday,4500.0,False,260.0,Big,1430.0,5930.0
+S00361,PE009,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00362,PE009,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00363,PE009,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00364,PE009,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00365,PE009,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00366,PE009,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00367,PE009,Production Company,Ring Crew,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00368,PE009,Production Company,Ring Crew,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00369,PE009,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00370,PE009,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00371,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00372,PE009,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00373,PE009,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00374,PE009,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00375,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00376,PE009,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00377,PE009,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00378,PE009,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00379,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00380,PE009,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00381,PE009,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00382,PE009,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00383,PE009,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00384,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00385,PE009,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00386,PE009,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00387,PE009,Production Company,Rigging,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00388,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00389,PE009,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00390,PE009,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00391,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00392,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00393,PE009,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00394,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00395,PE009,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00396,PE009,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00397,PE010,Promoter,Event Operations,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S00398,PE010,Promoter,Matchmaking,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S00399,PE010,Promoter,Event Operations,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S00400,PE010,Promoter,Commission Liaison,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S00401,PE010,Promoter,Social Media,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S00402,PE010,Promoter,Talent Relations,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S00403,PE010,Promoter,Commission Liaison,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00404,PE010,Promoter,Talent Relations,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S00405,PE010,Promoter,Talent Relations,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S00406,PE010,Promoter,PR & Media,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S00407,PE010,Promoter,Event Operations,Thursday,3500.0,True,220.0,Big,0.0,3500.0
+S00408,PE010,Promoter,Hospitality,Thursday,4500.0,False,220.0,Big,1310.0,5810.0
+S00409,PE010,Promoter,Event Operations,Thursday,5000.0,False,220.0,Big,1310.0,6310.0
+S00410,PE010,Promoter,Security Lead,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S00411,PE010,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00412,PE010,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00413,PE010,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00414,PE010,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00415,PE010,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00416,PE010,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00417,PE010,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00418,PE010,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00419,PE010,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00420,PE010,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00421,PE010,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00422,PE010,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00423,PE010,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00424,PE010,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00425,PE010,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00426,PE010,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00427,PE010,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00428,PE010,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00429,PE010,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00430,PE010,Production Company,Video Engineer,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00431,PE010,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00432,PE010,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00433,PE010,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00434,PE010,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00435,PE010,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00436,PE010,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00437,PE010,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00438,PE010,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00439,PE010,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00440,PE010,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00441,PE010,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00442,PE010,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00443,PE010,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00444,PE010,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00445,PE010,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00446,PE010,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00447,PE010,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00448,PE010,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00449,PE010,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00450,PE010,Production Company,Lighting,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00451,PE010,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00452,PE011,Promoter,Commission Liaison,Tuesday,4500.0,True,170.0,Mid-sized,0.0,4500.0
+S00453,PE011,Promoter,Matchmaking,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S00454,PE011,Promoter,Social Media,Tuesday,4000.0,True,170.0,Mid-sized,0.0,4000.0
+S00455,PE011,Promoter,Matchmaking,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S00456,PE011,Promoter,Commission Liaison,Tuesday,4000.0,True,170.0,Mid-sized,0.0,4000.0
+S00457,PE011,Promoter,PR & Media,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S00458,PE011,Promoter,Commission Liaison,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S00459,PE011,Promoter,Matchmaking,Tuesday,2500.0,False,170.0,Mid-sized,1600.0,4100.0
+S00460,PE011,Promoter,Commission Liaison,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S00461,PE011,Promoter,PR & Media,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S00462,PE011,Promoter,Event Operations,Thursday,3000.0,False,170.0,Mid-sized,1160.0,4160.0
+S00463,PE011,Promoter,Credentialing,Thursday,3500.0,False,170.0,Mid-sized,1160.0,4660.0
+S00464,PE011,Promoter,Credentialing,Thursday,5000.0,False,170.0,Mid-sized,1160.0,6160.0
+S00465,PE011,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00466,PE011,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00467,PE011,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00468,PE011,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00469,PE011,Production Company,Video Engineer,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S00470,PE011,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00471,PE011,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00472,PE011,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00473,PE011,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00474,PE011,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00475,PE011,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00476,PE011,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00477,PE011,Production Company,Lighting,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S00478,PE011,Production Company,Graphics,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S00479,PE011,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00480,PE011,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00481,PE011,Production Company,Camera,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S00482,PE011,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00483,PE011,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00484,PE012,Promoter,PR & Media,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S00485,PE012,Promoter,Social Media,Tuesday,4000.0,False,185.0,Mid-sized,1675.0,5675.0
+S00486,PE012,Promoter,Talent Relations,Tuesday,4000.0,False,185.0,Mid-sized,1675.0,5675.0
+S00487,PE012,Promoter,Talent Relations,Tuesday,4000.0,True,185.0,Mid-sized,0.0,4000.0
+S00488,PE012,Promoter,Talent Relations,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S00489,PE012,Promoter,Commission Liaison,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S00490,PE012,Promoter,Matchmaking,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S00491,PE012,Promoter,Commission Liaison,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S00492,PE012,Promoter,PR & Media,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S00493,PE012,Promoter,Event Operations,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S00494,PE012,Promoter,Security Lead,Thursday,3500.0,False,185.0,Mid-sized,1205.0,4705.0
+S00495,PE012,Promoter,Event Operations,Thursday,4000.0,True,185.0,Mid-sized,0.0,4000.0
+S00496,PE012,Promoter,Event Operations,Thursday,2500.0,False,185.0,Mid-sized,1205.0,3705.0
+S00497,PE012,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00498,PE012,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00499,PE012,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00500,PE012,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00501,PE012,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00502,PE012,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00503,PE012,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00504,PE012,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00505,PE012,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00506,PE012,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00507,PE012,Production Company,Stage Manager,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S00508,PE012,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00509,PE012,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00510,PE012,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00511,PE012,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00512,PE012,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00513,PE012,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00514,PE012,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00515,PE012,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00516,PE012,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00517,PE012,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00518,PE012,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00519,PE013,Promoter,PR & Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00520,PE013,Promoter,PR & Media,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00521,PE013,Promoter,Commission Liaison,Tuesday,4500.0,True,260.0,Big,0.0,4500.0
+S00522,PE013,Promoter,Talent Relations,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S00523,PE013,Promoter,PR & Media,Tuesday,3000.0,True,260.0,Big,0.0,3000.0
+S00524,PE013,Promoter,PR & Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00525,PE013,Promoter,Matchmaking,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S00526,PE013,Promoter,Commission Liaison,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S00527,PE013,Promoter,Talent Relations,Tuesday,3000.0,True,260.0,Big,0.0,3000.0
+S00528,PE013,Promoter,Matchmaking,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S00529,PE013,Promoter,Hospitality,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00530,PE013,Promoter,Ticketing,Thursday,4000.0,False,260.0,Big,1430.0,5430.0
+S00531,PE013,Promoter,Ticketing,Thursday,3500.0,True,260.0,Big,0.0,3500.0
+S00532,PE013,Promoter,Event Operations,Thursday,3000.0,False,260.0,Big,1430.0,4430.0
+S00533,PE013,Promoter,Event Operations,Thursday,2500.0,False,260.0,Big,1430.0,3930.0
+S00534,PE013,Promoter,Hospitality,Thursday,4500.0,False,260.0,Big,1430.0,5930.0
+S00535,PE013,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00536,PE013,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00537,PE013,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00538,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00539,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00540,PE013,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00541,PE013,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00542,PE013,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00543,PE013,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00544,PE013,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00545,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00546,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00547,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00548,PE013,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00549,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00550,PE013,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00551,PE013,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00552,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00553,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00554,PE013,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00555,PE013,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00556,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00557,PE013,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00558,PE013,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00559,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00560,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00561,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00562,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00563,PE013,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00564,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00565,PE013,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00566,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00567,PE013,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00568,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00569,PE013,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00570,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00571,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00572,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00573,PE013,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00574,PE013,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00575,PE013,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00576,PE013,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00577,PE014,Promoter,Commission Liaison,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00578,PE014,Promoter,Commission Liaison,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00579,PE014,Promoter,Social Media,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00580,PE014,Promoter,Matchmaking,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00581,PE014,Promoter,Event Operations,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00582,PE014,Promoter,Talent Relations,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S00583,PE014,Promoter,Social Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00584,PE014,Promoter,Social Media,Tuesday,3500.0,True,190.0,Mid-sized,0.0,3500.0
+S00585,PE014,Promoter,Commission Liaison,Tuesday,2500.0,False,190.0,Mid-sized,1700.0,4200.0
+S00586,PE014,Promoter,Event Operations,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00587,PE014,Promoter,Credentialing,Thursday,3500.0,False,190.0,Mid-sized,1220.0,4720.0
+S00588,PE014,Promoter,Credentialing,Thursday,5000.0,False,190.0,Mid-sized,1220.0,6220.0
+S00589,PE014,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00590,PE014,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00591,PE014,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00592,PE014,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00593,PE014,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00594,PE014,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00595,PE014,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00596,PE014,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00597,PE014,Production Company,Graphics,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00598,PE014,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00599,PE014,Production Company,Lighting,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00600,PE014,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00601,PE014,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00602,PE014,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00603,PE014,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00604,PE014,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00605,PE014,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00606,PE014,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00607,PE014,Production Company,Lighting,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00608,PE014,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00609,PE015,Promoter,Matchmaking,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00610,PE015,Promoter,Social Media,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00611,PE015,Promoter,Commission Liaison,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S00612,PE015,Promoter,Social Media,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S00613,PE015,Promoter,Social Media,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S00614,PE015,Promoter,Event Operations,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S00615,PE015,Promoter,PR & Media,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S00616,PE015,Promoter,Event Operations,Tuesday,3500.0,True,220.0,Big,0.0,3500.0
+S00617,PE015,Promoter,Matchmaking,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00618,PE015,Promoter,PR & Media,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S00619,PE015,Promoter,Security Lead,Thursday,4000.0,False,220.0,Big,1310.0,5310.0
+S00620,PE015,Promoter,Credentialing,Thursday,2500.0,True,220.0,Big,0.0,2500.0
+S00621,PE015,Promoter,Ticketing,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S00622,PE015,Promoter,Security Lead,Thursday,5000.0,True,220.0,Big,0.0,5000.0
+S00623,PE015,Promoter,Ticketing,Thursday,4500.0,False,220.0,Big,1310.0,5810.0
+S00624,PE015,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00625,PE015,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00626,PE015,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00627,PE015,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00628,PE015,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00629,PE015,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00630,PE015,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00631,PE015,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00632,PE015,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00633,PE015,Production Company,Video Engineer,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00634,PE015,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00635,PE015,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00636,PE015,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00637,PE015,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00638,PE015,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00639,PE015,Production Company,Lighting,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00640,PE015,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00641,PE015,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00642,PE015,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00643,PE015,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00644,PE015,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00645,PE015,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00646,PE015,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00647,PE015,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00648,PE015,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00649,PE015,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00650,PE015,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00651,PE015,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00652,PE015,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00653,PE015,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00654,PE015,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00655,PE015,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00656,PE015,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00657,PE015,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00658,PE015,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00659,PE015,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00660,PE015,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00661,PE016,Promoter,Event Operations,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00662,PE016,Promoter,Matchmaking,Tuesday,5000.0,True,190.0,Mid-sized,0.0,5000.0
+S00663,PE016,Promoter,Event Operations,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00664,PE016,Promoter,Event Operations,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00665,PE016,Promoter,PR & Media,Tuesday,4500.0,True,190.0,Mid-sized,0.0,4500.0
+S00666,PE016,Promoter,Social Media,Tuesday,2500.0,False,190.0,Mid-sized,1700.0,4200.0
+S00667,PE016,Promoter,Event Operations,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00668,PE016,Promoter,Event Operations,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00669,PE016,Promoter,Event Operations,Tuesday,4000.0,True,190.0,Mid-sized,0.0,4000.0
+S00670,PE016,Promoter,PR & Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00671,PE016,Promoter,Credentialing,Thursday,2500.0,False,190.0,Mid-sized,1220.0,3720.0
+S00672,PE016,Promoter,Credentialing,Thursday,4500.0,False,190.0,Mid-sized,1220.0,5720.0
+S00673,PE016,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00674,PE016,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00675,PE016,Production Company,Ring Crew,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00676,PE016,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00677,PE016,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00678,PE016,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00679,PE016,Production Company,Ring Crew,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00680,PE016,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00681,PE016,Production Company,Ring Crew,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00682,PE016,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00683,PE016,Production Company,Video Engineer,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00684,PE016,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00685,PE016,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00686,PE016,Production Company,Audio,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00687,PE016,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00688,PE016,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00689,PE016,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00690,PE016,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00691,PE016,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00692,PE016,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00693,PE016,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00694,PE016,Production Company,Audio,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00695,PE017,Promoter,Social Media,Tuesday,4000.0,False,190.0,Mid-sized,1700.0,5700.0
+S00696,PE017,Promoter,PR & Media,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00697,PE017,Promoter,Commission Liaison,Tuesday,2500.0,False,190.0,Mid-sized,1700.0,4200.0
+S00698,PE017,Promoter,Social Media,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00699,PE017,Promoter,Talent Relations,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00700,PE017,Promoter,PR & Media,Tuesday,2500.0,False,190.0,Mid-sized,1700.0,4200.0
+S00701,PE017,Promoter,Commission Liaison,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S00702,PE017,Promoter,Event Operations,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00703,PE017,Promoter,PR & Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00704,PE017,Promoter,Commission Liaison,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00705,PE017,Promoter,Credentialing,Thursday,2500.0,False,190.0,Mid-sized,1220.0,3720.0
+S00706,PE017,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00707,PE017,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00708,PE017,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00709,PE017,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00710,PE017,Production Company,Stage Manager,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00711,PE017,Production Company,Camera,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00712,PE017,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00713,PE017,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00714,PE017,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00715,PE017,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00716,PE017,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00717,PE017,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00718,PE017,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00719,PE017,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00720,PE017,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00721,PE017,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00722,PE017,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00723,PE017,Production Company,Audio,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00724,PE018,Promoter,Talent Relations,Tuesday,4500.0,True,260.0,Big,0.0,4500.0
+S00725,PE018,Promoter,Commission Liaison,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S00726,PE018,Promoter,Commission Liaison,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00727,PE018,Promoter,Commission Liaison,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00728,PE018,Promoter,Talent Relations,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S00729,PE018,Promoter,Social Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00730,PE018,Promoter,Commission Liaison,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00731,PE018,Promoter,PR & Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00732,PE018,Promoter,Social Media,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S00733,PE018,Promoter,Talent Relations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00734,PE018,Promoter,Event Operations,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00735,PE018,Promoter,Security Lead,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S00736,PE018,Promoter,Hospitality,Thursday,3000.0,False,260.0,Big,1430.0,4430.0
+S00737,PE018,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00738,PE018,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00739,PE018,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00740,PE018,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00741,PE018,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00742,PE018,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00743,PE018,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00744,PE018,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00745,PE018,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00746,PE018,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00747,PE018,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00748,PE018,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00749,PE018,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00750,PE018,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00751,PE018,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00752,PE018,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00753,PE018,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00754,PE018,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00755,PE018,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00756,PE018,Production Company,Graphics,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00757,PE018,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00758,PE018,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00759,PE018,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00760,PE018,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00761,PE018,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00762,PE018,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00763,PE018,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00764,PE018,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00765,PE018,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00766,PE018,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00767,PE018,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00768,PE018,Production Company,Camera,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00769,PE018,Production Company,Audio,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00770,PE018,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00771,PE018,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00772,PE018,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00773,PE018,Production Company,Video Engineer,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00774,PE018,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00775,PE018,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00776,PE018,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00777,PE019,Promoter,Talent Relations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00778,PE019,Promoter,PR & Media,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S00779,PE019,Promoter,Matchmaking,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S00780,PE019,Promoter,Commission Liaison,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S00781,PE019,Promoter,PR & Media,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S00782,PE019,Promoter,Matchmaking,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S00783,PE019,Promoter,Talent Relations,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S00784,PE019,Promoter,Matchmaking,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S00785,PE019,Promoter,PR & Media,Tuesday,3500.0,True,220.0,Big,0.0,3500.0
+S00786,PE019,Promoter,Talent Relations,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S00787,PE019,Promoter,Credentialing,Thursday,3000.0,False,220.0,Big,1310.0,4310.0
+S00788,PE019,Promoter,Ticketing,Thursday,5000.0,False,220.0,Big,1310.0,6310.0
+S00789,PE019,Promoter,Event Operations,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S00790,PE019,Promoter,Security Lead,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S00791,PE019,Promoter,Ticketing,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S00792,PE019,Promoter,Security Lead,Thursday,4500.0,False,220.0,Big,1310.0,5810.0
+S00793,PE019,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00794,PE019,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00795,PE019,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00796,PE019,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00797,PE019,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00798,PE019,Production Company,Rigging,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00799,PE019,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00800,PE019,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00801,PE019,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00802,PE019,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00803,PE019,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00804,PE019,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00805,PE019,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00806,PE019,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00807,PE019,Production Company,Camera,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00808,PE019,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00809,PE019,Production Company,Rigging,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00810,PE019,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00811,PE019,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00812,PE019,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00813,PE019,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00814,PE019,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00815,PE019,Production Company,Rigging,Thursday,0.0,True,220.0,Big,0.0,0.0
+S00816,PE019,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00817,PE019,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00818,PE019,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00819,PE019,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00820,PE019,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00821,PE019,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00822,PE019,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00823,PE019,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00824,PE019,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00825,PE019,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00826,PE019,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00827,PE019,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00828,PE019,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00829,PE019,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S00830,PE020,Promoter,Social Media,Tuesday,5000.0,True,190.0,Mid-sized,0.0,5000.0
+S00831,PE020,Promoter,Social Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00832,PE020,Promoter,Talent Relations,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00833,PE020,Promoter,Talent Relations,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S00834,PE020,Promoter,Social Media,Tuesday,4000.0,False,190.0,Mid-sized,1700.0,5700.0
+S00835,PE020,Promoter,Matchmaking,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00836,PE020,Promoter,Social Media,Tuesday,2500.0,False,190.0,Mid-sized,1700.0,4200.0
+S00837,PE020,Promoter,PR & Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00838,PE020,Promoter,Talent Relations,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00839,PE020,Promoter,Social Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00840,PE020,Promoter,Ticketing,Thursday,3000.0,False,190.0,Mid-sized,1220.0,4220.0
+S00841,PE020,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00842,PE020,Production Company,Stage Manager,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00843,PE020,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00844,PE020,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00845,PE020,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00846,PE020,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00847,PE020,Production Company,Audio,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00848,PE020,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00849,PE020,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00850,PE020,Production Company,Video Engineer,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00851,PE020,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00852,PE020,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00853,PE020,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00854,PE020,Production Company,Graphics,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00855,PE020,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00856,PE020,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00857,PE020,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00858,PE020,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00859,PE020,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00860,PE020,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00861,PE020,Production Company,Audio,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00862,PE020,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00863,PE021,Promoter,Commission Liaison,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S00864,PE021,Promoter,Social Media,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S00865,PE021,Promoter,Matchmaking,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S00866,PE021,Promoter,PR & Media,Tuesday,2500.0,False,170.0,Mid-sized,1600.0,4100.0
+S00867,PE021,Promoter,Event Operations,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S00868,PE021,Promoter,Commission Liaison,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S00869,PE021,Promoter,Matchmaking,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S00870,PE021,Promoter,Commission Liaison,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S00871,PE021,Promoter,Social Media,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S00872,PE021,Promoter,Talent Relations,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S00873,PE021,Promoter,Hospitality,Thursday,4500.0,False,170.0,Mid-sized,1160.0,5660.0
+S00874,PE021,Promoter,Ticketing,Thursday,4500.0,False,170.0,Mid-sized,1160.0,5660.0
+S00875,PE021,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00876,PE021,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00877,PE021,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00878,PE021,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00879,PE021,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00880,PE021,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00881,PE021,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00882,PE021,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00883,PE021,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00884,PE021,Production Company,Video Engineer,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S00885,PE021,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00886,PE021,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00887,PE021,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00888,PE021,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00889,PE021,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00890,PE021,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00891,PE021,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00892,PE021,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00893,PE021,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S00894,PE022,Promoter,Social Media,Tuesday,4000.0,False,185.0,Mid-sized,1675.0,5675.0
+S00895,PE022,Promoter,Matchmaking,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S00896,PE022,Promoter,Social Media,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S00897,PE022,Promoter,Social Media,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S00898,PE022,Promoter,Matchmaking,Tuesday,4500.0,True,185.0,Mid-sized,0.0,4500.0
+S00899,PE022,Promoter,Event Operations,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S00900,PE022,Promoter,Event Operations,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S00901,PE022,Promoter,PR & Media,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S00902,PE022,Promoter,Matchmaking,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S00903,PE022,Promoter,Talent Relations,Tuesday,4000.0,False,185.0,Mid-sized,1675.0,5675.0
+S00904,PE022,Promoter,Event Operations,Thursday,3500.0,True,185.0,Mid-sized,0.0,3500.0
+S00905,PE022,Promoter,Credentialing,Thursday,4500.0,False,185.0,Mid-sized,1205.0,5705.0
+S00906,PE022,Promoter,Ticketing,Thursday,4500.0,False,185.0,Mid-sized,1205.0,5705.0
+S00907,PE022,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00908,PE022,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00909,PE022,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00910,PE022,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00911,PE022,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00912,PE022,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00913,PE022,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00914,PE022,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00915,PE022,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00916,PE022,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00917,PE022,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00918,PE022,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00919,PE022,Production Company,Ring Crew,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S00920,PE022,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00921,PE022,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00922,PE022,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00923,PE022,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00924,PE022,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00925,PE022,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00926,PE022,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00927,PE022,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S00928,PE023,Promoter,PR & Media,Tuesday,2500.0,False,190.0,Mid-sized,1700.0,4200.0
+S00929,PE023,Promoter,Social Media,Tuesday,4000.0,False,190.0,Mid-sized,1700.0,5700.0
+S00930,PE023,Promoter,Commission Liaison,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00931,PE023,Promoter,Talent Relations,Tuesday,2500.0,False,190.0,Mid-sized,1700.0,4200.0
+S00932,PE023,Promoter,Commission Liaison,Tuesday,2500.0,False,190.0,Mid-sized,1700.0,4200.0
+S00933,PE023,Promoter,Event Operations,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S00934,PE023,Promoter,PR & Media,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00935,PE023,Promoter,PR & Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S00936,PE023,Promoter,Talent Relations,Tuesday,5000.0,True,190.0,Mid-sized,0.0,5000.0
+S00937,PE023,Promoter,Social Media,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S00938,PE023,Promoter,Event Operations,Thursday,5000.0,False,190.0,Mid-sized,1220.0,6220.0
+S00939,PE023,Promoter,Hospitality,Thursday,3000.0,False,190.0,Mid-sized,1220.0,4220.0
+S00940,PE023,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00941,PE023,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00942,PE023,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00943,PE023,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00944,PE023,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00945,PE023,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00946,PE023,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00947,PE023,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00948,PE023,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00949,PE023,Production Company,Stage Manager,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00950,PE023,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00951,PE023,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00952,PE023,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00953,PE023,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00954,PE023,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00955,PE023,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00956,PE023,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00957,PE023,Production Company,Lighting,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S00958,PE023,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00959,PE023,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00960,PE023,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00961,PE023,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S00962,PE024,Promoter,Talent Relations,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S00963,PE024,Promoter,PR & Media,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S00964,PE024,Promoter,Social Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00965,PE024,Promoter,Social Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00966,PE024,Promoter,Talent Relations,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S00967,PE024,Promoter,Event Operations,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S00968,PE024,Promoter,Commission Liaison,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00969,PE024,Promoter,Talent Relations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00970,PE024,Promoter,Event Operations,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S00971,PE024,Promoter,Commission Liaison,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S00972,PE024,Promoter,Credentialing,Thursday,4500.0,False,260.0,Big,1430.0,5930.0
+S00973,PE024,Promoter,Credentialing,Thursday,3000.0,False,260.0,Big,1430.0,4430.0
+S00974,PE024,Promoter,Credentialing,Thursday,4500.0,False,260.0,Big,1430.0,5930.0
+S00975,PE024,Promoter,Security Lead,Thursday,5000.0,True,260.0,Big,0.0,5000.0
+S00976,PE024,Promoter,Ticketing,Thursday,4500.0,True,260.0,Big,0.0,4500.0
+S00977,PE024,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00978,PE024,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00979,PE024,Production Company,Lighting,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00980,PE024,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00981,PE024,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00982,PE024,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00983,PE024,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00984,PE024,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00985,PE024,Production Company,Graphics,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00986,PE024,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00987,PE024,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00988,PE024,Production Company,Ring Crew,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00989,PE024,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00990,PE024,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00991,PE024,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00992,PE024,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00993,PE024,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00994,PE024,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00995,PE024,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00996,PE024,Production Company,Lighting,Thursday,0.0,True,260.0,Big,0.0,0.0
+S00997,PE024,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00998,PE024,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S00999,PE024,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01000,PE024,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01001,PE024,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01002,PE024,Production Company,Lighting,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01003,PE024,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01004,PE024,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01005,PE024,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01006,PE024,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01007,PE024,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01008,PE024,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01009,PE024,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01010,PE024,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01011,PE024,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01012,PE024,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01013,PE024,Production Company,Video Engineer,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01014,PE024,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01015,PE024,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01016,PE024,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01017,PE024,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01018,PE025,Promoter,Matchmaking,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S01019,PE025,Promoter,Social Media,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S01020,PE025,Promoter,Matchmaking,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01021,PE025,Promoter,Commission Liaison,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01022,PE025,Promoter,Talent Relations,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S01023,PE025,Promoter,Talent Relations,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01024,PE025,Promoter,Commission Liaison,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01025,PE025,Promoter,Event Operations,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01026,PE025,Promoter,Talent Relations,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S01027,PE025,Promoter,Commission Liaison,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01028,PE025,Promoter,Credentialing,Thursday,3500.0,False,170.0,Mid-sized,1160.0,4660.0
+S01029,PE025,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01030,PE025,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01031,PE025,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01032,PE025,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01033,PE025,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01034,PE025,Production Company,Ring Crew,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01035,PE025,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01036,PE025,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01037,PE025,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01038,PE025,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01039,PE025,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01040,PE025,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01041,PE025,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01042,PE025,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01043,PE025,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01044,PE025,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01045,PE025,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01046,PE025,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01047,PE025,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01048,PE026,Promoter,Matchmaking,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01049,PE026,Promoter,Commission Liaison,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S01050,PE026,Promoter,Event Operations,Tuesday,3500.0,True,185.0,Mid-sized,0.0,3500.0
+S01051,PE026,Promoter,Social Media,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01052,PE026,Promoter,Talent Relations,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01053,PE026,Promoter,Matchmaking,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01054,PE026,Promoter,Commission Liaison,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S01055,PE026,Promoter,Matchmaking,Tuesday,5000.0,True,185.0,Mid-sized,0.0,5000.0
+S01056,PE026,Promoter,Matchmaking,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S01057,PE026,Promoter,PR & Media,Tuesday,4000.0,False,185.0,Mid-sized,1675.0,5675.0
+S01058,PE026,Promoter,Ticketing,Thursday,3000.0,False,185.0,Mid-sized,1205.0,4205.0
+S01059,PE026,Promoter,Event Operations,Thursday,2500.0,True,185.0,Mid-sized,0.0,2500.0
+S01060,PE026,Promoter,Credentialing,Thursday,3000.0,False,185.0,Mid-sized,1205.0,4205.0
+S01061,PE026,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01062,PE026,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01063,PE026,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01064,PE026,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01065,PE026,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01066,PE026,Production Company,Ring Crew,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01067,PE026,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01068,PE026,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01069,PE026,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01070,PE026,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01071,PE026,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01072,PE026,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01073,PE026,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01074,PE026,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01075,PE026,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01076,PE026,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01077,PE026,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01078,PE026,Production Company,Lighting,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01079,PE026,Production Company,Ring Crew,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01080,PE026,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01081,PE026,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01082,PE027,Promoter,Social Media,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01083,PE027,Promoter,Event Operations,Tuesday,5000.0,True,220.0,Big,0.0,5000.0
+S01084,PE027,Promoter,Matchmaking,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S01085,PE027,Promoter,Social Media,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S01086,PE027,Promoter,Matchmaking,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S01087,PE027,Promoter,PR & Media,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S01088,PE027,Promoter,Event Operations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01089,PE027,Promoter,PR & Media,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S01090,PE027,Promoter,Event Operations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01091,PE027,Promoter,Talent Relations,Tuesday,3500.0,True,220.0,Big,0.0,3500.0
+S01092,PE027,Promoter,Event Operations,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S01093,PE027,Promoter,Event Operations,Thursday,3000.0,False,220.0,Big,1310.0,4310.0
+S01094,PE027,Promoter,Event Operations,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S01095,PE027,Promoter,Security Lead,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S01096,PE027,Promoter,Ticketing,Thursday,4500.0,False,220.0,Big,1310.0,5810.0
+S01097,PE027,Promoter,Credentialing,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S01098,PE027,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01099,PE027,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01100,PE027,Production Company,Rigging,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01101,PE027,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01102,PE027,Production Company,Stage Manager,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01103,PE027,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01104,PE027,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01105,PE027,Production Company,Video Engineer,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01106,PE027,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01107,PE027,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01108,PE027,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01109,PE027,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01110,PE027,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01111,PE027,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01112,PE027,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01113,PE027,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01114,PE027,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01115,PE027,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01116,PE027,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01117,PE027,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01118,PE027,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01119,PE027,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01120,PE027,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01121,PE027,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01122,PE027,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01123,PE027,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01124,PE027,Production Company,Stage Manager,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01125,PE027,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01126,PE027,Production Company,Camera,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01127,PE027,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01128,PE027,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01129,PE027,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01130,PE027,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01131,PE027,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01132,PE027,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01133,PE027,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01134,PE028,Promoter,Social Media,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01135,PE028,Promoter,Talent Relations,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S01136,PE028,Promoter,Social Media,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01137,PE028,Promoter,Talent Relations,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S01138,PE028,Promoter,Commission Liaison,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01139,PE028,Promoter,PR & Media,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S01140,PE028,Promoter,Commission Liaison,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S01141,PE028,Promoter,Matchmaking,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01142,PE028,Promoter,Talent Relations,Tuesday,3500.0,True,185.0,Mid-sized,0.0,3500.0
+S01143,PE028,Promoter,Event Operations,Tuesday,5000.0,True,185.0,Mid-sized,0.0,5000.0
+S01144,PE028,Promoter,Hospitality,Thursday,5000.0,True,185.0,Mid-sized,0.0,5000.0
+S01145,PE028,Promoter,Credentialing,Thursday,4500.0,False,185.0,Mid-sized,1205.0,5705.0
+S01146,PE028,Promoter,Credentialing,Thursday,4500.0,False,185.0,Mid-sized,1205.0,5705.0
+S01147,PE028,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01148,PE028,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01149,PE028,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01150,PE028,Production Company,Graphics,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01151,PE028,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01152,PE028,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01153,PE028,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01154,PE028,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01155,PE028,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01156,PE028,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01157,PE028,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01158,PE028,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01159,PE028,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01160,PE028,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01161,PE028,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01162,PE028,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01163,PE028,Production Company,Audio,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01164,PE028,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01165,PE028,Production Company,Ring Crew,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01166,PE028,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01167,PE028,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01168,PE029,Promoter,Event Operations,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S01169,PE029,Promoter,Event Operations,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S01170,PE029,Promoter,Talent Relations,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01171,PE029,Promoter,Commission Liaison,Tuesday,2500.0,False,170.0,Mid-sized,1600.0,4100.0
+S01172,PE029,Promoter,Social Media,Tuesday,5000.0,True,170.0,Mid-sized,0.0,5000.0
+S01173,PE029,Promoter,Event Operations,Tuesday,4000.0,True,170.0,Mid-sized,0.0,4000.0
+S01174,PE029,Promoter,Event Operations,Tuesday,4000.0,True,170.0,Mid-sized,0.0,4000.0
+S01175,PE029,Promoter,Commission Liaison,Tuesday,2500.0,False,170.0,Mid-sized,1600.0,4100.0
+S01176,PE029,Promoter,Social Media,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01177,PE029,Promoter,Matchmaking,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S01178,PE029,Promoter,Ticketing,Thursday,4000.0,False,170.0,Mid-sized,1160.0,5160.0
+S01179,PE029,Promoter,Event Operations,Thursday,4000.0,False,170.0,Mid-sized,1160.0,5160.0
+S01180,PE029,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01181,PE029,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01182,PE029,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01183,PE029,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01184,PE029,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01185,PE029,Production Company,Ring Crew,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01186,PE029,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01187,PE029,Production Company,Camera,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01188,PE029,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01189,PE029,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01190,PE029,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01191,PE029,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01192,PE029,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01193,PE029,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01194,PE029,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01195,PE029,Production Company,Graphics,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01196,PE029,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01197,PE029,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01198,PE030,Promoter,Commission Liaison,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S01199,PE030,Promoter,Matchmaking,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01200,PE030,Promoter,Social Media,Tuesday,4000.0,True,170.0,Mid-sized,0.0,4000.0
+S01201,PE030,Promoter,Event Operations,Tuesday,3500.0,True,170.0,Mid-sized,0.0,3500.0
+S01202,PE030,Promoter,Talent Relations,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01203,PE030,Promoter,Social Media,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S01204,PE030,Promoter,Talent Relations,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S01205,PE030,Promoter,Commission Liaison,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S01206,PE030,Promoter,Matchmaking,Tuesday,2500.0,False,170.0,Mid-sized,1600.0,4100.0
+S01207,PE030,Promoter,Matchmaking,Tuesday,2500.0,False,170.0,Mid-sized,1600.0,4100.0
+S01208,PE030,Promoter,Credentialing,Thursday,5000.0,False,170.0,Mid-sized,1160.0,6160.0
+S01209,PE030,Promoter,Security Lead,Thursday,3500.0,False,170.0,Mid-sized,1160.0,4660.0
+S01210,PE030,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01211,PE030,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01212,PE030,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01213,PE030,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01214,PE030,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01215,PE030,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01216,PE030,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01217,PE030,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01218,PE030,Production Company,Stage Manager,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01219,PE030,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01220,PE030,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01221,PE030,Production Company,Rigging,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01222,PE030,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01223,PE030,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01224,PE030,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01225,PE030,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01226,PE030,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01227,PE030,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01228,PE030,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01229,PE030,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01230,PE030,Production Company,Rigging,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01231,PE031,Promoter,PR & Media,Tuesday,3500.0,True,170.0,Mid-sized,0.0,3500.0
+S01232,PE031,Promoter,PR & Media,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01233,PE031,Promoter,Commission Liaison,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S01234,PE031,Promoter,Event Operations,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S01235,PE031,Promoter,Talent Relations,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S01236,PE031,Promoter,Event Operations,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01237,PE031,Promoter,Social Media,Tuesday,3000.0,True,170.0,Mid-sized,0.0,3000.0
+S01238,PE031,Promoter,Talent Relations,Tuesday,2500.0,True,170.0,Mid-sized,0.0,2500.0
+S01239,PE031,Promoter,Talent Relations,Tuesday,5000.0,True,170.0,Mid-sized,0.0,5000.0
+S01240,PE031,Promoter,PR & Media,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01241,PE031,Promoter,Credentialing,Thursday,2500.0,False,170.0,Mid-sized,1160.0,3660.0
+S01242,PE031,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01243,PE031,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01244,PE031,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01245,PE031,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01246,PE031,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01247,PE031,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01248,PE031,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01249,PE031,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01250,PE031,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01251,PE031,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01252,PE031,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01253,PE031,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01254,PE031,Production Company,Ring Crew,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01255,PE031,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01256,PE031,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01257,PE031,Production Company,Lighting,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01258,PE031,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01259,PE031,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01260,PE031,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01261,PE031,Production Company,Audio,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01262,PE031,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01263,PE031,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01264,PE032,Promoter,Social Media,Tuesday,3500.0,True,190.0,Mid-sized,0.0,3500.0
+S01265,PE032,Promoter,Event Operations,Tuesday,4000.0,True,190.0,Mid-sized,0.0,4000.0
+S01266,PE032,Promoter,Event Operations,Tuesday,2500.0,True,190.0,Mid-sized,0.0,2500.0
+S01267,PE032,Promoter,Event Operations,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S01268,PE032,Promoter,Social Media,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S01269,PE032,Promoter,Matchmaking,Tuesday,3000.0,True,190.0,Mid-sized,0.0,3000.0
+S01270,PE032,Promoter,Talent Relations,Tuesday,4000.0,True,190.0,Mid-sized,0.0,4000.0
+S01271,PE032,Promoter,Social Media,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S01272,PE032,Promoter,Social Media,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S01273,PE032,Promoter,Talent Relations,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S01274,PE032,Promoter,Credentialing,Thursday,3500.0,False,190.0,Mid-sized,1220.0,4720.0
+S01275,PE032,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01276,PE032,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01277,PE032,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01278,PE032,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01279,PE032,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01280,PE032,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01281,PE032,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01282,PE032,Production Company,Rigging,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S01283,PE032,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01284,PE032,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01285,PE032,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01286,PE032,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01287,PE032,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01288,PE032,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01289,PE032,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01290,PE032,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01291,PE032,Production Company,Audio,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01292,PE032,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01293,PE032,Production Company,Rigging,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S01294,PE032,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01295,PE033,Promoter,Event Operations,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S01296,PE033,Promoter,Social Media,Tuesday,4500.0,False,190.0,Mid-sized,1700.0,6200.0
+S01297,PE033,Promoter,Matchmaking,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S01298,PE033,Promoter,Commission Liaison,Tuesday,3000.0,False,190.0,Mid-sized,1700.0,4700.0
+S01299,PE033,Promoter,Commission Liaison,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S01300,PE033,Promoter,PR & Media,Tuesday,3000.0,True,190.0,Mid-sized,0.0,3000.0
+S01301,PE033,Promoter,Social Media,Tuesday,4000.0,False,190.0,Mid-sized,1700.0,5700.0
+S01302,PE033,Promoter,Event Operations,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S01303,PE033,Promoter,PR & Media,Tuesday,5000.0,False,190.0,Mid-sized,1700.0,6700.0
+S01304,PE033,Promoter,Event Operations,Tuesday,3500.0,False,190.0,Mid-sized,1700.0,5200.0
+S01305,PE033,Promoter,Hospitality,Thursday,2500.0,True,190.0,Mid-sized,0.0,2500.0
+S01306,PE033,Promoter,Credentialing,Thursday,3000.0,True,190.0,Mid-sized,0.0,3000.0
+S01307,PE033,Promoter,Event Operations,Thursday,4500.0,False,190.0,Mid-sized,1220.0,5720.0
+S01308,PE033,Production Company,Graphics,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01309,PE033,Production Company,Camera,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S01310,PE033,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01311,PE033,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01312,PE033,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01313,PE033,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01314,PE033,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01315,PE033,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01316,PE033,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01317,PE033,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01318,PE033,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01319,PE033,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01320,PE033,Production Company,Ring Crew,Thursday,0.0,True,190.0,Mid-sized,0.0,0.0
+S01321,PE033,Production Company,Camera,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01322,PE033,Production Company,Video Engineer,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01323,PE033,Production Company,Lighting,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01324,PE033,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01325,PE033,Production Company,Rigging,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01326,PE033,Production Company,Stage Manager,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01327,PE033,Production Company,Ring Crew,Thursday,0.0,False,190.0,Mid-sized,770.0,770.0
+S01328,PE034,Promoter,Social Media,Tuesday,3000.0,False,170.0,Mid-sized,1600.0,4600.0
+S01329,PE034,Promoter,Event Operations,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S01330,PE034,Promoter,Commission Liaison,Tuesday,3000.0,True,170.0,Mid-sized,0.0,3000.0
+S01331,PE034,Promoter,PR & Media,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01332,PE034,Promoter,PR & Media,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S01333,PE034,Promoter,Event Operations,Tuesday,2500.0,False,170.0,Mid-sized,1600.0,4100.0
+S01334,PE034,Promoter,Social Media,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S01335,PE034,Promoter,PR & Media,Tuesday,2500.0,False,170.0,Mid-sized,1600.0,4100.0
+S01336,PE034,Promoter,Talent Relations,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01337,PE034,Promoter,Matchmaking,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S01338,PE034,Promoter,Ticketing,Thursday,4500.0,True,170.0,Mid-sized,0.0,4500.0
+S01339,PE034,Promoter,Hospitality,Thursday,3500.0,False,170.0,Mid-sized,1160.0,4660.0
+S01340,PE034,Promoter,Security Lead,Thursday,4000.0,False,170.0,Mid-sized,1160.0,5160.0
+S01341,PE034,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01342,PE034,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01343,PE034,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01344,PE034,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01345,PE034,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01346,PE034,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01347,PE034,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01348,PE034,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01349,PE034,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01350,PE034,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01351,PE034,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01352,PE034,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01353,PE034,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01354,PE034,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01355,PE034,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01356,PE034,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01357,PE034,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01358,PE034,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01359,PE034,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01360,PE034,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01361,PE035,Promoter,Matchmaking,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01362,PE035,Promoter,Commission Liaison,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S01363,PE035,Promoter,Social Media,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01364,PE035,Promoter,Matchmaking,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S01365,PE035,Promoter,Social Media,Tuesday,4000.0,True,185.0,Mid-sized,0.0,4000.0
+S01366,PE035,Promoter,Matchmaking,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01367,PE035,Promoter,Social Media,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S01368,PE035,Promoter,Commission Liaison,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S01369,PE035,Promoter,Event Operations,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S01370,PE035,Promoter,PR & Media,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01371,PE035,Promoter,Hospitality,Thursday,4000.0,False,185.0,Mid-sized,1205.0,5205.0
+S01372,PE035,Promoter,Credentialing,Thursday,4000.0,True,185.0,Mid-sized,0.0,4000.0
+S01373,PE035,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01374,PE035,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01375,PE035,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01376,PE035,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01377,PE035,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01378,PE035,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01379,PE035,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01380,PE035,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01381,PE035,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01382,PE035,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01383,PE035,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01384,PE035,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01385,PE035,Production Company,Lighting,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01386,PE035,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01387,PE035,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01388,PE035,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01389,PE035,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01390,PE035,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01391,PE035,Production Company,Stage Manager,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01392,PE035,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01393,PE035,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01394,PE035,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01395,PE036,Promoter,Commission Liaison,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S01396,PE036,Promoter,PR & Media,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S01397,PE036,Promoter,Commission Liaison,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S01398,PE036,Promoter,Social Media,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S01399,PE036,Promoter,Event Operations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S01400,PE036,Promoter,Matchmaking,Tuesday,3000.0,True,260.0,Big,0.0,3000.0
+S01401,PE036,Promoter,PR & Media,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S01402,PE036,Promoter,Matchmaking,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S01403,PE036,Promoter,Talent Relations,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S01404,PE036,Promoter,Talent Relations,Tuesday,5000.0,True,260.0,Big,0.0,5000.0
+S01405,PE036,Promoter,Security Lead,Thursday,2500.0,True,260.0,Big,0.0,2500.0
+S01406,PE036,Promoter,Ticketing,Thursday,2500.0,False,260.0,Big,1430.0,3930.0
+S01407,PE036,Promoter,Security Lead,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S01408,PE036,Promoter,Event Operations,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S01409,PE036,Promoter,Credentialing,Thursday,2500.0,False,260.0,Big,1430.0,3930.0
+S01410,PE036,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01411,PE036,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01412,PE036,Production Company,Video Engineer,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01413,PE036,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01414,PE036,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01415,PE036,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01416,PE036,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01417,PE036,Production Company,Graphics,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01418,PE036,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01419,PE036,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01420,PE036,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01421,PE036,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01422,PE036,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01423,PE036,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01424,PE036,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01425,PE036,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01426,PE036,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01427,PE036,Production Company,Ring Crew,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01428,PE036,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01429,PE036,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01430,PE036,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01431,PE036,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01432,PE036,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01433,PE036,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01434,PE036,Production Company,Lighting,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01435,PE036,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01436,PE036,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01437,PE036,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01438,PE036,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01439,PE036,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01440,PE036,Production Company,Ring Crew,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01441,PE036,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01442,PE036,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01443,PE036,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01444,PE036,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01445,PE036,Production Company,Camera,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01446,PE036,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01447,PE036,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01448,PE036,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01449,PE037,Promoter,Talent Relations,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S01450,PE037,Promoter,Social Media,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S01451,PE037,Promoter,Commission Liaison,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S01452,PE037,Promoter,PR & Media,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S01453,PE037,Promoter,Social Media,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S01454,PE037,Promoter,PR & Media,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S01455,PE037,Promoter,Social Media,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S01456,PE037,Promoter,Matchmaking,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S01457,PE037,Promoter,Matchmaking,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01458,PE037,Promoter,Event Operations,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S01459,PE037,Promoter,Credentialing,Thursday,4000.0,False,220.0,Big,1310.0,5310.0
+S01460,PE037,Promoter,Ticketing,Thursday,3500.0,True,220.0,Big,0.0,3500.0
+S01461,PE037,Promoter,Security Lead,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S01462,PE037,Promoter,Security Lead,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S01463,PE037,Promoter,Ticketing,Thursday,3000.0,False,220.0,Big,1310.0,4310.0
+S01464,PE037,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01465,PE037,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01466,PE037,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01467,PE037,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01468,PE037,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01469,PE037,Production Company,Graphics,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01470,PE037,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01471,PE037,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01472,PE037,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01473,PE037,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01474,PE037,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01475,PE037,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01476,PE037,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01477,PE037,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01478,PE037,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01479,PE037,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01480,PE037,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01481,PE037,Production Company,Graphics,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01482,PE037,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01483,PE037,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01484,PE037,Production Company,Audio,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01485,PE037,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01486,PE037,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01487,PE037,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01488,PE037,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01489,PE037,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01490,PE037,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01491,PE037,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01492,PE037,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01493,PE037,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01494,PE037,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01495,PE037,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01496,PE037,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01497,PE037,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01498,PE037,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01499,PE037,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01500,PE037,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01501,PE037,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01502,PE038,Promoter,PR & Media,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S01503,PE038,Promoter,Matchmaking,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S01504,PE038,Promoter,PR & Media,Tuesday,3500.0,True,260.0,Big,0.0,3500.0
+S01505,PE038,Promoter,Talent Relations,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S01506,PE038,Promoter,Commission Liaison,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S01507,PE038,Promoter,Social Media,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S01508,PE038,Promoter,Talent Relations,Tuesday,5000.0,True,260.0,Big,0.0,5000.0
+S01509,PE038,Promoter,Talent Relations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S01510,PE038,Promoter,PR & Media,Tuesday,4000.0,False,260.0,Big,2050.0,6050.0
+S01511,PE038,Promoter,PR & Media,Tuesday,4500.0,True,260.0,Big,0.0,4500.0
+S01512,PE038,Promoter,Event Operations,Thursday,2500.0,False,260.0,Big,1430.0,3930.0
+S01513,PE038,Promoter,Hospitality,Thursday,4000.0,False,260.0,Big,1430.0,5430.0
+S01514,PE038,Promoter,Event Operations,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S01515,PE038,Promoter,Hospitality,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S01516,PE038,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01517,PE038,Production Company,Rigging,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01518,PE038,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01519,PE038,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01520,PE038,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01521,PE038,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01522,PE038,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01523,PE038,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01524,PE038,Production Company,Rigging,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01525,PE038,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01526,PE038,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01527,PE038,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01528,PE038,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01529,PE038,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01530,PE038,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01531,PE038,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01532,PE038,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01533,PE038,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01534,PE038,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01535,PE038,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01536,PE038,Production Company,Camera,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01537,PE038,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01538,PE038,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01539,PE038,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01540,PE038,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01541,PE038,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01542,PE038,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01543,PE038,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01544,PE038,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01545,PE038,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01546,PE038,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01547,PE038,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01548,PE038,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01549,PE038,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01550,PE038,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01551,PE038,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01552,PE038,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01553,PE038,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01554,PE038,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01555,PE039,Promoter,PR & Media,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S01556,PE039,Promoter,Event Operations,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S01557,PE039,Promoter,Event Operations,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S01558,PE039,Promoter,Matchmaking,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S01559,PE039,Promoter,Event Operations,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S01560,PE039,Promoter,PR & Media,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S01561,PE039,Promoter,Social Media,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S01562,PE039,Promoter,Event Operations,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S01563,PE039,Promoter,Talent Relations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S01564,PE039,Promoter,Event Operations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S01565,PE039,Promoter,Hospitality,Thursday,3500.0,False,260.0,Big,1430.0,4930.0
+S01566,PE039,Promoter,Ticketing,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S01567,PE039,Promoter,Ticketing,Thursday,4500.0,False,260.0,Big,1430.0,5930.0
+S01568,PE039,Promoter,Event Operations,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S01569,PE039,Promoter,Hospitality,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S01570,PE039,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01571,PE039,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01572,PE039,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01573,PE039,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01574,PE039,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01575,PE039,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01576,PE039,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01577,PE039,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01578,PE039,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01579,PE039,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01580,PE039,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01581,PE039,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01582,PE039,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01583,PE039,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01584,PE039,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01585,PE039,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01586,PE039,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01587,PE039,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01588,PE039,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01589,PE039,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01590,PE039,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01591,PE039,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01592,PE039,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01593,PE039,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01594,PE039,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01595,PE039,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01596,PE039,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01597,PE039,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01598,PE039,Production Company,Lighting,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01599,PE039,Production Company,Rigging,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01600,PE039,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01601,PE039,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01602,PE039,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01603,PE039,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01604,PE039,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01605,PE039,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01606,PE039,Production Company,Camera,Thursday,0.0,True,260.0,Big,0.0,0.0
+S01607,PE039,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S01608,PE040,Promoter,Commission Liaison,Tuesday,5000.0,False,210.0,Big,1800.0,6800.0
+S01609,PE040,Promoter,Event Operations,Tuesday,5000.0,True,210.0,Big,0.0,5000.0
+S01610,PE040,Promoter,Event Operations,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S01611,PE040,Promoter,Social Media,Tuesday,4500.0,False,210.0,Big,1800.0,6300.0
+S01612,PE040,Promoter,Event Operations,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S01613,PE040,Promoter,PR & Media,Tuesday,4500.0,False,210.0,Big,1800.0,6300.0
+S01614,PE040,Promoter,Event Operations,Tuesday,2500.0,False,210.0,Big,1800.0,4300.0
+S01615,PE040,Promoter,Commission Liaison,Tuesday,4500.0,False,210.0,Big,1800.0,6300.0
+S01616,PE040,Promoter,Talent Relations,Tuesday,3500.0,True,210.0,Big,0.0,3500.0
+S01617,PE040,Promoter,Talent Relations,Tuesday,4000.0,False,210.0,Big,1800.0,5800.0
+S01618,PE040,Promoter,Ticketing,Thursday,4500.0,False,210.0,Big,1280.0,5780.0
+S01619,PE040,Promoter,Ticketing,Thursday,4000.0,True,210.0,Big,0.0,4000.0
+S01620,PE040,Promoter,Ticketing,Thursday,3000.0,False,210.0,Big,1280.0,4280.0
+S01621,PE040,Promoter,Ticketing,Thursday,4500.0,False,210.0,Big,1280.0,5780.0
+S01622,PE040,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01623,PE040,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01624,PE040,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01625,PE040,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01626,PE040,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01627,PE040,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01628,PE040,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01629,PE040,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01630,PE040,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01631,PE040,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01632,PE040,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01633,PE040,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01634,PE040,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01635,PE040,Production Company,Graphics,Thursday,0.0,True,210.0,Big,0.0,0.0
+S01636,PE040,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01637,PE040,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01638,PE040,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01639,PE040,Production Company,Stage Manager,Thursday,0.0,True,210.0,Big,0.0,0.0
+S01640,PE040,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01641,PE040,Production Company,Rigging,Thursday,0.0,True,210.0,Big,0.0,0.0
+S01642,PE040,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01643,PE040,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01644,PE040,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01645,PE040,Production Company,Ring Crew,Thursday,0.0,True,210.0,Big,0.0,0.0
+S01646,PE040,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01647,PE040,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01648,PE040,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01649,PE040,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01650,PE040,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01651,PE040,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01652,PE040,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01653,PE040,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01654,PE040,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01655,PE040,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01656,PE040,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01657,PE040,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01658,PE040,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01659,PE040,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01660,PE040,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01661,PE040,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01662,PE040,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01663,PE040,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01664,PE041,Promoter,Matchmaking,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S01665,PE041,Promoter,Event Operations,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S01666,PE041,Promoter,Matchmaking,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S01667,PE041,Promoter,Matchmaking,Tuesday,2500.0,False,185.0,Mid-sized,1675.0,4175.0
+S01668,PE041,Promoter,PR & Media,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01669,PE041,Promoter,Matchmaking,Tuesday,3500.0,True,185.0,Mid-sized,0.0,3500.0
+S01670,PE041,Promoter,PR & Media,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S01671,PE041,Promoter,Commission Liaison,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S01672,PE041,Promoter,Social Media,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01673,PE041,Promoter,PR & Media,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01674,PE041,Promoter,Credentialing,Thursday,3500.0,False,185.0,Mid-sized,1205.0,4705.0
+S01675,PE041,Promoter,Security Lead,Thursday,2500.0,True,185.0,Mid-sized,0.0,2500.0
+S01676,PE041,Promoter,Security Lead,Thursday,4000.0,False,185.0,Mid-sized,1205.0,5205.0
+S01677,PE041,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01678,PE041,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01679,PE041,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01680,PE041,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01681,PE041,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01682,PE041,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01683,PE041,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01684,PE041,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01685,PE041,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01686,PE041,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01687,PE041,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01688,PE041,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01689,PE041,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01690,PE041,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01691,PE041,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01692,PE041,Production Company,Rigging,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01693,PE041,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01694,PE041,Production Company,Ring Crew,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01695,PE041,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01696,PE041,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01697,PE041,Production Company,Stage Manager,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01698,PE041,Production Company,Rigging,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01699,PE042,Promoter,Matchmaking,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01700,PE042,Promoter,Social Media,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S01701,PE042,Promoter,Talent Relations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01702,PE042,Promoter,Matchmaking,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S01703,PE042,Promoter,Event Operations,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S01704,PE042,Promoter,Event Operations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01705,PE042,Promoter,Commission Liaison,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01706,PE042,Promoter,PR & Media,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01707,PE042,Promoter,Talent Relations,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S01708,PE042,Promoter,Event Operations,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S01709,PE042,Promoter,Security Lead,Thursday,3500.0,True,220.0,Big,0.0,3500.0
+S01710,PE042,Promoter,Event Operations,Thursday,4000.0,False,220.0,Big,1310.0,5310.0
+S01711,PE042,Promoter,Hospitality,Thursday,3000.0,False,220.0,Big,1310.0,4310.0
+S01712,PE042,Promoter,Security Lead,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S01713,PE042,Production Company,Stage Manager,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01714,PE042,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01715,PE042,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01716,PE042,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01717,PE042,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01718,PE042,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01719,PE042,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01720,PE042,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01721,PE042,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01722,PE042,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01723,PE042,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01724,PE042,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01725,PE042,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01726,PE042,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01727,PE042,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01728,PE042,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01729,PE042,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01730,PE042,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01731,PE042,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01732,PE042,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01733,PE042,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01734,PE042,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01735,PE042,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01736,PE042,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01737,PE042,Production Company,Lighting,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01738,PE042,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01739,PE042,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01740,PE042,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01741,PE042,Production Company,Lighting,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01742,PE042,Production Company,Stage Manager,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01743,PE042,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01744,PE042,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01745,PE042,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01746,PE042,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01747,PE042,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01748,PE042,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01749,PE042,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01750,PE042,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01751,PE042,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01752,PE042,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01753,PE043,Promoter,Matchmaking,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S01754,PE043,Promoter,Social Media,Tuesday,3500.0,True,210.0,Big,0.0,3500.0
+S01755,PE043,Promoter,Social Media,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S01756,PE043,Promoter,Matchmaking,Tuesday,2500.0,False,210.0,Big,1800.0,4300.0
+S01757,PE043,Promoter,Event Operations,Tuesday,3000.0,True,210.0,Big,0.0,3000.0
+S01758,PE043,Promoter,Commission Liaison,Tuesday,3500.0,False,210.0,Big,1800.0,5300.0
+S01759,PE043,Promoter,Talent Relations,Tuesday,5000.0,False,210.0,Big,1800.0,6800.0
+S01760,PE043,Promoter,Talent Relations,Tuesday,4500.0,False,210.0,Big,1800.0,6300.0
+S01761,PE043,Promoter,Matchmaking,Tuesday,5000.0,False,210.0,Big,1800.0,6800.0
+S01762,PE043,Promoter,Matchmaking,Tuesday,5000.0,False,210.0,Big,1800.0,6800.0
+S01763,PE043,Promoter,Ticketing,Thursday,3000.0,False,210.0,Big,1280.0,4280.0
+S01764,PE043,Promoter,Credentialing,Thursday,3500.0,True,210.0,Big,0.0,3500.0
+S01765,PE043,Promoter,Security Lead,Thursday,4500.0,True,210.0,Big,0.0,4500.0
+S01766,PE043,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01767,PE043,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01768,PE043,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01769,PE043,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01770,PE043,Production Company,Camera,Thursday,0.0,True,210.0,Big,0.0,0.0
+S01771,PE043,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01772,PE043,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01773,PE043,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01774,PE043,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01775,PE043,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01776,PE043,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01777,PE043,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01778,PE043,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01779,PE043,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01780,PE043,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01781,PE043,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01782,PE043,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01783,PE043,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01784,PE043,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01785,PE043,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01786,PE043,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01787,PE043,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01788,PE043,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01789,PE043,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01790,PE043,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01791,PE043,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01792,PE043,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01793,PE043,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01794,PE043,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01795,PE043,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01796,PE043,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01797,PE043,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01798,PE043,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01799,PE043,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01800,PE043,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01801,PE043,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01802,PE043,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01803,PE043,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01804,PE043,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01805,PE043,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01806,PE043,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01807,PE044,Promoter,Social Media,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01808,PE044,Promoter,Event Operations,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S01809,PE044,Promoter,Commission Liaison,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S01810,PE044,Promoter,Commission Liaison,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S01811,PE044,Promoter,Social Media,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S01812,PE044,Promoter,Event Operations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01813,PE044,Promoter,Matchmaking,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S01814,PE044,Promoter,Social Media,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S01815,PE044,Promoter,Event Operations,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S01816,PE044,Promoter,Social Media,Tuesday,4500.0,True,220.0,Big,0.0,4500.0
+S01817,PE044,Promoter,Credentialing,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S01818,PE044,Promoter,Security Lead,Thursday,4500.0,True,220.0,Big,0.0,4500.0
+S01819,PE044,Promoter,Hospitality,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S01820,PE044,Promoter,Event Operations,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S01821,PE044,Promoter,Event Operations,Thursday,2500.0,False,220.0,Big,1310.0,3810.0
+S01822,PE044,Promoter,Ticketing,Thursday,3500.0,True,220.0,Big,0.0,3500.0
+S01823,PE044,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01824,PE044,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01825,PE044,Production Company,Video Engineer,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01826,PE044,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01827,PE044,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01828,PE044,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01829,PE044,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01830,PE044,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01831,PE044,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01832,PE044,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01833,PE044,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01834,PE044,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01835,PE044,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01836,PE044,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01837,PE044,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01838,PE044,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01839,PE044,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01840,PE044,Production Company,Camera,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01841,PE044,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01842,PE044,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01843,PE044,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01844,PE044,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01845,PE044,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01846,PE044,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01847,PE044,Production Company,Camera,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01848,PE044,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01849,PE044,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01850,PE044,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01851,PE044,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01852,PE044,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01853,PE044,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01854,PE044,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01855,PE044,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01856,PE044,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01857,PE044,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01858,PE044,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01859,PE044,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01860,PE044,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01861,PE044,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01862,PE045,Promoter,PR & Media,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01863,PE045,Promoter,PR & Media,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S01864,PE045,Promoter,PR & Media,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S01865,PE045,Promoter,Matchmaking,Tuesday,2500.0,True,220.0,Big,0.0,2500.0
+S01866,PE045,Promoter,Matchmaking,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01867,PE045,Promoter,Event Operations,Tuesday,2500.0,True,220.0,Big,0.0,2500.0
+S01868,PE045,Promoter,Talent Relations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S01869,PE045,Promoter,Talent Relations,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S01870,PE045,Promoter,Social Media,Tuesday,2500.0,True,220.0,Big,0.0,2500.0
+S01871,PE045,Promoter,Social Media,Tuesday,3000.0,False,220.0,Big,1850.0,4850.0
+S01872,PE045,Promoter,Security Lead,Thursday,5000.0,True,220.0,Big,0.0,5000.0
+S01873,PE045,Promoter,Event Operations,Thursday,4000.0,False,220.0,Big,1310.0,5310.0
+S01874,PE045,Promoter,Security Lead,Thursday,4000.0,False,220.0,Big,1310.0,5310.0
+S01875,PE045,Promoter,Security Lead,Thursday,4000.0,False,220.0,Big,1310.0,5310.0
+S01876,PE045,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01877,PE045,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01878,PE045,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01879,PE045,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01880,PE045,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01881,PE045,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01882,PE045,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01883,PE045,Production Company,Stage Manager,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01884,PE045,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01885,PE045,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01886,PE045,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01887,PE045,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01888,PE045,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01889,PE045,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01890,PE045,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01891,PE045,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01892,PE045,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01893,PE045,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01894,PE045,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01895,PE045,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01896,PE045,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01897,PE045,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01898,PE045,Production Company,Audio,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01899,PE045,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01900,PE045,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01901,PE045,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01902,PE045,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01903,PE045,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01904,PE045,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01905,PE045,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01906,PE045,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01907,PE045,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01908,PE045,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01909,PE045,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01910,PE045,Production Company,Video Engineer,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01911,PE045,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01912,PE045,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01913,PE045,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01914,PE045,Production Company,Lighting,Thursday,0.0,True,220.0,Big,0.0,0.0
+S01915,PE045,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01916,PE045,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01917,PE045,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S01918,PE046,Promoter,Commission Liaison,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S01919,PE046,Promoter,Matchmaking,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S01920,PE046,Promoter,Talent Relations,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01921,PE046,Promoter,Commission Liaison,Tuesday,4000.0,False,170.0,Mid-sized,1600.0,5600.0
+S01922,PE046,Promoter,Matchmaking,Tuesday,4000.0,True,170.0,Mid-sized,0.0,4000.0
+S01923,PE046,Promoter,Event Operations,Tuesday,5000.0,False,170.0,Mid-sized,1600.0,6600.0
+S01924,PE046,Promoter,Event Operations,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01925,PE046,Promoter,Social Media,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01926,PE046,Promoter,PR & Media,Tuesday,4500.0,False,170.0,Mid-sized,1600.0,6100.0
+S01927,PE046,Promoter,Matchmaking,Tuesday,3500.0,False,170.0,Mid-sized,1600.0,5100.0
+S01928,PE046,Promoter,Hospitality,Thursday,3500.0,False,170.0,Mid-sized,1160.0,4660.0
+S01929,PE046,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01930,PE046,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01931,PE046,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01932,PE046,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01933,PE046,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01934,PE046,Production Company,Rigging,Thursday,0.0,True,170.0,Mid-sized,0.0,0.0
+S01935,PE046,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01936,PE046,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01937,PE046,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01938,PE046,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01939,PE046,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01940,PE046,Production Company,Video Engineer,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01941,PE046,Production Company,Audio,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01942,PE046,Production Company,Graphics,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01943,PE046,Production Company,Ring Crew,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01944,PE046,Production Company,Camera,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01945,PE046,Production Company,Rigging,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01946,PE046,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01947,PE046,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01948,PE046,Production Company,Lighting,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01949,PE046,Production Company,Stage Manager,Thursday,0.0,False,170.0,Mid-sized,710.0,710.0
+S01950,PE047,Promoter,Event Operations,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01951,PE047,Promoter,Commission Liaison,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01952,PE047,Promoter,Event Operations,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01953,PE047,Promoter,Talent Relations,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01954,PE047,Promoter,Matchmaking,Tuesday,3500.0,False,185.0,Mid-sized,1675.0,5175.0
+S01955,PE047,Promoter,Commission Liaison,Tuesday,5000.0,False,185.0,Mid-sized,1675.0,6675.0
+S01956,PE047,Promoter,Matchmaking,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01957,PE047,Promoter,Event Operations,Tuesday,4500.0,False,185.0,Mid-sized,1675.0,6175.0
+S01958,PE047,Promoter,Talent Relations,Tuesday,4000.0,False,185.0,Mid-sized,1675.0,5675.0
+S01959,PE047,Promoter,Social Media,Tuesday,3000.0,False,185.0,Mid-sized,1675.0,4675.0
+S01960,PE047,Promoter,Event Operations,Thursday,3500.0,False,185.0,Mid-sized,1205.0,4705.0
+S01961,PE047,Promoter,Hospitality,Thursday,3500.0,False,185.0,Mid-sized,1205.0,4705.0
+S01962,PE047,Promoter,Security Lead,Thursday,4000.0,True,185.0,Mid-sized,0.0,4000.0
+S01963,PE047,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01964,PE047,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01965,PE047,Production Company,Video Engineer,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01966,PE047,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01967,PE047,Production Company,Camera,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01968,PE047,Production Company,Lighting,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01969,PE047,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01970,PE047,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01971,PE047,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01972,PE047,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01973,PE047,Production Company,Audio,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01974,PE047,Production Company,Video Engineer,Thursday,0.0,True,185.0,Mid-sized,0.0,0.0
+S01975,PE047,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01976,PE047,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01977,PE047,Production Company,Graphics,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01978,PE047,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01979,PE047,Production Company,Ring Crew,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01980,PE047,Production Company,Audio,Thursday,0.0,False,185.0,Mid-sized,755.0,755.0
+S01981,PE048,Promoter,Talent Relations,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S01982,PE048,Promoter,Commission Liaison,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S01983,PE048,Promoter,Event Operations,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S01984,PE048,Promoter,PR & Media,Tuesday,4500.0,False,210.0,Big,1800.0,6300.0
+S01985,PE048,Promoter,Event Operations,Tuesday,5000.0,True,210.0,Big,0.0,5000.0
+S01986,PE048,Promoter,Commission Liaison,Tuesday,4500.0,True,210.0,Big,0.0,4500.0
+S01987,PE048,Promoter,PR & Media,Tuesday,4000.0,False,210.0,Big,1800.0,5800.0
+S01988,PE048,Promoter,Event Operations,Tuesday,3500.0,True,210.0,Big,0.0,3500.0
+S01989,PE048,Promoter,Event Operations,Tuesday,3000.0,False,210.0,Big,1800.0,4800.0
+S01990,PE048,Promoter,PR & Media,Tuesday,3500.0,False,210.0,Big,1800.0,5300.0
+S01991,PE048,Promoter,Credentialing,Thursday,3500.0,False,210.0,Big,1280.0,4780.0
+S01992,PE048,Promoter,Ticketing,Thursday,3000.0,True,210.0,Big,0.0,3000.0
+S01993,PE048,Promoter,Security Lead,Thursday,3500.0,False,210.0,Big,1280.0,4780.0
+S01994,PE048,Promoter,Security Lead,Thursday,4500.0,False,210.0,Big,1280.0,5780.0
+S01995,PE048,Promoter,Event Operations,Thursday,5000.0,False,210.0,Big,1280.0,6280.0
+S01996,PE048,Promoter,Security Lead,Thursday,3000.0,False,210.0,Big,1280.0,4280.0
+S01997,PE048,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01998,PE048,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S01999,PE048,Production Company,Audio,Thursday,0.0,True,210.0,Big,0.0,0.0
+S02000,PE048,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02001,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02002,PE048,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02003,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02004,PE048,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02005,PE048,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02006,PE048,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02007,PE048,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02008,PE048,Production Company,Audio,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02009,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02010,PE048,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02011,PE048,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02012,PE048,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02013,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02014,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02015,PE048,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02016,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02017,PE048,Production Company,Graphics,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02018,PE048,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02019,PE048,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02020,PE048,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02021,PE048,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02022,PE048,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02023,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02024,PE048,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02025,PE048,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02026,PE048,Production Company,Video Engineer,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02027,PE048,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02028,PE048,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02029,PE048,Production Company,Camera,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02030,PE048,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02031,PE048,Production Company,Rigging,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02032,PE048,Production Company,Stage Manager,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02033,PE048,Production Company,Stage Manager,Thursday,0.0,True,210.0,Big,0.0,0.0
+S02034,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02035,PE048,Production Company,Lighting,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02036,PE048,Production Company,Ring Crew,Thursday,0.0,False,210.0,Big,830.0,830.0
+S02037,PE049,Promoter,PR & Media,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S02038,PE049,Promoter,Social Media,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S02039,PE049,Promoter,Social Media,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S02040,PE049,Promoter,Commission Liaison,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S02041,PE049,Promoter,Social Media,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S02042,PE049,Promoter,Commission Liaison,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S02043,PE049,Promoter,Talent Relations,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S02044,PE049,Promoter,Talent Relations,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S02045,PE049,Promoter,Commission Liaison,Tuesday,4000.0,False,220.0,Big,1850.0,5850.0
+S02046,PE049,Promoter,Matchmaking,Tuesday,4000.0,True,220.0,Big,0.0,4000.0
+S02047,PE049,Promoter,Credentialing,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S02048,PE049,Promoter,Event Operations,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S02049,PE049,Promoter,Hospitality,Thursday,3500.0,True,220.0,Big,0.0,3500.0
+S02050,PE049,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02051,PE049,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02052,PE049,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02053,PE049,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02054,PE049,Production Company,Audio,Thursday,0.0,True,220.0,Big,0.0,0.0
+S02055,PE049,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02056,PE049,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02057,PE049,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02058,PE049,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02059,PE049,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02060,PE049,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02061,PE049,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02062,PE049,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02063,PE049,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02064,PE049,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02065,PE049,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02066,PE049,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02067,PE049,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02068,PE049,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02069,PE049,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S02070,PE049,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02071,PE049,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02072,PE049,Production Company,Stage Manager,Thursday,0.0,True,220.0,Big,0.0,0.0
+S02073,PE049,Production Company,Ring Crew,Thursday,0.0,True,220.0,Big,0.0,0.0
+S02074,PE049,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02075,PE049,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02076,PE049,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02077,PE049,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02078,PE049,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02079,PE049,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02080,PE049,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02081,PE049,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02082,PE049,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02083,PE049,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02084,PE049,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02085,PE049,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02086,PE049,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02087,PE049,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02088,PE049,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02089,PE049,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02090,PE050,Promoter,Social Media,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S02091,PE050,Promoter,Commission Liaison,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S02092,PE050,Promoter,Commission Liaison,Tuesday,3500.0,True,220.0,Big,0.0,3500.0
+S02093,PE050,Promoter,Talent Relations,Tuesday,4000.0,True,220.0,Big,0.0,4000.0
+S02094,PE050,Promoter,Social Media,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S02095,PE050,Promoter,Social Media,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S02096,PE050,Promoter,Talent Relations,Tuesday,5000.0,False,220.0,Big,1850.0,6850.0
+S02097,PE050,Promoter,Commission Liaison,Tuesday,3500.0,False,220.0,Big,1850.0,5350.0
+S02098,PE050,Promoter,Matchmaking,Tuesday,4500.0,False,220.0,Big,1850.0,6350.0
+S02099,PE050,Promoter,Talent Relations,Tuesday,2500.0,False,220.0,Big,1850.0,4350.0
+S02100,PE050,Promoter,Event Operations,Thursday,3500.0,False,220.0,Big,1310.0,4810.0
+S02101,PE050,Promoter,Ticketing,Thursday,4500.0,False,220.0,Big,1310.0,5810.0
+S02102,PE050,Promoter,Hospitality,Thursday,4500.0,False,220.0,Big,1310.0,5810.0
+S02103,PE050,Promoter,Ticketing,Thursday,5000.0,False,220.0,Big,1310.0,6310.0
+S02104,PE050,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02105,PE050,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02106,PE050,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02107,PE050,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02108,PE050,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02109,PE050,Production Company,Graphics,Thursday,0.0,True,220.0,Big,0.0,0.0
+S02110,PE050,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02111,PE050,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02112,PE050,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02113,PE050,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02114,PE050,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02115,PE050,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02116,PE050,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02117,PE050,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02118,PE050,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02119,PE050,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02120,PE050,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02121,PE050,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02122,PE050,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02123,PE050,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02124,PE050,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02125,PE050,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02126,PE050,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02127,PE050,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02128,PE050,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02129,PE050,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02130,PE050,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02131,PE050,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02132,PE050,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02133,PE050,Production Company,Video Engineer,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02134,PE050,Production Company,Stage Manager,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02135,PE050,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02136,PE050,Production Company,Audio,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02137,PE050,Production Company,Camera,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02138,PE050,Production Company,Camera,Thursday,0.0,True,220.0,Big,0.0,0.0
+S02139,PE050,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02140,PE050,Production Company,Rigging,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02141,PE050,Production Company,Lighting,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02142,PE050,Production Company,Ring Crew,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02143,PE050,Production Company,Graphics,Thursday,0.0,False,220.0,Big,860.0,860.0
+S02144,PE051,Promoter,Social Media,Tuesday,4500.0,False,260.0,Big,2050.0,6550.0
+S02145,PE051,Promoter,PR & Media,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S02146,PE051,Promoter,Matchmaking,Tuesday,5000.0,False,260.0,Big,2050.0,7050.0
+S02147,PE051,Promoter,Event Operations,Tuesday,3500.0,True,260.0,Big,0.0,3500.0
+S02148,PE051,Promoter,Event Operations,Tuesday,3500.0,False,260.0,Big,2050.0,5550.0
+S02149,PE051,Promoter,Commission Liaison,Tuesday,2500.0,True,260.0,Big,0.0,2500.0
+S02150,PE051,Promoter,Talent Relations,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S02151,PE051,Promoter,Social Media,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S02152,PE051,Promoter,PR & Media,Tuesday,3000.0,False,260.0,Big,2050.0,5050.0
+S02153,PE051,Promoter,Commission Liaison,Tuesday,2500.0,False,260.0,Big,2050.0,4550.0
+S02154,PE051,Promoter,Security Lead,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S02155,PE051,Promoter,Security Lead,Thursday,4000.0,False,260.0,Big,1430.0,5430.0
+S02156,PE051,Promoter,Ticketing,Thursday,5000.0,False,260.0,Big,1430.0,6430.0
+S02157,PE051,Promoter,Security Lead,Thursday,4500.0,False,260.0,Big,1430.0,5930.0
+S02158,PE051,Promoter,Event Operations,Thursday,5000.0,True,260.0,Big,0.0,5000.0
+S02159,PE051,Promoter,Event Operations,Thursday,2500.0,False,260.0,Big,1430.0,3930.0
+S02160,PE051,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02161,PE051,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02162,PE051,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02163,PE051,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02164,PE051,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02165,PE051,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02166,PE051,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02167,PE051,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02168,PE051,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02169,PE051,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02170,PE051,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02171,PE051,Production Company,Stage Manager,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02172,PE051,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02173,PE051,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02174,PE051,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02175,PE051,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02176,PE051,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02177,PE051,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02178,PE051,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02179,PE051,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02180,PE051,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02181,PE051,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02182,PE051,Production Company,Graphics,Thursday,0.0,True,260.0,Big,0.0,0.0
+S02183,PE051,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02184,PE051,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02185,PE051,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02186,PE051,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02187,PE051,Production Company,Video Engineer,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02188,PE051,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02189,PE051,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02190,PE051,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02191,PE051,Production Company,Lighting,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02192,PE051,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02193,PE051,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02194,PE051,Production Company,Rigging,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02195,PE051,Production Company,Graphics,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02196,PE051,Production Company,Audio,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02197,PE051,Production Company,Ring Crew,Thursday,0.0,False,260.0,Big,980.0,980.0
+S02198,PE051,Production Company,Camera,Thursday,0.0,False,260.0,Big,980.0,980.0

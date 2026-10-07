@@ -1,0 +1,197 @@
+Deal_ID,Event_ID,Sponsor,Category,Placement,Fee
+D0001,PE001,Peak Energy Drink,beverage,Fight Night Only,24100
+D0002,PE001,Southside Tequila,Spirits,Fight Night,77000
+D0003,PE001,Crown Auto Group,Automotive,fight night,58700
+D0004,PE001,Liberty Credit Union,financial,Fight Night,$28.3K
+D0005,PE001,Kingpin Sportsbook,betting,Fight Night,$22.5K
+D0006,PE001,Fresh Fade Barbers,Local Business,fight night,"89,400"
+D0007,PE002,Liberty Credit Union,financial,FN only,"5,200"
+D0008,PE002,Crown Auto Group,Automotive,Fight Week + Fight Night,20700
+D0009,PE002,Fresh Fade Barbers,Local Business,FN only,17500
+D0010,PE002,Blaze Hot Sauce,Food,Fight Night Only,"6,500"
+D0011,PE003,Southside Tequila,spirits,fight week + FN,$141.1K
+D0012,PE003,Iron Temple Gym,Local Business,Fight Night,"61,400"
+D0013,PE003,Nova Wireless,Telecom,Fight Night Only,"77,700"
+D0014,PE003,Peak Energy Drink,Beverage,Fight Night,26200
+D0015,PE003,Kingpin Sportsbook,Betting,Fight Night Only,$47.9K
+D0016,PE003,Liberty Credit Union,Financial,fight night,80100
+D0017,PE004,Crown Auto Group,Automotive,fight night,"$18,100"
+D0018,PE004,Riverline Bank,Financial,Fight Night,7500
+D0019,PE004,Peak Energy Drink,Beverage,fight night,14000
+D0020,PE004,Liberty Credit Union,Financial,Fight Night Only,$5.3K
+D0021,PE005,Fresh Fade Barbers,local business,FN only,$8.7K
+D0022,PE005,Southside Tequila,Spirits,fight night,"$15,800"
+D0023,PE005,Liberty Credit Union,financial,fight night,"$15,500"
+D0024,PE005,Nova Wireless,Telecom,Fight Night Only,21400
+D0025,PE006,Liberty Credit Union,Financial,FN only,61000
+D0026,PE006,Crown Auto Group,Automotive,Full Week,$82.6K
+D0027,PE006,Blaze Hot Sauce,Food,fight night,53300
+D0028,PE006,Fresh Fade Barbers,Local Business,FN only,$60.9K
+D0029,PE007,Crown Auto Group,automotive,fight night,"32,500"
+D0030,PE007,Kingpin Sportsbook,Betting,fight night,"62,300"
+D0031,PE007,Blaze Hot Sauce,Food,Full Week,"$76,600"
+D0032,PE007,Southside Tequila,Spirits,Fight Night,$86.9K
+D0033,PE007,Fresh Fade Barbers,Local Business,fight week + FN,"$43,100"
+D0034,PE007,Nova Wireless,telecom,FN only,"72,600"
+D0035,PE008,Crown Auto Group,Automotive,Fight Night,"$13,400"
+D0036,PE008,Kingpin Sportsbook,Betting,Fight Night,21000
+D0037,PE008,Peak Energy Drink,Beverage,Fight Night Only,"$17,100"
+D0038,PE009,Fresh Fade Barbers,Local Business,Fight Night Only,41400
+D0039,PE009,Riverline Bank,Financial,FN only,"$47,800"
+D0040,PE009,Blaze Hot Sauce,Food,fight night,"44,200"
+D0041,PE009,Southside Tequila,Spirits,Fight Night Only,"26,000"
+D0042,PE009,Peak Energy Drink,Beverage,FN only,34600
+D0043,PE010,Riverline Bank,Financial,fight night,"$48,400"
+D0044,PE010,Kingpin Sportsbook,betting,Fight Night,43600
+D0045,PE010,Liberty Credit Union,Financial,FN only,$72.5K
+D0046,PE010,Nova Wireless,Telecom,Fight Week,73500
+D0047,PE010,Blaze Hot Sauce,Food,Fight Night Only,"$89,000"
+D0048,PE011,Nova Wireless,Telecom,FN only,"$21,900"
+D0049,PE011,Fresh Fade Barbers,Local Business,Fight Night Only,"19,300"
+D0050,PE012,Fresh Fade Barbers,Local Business,fight night,14500
+D0051,PE012,Kingpin Sportsbook,betting,Fight Night Only,18200
+D0052,PE012,Iron Temple Gym,Local Business,Fight Night Only,"19,300"
+D0053,PE012,Peak Energy Drink,Beverage,FN only,$23.3K
+D0054,PE013,Liberty Credit Union,Financial,Fight Week,65500
+D0055,PE013,Fresh Fade Barbers,Local Business,FN only,26500
+D0056,PE013,Riverline Bank,Financial,Fight Night Only,58900
+D0057,PE013,Southside Tequila,Spirits,fight night,"54,600"
+D0058,PE013,Peak Energy Drink,Beverage,Fight Night,"82,100"
+D0059,PE014,Crown Auto Group,Automotive,FN only,"6,700"
+D0060,PE014,Peak Energy Drink,Beverage,Fight Night Only,"$22,600"
+D0061,PE014,Fresh Fade Barbers,Local Business,fight week + FN,$10.1K
+D0062,PE015,Nova Wireless,Telecom,Fight Night Only,$63.9K
+D0063,PE015,Peak Energy Drink,Beverage,FN only,19600
+D0064,PE015,Riverline Bank,Financial,fight week + FN,"$81,500"
+D0065,PE015,Blaze Hot Sauce,Food,FN only,"70,500"
+D0066,PE016,Blaze Hot Sauce,food,FN only,"$11,800"
+D0067,PE016,Southside Tequila,Spirits,Fight Night Only,"$16,300"
+D0068,PE017,Crown Auto Group,Automotive,fight night,18600
+D0069,PE017,Kingpin Sportsbook,Betting,FN only,$21.8K
+D0070,PE017,Fresh Fade Barbers,local business,Fight Night,$13K
+D0071,PE017,Liberty Credit Union,Financial,FN only,19700
+D0072,PE018,Crown Auto Group,Automotive,Fight Night,"$20,500"
+D0073,PE018,Liberty Credit Union,Financial,fight night,"$24,700"
+D0074,PE018,Nova Wireless,telecom,fight night,$41.1K
+D0075,PE019,Blaze Hot Sauce,Food,Full Week,"143,400"
+D0076,PE019,Fresh Fade Barbers,Local Business,Fight Night,"62,900"
+D0077,PE019,Southside Tequila,Spirits,fight night,$59.9K
+D0078,PE020,Riverline Bank,Financial,Fight Week + Fight Night,"10,200"
+D0079,PE020,Liberty Credit Union,Financial,Fight Night Only,"14,200"
+D0080,PE020,Southside Tequila,Spirits,FN only,19600
+D0081,PE021,Liberty Credit Union,financial,fight night,"7,300"
+D0082,PE021,Kingpin Sportsbook,Betting,Fight Night,$14.6K
+D0083,PE022,Fresh Fade Barbers,Local Business,FN only,21900
+D0084,PE022,Crown Auto Group,Automotive,FN only,"23,400"
+D0085,PE023,Crown Auto Group,Automotive,Fight Night,12700
+D0086,PE023,Liberty Credit Union,Financial,Fight Night,$19.3K
+D0087,PE023,Blaze Hot Sauce,food,fight night,21600
+D0088,PE023,Kingpin Sportsbook,Betting,FN only,$16.6K
+D0089,PE024,Peak Energy Drink,Beverage,Fight Night Only,"42,900"
+D0090,PE024,Southside Tequila,Spirits,fight night,"58,200"
+D0091,PE024,Kingpin Sportsbook,betting,Fight Week + Fight Night,$31.1K
+D0092,PE024,Riverline Bank,Financial,fight night,$49.2K
+D0093,PE024,Crown Auto Group,Automotive,fight night,"$46,900"
+D0094,PE025,Iron Temple Gym,Local Business,Fight Night,"5,600"
+D0095,PE025,Fresh Fade Barbers,Local Business,Fight Night Only,7000
+D0096,PE025,Blaze Hot Sauce,food,fight night,$16.1K
+D0097,PE025,Nova Wireless,Telecom,fight night,"$6,500"
+D0098,PE026,Iron Temple Gym,Local Business,Fight Night Only,"8,500"
+D0099,PE026,Liberty Credit Union,financial,Fight Week,19800
+D0100,PE027,Iron Temple Gym,local business,Fight Week,"$104,900"
+D0101,PE027,Kingpin Sportsbook,Betting,Fight Night Only,$43.8K
+D0102,PE027,Liberty Credit Union,Financial,Fight Week + Fight Night,"107,500"
+D0103,PE028,Crown Auto Group,Automotive,fight night,$19.7K
+D0104,PE028,Nova Wireless,Telecom,fight night,"24,300"
+D0105,PE028,Iron Temple Gym,Local Business,FN only,$22.8K
+D0106,PE028,Fresh Fade Barbers,local business,Fight Night,"$24,200"
+D0107,PE029,Kingpin Sportsbook,Betting,Fight Week,"$11,100"
+D0108,PE029,Blaze Hot Sauce,food,Fight Week + Fight Night,"20,600"
+D0109,PE030,Nova Wireless,Telecom,Fight Night,$18.4K
+D0110,PE030,Crown Auto Group,Automotive,Fight Night Only,$16.9K
+D0111,PE031,Crown Auto Group,Automotive,Fight Night Only,$16.5K
+D0112,PE031,Blaze Hot Sauce,Food,Fight Night Only,"21,800"
+D0113,PE031,Fresh Fade Barbers,local business,FN only,"24,300"
+D0114,PE032,Southside Tequila,Spirits,Fight Night,"21,100"
+D0115,PE032,Crown Auto Group,Automotive,FN only,"19,300"
+D0116,PE032,Riverline Bank,Financial,fight night,"13,800"
+D0117,PE033,Fresh Fade Barbers,Local Business,fight week + FN,$28.2K
+D0118,PE033,Nova Wireless,telecom,fight night,"$23,500"
+D0119,PE034,Blaze Hot Sauce,Food,Fight Night Only,"17,300"
+D0120,PE034,Nova Wireless,telecom,Fight Week,$30.4K
+D0121,PE034,Southside Tequila,Spirits,FN only,13600
+D0122,PE034,Liberty Credit Union,Financial,FN only,"16,800"
+D0123,PE035,Nova Wireless,Telecom,Fight Night Only,12300
+D0124,PE035,Peak Energy Drink,Beverage,fight night,23100
+D0125,PE036,Riverline Bank,financial,Fight Night Only,24000
+D0126,PE036,Crown Auto Group,automotive,Fight Week,$133.7K
+D0127,PE036,Peak Energy Drink,Beverage,Fight Week,"34,000"
+D0128,PE036,Liberty Credit Union,Financial,Fight Night,"$87,700"
+D0129,PE036,Southside Tequila,spirits,fight night,"88,200"
+D0130,PE037,Blaze Hot Sauce,Food,fight night,"42,900"
+D0131,PE037,Riverline Bank,Financial,Fight Week + Fight Night,"$94,900"
+D0132,PE037,Kingpin Sportsbook,Betting,FN only,56600
+D0133,PE037,Crown Auto Group,Automotive,Fight Night Only,"31,000"
+D0134,PE037,Nova Wireless,Telecom,Fight Week,"61,300"
+D0135,PE038,Riverline Bank,financial,FN only,35800
+D0136,PE038,Crown Auto Group,Automotive,Fight Night,"53,300"
+D0137,PE038,Fresh Fade Barbers,Local Business,Fight Week + Fight Night,"$54,300"
+D0138,PE039,Riverline Bank,Financial,Fight Night Only,"64,700"
+D0139,PE039,Blaze Hot Sauce,Food,Fight Week,"$51,000"
+D0140,PE039,Iron Temple Gym,Local Business,fight night,"$19,300"
+D0141,PE040,Riverline Bank,Financial,Fight Night Only,"78,300"
+D0142,PE040,Fresh Fade Barbers,local business,fight week + FN,115000
+D0143,PE040,Liberty Credit Union,Financial,Fight Night Only,"$68,500"
+D0144,PE040,Peak Energy Drink,Beverage,Fight Night,$77.7K
+D0145,PE040,Nova Wireless,telecom,Fight Night Only,20200
+D0146,PE041,Peak Energy Drink,Beverage,Fight Week,"$19,400"
+D0147,PE041,Liberty Credit Union,Financial,FN only,"17,400"
+D0148,PE041,Fresh Fade Barbers,Local Business,Fight Night Only,$19.7K
+D0149,PE041,Crown Auto Group,Automotive,Fight Night,14400
+D0150,PE042,Nova Wireless,Telecom,fight night,"$19,000"
+D0151,PE042,Crown Auto Group,Automotive,Fight Night Only,"87,700"
+D0152,PE042,Southside Tequila,Spirits,Fight Week + Fight Night,"139,600"
+D0153,PE042,Iron Temple Gym,Local Business,Fight Night,$51.9K
+D0154,PE042,Kingpin Sportsbook,Betting,Fight Night Only,28900
+D0155,PE042,Peak Energy Drink,Beverage,FN only,87400
+D0156,PE043,Riverline Bank,Financial,fight night,"$89,100"
+D0157,PE043,Kingpin Sportsbook,Betting,Fight Night,$43.8K
+D0158,PE043,Liberty Credit Union,financial,Fight Night,"41,900"
+D0159,PE043,Peak Energy Drink,Beverage,FN only,43100
+D0160,PE044,Kingpin Sportsbook,Betting,fight night,"52,900"
+D0161,PE044,Riverline Bank,Financial,Fight Week,$61.7K
+D0162,PE044,Southside Tequila,Spirits,Fight Night Only,"$43,800"
+D0163,PE044,Crown Auto Group,Automotive,fight night,$49K
+D0164,PE045,Blaze Hot Sauce,Food,Fight Night,59500
+D0165,PE045,Iron Temple Gym,Local Business,FN only,$80.2K
+D0166,PE045,Southside Tequila,Spirits,Fight Night Only,"$21,700"
+D0167,PE045,Liberty Credit Union,Financial,Fight Night,"$76,000"
+D0168,PE045,Peak Energy Drink,Beverage,fight night,67000
+D0169,PE046,Crown Auto Group,Automotive,FN only,23200
+D0170,PE046,Nova Wireless,Telecom,Fight Night,11900
+D0171,PE046,Fresh Fade Barbers,Local Business,fight night,20200
+D0172,PE047,Crown Auto Group,Automotive,FN only,"22,700"
+D0173,PE047,Blaze Hot Sauce,Food,Fight Night,"$8,000"
+D0174,PE047,Southside Tequila,spirits,Fight Week,"32,800"
+D0175,PE047,Kingpin Sportsbook,Betting,Fight Week,"$24,600"
+D0176,PE048,Kingpin Sportsbook,Betting,Fight Night,"$74,000"
+D0177,PE048,Fresh Fade Barbers,Local Business,Fight Night,21500
+D0178,PE048,Peak Energy Drink,Beverage,FN only,60600
+D0179,PE048,Crown Auto Group,Automotive,Fight Night Only,51400
+D0180,PE048,Iron Temple Gym,Local Business,Fight Night,"15,300"
+D0181,PE048,Liberty Credit Union,Financial,Fight Night,$26.4K
+D0182,PE049,Riverline Bank,financial,Fight Night,22600
+D0183,PE049,Fresh Fade Barbers,Local Business,fight night,55400
+D0184,PE049,Iron Temple Gym,Local Business,fight night,88100
+D0185,PE050,Riverline Bank,Financial,fight night,65000
+D0186,PE050,Southside Tequila,spirits,FN only,"$29,800"
+D0187,PE050,Fresh Fade Barbers,Local Business,Full Week,"82,000"
+D0188,PE050,Liberty Credit Union,financial,Fight Night Only,"30,400"
+D0189,PE050,Iron Temple Gym,Local Business,fight night,$51.3K
+D0190,PE050,Nova Wireless,telecom,fight night,"$57,600"
+D0191,PE051,Southside Tequila,Spirits,fight week + FN,"$66,600"
+D0192,PE051,Nova Wireless,Telecom,fight night,86800
+D0193,PE051,Fresh Fade Barbers,Local Business,Full Week,$113.8K
+D0194,PE051,Iron Temple Gym,Local Business,FN only,$60K
+D0195,PE051,Riverline Bank,Financial,Fight Night,54000
+D0196,PE051,Liberty Credit Union,Financial,Fight Week + Fight Night,$103.2K

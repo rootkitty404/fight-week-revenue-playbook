@@ -1,0 +1,517 @@
+Event_ID,Bout_Order,Fighter_A,Fighter_B,Weight_Class,Scheduled_Rounds,Purse_A,Purse_B,A_Is_Local,B_Is_Local
+PE013,10,Andre Holloway,Tyrese Pruitt,Middleweight,8 rounds,$25.8K,"23,000",N,N
+PE041,9,Terrell Banks,Rashad Chavez,FEATHERWEIGHT,8 rounds,"4,200","5,100",1,Yes
+PE014,4,Nia Montoya,Devonte Brooks,bantamweight,8 rounds,3800,9900,No,0
+PE018,6,Rashad Reyes,Miguel Padilla,HEAVYWEIGHT,8 rds,"$26,100.00",$17.3K,No,0
+PE008,3,Rashad Lattimore,Terrell Whitfield,HEAVYWEIGHT,8 rounds,"$4,200.00",$11.1K,TRUE,Y
+PE022,5,Javier Holloway,Javier Holloway,WELTERWEIGHT,6,"8,400",$10.8K,Yes,FALSE
+PE014,9,Devonte Vega,Marcus Grant,Super Middleweight,8 rounds,7500,"$7,200.00",N,Yes
+PE034,4,Terrell Vega,Jalen Whitfield,Middleweight,6 rounds,$11.3K,7300,N,FALSE
+PE035,2,Keyana Dunbar,Hector Okafor,Light Heavyweight,10 rounds,"47,500",$24.8K,Yes,No
+PE001,9,Jalen Dunbar,Ramon Chavez,super middleweight,8 rds,"$23,400.00","$8,800.00",No,N
+PE008,1,Nia Okafor,Ramon Salazar,Super Lightweight,10 rounds,"$202,200.00","117,300",No,N
+PE048,3,Luis Castillo,Ximena Archuleta,MIDDLEWEIGHT,10 rounds,"10,700","$14,700.00",FALSE,0
+PE042,5,Marcus Vega,Brianna Whitfield,bantamweight,6,15500,$24K,TRUE,FALSE
+PE048,2,Malik Navarro,Brianna Salazar,bantamweight,10,187900,130300,0,N
+PE051,6,Javier Navarro,Terrell Banks,flyweight,4,$14.2K,$24K,No,FALSE
+PE013,1,Ximena Castillo,Luis Navarro,MIDDLEWEIGHT,12,$2.9M,$734.2K,N,No
+PE044,2,Xavier Mendoza,Luis Simms,BANTAMWEIGHT,10 rounds,$214.5K,$138.1K,No,No
+PE047,4,Elijah Dunbar,Ramon Holloway,BANTAMWEIGHT,8 rounds,"4,600",3500,TRUE,0
+PE017,8,Carlos Archuleta,Terrell Pruitt,bantamweight,8 rounds,"7,000","9,800",0,FALSE
+PE047,6,Ximena Simms,Darius Castillo,LIGHT HEAVYWEIGHT,8 rds,"3,500","5,600",No,No
+PE002,2,Omar Mendoza,Diego Brooks,Jr. Welterweight,10 rds,"68,800",$38.8K,FALSE,No
+PE020,3,Angel Banks,Devonte Simms,Flyweight,8 rds,"9,600",4300,Yes,0
+PE027,8,Andre Montoya,Andre Chavez,flyweight,8 rounds,20300,17400,1,0
+PE009,10,Luis Vega,Tyrese Navarro,super lightweight,8,$29K,"13,600",Y,0
+PE048,1,Andre Fairley,Miguel Ortega,Super Middleweight,12 rds,$505.6K,"$294,100.00",0,0
+PE026,2,Devonte Coleman,Darius Archuleta,Jr. Lightweight,10 rounds,$52K,"$33,300.00",No,No
+PE048,4,Jalen Simms,Angel Whitfield,light heavyweight,6,$26.3K,"16,500",N,0
+PE023,9,Tyrese Fairley,Ramon Whitfield,Super Lightweight,8,"$11,000.00","9,200",No,N
+PE003,6,Ximena Brooks,Marcus Banks,WELTERWEIGHT,8 rounds,28300,$17.4K,FALSE,No
+PE039,5,Isaiah Banks,Rashad Okafor,super middleweight,4,"$9,200.00",$15.9K,FALSE,No
+PE036,7,Rashad Fairley,Darius Mendoza,featherweight,8 rds,"28,900",$26.7K,FALSE,N
+PE020,6,Elijah Holloway,Terrell Vega,LIGHTWEIGHT,8 rds,"11,700","8,300",Y,1
+PE033,10,Tyrese Padilla,Keyana Ruiz,Super Middleweight,6,"6,600","$4,700.00",FALSE,FALSE
+PE051,5,Elijah Castillo,Rashad Mendoza,Jr. Lightweight,6 rds,"16,900","12,700",TRUE,0
+PE026,7,Luis Reyes,Darius Dunbar,Jr. Middleweight,8,$10.7K,6700,No,Y
+PE049,4,Nia Padilla,Malik Ortega,Super Middleweight,6 rounds,"17,800",$28.3K,No,FALSE
+PE036,2,Keyana Grant,Darius Fairley,Bantamweight,10,"$183,600.00",$135.2K,No,No
+PE036,6,Marcus Fairley,Devonte Dunbar,flyweight,8 rounds,$12K,$14.7K,Yes,No
+PE039,3,Darius Brooks,Tyrese Salazar,Super Welterweight,4,"8,200",$19.2K,N,N
+PE025,8,Tyrese Okafor,Brianna Lattimore,light heavyweight,4 rds,"9,700","3,100",0,N
+PE007,6,Miguel Holloway,Darius Whitfield,Super Lightweight,8,"24,800",$13.1K,FALSE,0
+PE043,1,Isaiah Ruiz,Marcus Whitfield,FEATHERWEIGHT,12 rounds,"546,800","219,200",0,0
+PE034,8,Rashad Archuleta,Kofi Brooks,BANTAMWEIGHT,10 rounds,"5,200","4,600",0,Y
+PE042,4,Malik Ruiz,Luis Reyes,bantamweight,8,"$23,200.00",$20.9K,N,No
+PE017,4,Malik Grant,Hector Montoya,super lightweight,10 rounds,"5,500",$11.2K,Y,Yes
+PE011,9,Hector Lattimore,Terrell Chavez,Featherweight,10 rds,"5,400",$10.2K,No,FALSE
+PE023,2,Kofi Banks,Luis Lattimore,super middleweight,10 rounds,$42.4K,$27.9K,FALSE,FALSE
+PE033,7,Carlos Reyes,Kofi Mendoza,Super Welterweight,10 rds,$10.7K,"3,400",1,0
+PE042,1,Omar Coleman,Andre Mendoza,middleweight,12 rounds,$433.8K,$263.5K,Y,No
+PE002,9,Elijah Dunbar,Miguel Holloway,bantamweight,8 rds,"8,400","9,100",Yes,FALSE
+PE041,1,Javier Dunbar,Angel Banks,middleweight,12 rounds,"$157,200.00","104,900",0,No
+PE022,1,Ramon Archuleta,Luis Whitfield,middleweight,10 rds,$131.6K,74900,No,0
+PE028,9,Javier Fairley,Nia Ortega,FEATHERWEIGHT,8 rounds,"4,700",8400,N,Yes
+PE007,7,Keyana Holloway,Diego Coleman,HEAVYWEIGHT,10 rounds,"$10,600.00","$25,500.00",0,0
+PE050,9,Tyrese Banks,Ramon Salazar,welterweight,8 rds,"27,600","$17,300.00",0,1
+PE011,3,Marcus Montoya,Hector Navarro,Lightweight,6 rds,"8,200",$11.3K,N,N
+PE022,3,Javier Ruiz,Kofi Fairley,bantamweight,6 rds,"4,700","7,200",Yes,Yes
+PE005,8,Luis Banks,Elijah Ortega,Heavyweight,6 rds,"7,300","$10,400.00",FALSE,No
+PE015,5,Diego Padilla,Javier Grant,featherweight,8,$10.4K,15700,No,1
+PE040,10,Nia Okafor,Diego Coleman,Jr. Lightweight,4 rounds,27700,"19,500",1,N
+PE030,10,Darius Castillo,Nia Padilla,Middleweight,6 rounds,"6,100",5200,Yes,FALSE
+PE025,6,Ximena Vega,Omar Grant,bantamweight,8 rds,$10.3K,"$5,900.00",FALSE,TRUE
+PE006,6,Miguel Pruitt,Diego Vega,Middleweight,10 rds,"$8,600.00",23500,N,FALSE
+PE032,10,Ramon Navarro,Brianna Grant,Middleweight,6 rds,10100,"7,900",Y,FALSE
+PE024,10,Keyana Navarro,Omar Simms,Lightweight,6,17900,$28K,N,TRUE
+PE031,5,Terrell Padilla,Kofi Okafor,LIGHTWEIGHT,8,"9,300","7,700",1,0
+PE007,3,Carlos Ruiz,Terrell Mendoza,light heavyweight,6,"8,900","17,300",1,No
+PE045,5,Diego Grant,Xavier Chavez,Bantamweight,10 rds,$11.8K,"20,000",No,Yes
+PE011,1,Ramon Mendoza,Brianna Chavez,light heavyweight,10 rounds,"68,700",$31.2K,TRUE,N
+PE040,6,Devonte Montoya,Carlos Salazar,super welterweight,6 rds,"25,500",$29.9K,Y,FALSE
+PE007,9,Ximena Simms,Keyana Fairley,Jr. Welterweight,6,10500,$20K,1,N
+PE019,10,Kofi Reyes,Diego Vega,FEATHERWEIGHT,10 rds,$18.6K,"$28,000.00",0,0
+PE033,1,Kofi Simms,Angel Banks,lightweight,10 rds,102500,$42.1K,0,0
+PE015,3,Malik Salazar,Angel Grant,WELTERWEIGHT,6 rounds,"$27,600.00","26,600",0,Y
+PE026,4,Malik Coleman,Javier Salazar,Heavyweight,10 rounds,"$3,400.00","3,700",N,TRUE
+PE049,10,Malik Dunbar,Carlos Simms,Heavyweight,6 rounds,$12.5K,$28K,0,0
+PE021,7,Andre Salazar,Omar Grant,featherweight,4 rounds,"6,100","8,700",FALSE,0
+PE028,6,Marcus Pruitt,Rashad Montoya,heavyweight,8 rds,"8,600","6,500",Y,FALSE
+PE001,7,Angel Ruiz,Rashad Vega,middleweight,6 rds,13900,$12.6K,0,FALSE
+PE007,4,Keyana Vega,Omar Pruitt,Middleweight,8 rounds,"$14,300.00","9,300",N,Yes
+PE029,7,Miguel Simms,Angel Salazar,Middleweight,8 rounds,"3,100","7,600",Yes,No
+PE046,10,Luis Padilla,Luis Navarro,LIGHTWEIGHT,8,"9,000",10300,0,N
+PE007,5,Jalen Salazar,Luis Brooks,Jr. Middleweight,4,$19.5K,$27.3K,No,FALSE
+PE043,6,Carlos Fairley,Tyrese Navarro,LIGHTWEIGHT,6 rds,$28.3K,"12,900",N,0
+PE033,5,Tyrese Holloway,Andre Mendoza,MIDDLEWEIGHT,8 rounds,"$6,100.00","$5,000.00",Yes,N
+PE019,1,Javier Coleman,Ximena Chavez,Heavyweight,12 rds,$426.3K,"$290,600.00",Yes,FALSE
+PE048,6,Jalen Mendoza,Luis Simms,LIGHTWEIGHT,4,"$13,700.00",$28.2K,Yes,TRUE
+PE005,6,Jalen Whitfield,Nia Mendoza,Super Welterweight,10 rds,"9,300",11100,TRUE,FALSE
+PE027,7,Angel Simms,Elijah Coleman,HEAVYWEIGHT,6 rounds,"$22,600.00",$13.5K,FALSE,N
+PE009,1,Rashad Montoya,Devonte Vega,FEATHERWEIGHT,12 rds,"668,200",$410.5K,N,0
+PE002,5,Keyana Coleman,Terrell Whitfield,bantamweight,10 rds,7000,$10K,Y,TRUE
+PE043,2,Omar Chavez,Nia Castillo,Lightweight,10 rounds,$211K,145400,TRUE,N
+PE017,1,Devonte Castillo,Javier Ortega,bantamweight,10 rounds,100000,$53.3K,N,No
+PE011,7,Nia Simms,Malik Reyes,welterweight,6,"$11,100.00","3,500",Y,TRUE
+PE049,6,Devonte Simms,Diego Banks,light heavyweight,8 rds,$21.2K,"13,300",0,No
+PE044,3,Isaiah Archuleta,Angel Pruitt,super welterweight,10 rounds,"8,300",$12.6K,TRUE,N
+PE043,4,Devonte Mendoza,Hector Brooks,super middleweight,4 rounds,"23,800","18,900",FALSE,Yes
+PE051,2,Elijah Brooks,Isaiah Brooks,FEATHERWEIGHT,10 rounds,"129,200",70900,1,0
+PE021,1,Ximena Mendoza,Javier Simms,Jr. Lightweight,12,"$214,300.00",131400,TRUE,FALSE
+PE025,9,Malik Ruiz,Malik Montoya,Super Lightweight,6,"7,000","5,500",0,FALSE
+PE014,5,Carlos Fairley,Isaiah Banks,LIGHTWEIGHT,6 rounds,"8,000","8,400",N,No
+PE033,8,Tyrese Ruiz,Malik Montoya,bantamweight,8,4900,4200,No,FALSE
+PE011,4,Terrell Whitfield,Malik Castillo,Featherweight,6 rds,"9,300","6,200",1,0
+PE044,9,Darius Ortega,Darius Simms,super lightweight,4 rds,$25.8K,8400,No,Y
+PE034,10,Omar Fairley,Brianna Ortega,bantamweight,8 rds,"6,000","$9,600.00",No,FALSE
+PE017,10,Diego Okafor,Ramon Padilla,FEATHERWEIGHT,8 rds,6900,"8,500",1,No
+PE016,3,Rashad Lattimore,Brianna Chavez,MIDDLEWEIGHT,8 rounds,"7,500","$9,600.00",Yes,1
+PE014,10,Kofi Coleman,Luis Lattimore,Light Heavyweight,6,"5,100","8,100",FALSE,No
+PE012,8,Elijah Dunbar,Hector Chavez,Heavyweight,4 rds,"7,000","$11,800.00",Yes,Y
+PE016,10,Devonte Salazar,Jalen Lattimore,HEAVYWEIGHT,8,$10.2K,$10K,N,1
+PE035,8,Jalen Whitfield,Luis Whitfield,light heavyweight,4 rds,"4,500",$11.4K,1,FALSE
+PE025,2,Terrell Ortega,Isaiah Holloway,super welterweight,10 rounds,"$25,100.00",$18.1K,0,1
+PE037,2,Malik Lattimore,Isaiah Lattimore,FEATHERWEIGHT,10 rds,"$167,100.00",93400,FALSE,FALSE
+PE038,10,Ramon Brooks,Isaiah Vega,LIGHT HEAVYWEIGHT,10 rounds,"28,300","26,900",No,No
+PE022,7,Angel Brooks,Carlos Brooks,Middleweight,6,11700,"10,500",FALSE,FALSE
+PE023,1,Keyana Fairley,Ramon Holloway,light heavyweight,12,"152,900",$62.9K,Y,N
+PE002,4,Javier Reyes,Kofi Lattimore,LIGHTWEIGHT,6 rounds,6300,"9,200",1,0
+PE031,1,Tyrese Reyes,Ramon Vega,super lightweight,10,"99,400","57,200",1,FALSE
+PE027,6,Brianna Ortega,Darius Holloway,FEATHERWEIGHT,10,"8,300",11800,Yes,0
+PE013,4,Javier Chavez,Jalen Chavez,Light Heavyweight,8,$29.4K,$13.3K,0,0
+PE010,3,Devonte Okafor,Rashad Padilla,lightweight,6 rds,13100,$19.6K,N,0
+PE024,9,Keyana Holloway,Javier Reyes,middleweight,8 rds,$19K,$29K,N,No
+PE021,4,Kofi Archuleta,Ramon Pruitt,Light Heavyweight,10,"$5,000.00","9,400",Y,0
+PE029,8,Jalen Archuleta,Marcus Grant,FEATHERWEIGHT,4,3600,"11,700",No,Y
+PE013,5,Miguel Navarro,Rashad Dunbar,Light Heavyweight,8 rounds,"18,700","15,200",1,No
+PE027,2,Jalen Fairley,Malik Castillo,bantamweight,10 rds,$197.7K,121000,FALSE,0
+PE030,9,Marcus Castillo,Nia Vega,Middleweight,10,8300,"8,400",Yes,N
+PE051,9,Rashad Whitfield,Tyrese Okafor,Middleweight,10 rounds,$23K,"9,300",0,TRUE
+PE028,3,Darius Reyes,Angel Padilla,bantamweight,8 rds,"5,900","$9,900.00",1,N
+PE007,2,Elijah Dunbar,Angel Salazar,Super Middleweight,10 rounds,145300,"77,000",No,0
+PE008,7,Isaiah Brooks,Ramon Okafor,BANTAMWEIGHT,8 rounds,$10.2K,7300,Y,Yes
+PE012,4,Miguel Holloway,Carlos Okafor,HEAVYWEIGHT,4 rds,"$3,500.00","$11,500.00",Yes,N
+PE045,6,Malik Whitfield,Miguel Coleman,Featherweight,6 rounds,"12,400",$28.8K,N,0
+PE039,1,Kofi Grant,Angel Brooks,bantamweight,12,"496,200",$230.6K,N,TRUE
+PE026,8,Marcus Reyes,Andre Holloway,welterweight,10 rounds,"6,600","11,600",FALSE,TRUE
+PE037,6,Terrell Fairley,Darius Holloway,Super Middleweight,8 rounds,$23.4K,"27,500",No,TRUE
+PE050,8,Tyrese Okafor,Miguel Holloway,Light Heavyweight,10 rds,"21,500","22,900",Yes,FALSE
+PE004,4,Ramon Banks,Rashad Okafor,Jr. Welterweight,8 rounds,"10,300","$8,200.00",Y,TRUE
+PE027,9,Isaiah Montoya,Miguel Coleman,MIDDLEWEIGHT,8,"23,800","20,400",Yes,FALSE
+PE025,5,Brianna Okafor,Keyana Brooks,featherweight,10 rds,"9,800","$7,900.00",Yes,Y
+PE003,5,Javier Ruiz,Marcus Holloway,Jr. Lightweight,8,12400,"28,000",1,TRUE
+PE041,8,Isaiah Pruitt,Isaiah Simms,bantamweight,8 rounds,"3,800",9200,Yes,No
+PE049,8,Tyrese Ruiz,Malik Montoya,Lightweight,6 rds,26200,27100,No,0
+PE020,8,Javier Whitfield,Kofi Padilla,flyweight,4 rds,"4,600",$11.2K,Yes,N
+PE023,10,Ramon Fairley,Luis Grant,LIGHT HEAVYWEIGHT,10 rounds,"3,300","9,400",No,No
+PE016,5,Jalen Okafor,Omar Reyes,WELTERWEIGHT,4,"8,400","9,000",TRUE,0
+PE009,3,Terrell Montoya,Malik Holloway,Middleweight,8 rounds,"10,600","11,300",1,1
+PE029,10,Marcus Mendoza,Hector Grant,LIGHT HEAVYWEIGHT,8 rds,"5,300","5,700",Yes,0
+PE041,2,Hector Castillo,Angel Lattimore,WELTERWEIGHT,10,"$27,700.00","19,000",No,FALSE
+PE041,10,Marcus Grant,Darius Ortega,MIDDLEWEIGHT,4,10100,$10.5K,FALSE,N
+PE050,2,Devonte Archuleta,Nia Ruiz,Jr. Lightweight,10 rounds,"272,500",$169.9K,Y,No
+PE027,10,Miguel Okafor,Keyana Whitfield,FLYWEIGHT,8,17700,$10K,N,N
+PE039,7,Kofi Vega,Jalen Simms,Jr. Welterweight,4,21900,$28.9K,N,No
+PE016,8,Rashad Vega,Miguel Reyes,Middleweight,8,"$9,100.00",$10.6K,FALSE,No
+PE019,5,Carlos Dunbar,Andre Grant,Super Welterweight,4 rounds,$16.6K,"$12,500.00",TRUE,No
+PE021,3,Carlos Castillo,Diego Dunbar,Jr. Middleweight,6 rds,"11,200","7,100",Y,No
+PE046,8,Diego Dunbar,Luis Banks,Flyweight,10 rds,"$6,000.00","9,300",N,FALSE
+PE019,9,Angel Ortega,Elijah Fairley,Featherweight,4 rds,"$12,300.00",23000,Yes,No
+PE036,1,Omar Chavez,Jalen Ruiz,super lightweight,12 rds,$2.98M,"857,100",FALSE,No
+PE016,4,Angel Ruiz,Marcus Salazar,FLYWEIGHT,8 rounds,"3,100","$6,500.00",No,N
+PE004,10,Kofi Ortega,Marcus Salazar,heavyweight,4,9700,"9,200",N,Yes
+PE045,1,Xavier Brooks,Ramon Salazar,heavyweight,12,$2880K,817900,0,No
+PE009,5,Elijah Navarro,Ramon Chavez,Super Middleweight,8,9500,$23K,No,1
+PE021,10,Jalen Mendoza,Rashad Grant,WELTERWEIGHT,4,"8,100","$6,100.00",1,Yes
+PE048,8,Tyrese Padilla,Elijah Archuleta,light heavyweight,6 rounds,$14.8K,$23.6K,Yes,Y
+PE004,5,Andre Coleman,Elijah Holloway,Super Middleweight,4 rounds,"8,300",$11.2K,TRUE,No
+PE028,7,Devonte Montoya,Angel Lattimore,super welterweight,8 rounds,$11.8K,"5,800",Y,No
+PE017,7,Andre Mendoza,Ramon Dunbar,Heavyweight,8,$10.5K,"11,300",0,TRUE
+PE051,8,Miguel Fairley,Xavier Brooks,LIGHTWEIGHT,10,$29.6K,$24.2K,TRUE,FALSE
+PE028,2,Elijah Vega,Diego Okafor,bantamweight,10 rds,$40.9K,"28,900",0,0
+PE017,3,Nia Archuleta,Elijah Vega,heavyweight,4 rounds,"5,100","7,600",Yes,0
+PE035,7,Carlos Fairley,Kofi Mendoza,Bantamweight,8,"8,400","8,200",1,Yes
+PE030,6,Hector Ortega,Omar Castillo,FEATHERWEIGHT,10 rounds,6600,"10,900",1,No
+PE038,6,Rashad Fairley,Hector Holloway,BANTAMWEIGHT,10 rounds,$16.3K,"17,200",0,N
+PE021,6,Diego Holloway,Ramon Coleman,Welterweight,6 rounds,"$10,800.00",7300,Y,FALSE
+PE045,9,Isaiah Okafor,Hector Brooks,Super Middleweight,8 rds,"8,500",24900,No,No
+PE044,1,Omar Padilla,Diego Ortega,Jr. Lightweight,12,$2377.7K,"382,600",N,FALSE
+PE033,4,Rashad Salazar,Malik Navarro,MIDDLEWEIGHT,8 rounds,"6,600","8,900",FALSE,0
+PE040,9,Brianna Chavez,Devonte Holloway,HEAVYWEIGHT,8 rds,"$19,200.00",14500,FALSE,FALSE
+PE005,4,Andre Chavez,Malik Archuleta,lightweight,10 rounds,$11.3K,"$3,700.00",Y,N
+PE005,3,Brianna Salazar,Keyana Banks,super middleweight,6,"$4,400.00","$11,400.00",FALSE,FALSE
+PE018,3,Carlos Dunbar,Ximena Salazar,middleweight,10 rounds,10900,8000,Y,FALSE
+PE036,8,Nia Reyes,Luis Holloway,super middleweight,10 rounds,"25,500",$28.2K,TRUE,FALSE
+PE039,4,Luis Lattimore,Terrell Mendoza,Featherweight,4,$13.6K,"$17,700.00",No,N
+PE009,4,Nia Whitfield,Tyrese Whitfield,welterweight,8 rounds,10200,12100,1,N
+PE043,8,Brianna Coleman,Terrell Vega,featherweight,8 rds,"21,200",$21.6K,FALSE,FALSE
+PE018,1,Diego Holloway,Tyrese Grant,HEAVYWEIGHT,12 rounds,"$670,500.00","433,400",Y,FALSE
+PE011,6,Luis Castillo,Andre Banks,HEAVYWEIGHT,4 rounds,$11.5K,"6,000",N,N
+PE023,7,Hector Brooks,Jalen Lattimore,light heavyweight,8 rds,8200,$11.5K,1,FALSE
+PE015,1,Devonte Banks,Angel Simms,super welterweight,12 rounds,2609600,$530.5K,FALSE,FALSE
+PE040,3,Kofi Coleman,Rashad Salazar,HEAVYWEIGHT,6,$25.3K,"23,500",No,0
+PE048,7,Carlos Montoya,Darius Archuleta,super welterweight,8 rds,"29,300","21,900",0,No
+PE015,7,Kofi Ruiz,Miguel Montoya,flyweight,8 rds,$28.6K,$10.5K,0,No
+PE038,3,Tyrese Fairley,Malik Castillo,Super Lightweight,8 rds,$27.3K,"$11,600.00",Y,Yes
+PE040,8,Jalen Fairley,Isaiah Brooks,BANTAMWEIGHT,8 rounds,$17.3K,$25.1K,Yes,0
+PE026,5,Miguel Reyes,Darius Mendoza,Middleweight,4 rounds,"8,100",6600,FALSE,N
+PE047,9,Kofi Reyes,Hector Salazar,Featherweight,6 rounds,"8,300",8400,No,FALSE
+PE040,2,Javier Whitfield,Elijah Chavez,LIGHTWEIGHT,10 rounds,260400,$140.7K,N,N
+PE010,7,Brianna Brooks,Diego Castillo,Super Lightweight,8 rounds,$14.6K,28200,1,FALSE
+PE001,2,Xavier Salazar,Luis Castillo,Jr. Lightweight,10,"227,500","139,000",FALSE,0
+PE022,2,Xavier Simms,Rashad Lattimore,featherweight,10 rounds,$38K,"30,200",0,0
+PE031,4,Rashad Banks,Xavier Whitfield,Welterweight,8,$11.1K,"6,800",N,N
+PE032,5,Malik Reyes,Andre Banks,light heavyweight,6 rds,"$6,500.00","8,800",N,Y
+PE035,1,Ramon Salazar,Carlos Montoya,Featherweight,10,$98.3K,"51,300",TRUE,N
+PE020,2,Javier Reyes,Marcus Okafor,Super Lightweight,10 rds,$26.6K,$19.1K,N,No
+PE023,6,Isaiah Lattimore,Devonte Simms,Jr. Welterweight,8 rounds,$11.3K,$11.4K,Yes,FALSE
+PE047,7,Brianna Whitfield,Miguel Archuleta,Super Welterweight,4 rds,"10,100","6,700",TRUE,No
+PE038,7,Darius Mendoza,Omar Vega,flyweight,10 rds,"27,300",$18.1K,FALSE,No
+PE007,1,Omar Banks,Angel Salazar,middleweight,12 rounds,"1,886,700",$561.9K,TRUE,FALSE
+PE020,4,Malik Salazar,Malik Mendoza,HEAVYWEIGHT,10 rounds,$11.4K,"9,700",Y,FALSE
+PE002,3,Keyana Ruiz,Kofi Lattimore,Bantamweight,4 rds,"4,300",$11.8K,No,No
+PE033,6,Andre Ruiz,Terrell Navarro,Super Welterweight,4 rds,"$4,400.00","6,700",N,FALSE
+PE048,5,Omar Mendoza,Elijah Coleman,LIGHT HEAVYWEIGHT,10 rounds,$26.9K,$24K,N,0
+PE037,5,Isaiah Simms,Ximena Coleman,Featherweight,8 rounds,$21.1K,24000,FALSE,0
+PE036,5,Ximena Ortega,Rashad Pruitt,super lightweight,8 rounds,"10,700","$25,800.00",No,0
+PE022,10,Isaiah Simms,Isaiah Ortega,Super Lightweight,6 rounds,"$6,300.00","10,100",1,0
+PE015,8,Jalen Okafor,Malik Holloway,welterweight,6 rds,20300,$29.4K,0,FALSE
+PE049,9,Ximena Ortega,Jalen Holloway,LIGHTWEIGHT,10,$20K,"13,300",N,Yes
+PE024,3,Luis Simms,Tyrese Dunbar,Jr. Middleweight,6,"11,700",$18.5K,FALSE,N
+PE027,3,Xavier Banks,Angel Fairley,super welterweight,8,$19.8K,24200,0,No
+PE013,9,Javier Coleman,Andre Mendoza,MIDDLEWEIGHT,4,"18,100",28300,Y,Y
+PE042,2,Marcus Montoya,Hector Grant,middleweight,10 rounds,223600,$158.7K,0,0
+PE018,4,Carlos Montoya,Marcus Fairley,Jr. Welterweight,8 rounds,"13,100","8,100",FALSE,TRUE
+PE004,9,Xavier Holloway,Kofi Ruiz,FEATHERWEIGHT,10 rounds,"4,900",5300,FALSE,1
+PE031,8,Miguel Vega,Angel Ruiz,Heavyweight,4 rds,"4,700",$10.7K,Yes,FALSE
+PE022,4,Darius Grant,Omar Castillo,Light Heavyweight,4 rounds,"7,300",11500,1,1
+PE041,6,Ximena Fairley,Javier Archuleta,Heavyweight,8 rds,$11.9K,"5,700",N,FALSE
+PE041,7,Ramon Fairley,Elijah Ortega,MIDDLEWEIGHT,4 rds,"5,100","11,200",TRUE,FALSE
+PE036,9,Nia Mendoza,Elijah Grant,Light Heavyweight,6,"10,900",$27.4K,Yes,No
+PE010,4,Xavier Whitfield,Ximena Brooks,Jr. Welterweight,8 rounds,$11K,25000,Y,No
+PE047,10,Diego Vega,Malik Banks,Jr. Welterweight,10,"6,800",$10K,N,FALSE
+PE041,4,Rashad Brooks,Ramon Whitfield,HEAVYWEIGHT,10,"8,500","$3,800.00",FALSE,No
+PE028,5,Devonte Padilla,Elijah Brooks,LIGHTWEIGHT,6 rounds,"3,100","8,700",Y,N
+PE032,1,Xavier Archuleta,Keyana Fairley,HEAVYWEIGHT,12 rounds,"337,100","157,900",N,No
+PE009,9,Elijah Lattimore,Angel Mendoza,super lightweight,10,"18,300",$10.9K,FALSE,1
+PE035,3,Xavier Ruiz,Rashad Okafor,Jr. Lightweight,4 rds,"4,600","7,000",1,FALSE
+PE012,3,Carlos Whitfield,Ramon Banks,Middleweight,10 rounds,"9,600","7,200",TRUE,N
+PE046,4,Terrell Simms,Omar Navarro,Jr. Middleweight,4 rds,"8,300",3400,Yes,1
+PE051,4,Omar Salazar,Miguel Mendoza,Super Middleweight,10 rounds,"29,700",9400,N,FALSE
+PE031,2,Andre Padilla,Isaiah Reyes,super lightweight,10 rounds,"29,300","19,100",TRUE,FALSE
+PE038,5,Javier Ortega,Devonte Padilla,LIGHTWEIGHT,8 rounds,"20,000","9,700",N,No
+PE005,7,Miguel Mendoza,Keyana Mendoza,Super Lightweight,6,$11K,"7,000",Yes,N
+PE028,1,Tyrese Archuleta,Carlos Banks,featherweight,10,$105.1K,$47.3K,Yes,0
+PE042,9,Andre Okafor,Ximena Banks,Welterweight,6 rds,$18.8K,"$8,300.00",No,N
+PE011,5,Jalen Holloway,Elijah Ruiz,bantamweight,8 rds,11500,"3,600",No,No
+PE034,3,Devonte Pruitt,Angel Coleman,Super Middleweight,8 rounds,"$7,200.00","4,200",Yes,0
+PE014,1,Angel Brooks,Marcus Simms,Welterweight,12,$248.9K,165900,FALSE,0
+PE008,2,Isaiah Holloway,Carlos Dunbar,Jr. Welterweight,10 rds,$49.8K,$33K,FALSE,Yes
+PE051,1,Ramon Vega,Brianna Banks,Jr. Lightweight,12 rds,$1519.2K,312800,Yes,FALSE
+PE019,7,Jalen Salazar,Diego Castillo,Jr. Middleweight,8 rounds,"22,300",$19.4K,0,0
+PE010,10,Angel Mendoza,Miguel Dunbar,heavyweight,8,28900,"$25,500.00",TRUE,Yes
+PE051,3,Tyrese Archuleta,Angel Whitfield,Featherweight,8 rounds,$25K,$10.9K,Y,0
+PE045,4,Luis Dunbar,Marcus Montoya,lightweight,6,"11,500",$28.2K,Yes,FALSE
+PE029,3,Diego Navarro,Malik Salazar,Middleweight,8 rds,"5,900",9500,1,No
+PE040,5,Elijah Archuleta,Jalen Dunbar,super lightweight,8 rds,$26.5K,$13.2K,No,Y
+PE043,5,Omar Okafor,Omar Navarro,Heavyweight,8 rds,$16.4K,$25.8K,FALSE,FALSE
+PE017,8,Carlos Archuleta,Terrell Pruitt,bantamweight,8 rounds,"7,000","9,800",0,FALSE
+PE038,8,Keyana Castillo,Darius Fairley,HEAVYWEIGHT,8 rounds,"9,000",$25.6K,FALSE,N
+PE012,1,Isaiah Salazar,Isaiah Okafor,Featherweight,10 rounds,$122.2K,71900,FALSE,N
+PE014,8,Marcus Dunbar,Ximena Simms,Flyweight,4 rounds,"3,400","$10,500.00",FALSE,No
+PE002,7,Andre Banks,Carlos Salazar,super welterweight,6 rounds,"9,400","$7,100.00",Yes,0
+PE032,8,Marcus Ortega,Miguel Ortega,Super Middleweight,10 rounds,"5,600","5,500",Y,0
+PE031,3,Ximena Chavez,Rashad Salazar,Welterweight,8 rds,"5,100","8,600",N,No
+PE010,2,Angel Coleman,Nia Grant,welterweight,10,"$290,800.00","$190,500.00",TRUE,N
+PE011,2,Brianna Vega,Xavier Archuleta,LIGHT HEAVYWEIGHT,10 rounds,"42,200","23,400",1,No
+PE021,5,Xavier Fairley,Hector Simms,light heavyweight,8,"3,600","9,700",0,N
+PE046,2,Darius Chavez,Isaiah Navarro,LIGHTWEIGHT,10 rds,$47.2K,"31,800",No,0
+PE002,8,Tyrese Vega,Ramon Ortega,MIDDLEWEIGHT,10,"5,300","6,200",0,TRUE
+PE003,1,Luis Reyes,Brianna Whitfield,featherweight,12 rds,"$676,400.00",$379.9K,FALSE,N
+PE027,4,Xavier Whitfield,Miguel Holloway,LIGHT HEAVYWEIGHT,8 rounds,"9,400",$22.5K,0,N
+PE037,4,Hector Brooks,Malik Fairley,Middleweight,6 rounds,24900,23100,N,0
+PE048,10,Elijah Dunbar,Rashad Ortega,FEATHERWEIGHT,6 rds,"10,800","19,300",TRUE,0
+PE044,8,Hector Montoya,Miguel Mendoza,super middleweight,8,$16.6K,$13.2K,Yes,No
+PE035,10,Brianna Holloway,Hector Mendoza,light heavyweight,8 rds,"6,700","8,100",No,N
+PE007,10,Elijah Reyes,Devonte Padilla,welterweight,6,"20,900",14500,No,TRUE
+PE023,4,Devonte Navarro,Rashad Padilla,Super Middleweight,8 rds,"$7,700.00",$11K,Y,N
+PE035,6,Malik Fairley,Tyrese Padilla,Jr. Lightweight,6 rds,$10.7K,"8,500",No,0
+PE035,5,Ximena Lattimore,Omar Archuleta,Super Lightweight,4,"4,500","11,800",0,FALSE
+PE034,7,Ximena Fairley,Omar Brooks,LIGHT HEAVYWEIGHT,8 rds,"6,200","$3,300.00",Yes,No
+PE029,1,Elijah Ortega,Diego Ortega,super lightweight,12 rds,"$162,400.00",112500,No,1
+PE019,3,Devonte Lattimore,Elijah Montoya,super middleweight,4,$29.7K,$13K,No,FALSE
+PE049,1,Keyana Lattimore,Miguel Okafor,welterweight,12,$721.6K,302400,Y,FALSE
+PE019,6,Carlos Banks,Elijah Pruitt,Lightweight,10,"28,000",$19.1K,TRUE,0
+PE030,1,Angel Ortega,Malik Grant,Welterweight,12,$318.6K,$157.6K,No,N
+PE014,3,Rashad Simms,Marcus Fairley,Bantamweight,6 rounds,"11,200","7,300",N,TRUE
+PE051,10,Ramon Chavez,Devonte Grant,Jr. Middleweight,8 rds,"$13,200.00",$27K,Y,Y
+PE018,8,Devonte Salazar,Carlos Mendoza,light heavyweight,4 rounds,"$15,700.00",$23.9K,N,Yes
+PE032,3,Hector Castillo,Luis Whitfield,Jr. Welterweight,10 rounds,$11.6K,"9,600",TRUE,N
+PE049,2,Angel Mendoza,Devonte Grant,Super Middleweight,10 rounds,$185.3K,$127.7K,N,Y
+PE040,7,Darius Navarro,Brianna Okafor,WELTERWEIGHT,6 rounds,"$17,500.00","22,200",N,TRUE
+PE002,10,Angel Montoya,Keyana Dunbar,super lightweight,10 rounds,6000,"6,000",No,N
+PE005,9,Luis Okafor,Carlos Salazar,super lightweight,10,"9,900",4200,Y,0
+PE034,9,Ximena Whitfield,Keyana Fairley,Featherweight,6 rds,$10K,"8,300",1,No
+PE047,1,Ramon Ruiz,Omar Ortega,Super Lightweight,10,"$340,400.00",$174.1K,FALSE,FALSE
+PE041,5,Ramon Ortega,Isaiah Lattimore,Jr. Middleweight,8 rounds,$10.8K,3400,1,TRUE
+PE012,7,Hector Ruiz,Brianna Coleman,heavyweight,6 rds,"10,100","10,600",Yes,1
+PE037,9,Terrell Lattimore,Terrell Banks,light heavyweight,8 rds,"16,100",$28.3K,FALSE,FALSE
+PE024,6,Ximena Lattimore,Javier Grant,light heavyweight,10 rounds,"$26,400.00",$15.7K,0,0
+PE029,6,Carlos Mendoza,Devonte Simms,Jr. Welterweight,8 rounds,"4,200","3,100",TRUE,No
+PE050,7,Kofi Coleman,Nia Ortega,Welterweight,8 rounds,$26.9K,12700,No,N
+PE042,8,Malik Grant,Rashad Padilla,Super Lightweight,8 rounds,$10.6K,$14.7K,FALSE,1
+PE025,7,Nia Ortega,Xavier Archuleta,bantamweight,8,"9,900",$11.2K,TRUE,1
+PE035,9,Jalen Vega,Brianna Brooks,super middleweight,10 rounds,"5,300",$11.2K,TRUE,N
+PE012,2,Devonte Whitfield,Luis Ortega,featherweight,10 rds,"46,200","$27,500.00",N,N
+PE049,7,Brianna Ruiz,Malik Vega,Jr. Lightweight,4 rds,"20,500","17,400",1,No
+PE034,5,Ramon Mendoza,Kofi Holloway,Super Middleweight,6,"6,600","9,000",N,1
+PE004,8,Hector Navarro,Kofi Salazar,Super Middleweight,8,"3,400","9,800",No,0
+PE012,9,Keyana Vega,Andre Ortega,Super Welterweight,8 rds,"$11,200.00","3,700",Y,N
+PE028,8,Ximena Ruiz,Carlos Reyes,Light Heavyweight,8,"$5,200.00","9,900",Y,Y
+PE024,4,Malik Montoya,Miguel Holloway,Light Heavyweight,8 rds,$26.8K,$18.8K,FALSE,No
+PE003,4,Angel Pruitt,Carlos Pruitt,Flyweight,8,$21K,"23,000",0,0
+PE026,9,Miguel Padilla,Ximena Chavez,featherweight,10,"11,100","$10,300.00",1,0
+PE031,10,Luis Dunbar,Omar Mendoza,flyweight,8 rounds,"6,300",$10K,No,1
+PE010,1,Javier Fairley,Tyrese Dunbar,heavyweight,12 rounds,"1,640,900","$382,000.00",N,0
+PE003,9,Kofi Padilla,Darius Ruiz,Featherweight,8,"8,500",$23.8K,FALSE,N
+PE004,6,Xavier Brooks,Jalen Montoya,super lightweight,6,"10,000","$3,200.00",TRUE,FALSE
+PE046,9,Keyana Castillo,Xavier Banks,LIGHTWEIGHT,8,"3,500","9,400",No,FALSE
+PE047,3,Isaiah Dunbar,Omar Pruitt,LIGHT HEAVYWEIGHT,8 rds,$11K,"9,300",FALSE,1
+PE037,3,Andre Mendoza,Terrell Montoya,LIGHTWEIGHT,6 rounds,"25,100","10,300",Y,0
+PE018,9,Elijah Vega,Diego Padilla,Super Welterweight,10 rds,$28.9K,"21,000",No,N
+PE009,2,Nia Whitfield,Ramon Grant,Bantamweight,10 rounds,$223.1K,"148,100",N,N
+PE006,8,Marcus Brooks,Xavier Navarro,MIDDLEWEIGHT,8 rounds,$27.7K,"$14,800.00",N,0
+PE044,6,Carlos Montoya,Keyana Lattimore,Super Lightweight,10,22000,"15,000",N,N
+PE013,2,Nia Whitfield,Tyrese Chavez,light heavyweight,10 rounds,$208.9K,$133.3K,TRUE,0
+PE003,7,Darius Lattimore,Miguel Holloway,HEAVYWEIGHT,10 rds,$11.8K,"9,100",Y,FALSE
+PE025,3,Devonte Ruiz,Javier Chavez,Heavyweight,4 rds,"$6,400.00",$10.1K,FALSE,0
+PE039,6,Carlos Pruitt,Keyana Grant,lightweight,4 rds,$14.5K,$19.3K,FALSE,No
+PE001,5,Kofi Montoya,Hector Ortega,flyweight,4,"$25,800.00",$13.4K,Y,0
+PE031,6,Omar Brooks,Luis Simms,FEATHERWEIGHT,6 rds,"6,800","11,600",N,1
+PE008,8,Carlos Chavez,Carlos Holloway,MIDDLEWEIGHT,8,3400,"$5,600.00",1,0
+PE046,5,Rashad Mendoza,Luis Navarro,super middleweight,10 rds,"$9,600.00","6,000",No,No
+PE029,4,Tyrese Chavez,Tyrese Coleman,HEAVYWEIGHT,10 rounds,"3,700","$7,700.00",Yes,0
+PE014,6,Elijah Simms,Tyrese Castillo,welterweight,8 rounds,"$8,100.00",$10.3K,FALSE,TRUE
+PE032,9,Darius Dunbar,Keyana Vega,Light Heavyweight,8,"11,600","4,800",No,Y
+PE022,9,Brianna Navarro,Ximena Navarro,bantamweight,6 rds,"3,500",9500,Y,0
+PE044,4,Elijah Fairley,Marcus Grant,Super Middleweight,8,$13.8K,"16,700",No,N
+PE039,10,Ximena Ortega,Omar Ruiz,MIDDLEWEIGHT,6,$15.3K,"21,200",N,TRUE
+PE050,6,Diego Okafor,Omar Vega,FEATHERWEIGHT,4,"24,000",29300,Y,0
+PE042,6,Marcus Navarro,Ramon Archuleta,LIGHT HEAVYWEIGHT,6,$21.8K,$28K,Y,1
+PE016,6,Kofi Lattimore,Malik Navarro,Flyweight,8 rounds,"9,600","5,500",FALSE,Yes
+PE025,10,Luis Dunbar,Xavier Banks,Heavyweight,6 rounds,$10.8K,"4,000",No,No
+PE029,5,Devonte Padilla,Jalen Fairley,HEAVYWEIGHT,6 rounds,$11.5K,$10.9K,Yes,Y
+PE045,8,Omar Salazar,Jalen Mendoza,FLYWEIGHT,8,"28,600","$9,200.00",0,No
+PE023,8,Tyrese Castillo,Tyrese Navarro,flyweight,10,"7,400","6,600",N,Yes
+PE037,8,Terrell Navarro,Tyrese Archuleta,HEAVYWEIGHT,8,$16K,"27,800",No,FALSE
+PE001,3,Rashad Chavez,Marcus Padilla,HEAVYWEIGHT,8 rounds,"29,700","$27,400.00",TRUE,FALSE
+PE004,7,Ramon Dunbar,Xavier Ortega,Heavyweight,8,"8,800","9,000",TRUE,No
+PE003,10,Elijah Whitfield,Brianna Navarro,Super Middleweight,6 rds,"19,000",$25.5K,1,FALSE
+PE037,10,Carlos Montoya,Angel Holloway,LIGHT HEAVYWEIGHT,10 rounds,"22,100",11600,No,FALSE
+PE001,6,Nia Reyes,Keyana Archuleta,Super Middleweight,6 rds,$14.8K,"27,400",N,1
+PE030,4,Kofi Okafor,Devonte Okafor,BANTAMWEIGHT,4 rds,"$7,700.00","3,800",Yes,N
+PE029,2,Xavier Brooks,Hector Okafor,super middleweight,10,"47,800","35,400",0,N
+PE004,3,Malik Coleman,Angel Pruitt,Super Middleweight,8 rounds,"10,200",7200,No,FALSE
+PE012,6,Keyana Banks,Keyana Ruiz,lightweight,8,"9,800",7800,No,No
+PE016,7,Isaiah Lattimore,Carlos Chavez,MIDDLEWEIGHT,8 rds,"$4,600.00",11000,1,No
+PE038,9,Keyana Brooks,Isaiah Coleman,Light Heavyweight,6 rounds,$21.7K,22500,0,Yes
+PE037,7,Darius Whitfield,Miguel Ruiz,BANTAMWEIGHT,10 rds,$17.5K,$14.3K,Y,No
+PE046,1,Darius Coleman,Angel Archuleta,Jr. Middleweight,10 rds,$104.4K,48800,1,0
+PE047,2,Terrell Lattimore,Kofi Grant,FLYWEIGHT,10 rounds,"53,700",$35.4K,No,FALSE
+PE008,5,Elijah Grant,Xavier Vega,heavyweight,8 rounds,"8,600",4400,Yes,N
+PE026,10,Diego Salazar,Devonte Chavez,light heavyweight,10,"$11,500.00",11300,TRUE,1
+PE030,8,Diego Coleman,Isaiah Holloway,Jr. Lightweight,10,"8,500",$11.7K,Yes,No
+PE015,4,Kofi Dunbar,Diego Ruiz,LIGHT HEAVYWEIGHT,4 rounds,$19.6K,$17.6K,No,TRUE
+PE005,2,Isaiah Fairley,Terrell Castillo,lightweight,10,"54,100","$27,200.00",FALSE,0
+PE002,1,Brianna Ortega,Rashad Ruiz,featherweight,10 rds,299000,141000,FALSE,FALSE
+PE018,10,Diego Whitfield,Nia Okafor,Jr. Middleweight,8 rds,"17,600",$18.4K,FALSE,0
+PE001,8,Elijah Brooks,Xavier Pruitt,FEATHERWEIGHT,10 rds,"19,400",$26.9K,FALSE,TRUE
+PE021,9,Elijah Castillo,Kofi Whitfield,super lightweight,8 rds,"6,100","3,500",FALSE,0
+PE015,9,Keyana Mendoza,Miguel Simms,middleweight,4,"19,200",$25.8K,0,0
+PE034,1,Keyana Okafor,Keyana Grant,Flyweight,12 rds,$164.2K,$74K,Yes,0
+PE040,1,Nia Carter,Diego Castillo,Middleweight,12 rounds,$1.64M,"308,100",TRUE,No
+PE033,2,Xavier Okafor,Malik Padilla,WELTERWEIGHT,10 rounds,$43K,"$22,700.00",N,N
+PE030,2,Kofi Banks,Malik Pruitt,Lightweight,10,"63,100",$44.5K,TRUE,Y
+PE041,3,Marcus Salazar,Darius Coleman,Super Welterweight,6 rounds,"7,200","6,000",Y,N
+PE048,9,Jalen Salazar,Jalen Salazar,Bantamweight,8 rds,"18,700","$16,600.00",TRUE,No
+PE049,3,Malik Fairley,Malik Lattimore,Super Lightweight,8 rds,$29.7K,$23.4K,TRUE,No
+PE010,8,Angel Grant,Keyana Grant,Jr. Middleweight,10 rds,"27,500","$24,700.00",TRUE,0
+PE022,6,Elijah Holloway,Nia Castillo,WELTERWEIGHT,10 rounds,$11.7K,6300,1,No
+PE050,3,Diego Pruitt,Isaiah Salazar,Welterweight,8 rds,15100,"13,200",No,No
+PE031,9,Isaiah Navarro,Brianna Archuleta,Jr. Lightweight,4 rounds,"$10,200.00","5,700",Y,No
+PE032,6,Malik Montoya,Malik Fairley,featherweight,8 rounds,"9,500","6,200",No,Y
+PE008,10,Andre Montoya,Jalen Whitfield,welterweight,4 rds,"$8,300.00","8,600",Yes,1
+PE024,1,Darius Holloway,Keyana Okafor,Heavyweight,12,1512800,"330,800",No,N
+PE047,8,Kofi Navarro,Andre Banks,super welterweight,10 rds,4200,6600,No,No
+PE012,10,Ramon Ruiz,Marcus Banks,Super Lightweight,6,"10,100",7300,1,No
+PE050,10,Hector Archuleta,Carlos Banks,BANTAMWEIGHT,4,"$17,500.00",$17.7K,FALSE,No
+PE050,4,Rashad Fairley,Jalen Dunbar,flyweight,8 rounds,"8,500",$28.5K,TRUE,0
+PE015,2,Keyana Brooks,Nia Archuleta,Super Middleweight,10 rds,"188,600","134,600",TRUE,1
+PE002,6,Devonte Dunbar,Brianna Banks,light heavyweight,8,"$3,700.00","$3,200.00",TRUE,Y
+PE013,8,Miguel Vega,Miguel Navarro,flyweight,8,$11.4K,"19,300",FALSE,Yes
+PE009,7,Jalen Navarro,Javier Fairley,flyweight,4,"24,500",$11.3K,FALSE,No
+PE018,2,Tyrese Grant,Tyrese Okafor,Middleweight,10 rds,"121,800",$86.7K,N,N
+PE032,7,Isaiah Navarro,Isaiah Castillo,Jr. Welterweight,8 rds,"$4,000.00","10,300",1,N
+PE036,4,Miguel Holloway,Angel Fairley,Flyweight,8,$12.9K,25000,N,FALSE
+PE003,8,Keyana Chavez,Kofi Ruiz,Jr. Welterweight,10 rds,"8,800",$29K,N,0
+PE028,4,Nia Mendoza,Darius Holloway,Welterweight,8,"8,600","6,400",N,Yes
+PE024,5,Marcus Okafor,Ramon Brooks,Jr. Lightweight,8 rds,$16.3K,"$24,100.00",Y,FALSE
+PE024,7,Brianna Castillo,Andre Ruiz,Middleweight,4 rounds,$10K,"$20,800.00",Yes,FALSE
+PE016,1,Andre Navarro,Carlos Coleman,light heavyweight,10 rds,"122,600","$54,700.00",FALSE,0
+PE044,7,Javier Archuleta,Andre Dunbar,Featherweight,10 rounds,8200,"$8,700.00",0,FALSE
+PE007,8,Ximena Dunbar,Carlos Lattimore,Welterweight,6 rds,$20.4K,"20,700",0,0
+PE023,5,Kofi Dunbar,Devonte Ruiz,WELTERWEIGHT,4,"11,100","9,800",Y,No
+PE051,7,Elijah Ortega,Carlos Reyes,Super Welterweight,8,27800,14300,0,0
+PE005,1,Omar Ruiz,Isaiah Reyes,super lightweight,10 rounds,"$124,900.00","$61,700.00",FALSE,Yes
+PE042,10,Terrell Grant,Isaiah Okafor,Super Middleweight,8,"$21,800.00",$10.6K,FALSE,0
+PE027,1,Terrell Brooks,Nia Vega,Middleweight,12,"$2,259,500.00",$377K,0,FALSE
+PE014,2,Ximena Salazar,Tyrese Ortega,Featherweight,10 rds,"29,700",$20.6K,No,TRUE
+PE046,3,Marcus Brooks,Devonte Ruiz,Flyweight,10 rounds,"3,700","3,100",1,Yes
+PE045,10,Xavier Brooks,Malik Archuleta,LIGHT HEAVYWEIGHT,6 rds,$14.1K,"8,500",No,No
+PE020,7,Malik Lattimore,Javier Grant,Super Lightweight,8,"8,400","5,300",TRUE,No
+PE006,4,Carlos Chavez,Devonte Fairley,Super Welterweight,4,27000,"29,500",No,0
+PE013,6,Rashad Navarro,Marcus Fairley,Middleweight,8,$11.7K,$19.5K,0,No
+PE001,10,Malik Holloway,Isaiah Archuleta,HEAVYWEIGHT,4 rds,"8,500",$15.5K,Yes,N
+PE008,9,Kofi Simms,Luis Okafor,featherweight,8 rds,"5,600","6,200",1,TRUE
+PE041,2,Hector Castillo,Angel Lattimore,WELTERWEIGHT,10,"$27,700.00","19,000",No,FALSE
+PE030,7,Brianna Pruitt,Jalen Mendoza,Lightweight,8 rds,"9,200",5600,TRUE,TRUE
+PE004,2,Xavier Coleman,Isaiah Vega,Light Heavyweight,10,"48,800","$26,300.00",0,FALSE
+PE043,9,Ximena Ortega,Angel Padilla,super welterweight,8 rounds,"14,100","$16,200.00",N,0
+PE008,6,Xavier Archuleta,Carlos Chavez,Middleweight,8 rds,"7,300",7200,Yes,Yes
+PE043,4,Devonte Mendoza,Hector Brooks,super middleweight,4 rounds,"23,800","18,900",FALSE,Yes
+PE039,9,Andre Brooks,Rashad Reyes,Jr. Welterweight,4 rounds,"20,100",28900,TRUE,0
+PE016,9,Devonte Lattimore,Jalen Salazar,LIGHTWEIGHT,8,"8,700","3,200",No,N
+PE036,3,Malik Simms,Terrell Banks,Flyweight,8,"26,600",$28.7K,0,FALSE
+PE006,5,Ximena Ruiz,Rashad Navarro,Bantamweight,6 rds,$25.6K,"9,400",N,No
+PE039,2,Terrell Salazar,Hector Navarro,Middleweight,10 rounds,$243.9K,$179.6K,FALSE,0
+PE026,1,Angel Dunbar,Jalen Navarro,Super Lightweight,12 rounds,"260,000","$155,000.00",N,FALSE
+PE033,9,Rashad Archuleta,Xavier Grant,FEATHERWEIGHT,4 rds,$10K,"$8,500.00",Y,Yes
+PE017,6,Ramon Okafor,Devonte Mendoza,Jr. Lightweight,6 rounds,"6,500","3,300",N,0
+PE027,5,Hector Fairley,Keyana Simms,FEATHERWEIGHT,6 rounds,"$20,000.00",$23.3K,Yes,No
+PE006,2,Luis Pruitt,Hector Fairley,Super Welterweight,10,221200,"$134,300.00",Yes,0
+PE011,8,Miguel Simms,Terrell Coleman,WELTERWEIGHT,8 rounds,"5,600",$11.1K,FALSE,0
+PE006,10,Marcus Fairley,Tyrese Mendoza,Heavyweight,8 rounds,$13.3K,$24K,TRUE,No
+PE030,3,Keyana Reyes,Omar Simms,Super Middleweight,8,"4,300",4300,No,0
+PE034,6,Rashad Padilla,Elijah Montoya,featherweight,8 rds,"4,100","$3,100.00",N,N
+PE009,6,Ramon Ortega,Angel Ortega,FLYWEIGHT,8,$25.4K,15700,N,N
+PE046,6,Javier Montoya,Omar Okafor,heavyweight,4 rounds,3400,"9,900",N,No
+PE019,2,Isaiah Brooks,Diego Ortega,lightweight,10 rounds,$224.9K,159000,0,N
+PE020,10,Andre Whitfield,Ramon Salazar,Flyweight,8 rounds,"9,500","4,400",0,N
+PE024,8,Marcus Padilla,Kofi Montoya,Super Lightweight,8 rds,$19.9K,$20K,N,0
+PE024,2,Carlos Lattimore,Malik Lattimore,welterweight,10,"$263,000.00","189,700",No,N
+PE020,9,Omar Dunbar,Marcus Chavez,flyweight,8,"6,000","4,400",Yes,N
+PE047,5,Miguel Grant,Devonte Ortega,Light Heavyweight,8 rds,$10.3K,"$4,900.00",FALSE,N
+PE049,5,Javier Montoya,Carlos Simms,Jr. Middleweight,8 rds,$11K,$13.3K,N,0
+PE028,10,Jalen Ortega,Hector Navarro,light heavyweight,4 rds,5900,"3,400",Yes,FALSE
+PE034,2,Andre Okafor,Brianna Chavez,light heavyweight,10 rounds,"47,400",$35.7K,N,FALSE
+PE045,7,Diego Chavez,Terrell Whitfield,Flyweight,6 rds,"$10,000.00","$22,400.00",Yes,No
+PE020,1,Luis Chavez,Rashad Mendoza,super lightweight,10 rounds,$133.2K,$69.5K,Y,No
+PE003,3,Xavier Simms,Rashad Ruiz,featherweight,10 rounds,$12.5K,"$27,800.00",Y,No
+PE023,3,Darius Reyes,Rashad Coleman,HEAVYWEIGHT,8 rds,"6,500","6,200",TRUE,No
+PE012,5,Javier Holloway,Marcus Montoya,flyweight,8 rds,"$4,600.00","6,100",Y,No
+PE016,2,Angel Simms,Omar Coleman,FEATHERWEIGHT,10 rounds,"$59,200.00",$39.5K,1,No
+PE018,7,Keyana Holloway,Tyrese Chavez,Welterweight,4 rds,$17.7K,"27,000",No,Yes
+PE019,8,Ximena Archuleta,Kofi Salazar,FEATHERWEIGHT,4 rounds,28900,$26.8K,FALSE,N
+PE008,4,Ramon Lattimore,Isaiah Okafor,bantamweight,10,"$11,600.00","7,400",TRUE,TRUE
+PE022,8,Andre Holloway,Hector Ruiz,Super Middleweight,8 rds,3700,"8,400",FALSE,Y
+PE025,1,Diego Chavez,Ramon Salazar,FLYWEIGHT,10,$114K,"58,900",1,FALSE
+PE015,6,Omar Salazar,Miguel Simms,featherweight,4,$16.1K,$16.6K,0,N
+PE006,1,Isaiah Castillo,Keyana Coleman,FLYWEIGHT,12,"614,300",$290K,FALSE,FALSE
+PE026,6,Brianna Montoya,Isaiah Grant,lightweight,8 rounds,"$8,000.00","7,400",0,1
+PE045,2,Carlos Holloway,Devonte Montoya,Super Lightweight,10 rounds,$193K,$130.4K,0,N
+PE010,6,Brianna Salazar,Terrell Castillo,BANTAMWEIGHT,10,"29,800","9,100",N,FALSE
+PE010,9,Devonte Dunbar,Hector Reyes,Middleweight,4,18100,"9,000",0,FALSE
+PE021,8,Diego Okafor,Carlos Dunbar,BANTAMWEIGHT,10 rds,6400,"4,900",1,0
+PE038,2,Hector Chavez,Jalen Lattimore,Bantamweight,10 rds,$158.7K,101800,1,TRUE
+PE038,1,Angel Navarro,Miguel Grant,Flyweight,12 rds,$2199K,"$509,800.00",TRUE,FALSE
+PE001,4,Carlos Fairley,Kofi Whitfield,Heavyweight,6 rounds,$26.7K,"20,300",1,0
+PE042,3,Darius Navarro,Andre Lattimore,LIGHT HEAVYWEIGHT,8,29400,9800,No,FALSE
+PE050,5,Malik Ortega,Jalen Vega,Welterweight,6 rds,"17,000","$27,600.00",Y,Y
+PE029,9,Brianna Ruiz,Isaiah Chavez,lightweight,6 rounds,"10,900","7,700",1,FALSE
+PE017,2,Rashad Vega,Omar Ortega,super lightweight,10,"$28,700.00","14,600",0,No
+PE043,10,Diego Simms,Tyrese Coleman,super middleweight,6,$10.1K,$10.1K,N,N
+PE043,7,Diego Ortega,Omar Simms,WELTERWEIGHT,8 rounds,11100,"8,000",N,FALSE
+PE025,4,Diego Okafor,Diego Dunbar,super lightweight,8 rds,"4,900",9400,FALSE,N
+PE017,9,Xavier Navarro,Xavier Whitfield,bantamweight,8 rds,"$3,200.00","6,700",FALSE,No
+PE042,7,Carlos Chavez,Carlos Banks,welterweight,10 rds,"$22,600.00","11,100",FALSE,FALSE
+PE035,4,Ximena Holloway,Miguel Padilla,Lightweight,8,"$7,900.00","8,200",N,1
+PE045,3,Malik Ruiz,Nia Vega,Super Welterweight,10 rds,18000,$21.8K,FALSE,0
+PE033,3,Miguel Padilla,Nia Padilla,featherweight,8 rounds,"$9,100.00","$6,400.00",TRUE,N
+PE005,10,Brianna Mendoza,Terrell Navarro,Jr. Middleweight,6,"4,100","9,000",Y,No
+PE014,7,Elijah Castillo,Marcus Ruiz,featherweight,6 rds,"5,800","8,100",Yes,Y
+PE004,1,Rashad Holloway,Rashad Okafor,Super Welterweight,10 rounds,$82.8K,$46.1K,No,Y
+PE038,4,Nia Navarro,Xavier Simms,Jr. Middleweight,6,"$27,600.00",$19.3K,No,0
+PE034,10,Omar Fairley,Brianna Ortega,bantamweight,8 rds,"6,000","$9,600.00",No,FALSE
+PE020,5,Kofi Vega,Diego Okafor,super middleweight,4 rds,"5,800",12000,Yes,0
+PE006,7,Isaiah Ortega,Luis Salazar,MIDDLEWEIGHT,8 rds,$21.9K,$29.9K,No,FALSE
+PE043,3,Xavier Grant,Kofi Brooks,HEAVYWEIGHT,6,"25,100","9,400",N,0
+PE021,2,Hector Banks,Javier Pruitt,Bantamweight,10 rounds,"$45,100.00",$29.2K,No,No
+PE015,10,Keyana Chavez,Rashad Simms,super welterweight,4 rds,"18,000","$22,800.00",No,N
+PE003,2,Luis Montoya,Carlos Okafor,WELTERWEIGHT,10 rds,152600,"$112,700.00",No,Yes
+PE019,4,Rashad Padilla,Angel Coleman,HEAVYWEIGHT,8 rds,$29.6K,$18.1K,FALSE,Y
+PE001,1,Darius Montoya,Miguel Banks,Heavyweight,12 rounds,$728.7K,$422.9K,Yes,0
+PE039,8,Diego Banks,Malik Okafor,FEATHERWEIGHT,6,$16.1K,$10.2K,Y,0
+PE006,3,Diego Mendoza,Rashad Castillo,heavyweight,8 rds,"11,900","29,100",Yes,N
+PE050,1,Isaiah Coleman,Jalen Vega,lightweight,12 rds,$811.1K,$354.2K,No,No
+PE013,7,Nia Simms,Andre Dunbar,Featherweight,8,"9,100","$10,700.00",No,Yes
+PE030,5,Elijah Grant,Marcus Castillo,Middleweight,8,"5,200","7,100",TRUE,0
+PE005,5,Luis Simms,Diego Archuleta,lightweight,10,"4,500","$3,800.00",Y,No
+PE044,5,Luis Dunbar,Brianna Ortega,welterweight,6 rounds,$22.8K,"23,300",0,N
+PE017,5,Nia Padilla,Devonte Okafor,Heavyweight,10 rounds,7200,"6,300",FALSE,Yes
+PE028,8,Ximena Ruiz,Carlos Reyes,Light Heavyweight,8,"$5,200.00","9,900",Y,Y
+PE032,4,Jalen Dunbar,Miguel Fairley,Super Lightweight,8 rds,"7,200","5,900",Yes,N
+PE050,6,Diego Okafor,Omar Vega,FEATHERWEIGHT,4,"24,000",29300,Y,0
+PE032,2,Ramon Okafor,Luis Brooks,Middleweight,10 rounds,"55,300",29400,0,No
+PE010,5,Nia Pruitt,Nia Archuleta,Jr. Middleweight,8 rds,11900,"20,800",Yes,FALSE
+PE011,10,Andre Fairley,Isaiah Archuleta,Jr. Middleweight,10,"10,700","4,800",1,FALSE
+PE036,10,Isaiah Vega,Luis Vega,bantamweight,4 rounds,8700,"$28,300.00",N,FALSE
+PE026,3,Brianna Reyes,Angel Simms,Bantamweight,6 rounds,"9,700",6800,No,0
+PE006,9,Nia Ruiz,Malik Simms,Light Heavyweight,10 rounds,"$17,200.00",$13.1K,TRUE,FALSE
+PE040,4,Ximena Archuleta,Keyana Holloway,Light Heavyweight,8 rounds,"$15,400.00","23,900",Yes,No
+PE031,7,Diego Okafor,Andre Ortega,WELTERWEIGHT,6 rds,"8,700","3,300",Y,N
+PE046,7,Jalen Lattimore,Miguel Reyes,Welterweight,10 rds,"7,200","3,300",Y,1
+PE009,8,Andre Holloway,Xavier Fairley,Flyweight,8 rounds,$15.6K,$22.6K,N,FALSE
+PE037,1,Terrell Banks,Miguel Okafor,FEATHERWEIGHT,12 rounds,"850,700",$528.3K,N,N
+PE044,10,Angel Padilla,Xavier Coleman,featherweight,8,"9,400","17,000",1,0
+PE018,5,Jalen Dunbar,Javier Pruitt,Jr. Welterweight,8,"$15,200.00","29,800",No,0
+PE013,3,Omar Lattimore,Ramon Salazar,Jr. Welterweight,6 rds,$13K,$21.5K,1,No

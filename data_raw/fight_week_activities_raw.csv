@@ -1,0 +1,258 @@
+Activity_ID,Event_ID,Day,Activity,Ticketed,Ticket_Price,Attendance,Sponsor_On_Site,Merch_Revenue
+A0001,PE001,Wed,press conf,FALSE,Free,513,N,3427.47
+A0002,PE001,Thu,Open Workout,0,Free,2441,No,13988.04
+A0003,PE001,Day 3,Weigh In,FALSE,,1762,,11260.69
+A0004,PE001,FRI,FanFest,Free,$0,"10,912",No,26393.3
+A0005,PE001,Sat,Afterparty,Y,$75,652,Y,1732.35
+A0006,PE001,Day 2,VIP Meet & Greet,Y,$250,139,Yes,294.42
+A0007,PE002,Wed,Presser,Free,Free,262,No,1078.04
+A0008,PE002,Day 2,open workouts,No,0,599,No,1446.2
+A0009,PE002,Day 3,weigh-ins,Free,0,489,No,2171.05
+A0010,PE002,Friday,FanFest,N,0,2297,,6994.39
+A0011,PE002,Day 4,Afterparty,Y,75,253,N,906.08
+A0012,PE003,Wed,Presser,FALSE,$0,692,No,4054.79
+A0013,PE003,Thurs,open workouts,FALSE,$0,1349,Yes,9252.38
+A0014,PE003,Fri,Weigh In,Free,$0,5241,,11410.78
+A0015,PE003,FRI,Fan Fest,No,Free,6044,N,39293.91
+A0016,PE003,Day 4,Official After Party,Yes,150,849,Yes,1891.57
+A0017,PE004,Day 1,Final Press Conference,FALSE,,281,Y,1345.36
+A0018,PE004,Thursday,Media Workout,No,Free,549,,2526.55
+A0019,PE004,Friday,Ceremonial Weigh-In,Free,Free,"1,249",Yes,5397.19
+A0020,PE004,Sat,After Party,1,100,167,No,236.88
+A0021,PE005,Wednesday,Final Press Conference,FALSE,,277,N,753.52
+A0022,PE005,Thurs,open workouts,0,0,401,N,1802.71
+A0023,PE005,Fri,Weigh-In,No,Free,850,N,1775.01
+A0024,PE005,FRI,fan festival,No,,888,,2797.28
+A0025,PE005,Day 4,After Party,Yes,150,212,N,657.46
+A0026,PE006,WED,press conf,Free,,382,N,2600.92
+A0027,PE006,Thurs,open workouts,FALSE,Free,1219,No,4920.26
+A0028,PE006,FRI,Weigh-In,FALSE,,1335,,8798.03
+A0029,PE006,Fri,FanFest,0,0,5620,,30439.33
+A0030,PE006,Day 4,Afterparty,1,$100,312,Y,1792.98
+A0031,PE006,Day 2,Meet and Greet,1,$200,85,,216.45
+A0032,PE007,Day 1,Final Press Conference,N,$0,560,Yes,1855.03
+A0033,PE007,Thurs,Media Workout,No,,"1,606",Yes,10341.56
+A0034,PE007,Friday,Weigh In,N,,8636,Y,34683.26
+A0035,PE007,Day 3,FanFest,Free,$0,12278,,42620.25
+A0036,PE007,Day 4,Official After Party,TRUE,100,,N,2181.42
+A0037,PE008,Day 1,Final Press Conference,FALSE,$0,181,No,741.8
+A0038,PE008,Thu,open workouts,0,,770,Yes,3022.95
+A0039,PE008,Friday,Weigh-In,N,,747,,1396.85
+A0040,PE008,Friday,FanFest,0,$0,2327,Yes,3674.24
+A0041,PE008,Saturday,After Party,Y,150,184,Yes,301.61
+A0042,PE009,Wednesday,Presser,N,Free,506,Yes,1409.51
+A0043,PE009,Thu,Open Workout,N,Free,"1,987",,9731.8
+A0044,PE009,Fri,weigh-ins,N,0,3727,No,17556.55
+A0045,PE009,Friday,FanFest,Free,$0,"3,649",N,7898.68
+A0046,PE009,Day 4,After Party,Y,$100,734,,2031.52
+A0047,PE010,WED,Press Conference,Free,0,548,,2263.04
+A0048,PE010,Thursday,Media Workout,FALSE,0,2341,No,14046.41
+A0049,PE010,FRI,Ceremonial Weigh-In,Free,,5798,No,39748.17
+A0050,PE010,Day 3,fan festival,Free,Free,"11,960",N,68318.75
+A0051,PE010,Saturday,Official After Party,TRUE,150,668,Y,4335.47
+A0052,PE011,Wed,Presser,Free,Free,,No,664.15
+A0053,PE011,Thurs,Open Workout,FALSE,$0,491,,992.57
+A0054,PE011,FRI,weigh-ins,FALSE,0,1816,No,4763.67
+A0055,PE011,Day 3,Fan Fest,No,Free,2615,Y,4095.18
+A0056,PE011,Fight Night,Official After Party,Y,$150,317,Yes,816.3
+A0057,PE012,Wednesday,press conf,No,,310,N,802.37
+A0058,PE012,Thu,open workouts,No,0,636,,2880.5
+A0059,PE012,Day 3,Weigh-In,No,$0,1295,,2205.51
+A0060,PE012,Fight Night,Afterparty,1,$100,240,Yes,750.71
+A0061,PE013,Wednesday,Press Conference,N,$0,506,N,2674.0
+A0062,PE013,Thurs,Media Workout,FALSE,Free,3223,N,10919.96
+A0063,PE013,Day 3,Weigh In,No,0,"6,694",N,27456.72
+A0064,PE013,Fri,fan festival,N,0,10366,No,69642.15
+A0065,PE013,Sat,Afterparty,1,$100,835,,5433.57
+A0066,PE014,Wednesday,Final Press Conference,FALSE,0,400,No,815.43
+A0067,PE014,Thurs,Media Workout,FALSE,,683,No,2007.64
+A0068,PE014,Day 3,Weigh-In,FALSE,0,1331,No,3577.32
+A0069,PE014,Saturday,Official After Party,Yes,$100,384,Y,699.45
+A0070,PE015,Wed,Presser,No,$0,905,N,2761.07
+A0071,PE015,Thurs,Media Workout,FALSE,Free,1644,N,9240.76
+A0072,PE015,Day 3,Weigh In,Free,0,3924,No,22928.88
+A0073,PE015,Friday,fan festival,Free,$0,6181,No,39804.76
+A0074,PE015,Day 4,Official After Party,1,75,515,Yes,2242.81
+A0075,PE015,Thursday,Meet and Greet,1,$150,113,Yes,237.87
+A0076,PE016,Wednesday,Final Press Conference,No,,,No,344.19
+A0077,PE016,Thu,open workouts,0,,424,,803.35
+A0078,PE016,Friday,Weigh In,Free,Free,691,No,2877.33
+A0079,PE016,Day 3,Fan Fest,0,0,2000,N,9291.66
+A0080,PE016,Fight Night,Afterparty,TRUE,100,251,N,890.34
+A0081,PE017,WED,Press Conference,N,,237,,1085.05
+A0082,PE017,Thurs,open workouts,No,,608,N,1887.03
+A0083,PE017,Day 3,Weigh In,FALSE,,1521,N,6167.16
+A0084,PE017,Fight Night,Official After Party,1,$150,178,Yes,317.66
+A0085,PE018,WED,Presser,0,,849,No,2251.32
+A0086,PE018,Thu,open workouts,FALSE,$0,2776,No,19277.65
+A0087,PE018,Friday,Ceremonial Weigh-In,FALSE,0,2022,No,8793.23
+A0088,PE018,Fri,Fan Fest,0,Free,8095,No,25369.49
+A0089,PE018,Fight Night,After Party,Yes,75,337,Yes,1075.68
+A0090,PE018,Thurs,VIP M&G,Y,150,67,Y,323.26
+A0091,PE019,Day 1,Presser,FALSE,$0,787,No,2672.54
+A0092,PE019,Thurs,Open Workout,N,,"2,280",,11795.91
+A0093,PE019,Day 3,Weigh In,N,,5837,,14548.53
+A0094,PE019,Day 3,FanFest,N,0,9541,,26999.33
+A0095,PE019,Fight Night,Official After Party,TRUE,$75,649,,2200.18
+A0096,PE019,Day 2,VIP M&G,Y,250,70,Y,196.82
+A0097,PE020,Day 1,press conf,FALSE,0,280,,560.12
+A0098,PE020,Day 2,open workouts,N,,1188,No,3137.24
+A0099,PE020,Day 3,Weigh-In,FALSE,,"1,832",Yes,3275.13
+A0100,PE020,Sat,Afterparty,Y,150,338,N,1338.06
+A0101,PE021,Day 1,Press Conference,No,0,264,Y,1096.32
+A0102,PE021,Thurs,Media Workout,Free,0,1146,N,3550.94
+A0103,PE021,Day 3,Ceremonial Weigh-In,N,$0,2453,N,5784.69
+A0104,PE021,Fight Night,Afterparty,TRUE,150,269,No,589.58
+A0105,PE022,WED,Presser,Free,Free,165,N,692.83
+A0106,PE022,Day 2,open workouts,0,Free,398,N,669.09
+A0107,PE022,FRI,Ceremonial Weigh-In,No,0,622,,1034.93
+A0108,PE022,FRI,FanFest,0,0,1151,,5492.45
+A0109,PE022,Day 4,Afterparty,TRUE,100,322,,1143.95
+A0110,PE023,Wed,Final Press Conference,FALSE,0,477,N,1704.82
+A0111,PE023,Thursday,open workouts,FALSE,$0,1380,,5704.54
+A0112,PE023,FRI,Weigh In,0,Free,"1,379",N,5325.94
+A0113,PE023,Sat,After Party,TRUE,100,202,Y,826.3
+A0114,PE024,Wednesday,Press Conference,No,0,771,N,3423.33
+A0115,PE024,Thursday,open workouts,Free,Free,3541,Yes,24011.63
+A0116,PE024,Fri,Weigh-In,0,$0,2966,,8970.63
+A0117,PE024,FRI,Fan Fest,0,Free,"7,160",No,26296.54
+A0118,PE024,Sat,Afterparty,1,125,632,Y,2483.52
+A0119,PE024,Thurs,VIP M&G,1,$200,60,Y,375.97
+A0120,PE025,Wed,Final Press Conference,0,0,455,N,2168.92
+A0121,PE025,Thurs,Media Workout,No,,959,Y,2921.15
+A0122,PE025,Fri,Ceremonial Weigh-In,0,,1262,N,3835.28
+A0123,PE025,Fri,fan festival,FALSE,Free,2188,,4638.54
+A0124,PE025,Saturday,Official After Party,1,$100,318,No,1428.82
+A0125,PE026,Wednesday,press conf,N,$0,349,Yes,1475.75
+A0126,PE026,Thurs,Media Workout,No,,993,No,2793.16
+A0127,PE026,FRI,Weigh In,0,$0,"1,879",No,5904.43
+A0128,PE026,Fri,FanFest,N,$0,1684,No,6064.35
+A0129,PE026,Day 4,After Party,TRUE,100,364,,1118.11
+A0130,PE027,Wed,Final Press Conference,No,$0,792,Yes,2839.09
+A0131,PE027,Thu,Media Workout,FALSE,,2529,No,16341.85
+A0132,PE027,Day 3,Weigh-In,N,$0,2337,Y,8914.18
+A0133,PE027,Fri,FanFest,N,0,12503,No,55938.98
+A0134,PE027,Fight Night,Official After Party,1,75,608,Y,2129.86
+A0135,PE028,Wednesday,Press Conference,Free,$0,415,Y,719.8
+A0136,PE028,Thu,Open Workout,FALSE,$0,406,No,1099.8
+A0137,PE028,Day 3,weigh-ins,0,0,1725,No,6975.92
+A0138,PE028,Sat,After Party,1,$75,388,Y,745.69
+A0139,PE029,Wed,Presser,No,$0,,Y,495.59
+A0140,PE029,Thurs,Open Workout,N,,743,N,2168.31
+A0141,PE029,Fri,Weigh In,Free,Free,2015,N,6965.83
+A0142,PE029,Day 4,After Party,1,75,263,N,850.42
+A0143,PE030,Wed,Presser,Free,0,271,Yes,753.33
+A0144,PE030,Thursday,open workouts,No,0,975,,2547.43
+A0145,PE030,FRI,Weigh In,N,,877,N,4286.39
+A0146,PE030,Day 4,After Party,1,$100,194,Y,852.88
+A0147,PE031,Day 1,Presser,N,Free,268,No,1046.03
+A0148,PE031,Thurs,open workouts,No,,1137,No,3608.36
+A0149,PE031,FRI,Weigh In,No,$0,1116,,3998.06
+A0150,PE031,Saturday,After Party,TRUE,$150,392,Yes,816.5
+A0151,PE032,Wed,Presser,0,$0,311,,553.0
+A0152,PE032,Thursday,open workouts,0,$0,532,,1271.26
+A0153,PE032,FRI,Weigh-In,Free,Free,737,N,3062.45
+A0154,PE032,Saturday,Official After Party,1,$125,178,Y,584.28
+A0155,PE033,WED,Final Press Conference,FALSE,Free,191,Y,864.82
+A0156,PE033,Thu,Media Workout,0,0,780,,3084.03
+A0157,PE033,Fri,Weigh-In,No,Free,518,N,2169.64
+A0158,PE033,Fri,FanFest,Free,$0,2246,No,8640.43
+A0159,PE033,Fight Night,Official After Party,Y,$150,320,Yes,1117.5
+A0160,PE034,Wednesday,Presser,0,Free,351,Yes,952.25
+A0161,PE034,Thurs,Open Workout,0,,1234,Yes,3423.27
+A0162,PE034,Day 3,Weigh-In,N,,"1,456",No,4137.25
+A0163,PE034,Sat,Official After Party,Yes,75,159,N,594.74
+A0164,PE035,Day 1,press conf,0,0,347,Yes,1648.79
+A0165,PE035,Day 2,Media Workout,0,Free,920,Yes,3544.0
+A0166,PE035,Friday,weigh-ins,FALSE,$0,2003,No,8018.79
+A0167,PE035,Friday,FanFest,N,0,2465,Yes,10978.59
+A0168,PE035,Fight Night,After Party,Y,150,185,Yes,502.2
+A0169,PE036,Wednesday,Press Conference,N,,848,No,3066.04
+A0170,PE036,Thurs,open workouts,No,$0,"2,593",No,10357.68
+A0171,PE036,Day 3,Ceremonial Weigh-In,Free,0,5726,,29574.3
+A0172,PE036,Fri,Fan Fest,N,0,5597,No,18631.49
+A0173,PE036,Fight Night,Afterparty,Y,$125,379,Yes,2172.6
+A0174,PE037,Wed,Presser,No,Free,610,,2669.27
+A0175,PE037,Thu,Open Workout,N,Free,1268,No,4487.79
+A0176,PE037,FRI,Weigh In,Free,$0,1830,No,4147.65
+A0177,PE037,Friday,Fan Fest,No,0,7593,,20357.25
+A0178,PE037,Saturday,Official After Party,Yes,$125,496,Y,2907.7
+A0179,PE037,Day 2,VIP Meet & Greet,Y,$200,155,Yes,396.16
+A0180,PE038,WED,Press Conference,N,Free,1039,Yes,3147.81
+A0181,PE038,Thu,open workouts,FALSE,Free,4616,Y,30846.73
+A0182,PE038,FRI,Weigh-In,No,Free,7295,N,38575.25
+A0183,PE038,Day 3,fan festival,N,Free,20045,,71400.88
+A0184,PE038,Sat,After Party,TRUE,75,645,N,1449.97
+A0185,PE038,Thu,Meet and Greet,TRUE,150,116,Yes,431.22
+A0186,PE039,Wednesday,Presser,Free,Free,360,N,2465.67
+A0187,PE039,Thurs,Open Workout,N,,1272,N,8234.61
+A0188,PE039,Day 3,Weigh In,0,$0,1592,N,4610.78
+A0189,PE039,FRI,FanFest,FALSE,$0,5569,N,12491.97
+A0190,PE039,Saturday,Official After Party,Yes,75,743,Yes,2939.48
+A0191,PE039,Thursday,VIP M&G,Y,150,148,Yes,433.28
+A0192,PE040,Day 1,Final Press Conference,No,$0,,,3723.04
+A0193,PE040,Thu,Open Workout,Free,0,"4,574",No,17779.38
+A0194,PE040,Friday,Ceremonial Weigh-In,FALSE,0,6188,No,18004.83
+A0195,PE040,Friday,FanFest,Free,Free,"25,704",N,80392.08
+A0196,PE040,Day 4,Official After Party,Y,$100,370,Yes,2504.37
+A0197,PE040,Thursday,Meet and Greet,1,$250,87,No,409.96
+A0198,PE041,Wed,Final Press Conference,N,Free,354,,1229.97
+A0199,PE041,Thursday,Media Workout,0,Free,989,Yes,1417.34
+A0200,PE041,Fri,Ceremonial Weigh-In,0,0,1281,No,3398.35
+A0201,PE041,Day 3,fan festival,0,,2333,Y,5042.21
+A0202,PE041,Sat,Afterparty,Y,150,207,Yes,360.73
+A0203,PE042,Day 1,Presser,N,$0,589,No,4122.33
+A0204,PE042,Thurs,Media Workout,No,0,,No,17676.39
+A0205,PE042,Day 3,Weigh In,No,0,5677,No,39454.0
+A0206,PE042,Friday,fan festival,FALSE,0,4994,N,12224.14
+A0207,PE042,Fight Night,Afterparty,Yes,$125,435,,919.68
+A0208,PE042,Day 2,VIP M&G,TRUE,250,117,,815.83
+A0209,PE043,WED,Press Conference,Free,0,958,N,3187.43
+A0210,PE043,Thu,Open Workout,No,Free,2945,N,6282.02
+A0211,PE043,FRI,weigh-ins,N,$0,4938,N,12352.81
+A0212,PE043,Friday,FanFest,No,Free,,N,38404.22
+A0213,PE043,Saturday,Official After Party,Y,150,790,Y,4964.04
+A0214,PE043,Thursday,VIP M&G,Y,250,130,N,714.32
+A0215,PE044,Wednesday,Presser,0,Free,786,Yes,4245.88
+A0216,PE044,Thurs,open workouts,N,$0,"2,603",N,15908.51
+A0217,PE044,Fri,Weigh-In,FALSE,,3720,No,18015.52
+A0218,PE044,Friday,fan festival,No,Free,7337,,29004.05
+A0219,PE044,Saturday,Afterparty,Yes,$100,430,Yes,1779.33
+A0220,PE045,WED,Presser,No,$0,922,N,2593.96
+A0221,PE045,Thurs,open workouts,FALSE,,"2,568",Y,5779.82
+A0222,PE045,Friday,Weigh-In,N,0,"5,437",No,11161.72
+A0223,PE045,Day 3,FanFest,Free,0,11908,No,78562.88
+A0224,PE045,Sat,Official After Party,Yes,75,611,N,1415.59
+A0225,PE046,Day 1,Presser,0,$0,,,1587.25
+A0226,PE046,Thu,open workouts,0,0,807,N,3278.21
+A0227,PE046,Friday,Weigh In,Free,0,994,N,3331.33
+A0228,PE046,FRI,Fan Fest,Free,,1359,No,5185.18
+A0229,PE046,Fight Night,Afterparty,TRUE,150,325,Y,1090.02
+A0230,PE047,Wed,press conf,Free,Free,133,,244.63
+A0231,PE047,Thursday,Media Workout,N,Free,272,,984.94
+A0232,PE047,FRI,Weigh-In,Free,Free,877,,2772.93
+A0233,PE047,Friday,Fan Fest,N,,1276,N,5791.6
+A0234,PE047,Day 4,Afterparty,Y,150,277,Yes,418.31
+A0235,PE048,Wednesday,Final Press Conference,No,0,557,,2329.16
+A0236,PE048,Day 2,Open Workout,FALSE,$0,2786,Yes,18024.17
+A0237,PE048,Day 3,Weigh In,0,0,3675,,7605.52
+A0238,PE048,Friday,Fan Fest,No,Free,15116,No,103390.43
+A0239,PE048,Sat,After Party,Y,125,342,Y,1577.98
+A0240,PE048,Thursday,VIP Meet & Greet,1,150,149,Y,556.34
+A0241,PE049,Wed,Final Press Conference,No,Free,556,N,2576.83
+A0242,PE049,Thurs,Media Workout,0,$0,2648,Y,13791.9
+A0243,PE049,Fri,Weigh-In,N,,"5,230",N,25718.8
+A0244,PE049,FRI,fan festival,0,,9409,,60214.63
+A0245,PE049,Saturday,After Party,1,125,572,,1440.69
+A0246,PE050,WED,press conf,N,,423,Y,1573.96
+A0247,PE050,Day 2,Open Workout,FALSE,,903,Y,6069.5
+A0248,PE050,Friday,weigh-ins,Free,$0,1362,Y,4023.12
+A0249,PE050,Friday,Fan Fest,0,0,5663,N,35827.01
+A0250,PE050,Saturday,Official After Party,Yes,100,536,Yes,2300.02
+A0251,PE050,Thursday,VIP Meet & Greet,TRUE,200,96,Y,332.92
+A0252,PE051,WED,press conf,FALSE,$0,507,,1988.42
+A0253,PE051,Day 2,Open Workout,0,$0,"4,146",No,22043.39
+A0254,PE051,Day 3,Weigh In,No,$0,"7,756",N,35741.9
+A0255,PE051,Day 3,fan festival,No,0,10619,N,53032.22
+A0256,PE051,Fight Night,Official After Party,Yes,$150,875,No,4659.53
+A0257,PE051,Day 2,Meet and Greet,TRUE,$150,99,Yes,220.39

@@ -1,0 +1,511 @@
+Event_ID,Bout_Order,Fighter_A,Fighter_B,Weight_Class,Scheduled_Rounds,Purse_A,Purse_B,A_Is_Local,B_Is_Local,Total_Purse,Arrives,Corner_Size,Team_Hotel_Rate,Market,Card_Type,People_Traveling,Flights,Hotel,Per_Diem,Travel_Cost
+PE013,10,Andre Holloway,Tyrese Pruitt,Middleweight,8,25800.0,23000.0,False,False,48800.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE041,9,Terrell Banks,Rashad Chavez,Featherweight,8,4200.0,5100.0,True,True,9300.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE014,4,Nia Montoya,Devonte Brooks,Bantamweight,8,3800.0,9900.0,False,False,13700.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE018,6,Rashad Reyes,Miguel Padilla,Heavyweight,8,26100.0,17300.0,False,False,43400.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE008,3,Rashad Lattimore,Terrell Whitfield,Heavyweight,8,4200.0,11100.0,True,True,15300.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE022,5,Javier Holloway,Javier Holloway,Welterweight,6,8400.0,10800.0,True,False,19200.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE014,9,Devonte Vega,Marcus Grant,Super Middleweight,8,7500.0,7200.0,False,True,14700.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE034,4,Terrell Vega,Jalen Whitfield,Middleweight,6,11300.0,7300.0,False,False,18600.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE035,2,Keyana Dunbar,Hector Okafor,Light Heavyweight,10,47500.0,24800.0,True,False,72300.0,Tuesday,3,185.0,Philadelphia,Mid-sized,4,1800,1850.0,1200,4850.0
+PE001,9,Jalen Dunbar,Ramon Chavez,Super Middleweight,8,23400.0,8800.0,False,False,32200.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE008,1,Nia Okafor,Ramon Salazar,Super Lightweight,10,202200.0,117300.0,False,False,319500.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE048,3,Luis Castillo,Ximena Archuleta,Middleweight,10,10700.0,14700.0,False,False,25400.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE042,5,Marcus Vega,Brianna Whitfield,Bantamweight,6,15500.0,24000.0,True,False,39500.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE048,2,Malik Navarro,Brianna Salazar,Bantamweight,10,187900.0,130300.0,False,False,318200.0,Tuesday,3,210.0,Atlanta,Big,8,3600,4200.0,2400,10200.0
+PE051,6,Javier Navarro,Terrell Banks,Flyweight,4,14200.0,24000.0,False,False,38200.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE013,1,Ximena Castillo,Luis Navarro,Middleweight,12,2900000.0,734200.0,False,False,3634200.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE044,2,Xavier Mendoza,Luis Simms,Bantamweight,10,214500.0,138100.0,False,False,352600.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE047,4,Elijah Dunbar,Ramon Holloway,Bantamweight,8,4600.0,3500.0,True,False,8100.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE017,8,Carlos Archuleta,Terrell Pruitt,Bantamweight,8,7000.0,9800.0,False,False,16800.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE047,6,Ximena Simms,Darius Castillo,Light Heavyweight,8,3500.0,5600.0,False,False,9100.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE002,2,Omar Mendoza,Diego Brooks,Super Welterweight,10,68800.0,38800.0,False,False,107600.0,Tuesday,3,170.0,Texas,Mid-sized,8,3600,3400.0,2400,9400.0
+PE020,3,Angel Banks,Devonte Simms,Flyweight,8,9600.0,4300.0,True,False,13900.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE027,8,Andre Montoya,Andre Chavez,Flyweight,8,20300.0,17400.0,True,False,37700.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE009,10,Luis Vega,Tyrese Navarro,Super Lightweight,8,29000.0,13600.0,True,False,42600.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE048,1,Andre Fairley,Miguel Ortega,Super Middleweight,12,505600.0,294100.0,False,False,799700.0,Tuesday,3,210.0,Atlanta,Big,8,3600,4200.0,2400,10200.0
+PE026,2,Devonte Coleman,Darius Archuleta,Super Lightweight,10,52000.0,33300.0,False,False,85300.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE048,4,Jalen Simms,Angel Whitfield,Light Heavyweight,6,26300.0,16500.0,False,False,42800.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE023,9,Tyrese Fairley,Ramon Whitfield,Super Lightweight,8,11000.0,9200.0,False,False,20200.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE003,6,Ximena Brooks,Marcus Banks,Welterweight,8,28300.0,17400.0,False,False,45700.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE039,5,Isaiah Banks,Rashad Okafor,Super Middleweight,4,9200.0,15900.0,False,False,25100.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE036,7,Rashad Fairley,Darius Mendoza,Featherweight,8,28900.0,26700.0,False,False,55600.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE020,6,Elijah Holloway,Terrell Vega,Lightweight,8,11700.0,8300.0,True,True,20000.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE033,10,Tyrese Padilla,Keyana Ruiz,Super Middleweight,6,6600.0,4700.0,False,False,11300.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE051,5,Elijah Castillo,Rashad Mendoza,Super Lightweight,6,16900.0,12700.0,True,False,29600.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE026,7,Luis Reyes,Darius Dunbar,Super Middleweight,8,10700.0,6700.0,False,True,17400.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE049,4,Nia Padilla,Malik Ortega,Super Middleweight,6,17800.0,28300.0,False,False,46100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE036,2,Keyana Grant,Darius Fairley,Bantamweight,10,183600.0,135200.0,False,False,318800.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE036,6,Marcus Fairley,Devonte Dunbar,Flyweight,8,12000.0,14700.0,True,False,26700.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE039,3,Darius Brooks,Tyrese Salazar,Super Welterweight,4,8200.0,19200.0,False,False,27400.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE025,8,Tyrese Okafor,Brianna Lattimore,Light Heavyweight,4,9700.0,3100.0,False,False,12800.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE007,6,Miguel Holloway,Darius Whitfield,Super Lightweight,8,24800.0,13100.0,False,False,37900.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE043,1,Isaiah Ruiz,Marcus Whitfield,Featherweight,12,546800.0,219200.0,False,False,766000.0,Tuesday,3,210.0,Atlanta,Big,8,3600,4200.0,2400,10200.0
+PE034,8,Rashad Archuleta,Kofi Brooks,Bantamweight,10,5200.0,4600.0,False,True,9800.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE042,4,Malik Ruiz,Luis Reyes,Bantamweight,8,23200.0,20900.0,False,False,44100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE017,4,Malik Grant,Hector Montoya,Super Lightweight,10,5500.0,11200.0,True,True,16700.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE011,9,Hector Lattimore,Terrell Chavez,Featherweight,10,5400.0,10200.0,False,False,15600.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE023,2,Kofi Banks,Luis Lattimore,Super Middleweight,10,42400.0,27900.0,False,False,70300.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE033,7,Carlos Reyes,Kofi Mendoza,Super Welterweight,10,10700.0,3400.0,True,False,14100.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE042,1,Omar Coleman,Andre Mendoza,Middleweight,12,433800.0,263500.0,True,False,697300.0,Tuesday,3,220.0,Las Vegas,Big,4,1800,2200.0,1200,5200.0
+PE002,9,Elijah Dunbar,Miguel Holloway,Bantamweight,8,8400.0,9100.0,True,False,17500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE041,1,Javier Dunbar,Angel Banks,Middleweight,12,157200.0,104900.0,False,False,262100.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE022,1,Ramon Archuleta,Luis Whitfield,Middleweight,10,131600.0,74900.0,False,False,206500.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE028,9,Javier Fairley,Nia Ortega,Featherweight,8,4700.0,8400.0,False,True,13100.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE007,7,Keyana Holloway,Diego Coleman,Heavyweight,10,10600.0,25500.0,False,False,36100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE050,9,Tyrese Banks,Ramon Salazar,Welterweight,8,27600.0,17300.0,False,True,44900.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE011,3,Marcus Montoya,Hector Navarro,Lightweight,6,8200.0,11300.0,False,False,19500.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE022,3,Javier Ruiz,Kofi Fairley,Bantamweight,6,4700.0,7200.0,True,True,11900.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE005,8,Luis Banks,Elijah Ortega,Heavyweight,6,7300.0,10400.0,False,False,17700.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE015,5,Diego Padilla,Javier Grant,Featherweight,8,10400.0,15700.0,False,True,26100.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE040,10,Nia Okafor,Diego Coleman,Super Lightweight,4,27700.0,19500.0,True,False,47200.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE030,10,Darius Castillo,Nia Padilla,Middleweight,6,6100.0,5200.0,True,False,11300.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE025,6,Ximena Vega,Omar Grant,Bantamweight,8,10300.0,5900.0,False,True,16200.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE006,6,Miguel Pruitt,Diego Vega,Middleweight,10,8600.0,23500.0,False,False,32100.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE032,10,Ramon Navarro,Brianna Grant,Middleweight,6,10100.0,7900.0,True,False,18000.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE024,10,Keyana Navarro,Omar Simms,Lightweight,6,17900.0,28000.0,False,True,45900.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE031,5,Terrell Padilla,Kofi Okafor,Lightweight,8,9300.0,7700.0,True,False,17000.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE007,3,Carlos Ruiz,Terrell Mendoza,Light Heavyweight,6,8900.0,17300.0,True,False,26200.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE045,5,Diego Grant,Xavier Chavez,Bantamweight,10,11800.0,20000.0,False,True,31800.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE011,1,Ramon Mendoza,Brianna Chavez,Light Heavyweight,10,68700.0,31200.0,True,False,99900.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE040,6,Devonte Montoya,Carlos Salazar,Super Welterweight,6,25500.0,29900.0,True,False,55400.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE007,9,Ximena Simms,Keyana Fairley,Super Welterweight,6,10500.0,20000.0,True,False,30500.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE019,10,Kofi Reyes,Diego Vega,Featherweight,10,18600.0,28000.0,False,False,46600.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE033,1,Kofi Simms,Angel Banks,Lightweight,10,102500.0,42100.0,False,False,144600.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE015,3,Malik Salazar,Angel Grant,Welterweight,6,27600.0,26600.0,False,True,54200.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE026,4,Malik Coleman,Javier Salazar,Heavyweight,10,3400.0,3700.0,False,True,7100.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE049,10,Malik Dunbar,Carlos Simms,Heavyweight,6,12500.0,28000.0,False,False,40500.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE021,7,Andre Salazar,Omar Grant,Featherweight,4,6100.0,8700.0,False,False,14800.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE028,6,Marcus Pruitt,Rashad Montoya,Heavyweight,8,8600.0,6500.0,True,False,15100.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE001,7,Angel Ruiz,Rashad Vega,Middleweight,6,13900.0,12600.0,False,False,26500.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE007,4,Keyana Vega,Omar Pruitt,Middleweight,8,14300.0,9300.0,False,True,23600.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE029,7,Miguel Simms,Angel Salazar,Middleweight,8,3100.0,7600.0,True,False,10700.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE046,10,Luis Padilla,Luis Navarro,Lightweight,8,9000.0,10300.0,False,False,19300.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE007,5,Jalen Salazar,Luis Brooks,Super Middleweight,4,19500.0,27300.0,False,False,46800.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE043,6,Carlos Fairley,Tyrese Navarro,Lightweight,6,28300.0,12900.0,False,False,41200.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE033,5,Tyrese Holloway,Andre Mendoza,Middleweight,8,6100.0,5000.0,True,False,11100.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE019,1,Javier Coleman,Ximena Chavez,Heavyweight,12,426300.0,290600.0,True,False,716900.0,Tuesday,3,220.0,Las Vegas,Big,4,1800,2200.0,1200,5200.0
+PE048,6,Jalen Mendoza,Luis Simms,Lightweight,4,13700.0,28200.0,True,True,41900.0,Thursday,2,210.0,Atlanta,Big,0,0,0.0,0,0.0
+PE005,6,Jalen Whitfield,Nia Mendoza,Super Welterweight,10,9300.0,11100.0,True,False,20400.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE027,7,Angel Simms,Elijah Coleman,Heavyweight,6,22600.0,13500.0,False,False,36100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE009,1,Rashad Montoya,Devonte Vega,Featherweight,12,668200.0,410500.0,False,False,1078700.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE002,5,Keyana Coleman,Terrell Whitfield,Bantamweight,10,7000.0,10000.0,True,True,17000.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE043,2,Omar Chavez,Nia Castillo,Lightweight,10,211000.0,145400.0,True,False,356400.0,Tuesday,3,210.0,Atlanta,Big,4,1800,2100.0,1200,5100.0
+PE017,1,Devonte Castillo,Javier Ortega,Bantamweight,10,100000.0,53300.0,False,False,153300.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE011,7,Nia Simms,Malik Reyes,Welterweight,6,11100.0,3500.0,True,True,14600.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE049,6,Devonte Simms,Diego Banks,Light Heavyweight,8,21200.0,13300.0,False,False,34500.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE044,3,Isaiah Archuleta,Angel Pruitt,Super Welterweight,10,8300.0,12600.0,True,False,20900.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE043,4,Devonte Mendoza,Hector Brooks,Super Middleweight,4,23800.0,18900.0,False,True,42700.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE051,2,Elijah Brooks,Isaiah Brooks,Featherweight,10,129200.0,70900.0,True,False,200100.0,Tuesday,3,260.0,New York,Big,4,1800,2600.0,1200,5600.0
+PE021,1,Ximena Mendoza,Javier Simms,Super Lightweight,12,214300.0,131400.0,True,False,345700.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE025,9,Malik Ruiz,Malik Montoya,Super Lightweight,6,7000.0,5500.0,False,False,12500.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE014,5,Carlos Fairley,Isaiah Banks,Lightweight,6,8000.0,8400.0,False,False,16400.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE033,8,Tyrese Ruiz,Malik Montoya,Bantamweight,8,4900.0,4200.0,False,False,9100.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE011,4,Terrell Whitfield,Malik Castillo,Featherweight,6,9300.0,6200.0,True,False,15500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE044,9,Darius Ortega,Darius Simms,Super Lightweight,4,25800.0,8400.0,False,True,34200.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE034,10,Omar Fairley,Brianna Ortega,Bantamweight,8,6000.0,9600.0,False,False,15600.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE017,10,Diego Okafor,Ramon Padilla,Featherweight,8,6900.0,8500.0,True,False,15400.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE016,3,Rashad Lattimore,Brianna Chavez,Middleweight,8,7500.0,9600.0,True,True,17100.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE014,10,Kofi Coleman,Luis Lattimore,Light Heavyweight,6,5100.0,8100.0,False,False,13200.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE012,8,Elijah Dunbar,Hector Chavez,Heavyweight,4,7000.0,11800.0,True,True,18800.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE016,10,Devonte Salazar,Jalen Lattimore,Heavyweight,8,10200.0,10000.0,False,True,20200.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE035,8,Jalen Whitfield,Luis Whitfield,Light Heavyweight,4,4500.0,11400.0,True,False,15900.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE025,2,Terrell Ortega,Isaiah Holloway,Super Welterweight,10,25100.0,18100.0,False,True,43200.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE037,2,Malik Lattimore,Isaiah Lattimore,Featherweight,10,167100.0,93400.0,False,False,260500.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE038,10,Ramon Brooks,Isaiah Vega,Light Heavyweight,10,28300.0,26900.0,False,False,55200.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE022,7,Angel Brooks,Carlos Brooks,Middleweight,6,11700.0,10500.0,False,False,22200.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE023,1,Keyana Fairley,Ramon Holloway,Light Heavyweight,12,152900.0,62900.0,True,False,215800.0,Tuesday,3,190.0,DMV,Mid-sized,4,1800,1900.0,1200,4900.0
+PE002,4,Javier Reyes,Kofi Lattimore,Lightweight,6,6300.0,9200.0,True,False,15500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE031,1,Tyrese Reyes,Ramon Vega,Super Lightweight,10,99400.0,57200.0,True,False,156600.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE027,6,Brianna Ortega,Darius Holloway,Featherweight,10,8300.0,11800.0,True,False,20100.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE013,4,Javier Chavez,Jalen Chavez,Light Heavyweight,8,29400.0,13300.0,False,False,42700.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE010,3,Devonte Okafor,Rashad Padilla,Lightweight,6,13100.0,19600.0,False,False,32700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE024,9,Keyana Holloway,Javier Reyes,Middleweight,8,19000.0,29000.0,False,False,48000.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE021,4,Kofi Archuleta,Ramon Pruitt,Light Heavyweight,10,5000.0,9400.0,True,False,14400.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE029,8,Jalen Archuleta,Marcus Grant,Featherweight,4,3600.0,11700.0,False,True,15300.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE013,5,Miguel Navarro,Rashad Dunbar,Light Heavyweight,8,18700.0,15200.0,True,False,33900.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE027,2,Jalen Fairley,Malik Castillo,Bantamweight,10,197700.0,121000.0,False,False,318700.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE030,9,Marcus Castillo,Nia Vega,Middleweight,10,8300.0,8400.0,True,False,16700.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE051,9,Rashad Whitfield,Tyrese Okafor,Middleweight,10,23000.0,9300.0,False,True,32300.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE028,3,Darius Reyes,Angel Padilla,Bantamweight,8,5900.0,9900.0,True,False,15800.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE007,2,Elijah Dunbar,Angel Salazar,Super Middleweight,10,145300.0,77000.0,False,False,222300.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE008,7,Isaiah Brooks,Ramon Okafor,Bantamweight,8,10200.0,7300.0,True,True,17500.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE012,4,Miguel Holloway,Carlos Okafor,Heavyweight,4,3500.0,11500.0,True,False,15000.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE045,6,Malik Whitfield,Miguel Coleman,Featherweight,6,12400.0,28800.0,False,False,41200.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE039,1,Kofi Grant,Angel Brooks,Bantamweight,12,496200.0,230600.0,False,True,726800.0,Tuesday,3,260.0,New York,Big,4,1800,2600.0,1200,5600.0
+PE026,8,Marcus Reyes,Andre Holloway,Welterweight,10,6600.0,11600.0,False,True,18200.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE037,6,Terrell Fairley,Darius Holloway,Super Middleweight,8,23400.0,27500.0,False,True,50900.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE050,8,Tyrese Okafor,Miguel Holloway,Light Heavyweight,10,21500.0,22900.0,True,False,44400.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE004,4,Ramon Banks,Rashad Okafor,Super Welterweight,8,10300.0,8200.0,True,True,18500.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE027,9,Isaiah Montoya,Miguel Coleman,Middleweight,8,23800.0,20400.0,True,False,44200.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE025,5,Brianna Okafor,Keyana Brooks,Featherweight,10,9800.0,7900.0,True,True,17700.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE003,5,Javier Ruiz,Marcus Holloway,Super Lightweight,8,12400.0,28000.0,True,True,40400.0,Thursday,2,210.0,Atlanta,Big,0,0,0.0,0,0.0
+PE041,8,Isaiah Pruitt,Isaiah Simms,Bantamweight,8,3800.0,9200.0,True,False,13000.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE049,8,Tyrese Ruiz,Malik Montoya,Lightweight,6,26200.0,27100.0,False,False,53300.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE020,8,Javier Whitfield,Kofi Padilla,Flyweight,4,4600.0,11200.0,True,False,15800.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE023,10,Ramon Fairley,Luis Grant,Light Heavyweight,10,3300.0,9400.0,False,False,12700.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE016,5,Jalen Okafor,Omar Reyes,Welterweight,4,8400.0,9000.0,True,False,17400.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE009,3,Terrell Montoya,Malik Holloway,Middleweight,8,10600.0,11300.0,True,True,21900.0,Thursday,2,260.0,New York,Big,0,0,0.0,0,0.0
+PE029,10,Marcus Mendoza,Hector Grant,Light Heavyweight,8,5300.0,5700.0,True,False,11000.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE041,2,Hector Castillo,Angel Lattimore,Welterweight,10,27700.0,19000.0,False,False,46700.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE041,10,Marcus Grant,Darius Ortega,Middleweight,4,10100.0,10500.0,False,False,20600.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE050,2,Devonte Archuleta,Nia Ruiz,Super Lightweight,10,272500.0,169900.0,True,False,442400.0,Tuesday,3,220.0,Las Vegas,Big,4,1800,2200.0,1200,5200.0
+PE027,10,Miguel Okafor,Keyana Whitfield,Flyweight,8,17700.0,10000.0,False,False,27700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE039,7,Kofi Vega,Jalen Simms,Super Welterweight,4,21900.0,28900.0,False,False,50800.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE016,8,Rashad Vega,Miguel Reyes,Middleweight,8,9100.0,10600.0,False,False,19700.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE019,5,Carlos Dunbar,Andre Grant,Super Welterweight,4,16600.0,12500.0,True,False,29100.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE021,3,Carlos Castillo,Diego Dunbar,Super Middleweight,6,11200.0,7100.0,True,False,18300.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE046,8,Diego Dunbar,Luis Banks,Flyweight,10,6000.0,9300.0,False,False,15300.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE019,9,Angel Ortega,Elijah Fairley,Featherweight,4,12300.0,23000.0,True,False,35300.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE036,1,Omar Chavez,Jalen Ruiz,Super Lightweight,12,2980000.0,857100.0,False,False,3837100.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE016,4,Angel Ruiz,Marcus Salazar,Flyweight,8,3100.0,6500.0,False,False,9600.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE004,10,Kofi Ortega,Marcus Salazar,Heavyweight,4,9700.0,9200.0,False,True,18900.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE045,1,Xavier Brooks,Ramon Salazar,Heavyweight,12,2880000.0,817900.0,False,False,3697900.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE009,5,Elijah Navarro,Ramon Chavez,Super Middleweight,8,9500.0,23000.0,False,True,32500.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE021,10,Jalen Mendoza,Rashad Grant,Welterweight,4,8100.0,6100.0,True,True,14200.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE048,8,Tyrese Padilla,Elijah Archuleta,Light Heavyweight,6,14800.0,23600.0,True,True,38400.0,Thursday,2,210.0,Atlanta,Big,0,0,0.0,0,0.0
+PE004,5,Andre Coleman,Elijah Holloway,Super Middleweight,4,8300.0,11200.0,True,False,19500.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE028,7,Devonte Montoya,Angel Lattimore,Super Welterweight,8,11800.0,5800.0,True,False,17600.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE017,7,Andre Mendoza,Ramon Dunbar,Heavyweight,8,10500.0,11300.0,False,True,21800.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE051,8,Miguel Fairley,Xavier Brooks,Lightweight,10,29600.0,24200.0,True,False,53800.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE028,2,Elijah Vega,Diego Okafor,Bantamweight,10,40900.0,28900.0,False,False,69800.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE017,3,Nia Archuleta,Elijah Vega,Heavyweight,4,5100.0,7600.0,True,False,12700.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE035,7,Carlos Fairley,Kofi Mendoza,Bantamweight,8,8400.0,8200.0,True,True,16600.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE030,6,Hector Ortega,Omar Castillo,Featherweight,10,6600.0,10900.0,True,False,17500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE038,6,Rashad Fairley,Hector Holloway,Bantamweight,10,16300.0,17200.0,False,False,33500.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE021,6,Diego Holloway,Ramon Coleman,Welterweight,6,10800.0,7300.0,True,False,18100.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE045,9,Isaiah Okafor,Hector Brooks,Super Middleweight,8,8500.0,24900.0,False,False,33400.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE044,1,Omar Padilla,Diego Ortega,Super Lightweight,12,2377700.0,382600.0,False,False,2760300.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE033,4,Rashad Salazar,Malik Navarro,Middleweight,8,6600.0,8900.0,False,False,15500.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE040,9,Brianna Chavez,Devonte Holloway,Heavyweight,8,19200.0,14500.0,False,False,33700.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE005,4,Andre Chavez,Malik Archuleta,Lightweight,10,11300.0,3700.0,True,False,15000.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE005,3,Brianna Salazar,Keyana Banks,Super Middleweight,6,4400.0,11400.0,False,False,15800.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE018,3,Carlos Dunbar,Ximena Salazar,Middleweight,10,10900.0,8000.0,True,False,18900.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE036,8,Nia Reyes,Luis Holloway,Super Middleweight,10,25500.0,28200.0,True,False,53700.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE039,4,Luis Lattimore,Terrell Mendoza,Featherweight,4,13600.0,17700.0,False,False,31300.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE009,4,Nia Whitfield,Tyrese Whitfield,Welterweight,8,10200.0,12100.0,True,False,22300.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE043,8,Brianna Coleman,Terrell Vega,Featherweight,8,21200.0,21600.0,False,False,42800.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE018,1,Diego Holloway,Tyrese Grant,Heavyweight,12,670500.0,433400.0,True,False,1103900.0,Tuesday,3,260.0,New York,Big,4,1800,2600.0,1200,5600.0
+PE011,6,Luis Castillo,Andre Banks,Heavyweight,4,11500.0,6000.0,False,False,17500.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE023,7,Hector Brooks,Jalen Lattimore,Light Heavyweight,8,8200.0,11500.0,True,False,19700.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE015,1,Devonte Banks,Angel Simms,Super Welterweight,12,2609600.0,530500.0,False,False,3140100.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE040,3,Kofi Coleman,Rashad Salazar,Heavyweight,6,25300.0,23500.0,False,False,48800.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE048,7,Carlos Montoya,Darius Archuleta,Super Welterweight,8,29300.0,21900.0,False,False,51200.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE015,7,Kofi Ruiz,Miguel Montoya,Flyweight,8,28600.0,10500.0,False,False,39100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE038,3,Tyrese Fairley,Malik Castillo,Super Lightweight,8,27300.0,11600.0,True,True,38900.0,Thursday,2,260.0,New York,Big,0,0,0.0,0,0.0
+PE040,8,Jalen Fairley,Isaiah Brooks,Bantamweight,8,17300.0,25100.0,True,False,42400.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE026,5,Miguel Reyes,Darius Mendoza,Middleweight,4,8100.0,6600.0,False,False,14700.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE047,9,Kofi Reyes,Hector Salazar,Featherweight,6,8300.0,8400.0,False,False,16700.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE040,2,Javier Whitfield,Elijah Chavez,Lightweight,10,260400.0,140700.0,False,False,401100.0,Tuesday,3,210.0,Atlanta,Big,8,3600,4200.0,2400,10200.0
+PE010,7,Brianna Brooks,Diego Castillo,Super Lightweight,8,14600.0,28200.0,True,False,42800.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE001,2,Xavier Salazar,Luis Castillo,Super Lightweight,10,227500.0,139000.0,False,False,366500.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE022,2,Xavier Simms,Rashad Lattimore,Featherweight,10,38000.0,30200.0,False,False,68200.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE031,4,Rashad Banks,Xavier Whitfield,Welterweight,8,11100.0,6800.0,False,False,17900.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE032,5,Malik Reyes,Andre Banks,Light Heavyweight,6,6500.0,8800.0,False,True,15300.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE035,1,Ramon Salazar,Carlos Montoya,Featherweight,10,98300.0,51300.0,True,False,149600.0,Tuesday,3,185.0,Philadelphia,Mid-sized,4,1800,1850.0,1200,4850.0
+PE020,2,Javier Reyes,Marcus Okafor,Super Lightweight,10,26600.0,19100.0,False,False,45700.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE023,6,Isaiah Lattimore,Devonte Simms,Super Welterweight,8,11300.0,11400.0,True,False,22700.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE047,7,Brianna Whitfield,Miguel Archuleta,Super Welterweight,4,10100.0,6700.0,True,False,16800.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE038,7,Darius Mendoza,Omar Vega,Flyweight,10,27300.0,18100.0,False,False,45400.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE007,1,Omar Banks,Angel Salazar,Middleweight,12,1886700.0,561900.0,True,False,2448600.0,Tuesday,3,220.0,Las Vegas,Big,4,1800,2200.0,1200,5200.0
+PE020,4,Malik Salazar,Malik Mendoza,Heavyweight,10,11400.0,9700.0,True,False,21100.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE002,3,Keyana Ruiz,Kofi Lattimore,Bantamweight,4,4300.0,11800.0,False,False,16100.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE033,6,Andre Ruiz,Terrell Navarro,Super Welterweight,4,4400.0,6700.0,False,False,11100.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE048,5,Omar Mendoza,Elijah Coleman,Light Heavyweight,10,26900.0,24000.0,False,False,50900.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE037,5,Isaiah Simms,Ximena Coleman,Featherweight,8,21100.0,24000.0,False,False,45100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE036,5,Ximena Ortega,Rashad Pruitt,Super Lightweight,8,10700.0,25800.0,False,False,36500.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE022,10,Isaiah Simms,Isaiah Ortega,Super Lightweight,6,6300.0,10100.0,True,False,16400.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE015,8,Jalen Okafor,Malik Holloway,Welterweight,6,20300.0,29400.0,False,False,49700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE049,9,Ximena Ortega,Jalen Holloway,Lightweight,10,20000.0,13300.0,False,True,33300.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE024,3,Luis Simms,Tyrese Dunbar,Super Middleweight,6,11700.0,18500.0,False,False,30200.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE027,3,Xavier Banks,Angel Fairley,Super Welterweight,8,19800.0,24200.0,False,False,44000.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE013,9,Javier Coleman,Andre Mendoza,Middleweight,4,18100.0,28300.0,True,True,46400.0,Thursday,2,260.0,New York,Big,0,0,0.0,0,0.0
+PE042,2,Marcus Montoya,Hector Grant,Middleweight,10,223600.0,158700.0,False,False,382300.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE018,4,Carlos Montoya,Marcus Fairley,Super Welterweight,8,13100.0,8100.0,False,True,21200.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE004,9,Xavier Holloway,Kofi Ruiz,Featherweight,10,4900.0,5300.0,False,True,10200.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE031,8,Miguel Vega,Angel Ruiz,Heavyweight,4,4700.0,10700.0,True,False,15400.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE022,4,Darius Grant,Omar Castillo,Light Heavyweight,4,7300.0,11500.0,True,True,18800.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE041,6,Ximena Fairley,Javier Archuleta,Heavyweight,8,11900.0,5700.0,False,False,17600.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE041,7,Ramon Fairley,Elijah Ortega,Middleweight,4,5100.0,11200.0,True,False,16300.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE036,9,Nia Mendoza,Elijah Grant,Light Heavyweight,6,10900.0,27400.0,True,False,38300.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE010,4,Xavier Whitfield,Ximena Brooks,Super Welterweight,8,11000.0,25000.0,True,False,36000.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE047,10,Diego Vega,Malik Banks,Super Welterweight,10,6800.0,10000.0,False,False,16800.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE041,4,Rashad Brooks,Ramon Whitfield,Heavyweight,10,8500.0,3800.0,False,False,12300.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE028,5,Devonte Padilla,Elijah Brooks,Lightweight,6,3100.0,8700.0,True,False,11800.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE032,1,Xavier Archuleta,Keyana Fairley,Heavyweight,12,337100.0,157900.0,False,False,495000.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE009,9,Elijah Lattimore,Angel Mendoza,Super Lightweight,10,18300.0,10900.0,False,True,29200.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE035,3,Xavier Ruiz,Rashad Okafor,Super Lightweight,4,4600.0,7000.0,True,False,11600.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE012,3,Carlos Whitfield,Ramon Banks,Middleweight,10,9600.0,7200.0,True,False,16800.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE046,4,Terrell Simms,Omar Navarro,Super Middleweight,4,8300.0,3400.0,True,True,11700.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE051,4,Omar Salazar,Miguel Mendoza,Super Middleweight,10,29700.0,9400.0,False,False,39100.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE031,2,Andre Padilla,Isaiah Reyes,Super Lightweight,10,29300.0,19100.0,True,False,48400.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE038,5,Javier Ortega,Devonte Padilla,Lightweight,8,20000.0,9700.0,False,False,29700.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE005,7,Miguel Mendoza,Keyana Mendoza,Super Lightweight,6,11000.0,7000.0,True,False,18000.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE028,1,Tyrese Archuleta,Carlos Banks,Featherweight,10,105100.0,47300.0,True,False,152400.0,Tuesday,3,185.0,Philadelphia,Mid-sized,4,1800,1850.0,1200,4850.0
+PE042,9,Andre Okafor,Ximena Banks,Welterweight,6,18800.0,8300.0,False,False,27100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE011,5,Jalen Holloway,Elijah Ruiz,Bantamweight,8,11500.0,3600.0,False,False,15100.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE034,3,Devonte Pruitt,Angel Coleman,Super Middleweight,8,7200.0,4200.0,True,False,11400.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE014,1,Angel Brooks,Marcus Simms,Welterweight,12,248900.0,165900.0,False,False,414800.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE008,2,Isaiah Holloway,Carlos Dunbar,Super Welterweight,10,49800.0,33000.0,False,True,82800.0,Tuesday,3,190.0,DMV,Mid-sized,4,1800,1900.0,1200,4900.0
+PE051,1,Ramon Vega,Brianna Banks,Super Lightweight,12,1519200.0,312800.0,True,False,1832000.0,Tuesday,3,260.0,New York,Big,4,1800,2600.0,1200,5600.0
+PE019,7,Jalen Salazar,Diego Castillo,Super Middleweight,8,22300.0,19400.0,False,False,41700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE010,10,Angel Mendoza,Miguel Dunbar,Heavyweight,8,28900.0,25500.0,True,True,54400.0,Thursday,2,220.0,Las Vegas,Big,0,0,0.0,0,0.0
+PE051,3,Tyrese Archuleta,Angel Whitfield,Featherweight,8,25000.0,10900.0,True,False,35900.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE045,4,Luis Dunbar,Marcus Montoya,Lightweight,6,11500.0,28200.0,True,False,39700.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE029,3,Diego Navarro,Malik Salazar,Middleweight,8,5900.0,9500.0,True,False,15400.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE040,5,Elijah Archuleta,Jalen Dunbar,Super Lightweight,8,26500.0,13200.0,False,True,39700.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE043,5,Omar Okafor,Omar Navarro,Heavyweight,8,16400.0,25800.0,False,False,42200.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE038,8,Keyana Castillo,Darius Fairley,Heavyweight,8,9000.0,25600.0,False,False,34600.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE012,1,Isaiah Salazar,Isaiah Okafor,Featherweight,10,122200.0,71900.0,False,False,194100.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE014,8,Marcus Dunbar,Ximena Simms,Flyweight,4,3400.0,10500.0,False,False,13900.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE002,7,Andre Banks,Carlos Salazar,Super Welterweight,6,9400.0,7100.0,True,False,16500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE032,8,Marcus Ortega,Miguel Ortega,Super Middleweight,10,5600.0,5500.0,True,False,11100.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE031,3,Ximena Chavez,Rashad Salazar,Welterweight,8,5100.0,8600.0,False,False,13700.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE010,2,Angel Coleman,Nia Grant,Welterweight,10,290800.0,190500.0,True,False,481300.0,Tuesday,3,220.0,Las Vegas,Big,4,1800,2200.0,1200,5200.0
+PE011,2,Brianna Vega,Xavier Archuleta,Light Heavyweight,10,42200.0,23400.0,True,False,65600.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE021,5,Xavier Fairley,Hector Simms,Light Heavyweight,8,3600.0,9700.0,False,False,13300.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE046,2,Darius Chavez,Isaiah Navarro,Lightweight,10,47200.0,31800.0,False,False,79000.0,Tuesday,3,170.0,Texas,Mid-sized,8,3600,3400.0,2400,9400.0
+PE002,8,Tyrese Vega,Ramon Ortega,Middleweight,10,5300.0,6200.0,False,True,11500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE003,1,Luis Reyes,Brianna Whitfield,Featherweight,12,676400.0,379900.0,False,False,1056300.0,Tuesday,3,210.0,Atlanta,Big,8,3600,4200.0,2400,10200.0
+PE027,4,Xavier Whitfield,Miguel Holloway,Light Heavyweight,8,9400.0,22500.0,False,False,31900.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE037,4,Hector Brooks,Malik Fairley,Middleweight,6,24900.0,23100.0,False,False,48000.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE048,10,Elijah Dunbar,Rashad Ortega,Featherweight,6,10800.0,19300.0,True,False,30100.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE044,8,Hector Montoya,Miguel Mendoza,Super Middleweight,8,16600.0,13200.0,True,False,29800.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE035,10,Brianna Holloway,Hector Mendoza,Light Heavyweight,8,6700.0,8100.0,False,False,14800.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE007,10,Elijah Reyes,Devonte Padilla,Welterweight,6,20900.0,14500.0,False,True,35400.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE023,4,Devonte Navarro,Rashad Padilla,Super Middleweight,8,7700.0,11000.0,True,False,18700.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE035,6,Malik Fairley,Tyrese Padilla,Super Lightweight,6,10700.0,8500.0,False,False,19200.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE035,5,Ximena Lattimore,Omar Archuleta,Super Lightweight,4,4500.0,11800.0,False,False,16300.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE034,7,Ximena Fairley,Omar Brooks,Light Heavyweight,8,6200.0,3300.0,True,False,9500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE029,1,Elijah Ortega,Diego Ortega,Super Lightweight,12,162400.0,112500.0,False,True,274900.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE019,3,Devonte Lattimore,Elijah Montoya,Super Middleweight,4,29700.0,13000.0,False,False,42700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE049,1,Keyana Lattimore,Miguel Okafor,Welterweight,12,721600.0,302400.0,True,False,1024000.0,Tuesday,3,220.0,Las Vegas,Big,4,1800,2200.0,1200,5200.0
+PE019,6,Carlos Banks,Elijah Pruitt,Lightweight,10,28000.0,19100.0,True,False,47100.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE030,1,Angel Ortega,Malik Grant,Welterweight,12,318600.0,157600.0,False,False,476200.0,Tuesday,3,170.0,Texas,Mid-sized,8,3600,3400.0,2400,9400.0
+PE014,3,Rashad Simms,Marcus Fairley,Bantamweight,6,11200.0,7300.0,False,True,18500.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE051,10,Ramon Chavez,Devonte Grant,Super Middleweight,8,13200.0,27000.0,True,True,40200.0,Thursday,2,260.0,New York,Big,0,0,0.0,0,0.0
+PE018,8,Devonte Salazar,Carlos Mendoza,Light Heavyweight,4,15700.0,23900.0,False,True,39600.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE032,3,Hector Castillo,Luis Whitfield,Super Welterweight,10,11600.0,9600.0,True,False,21200.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE049,2,Angel Mendoza,Devonte Grant,Super Middleweight,10,185300.0,127700.0,False,True,313000.0,Tuesday,3,220.0,Las Vegas,Big,4,1800,2200.0,1200,5200.0
+PE040,7,Darius Navarro,Brianna Okafor,Welterweight,6,17500.0,22200.0,False,True,39700.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE002,10,Angel Montoya,Keyana Dunbar,Super Lightweight,10,6000.0,6000.0,False,False,12000.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE005,9,Luis Okafor,Carlos Salazar,Super Lightweight,10,9900.0,4200.0,True,False,14100.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE034,9,Ximena Whitfield,Keyana Fairley,Featherweight,6,10000.0,8300.0,True,False,18300.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE047,1,Ramon Ruiz,Omar Ortega,Super Lightweight,10,340400.0,174100.0,False,False,514500.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE041,5,Ramon Ortega,Isaiah Lattimore,Super Middleweight,8,10800.0,3400.0,True,True,14200.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE012,7,Hector Ruiz,Brianna Coleman,Heavyweight,6,10100.0,10600.0,True,True,20700.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE037,9,Terrell Lattimore,Terrell Banks,Light Heavyweight,8,16100.0,28300.0,False,False,44400.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE024,6,Ximena Lattimore,Javier Grant,Light Heavyweight,10,26400.0,15700.0,False,False,42100.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE029,6,Carlos Mendoza,Devonte Simms,Super Welterweight,8,4200.0,3100.0,True,False,7300.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE050,7,Kofi Coleman,Nia Ortega,Welterweight,8,26900.0,12700.0,False,False,39600.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE042,8,Malik Grant,Rashad Padilla,Super Lightweight,8,10600.0,14700.0,False,True,25300.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE025,7,Nia Ortega,Xavier Archuleta,Bantamweight,8,9900.0,11200.0,True,True,21100.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE035,9,Jalen Vega,Brianna Brooks,Super Middleweight,10,5300.0,11200.0,True,False,16500.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE012,2,Devonte Whitfield,Luis Ortega,Featherweight,10,46200.0,27500.0,False,False,73700.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE049,7,Brianna Ruiz,Malik Vega,Super Lightweight,4,20500.0,17400.0,True,False,37900.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE034,5,Ramon Mendoza,Kofi Holloway,Super Middleweight,6,6600.0,9000.0,False,True,15600.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE004,8,Hector Navarro,Kofi Salazar,Super Middleweight,8,3400.0,9800.0,False,False,13200.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE012,9,Keyana Vega,Andre Ortega,Super Welterweight,8,11200.0,3700.0,True,False,14900.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE028,8,Ximena Ruiz,Carlos Reyes,Light Heavyweight,8,5200.0,9900.0,True,True,15100.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE024,4,Malik Montoya,Miguel Holloway,Light Heavyweight,8,26800.0,18800.0,False,False,45600.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE003,4,Angel Pruitt,Carlos Pruitt,Flyweight,8,21000.0,23000.0,False,False,44000.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE026,9,Miguel Padilla,Ximena Chavez,Featherweight,10,11100.0,10300.0,True,False,21400.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE031,10,Luis Dunbar,Omar Mendoza,Flyweight,8,6300.0,10000.0,False,True,16300.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE010,1,Javier Fairley,Tyrese Dunbar,Heavyweight,12,1640900.0,382000.0,False,False,2022900.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE003,9,Kofi Padilla,Darius Ruiz,Featherweight,8,8500.0,23800.0,False,False,32300.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE004,6,Xavier Brooks,Jalen Montoya,Super Lightweight,6,10000.0,3200.0,True,False,13200.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE046,9,Keyana Castillo,Xavier Banks,Lightweight,8,3500.0,9400.0,False,False,12900.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE047,3,Isaiah Dunbar,Omar Pruitt,Light Heavyweight,8,11000.0,9300.0,False,True,20300.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE037,3,Andre Mendoza,Terrell Montoya,Lightweight,6,25100.0,10300.0,True,False,35400.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE018,9,Elijah Vega,Diego Padilla,Super Welterweight,10,28900.0,21000.0,False,False,49900.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE009,2,Nia Whitfield,Ramon Grant,Bantamweight,10,223100.0,148100.0,False,False,371200.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE006,8,Marcus Brooks,Xavier Navarro,Middleweight,8,27700.0,14800.0,False,False,42500.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE044,6,Carlos Montoya,Keyana Lattimore,Super Lightweight,10,22000.0,15000.0,False,False,37000.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE013,2,Nia Whitfield,Tyrese Chavez,Light Heavyweight,10,208900.0,133300.0,True,False,342200.0,Tuesday,3,260.0,New York,Big,4,1800,2600.0,1200,5600.0
+PE003,7,Darius Lattimore,Miguel Holloway,Heavyweight,10,11800.0,9100.0,True,False,20900.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE025,3,Devonte Ruiz,Javier Chavez,Heavyweight,4,6400.0,10100.0,False,False,16500.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE039,6,Carlos Pruitt,Keyana Grant,Lightweight,4,14500.0,19300.0,False,False,33800.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE001,5,Kofi Montoya,Hector Ortega,Flyweight,4,25800.0,13400.0,True,False,39200.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE031,6,Omar Brooks,Luis Simms,Featherweight,6,6800.0,11600.0,False,True,18400.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE008,8,Carlos Chavez,Carlos Holloway,Middleweight,8,3400.0,5600.0,True,False,9000.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE046,5,Rashad Mendoza,Luis Navarro,Super Middleweight,10,9600.0,6000.0,False,False,15600.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE029,4,Tyrese Chavez,Tyrese Coleman,Heavyweight,10,3700.0,7700.0,True,False,11400.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE014,6,Elijah Simms,Tyrese Castillo,Welterweight,8,8100.0,10300.0,False,True,18400.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE032,9,Darius Dunbar,Keyana Vega,Light Heavyweight,8,11600.0,4800.0,False,True,16400.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE022,9,Brianna Navarro,Ximena Navarro,Bantamweight,6,3500.0,9500.0,True,False,13000.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE044,4,Elijah Fairley,Marcus Grant,Super Middleweight,8,13800.0,16700.0,False,False,30500.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE039,10,Ximena Ortega,Omar Ruiz,Middleweight,6,15300.0,21200.0,False,True,36500.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE050,6,Diego Okafor,Omar Vega,Featherweight,4,24000.0,29300.0,True,False,53300.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE042,6,Marcus Navarro,Ramon Archuleta,Light Heavyweight,6,21800.0,28000.0,True,True,49800.0,Thursday,2,220.0,Las Vegas,Big,0,0,0.0,0,0.0
+PE016,6,Kofi Lattimore,Malik Navarro,Flyweight,8,9600.0,5500.0,False,True,15100.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE025,10,Luis Dunbar,Xavier Banks,Heavyweight,6,10800.0,4000.0,False,False,14800.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE029,5,Devonte Padilla,Jalen Fairley,Heavyweight,6,11500.0,10900.0,True,True,22400.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE045,8,Omar Salazar,Jalen Mendoza,Flyweight,8,28600.0,9200.0,False,False,37800.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE023,8,Tyrese Castillo,Tyrese Navarro,Flyweight,10,7400.0,6600.0,False,True,14000.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE037,8,Terrell Navarro,Tyrese Archuleta,Heavyweight,8,16000.0,27800.0,False,False,43800.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE001,3,Rashad Chavez,Marcus Padilla,Heavyweight,8,29700.0,27400.0,True,False,57100.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE004,7,Ramon Dunbar,Xavier Ortega,Heavyweight,8,8800.0,9000.0,True,False,17800.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE003,10,Elijah Whitfield,Brianna Navarro,Super Middleweight,6,19000.0,25500.0,True,False,44500.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE037,10,Carlos Montoya,Angel Holloway,Light Heavyweight,10,22100.0,11600.0,False,False,33700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE001,6,Nia Reyes,Keyana Archuleta,Super Middleweight,6,14800.0,27400.0,False,True,42200.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE030,4,Kofi Okafor,Devonte Okafor,Bantamweight,4,7700.0,3800.0,True,False,11500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE029,2,Xavier Brooks,Hector Okafor,Super Middleweight,10,47800.0,35400.0,False,False,83200.0,Tuesday,3,170.0,Texas,Mid-sized,8,3600,3400.0,2400,9400.0
+PE004,3,Malik Coleman,Angel Pruitt,Super Middleweight,8,10200.0,7200.0,False,False,17400.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE012,6,Keyana Banks,Keyana Ruiz,Lightweight,8,9800.0,7800.0,False,False,17600.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE016,7,Isaiah Lattimore,Carlos Chavez,Middleweight,8,4600.0,11000.0,True,False,15600.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE038,9,Keyana Brooks,Isaiah Coleman,Light Heavyweight,6,21700.0,22500.0,False,True,44200.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE037,7,Darius Whitfield,Miguel Ruiz,Bantamweight,10,17500.0,14300.0,True,False,31800.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE046,1,Darius Coleman,Angel Archuleta,Super Middleweight,10,104400.0,48800.0,True,False,153200.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE047,2,Terrell Lattimore,Kofi Grant,Flyweight,10,53700.0,35400.0,False,False,89100.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE008,5,Elijah Grant,Xavier Vega,Heavyweight,8,8600.0,4400.0,True,False,13000.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE026,10,Diego Salazar,Devonte Chavez,Light Heavyweight,10,11500.0,11300.0,True,True,22800.0,Thursday,2,185.0,Philadelphia,Mid-sized,0,0,0.0,0,0.0
+PE030,8,Diego Coleman,Isaiah Holloway,Super Lightweight,10,8500.0,11700.0,True,False,20200.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE015,4,Kofi Dunbar,Diego Ruiz,Light Heavyweight,4,19600.0,17600.0,False,True,37200.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE005,2,Isaiah Fairley,Terrell Castillo,Lightweight,10,54100.0,27200.0,False,False,81300.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE002,1,Brianna Ortega,Rashad Ruiz,Featherweight,10,299000.0,141000.0,False,False,440000.0,Tuesday,3,170.0,Texas,Mid-sized,8,3600,3400.0,2400,9400.0
+PE018,10,Diego Whitfield,Nia Okafor,Super Middleweight,8,17600.0,18400.0,False,False,36000.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE001,8,Elijah Brooks,Xavier Pruitt,Featherweight,10,19400.0,26900.0,False,True,46300.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE021,9,Elijah Castillo,Kofi Whitfield,Super Lightweight,8,6100.0,3500.0,False,False,9600.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE015,9,Keyana Mendoza,Miguel Simms,Middleweight,4,19200.0,25800.0,False,False,45000.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE034,1,Keyana Okafor,Keyana Grant,Flyweight,12,164200.0,74000.0,True,False,238200.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE040,1,Nia Carter,Diego Castillo,Middleweight,12,1640000.0,308100.0,True,False,1948100.0,Tuesday,3,210.0,Atlanta,Big,4,1800,2100.0,1200,5100.0
+PE033,2,Xavier Okafor,Malik Padilla,Welterweight,10,43000.0,22700.0,False,False,65700.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE030,2,Kofi Banks,Malik Pruitt,Lightweight,10,63100.0,44500.0,True,True,107600.0,Tuesday,3,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE041,3,Marcus Salazar,Darius Coleman,Super Welterweight,6,7200.0,6000.0,True,False,13200.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE048,9,Jalen Salazar,Jalen Salazar,Bantamweight,8,18700.0,16600.0,True,False,35300.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE049,3,Malik Fairley,Malik Lattimore,Super Lightweight,8,29700.0,23400.0,True,False,53100.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE010,8,Angel Grant,Keyana Grant,Super Middleweight,10,27500.0,24700.0,True,False,52200.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE022,6,Elijah Holloway,Nia Castillo,Welterweight,10,11700.0,6300.0,True,False,18000.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE050,3,Diego Pruitt,Isaiah Salazar,Welterweight,8,15100.0,13200.0,False,False,28300.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE031,9,Isaiah Navarro,Brianna Archuleta,Super Lightweight,4,10200.0,5700.0,True,False,15900.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE032,6,Malik Montoya,Malik Fairley,Featherweight,8,9500.0,6200.0,False,True,15700.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE008,10,Andre Montoya,Jalen Whitfield,Welterweight,4,8300.0,8600.0,True,True,16900.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE024,1,Darius Holloway,Keyana Okafor,Heavyweight,12,1512800.0,330800.0,False,False,1843600.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE047,8,Kofi Navarro,Andre Banks,Super Welterweight,10,4200.0,6600.0,False,False,10800.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE012,10,Ramon Ruiz,Marcus Banks,Super Lightweight,6,10100.0,7300.0,True,False,17400.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE050,10,Hector Archuleta,Carlos Banks,Bantamweight,4,17500.0,17700.0,False,False,35200.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE050,4,Rashad Fairley,Jalen Dunbar,Flyweight,8,8500.0,28500.0,True,False,37000.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE015,2,Keyana Brooks,Nia Archuleta,Super Middleweight,10,188600.0,134600.0,True,True,323200.0,Tuesday,3,220.0,Las Vegas,Big,0,0,0.0,0,0.0
+PE002,6,Devonte Dunbar,Brianna Banks,Light Heavyweight,8,3700.0,3200.0,True,True,6900.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE013,8,Miguel Vega,Miguel Navarro,Flyweight,8,11400.0,19300.0,False,True,30700.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE009,7,Jalen Navarro,Javier Fairley,Flyweight,4,24500.0,11300.0,False,False,35800.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE018,2,Tyrese Grant,Tyrese Okafor,Middleweight,10,121800.0,86700.0,False,False,208500.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE032,7,Isaiah Navarro,Isaiah Castillo,Super Welterweight,8,4000.0,10300.0,True,False,14300.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE036,4,Miguel Holloway,Angel Fairley,Flyweight,8,12900.0,25000.0,False,False,37900.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE003,8,Keyana Chavez,Kofi Ruiz,Super Welterweight,10,8800.0,29000.0,False,False,37800.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE028,4,Nia Mendoza,Darius Holloway,Welterweight,8,8600.0,6400.0,False,True,15000.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE024,5,Marcus Okafor,Ramon Brooks,Super Lightweight,8,16300.0,24100.0,True,False,40400.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE024,7,Brianna Castillo,Andre Ruiz,Middleweight,4,10000.0,20800.0,True,False,30800.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE016,1,Andre Navarro,Carlos Coleman,Light Heavyweight,10,122600.0,54700.0,False,False,177300.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE044,7,Javier Archuleta,Andre Dunbar,Featherweight,10,8200.0,8700.0,False,False,16900.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE007,8,Ximena Dunbar,Carlos Lattimore,Welterweight,6,20400.0,20700.0,False,False,41100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE023,5,Kofi Dunbar,Devonte Ruiz,Welterweight,4,11100.0,9800.0,True,False,20900.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE051,7,Elijah Ortega,Carlos Reyes,Super Welterweight,8,27800.0,14300.0,False,False,42100.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE005,1,Omar Ruiz,Isaiah Reyes,Super Lightweight,10,124900.0,61700.0,False,True,186600.0,Tuesday,3,190.0,DMV,Mid-sized,4,1800,1900.0,1200,4900.0
+PE042,10,Terrell Grant,Isaiah Okafor,Super Middleweight,8,21800.0,10600.0,False,False,32400.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE027,1,Terrell Brooks,Nia Vega,Middleweight,12,2259500.0,377000.0,False,False,2636500.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE014,2,Ximena Salazar,Tyrese Ortega,Featherweight,10,29700.0,20600.0,False,True,50300.0,Tuesday,3,190.0,DMV,Mid-sized,4,1800,1900.0,1200,4900.0
+PE046,3,Marcus Brooks,Devonte Ruiz,Flyweight,10,3700.0,3100.0,True,True,6800.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE045,10,Xavier Brooks,Malik Archuleta,Light Heavyweight,6,14100.0,8500.0,False,False,22600.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE020,7,Malik Lattimore,Javier Grant,Super Lightweight,8,8400.0,5300.0,True,False,13700.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE006,4,Carlos Chavez,Devonte Fairley,Super Welterweight,4,27000.0,29500.0,False,False,56500.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE013,6,Rashad Navarro,Marcus Fairley,Middleweight,8,11700.0,19500.0,False,False,31200.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE001,10,Malik Holloway,Isaiah Archuleta,Heavyweight,4,8500.0,15500.0,True,False,24000.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE008,9,Kofi Simms,Luis Okafor,Featherweight,8,5600.0,6200.0,True,True,11800.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE030,7,Brianna Pruitt,Jalen Mendoza,Lightweight,8,9200.0,5600.0,True,True,14800.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE004,2,Xavier Coleman,Isaiah Vega,Light Heavyweight,10,48800.0,26300.0,False,False,75100.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE043,9,Ximena Ortega,Angel Padilla,Super Welterweight,8,14100.0,16200.0,False,False,30300.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE008,6,Xavier Archuleta,Carlos Chavez,Middleweight,8,7300.0,7200.0,True,True,14500.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE039,9,Andre Brooks,Rashad Reyes,Super Welterweight,4,20100.0,28900.0,True,False,49000.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE016,9,Devonte Lattimore,Jalen Salazar,Lightweight,8,8700.0,3200.0,False,False,11900.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE036,3,Malik Simms,Terrell Banks,Flyweight,8,26600.0,28700.0,False,False,55300.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE006,5,Ximena Ruiz,Rashad Navarro,Bantamweight,6,25600.0,9400.0,False,False,35000.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE039,2,Terrell Salazar,Hector Navarro,Middleweight,10,243900.0,179600.0,False,False,423500.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE026,1,Angel Dunbar,Jalen Navarro,Super Lightweight,12,260000.0,155000.0,False,False,415000.0,Tuesday,3,185.0,Philadelphia,Mid-sized,8,3600,3700.0,2400,9700.0
+PE033,9,Rashad Archuleta,Xavier Grant,Featherweight,4,10000.0,8500.0,True,True,18500.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE017,6,Ramon Okafor,Devonte Mendoza,Super Lightweight,6,6500.0,3300.0,False,False,9800.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE027,5,Hector Fairley,Keyana Simms,Featherweight,6,20000.0,23300.0,True,False,43300.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE006,2,Luis Pruitt,Hector Fairley,Super Welterweight,10,221200.0,134300.0,True,False,355500.0,Tuesday,3,260.0,New York,Big,4,1800,2600.0,1200,5600.0
+PE011,8,Miguel Simms,Terrell Coleman,Welterweight,8,5600.0,11100.0,False,False,16700.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE006,10,Marcus Fairley,Tyrese Mendoza,Heavyweight,8,13300.0,24000.0,True,False,37300.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE030,3,Keyana Reyes,Omar Simms,Super Middleweight,8,4300.0,4300.0,False,False,8600.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE034,6,Rashad Padilla,Elijah Montoya,Featherweight,8,4100.0,3100.0,False,False,7200.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE009,6,Ramon Ortega,Angel Ortega,Flyweight,8,25400.0,15700.0,False,False,41100.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE046,6,Javier Montoya,Omar Okafor,Heavyweight,4,3400.0,9900.0,False,False,13300.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE019,2,Isaiah Brooks,Diego Ortega,Lightweight,10,224900.0,159000.0,False,False,383900.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE020,10,Andre Whitfield,Ramon Salazar,Flyweight,8,9500.0,4400.0,False,False,13900.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE024,8,Marcus Padilla,Kofi Montoya,Super Lightweight,8,19900.0,20000.0,False,False,39900.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE024,2,Carlos Lattimore,Malik Lattimore,Welterweight,10,263000.0,189700.0,False,False,452700.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE020,9,Omar Dunbar,Marcus Chavez,Flyweight,8,6000.0,4400.0,True,False,10400.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE047,5,Miguel Grant,Devonte Ortega,Light Heavyweight,8,10300.0,4900.0,False,False,15200.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE049,5,Javier Montoya,Carlos Simms,Super Middleweight,8,11000.0,13300.0,False,False,24300.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE028,10,Jalen Ortega,Hector Navarro,Light Heavyweight,4,5900.0,3400.0,True,False,9300.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE034,2,Andre Okafor,Brianna Chavez,Light Heavyweight,10,47400.0,35700.0,False,False,83100.0,Tuesday,3,170.0,Texas,Mid-sized,8,3600,3400.0,2400,9400.0
+PE045,7,Diego Chavez,Terrell Whitfield,Flyweight,6,10000.0,22400.0,True,False,32400.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE020,1,Luis Chavez,Rashad Mendoza,Super Lightweight,10,133200.0,69500.0,True,False,202700.0,Tuesday,3,190.0,DMV,Mid-sized,4,1800,1900.0,1200,4900.0
+PE003,3,Xavier Simms,Rashad Ruiz,Featherweight,10,12500.0,27800.0,True,False,40300.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE023,3,Darius Reyes,Rashad Coleman,Heavyweight,8,6500.0,6200.0,True,False,12700.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE012,5,Javier Holloway,Marcus Montoya,Flyweight,8,4600.0,6100.0,True,False,10700.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE016,2,Angel Simms,Omar Coleman,Featherweight,10,59200.0,39500.0,True,False,98700.0,Tuesday,3,190.0,DMV,Mid-sized,4,1800,1900.0,1200,4900.0
+PE018,7,Keyana Holloway,Tyrese Chavez,Welterweight,4,17700.0,27000.0,False,True,44700.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE019,8,Ximena Archuleta,Kofi Salazar,Featherweight,4,28900.0,26800.0,False,False,55700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE008,4,Ramon Lattimore,Isaiah Okafor,Bantamweight,10,11600.0,7400.0,True,True,19000.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE022,8,Andre Holloway,Hector Ruiz,Super Middleweight,8,3700.0,8400.0,False,True,12100.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE025,1,Diego Chavez,Ramon Salazar,Flyweight,10,114000.0,58900.0,True,False,172900.0,Tuesday,3,170.0,Texas,Mid-sized,4,1800,1700.0,1200,4700.0
+PE015,6,Omar Salazar,Miguel Simms,Featherweight,4,16100.000000000002,16600.0,False,False,32700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE006,1,Isaiah Castillo,Keyana Coleman,Flyweight,12,614300.0,290000.0,False,False,904300.0,Tuesday,3,260.0,New York,Big,8,3600,5200.0,2400,11200.0
+PE026,6,Brianna Montoya,Isaiah Grant,Lightweight,8,8000.0,7400.0,False,True,15400.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE045,2,Carlos Holloway,Devonte Montoya,Super Lightweight,10,193000.0,130400.0,False,False,323400.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE010,6,Brianna Salazar,Terrell Castillo,Bantamweight,10,29800.0,9100.0,False,False,38900.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE010,9,Devonte Dunbar,Hector Reyes,Middleweight,4,18100.0,9000.0,False,False,27100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE021,8,Diego Okafor,Carlos Dunbar,Bantamweight,10,6400.0,4900.0,True,False,11300.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE038,2,Hector Chavez,Jalen Lattimore,Bantamweight,10,158700.0,101800.0,True,True,260500.0,Tuesday,3,260.0,New York,Big,0,0,0.0,0,0.0
+PE038,1,Angel Navarro,Miguel Grant,Flyweight,12,2199000.0,509800.0,True,False,2708800.0,Tuesday,3,260.0,New York,Big,4,1800,2600.0,1200,5600.0
+PE001,4,Carlos Fairley,Kofi Whitfield,Heavyweight,6,26700.0,20300.0,True,False,47000.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE042,3,Darius Navarro,Andre Lattimore,Light Heavyweight,8,29400.0,9800.0,False,False,39200.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE050,5,Malik Ortega,Jalen Vega,Welterweight,6,17000.0,27600.0,True,True,44600.0,Thursday,2,220.0,Las Vegas,Big,0,0,0.0,0,0.0
+PE029,9,Brianna Ruiz,Isaiah Chavez,Lightweight,6,10900.0,7700.0,True,False,18600.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE017,2,Rashad Vega,Omar Ortega,Super Lightweight,10,28700.0,14600.0,False,False,43300.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE043,10,Diego Simms,Tyrese Coleman,Super Middleweight,6,10100.0,10100.0,False,False,20200.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE043,7,Diego Ortega,Omar Simms,Welterweight,8,11100.0,8000.0,False,False,19100.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE025,4,Diego Okafor,Diego Dunbar,Super Lightweight,8,4900.0,9400.0,False,False,14300.0,Thursday,2,170.0,Texas,Mid-sized,6,2700,2040.0,1200,5940.0
+PE017,9,Xavier Navarro,Xavier Whitfield,Bantamweight,8,3200.0,6700.0,False,False,9900.0,Thursday,2,190.0,DMV,Mid-sized,6,2700,2280.0,1200,6180.0
+PE042,7,Carlos Chavez,Carlos Banks,Welterweight,10,22600.0,11100.0,False,False,33700.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE035,4,Ximena Holloway,Miguel Padilla,Lightweight,8,7900.0,8200.0,False,True,16100.0,Thursday,2,185.0,Philadelphia,Mid-sized,3,1350,1110.0,600,3060.0
+PE045,3,Malik Ruiz,Nia Vega,Super Welterweight,10,18000.0,21800.0,False,False,39800.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE033,3,Miguel Padilla,Nia Padilla,Featherweight,8,9100.0,6400.0,True,False,15500.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE005,10,Brianna Mendoza,Terrell Navarro,Super Middleweight,6,4100.0,9000.0,True,False,13100.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE014,7,Elijah Castillo,Marcus Ruiz,Featherweight,6,5800.0,8100.0,True,True,13900.0,Thursday,2,190.0,DMV,Mid-sized,0,0,0.0,0,0.0
+PE004,1,Rashad Holloway,Rashad Okafor,Super Welterweight,10,82800.0,46100.0,False,True,128900.0,Tuesday,3,185.0,Philadelphia,Mid-sized,4,1800,1850.0,1200,4850.0
+PE038,4,Nia Navarro,Xavier Simms,Super Middleweight,6,27600.0,19300.0,False,False,46900.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE020,5,Kofi Vega,Diego Okafor,Super Middleweight,4,5800.0,12000.0,True,False,17800.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE006,7,Isaiah Ortega,Luis Salazar,Middleweight,8,21900.0,29900.0,False,False,51800.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE043,3,Xavier Grant,Kofi Brooks,Heavyweight,6,25100.0,9400.0,False,False,34500.0,Thursday,2,210.0,Atlanta,Big,6,2700,2520.0,1200,6420.0
+PE021,2,Hector Banks,Javier Pruitt,Bantamweight,10,45100.0,29200.0,False,False,74300.0,Tuesday,3,170.0,Texas,Mid-sized,8,3600,3400.0,2400,9400.0
+PE015,10,Keyana Chavez,Rashad Simms,Super Welterweight,4,18000.0,22800.0,False,False,40800.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE003,2,Luis Montoya,Carlos Okafor,Welterweight,10,152600.0,112700.0,False,True,265300.0,Tuesday,3,210.0,Atlanta,Big,4,1800,2100.0,1200,5100.0
+PE019,4,Rashad Padilla,Angel Coleman,Heavyweight,8,29600.0,18100.0,False,True,47700.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE001,1,Darius Montoya,Miguel Banks,Heavyweight,12,728700.0,422900.0,True,False,1151600.0,Tuesday,3,260.0,New York,Big,4,1800,2600.0,1200,5600.0
+PE039,8,Diego Banks,Malik Okafor,Featherweight,6,16100.000000000002,10200.0,True,False,26300.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE006,3,Diego Mendoza,Rashad Castillo,Heavyweight,8,11900.0,29100.0,True,False,41000.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE050,1,Isaiah Coleman,Jalen Vega,Lightweight,12,811100.0,354200.0,False,False,1165300.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE013,7,Nia Simms,Andre Dunbar,Featherweight,8,9100.0,10700.0,False,True,19800.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE030,5,Elijah Grant,Marcus Castillo,Middleweight,8,5200.0,7100.0,True,False,12300.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE005,5,Luis Simms,Diego Archuleta,Lightweight,10,4500.0,3800.0,True,False,8300.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE044,5,Luis Dunbar,Brianna Ortega,Welterweight,6,22800.0,23300.0,False,False,46100.0,Thursday,2,220.0,Las Vegas,Big,6,2700,2640.0,1200,6540.0
+PE017,5,Nia Padilla,Devonte Okafor,Heavyweight,10,7200.0,6300.0,False,True,13500.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE032,4,Jalen Dunbar,Miguel Fairley,Super Lightweight,8,7200.0,5900.0,True,False,13100.0,Thursday,2,190.0,DMV,Mid-sized,3,1350,1140.0,600,3090.0
+PE032,2,Ramon Okafor,Luis Brooks,Middleweight,10,55300.0,29400.0,False,False,84700.0,Tuesday,3,190.0,DMV,Mid-sized,8,3600,3800.0,2400,9800.0
+PE010,5,Nia Pruitt,Nia Archuleta,Super Middleweight,8,11900.0,20800.0,True,False,32700.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE011,10,Andre Fairley,Isaiah Archuleta,Super Middleweight,10,10700.0,4800.0,True,False,15500.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE036,10,Isaiah Vega,Luis Vega,Bantamweight,4,8700.0,28300.0,False,False,37000.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE026,3,Brianna Reyes,Angel Simms,Bantamweight,6,9700.0,6800.0,False,False,16500.0,Thursday,2,185.0,Philadelphia,Mid-sized,6,2700,2220.0,1200,6120.0
+PE006,9,Nia Ruiz,Malik Simms,Light Heavyweight,10,17200.0,13100.0,True,False,30300.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0
+PE040,4,Ximena Archuleta,Keyana Holloway,Light Heavyweight,8,15400.0,23900.0,True,False,39300.0,Thursday,2,210.0,Atlanta,Big,3,1350,1260.0,600,3210.0
+PE031,7,Diego Okafor,Andre Ortega,Welterweight,6,8700.0,3300.0,True,False,12000.0,Thursday,2,170.0,Texas,Mid-sized,3,1350,1020.0,600,2970.0
+PE046,7,Jalen Lattimore,Miguel Reyes,Welterweight,10,7200.0,3300.0,True,True,10500.0,Thursday,2,170.0,Texas,Mid-sized,0,0,0.0,0,0.0
+PE009,8,Andre Holloway,Xavier Fairley,Flyweight,8,15600.0,22600.0,False,False,38200.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE037,1,Terrell Banks,Miguel Okafor,Featherweight,12,850700.0,528300.0,False,False,1379000.0,Tuesday,3,220.0,Las Vegas,Big,8,3600,4400.0,2400,10400.0
+PE044,10,Angel Padilla,Xavier Coleman,Featherweight,8,9400.0,17000.0,True,False,26400.0,Thursday,2,220.0,Las Vegas,Big,3,1350,1320.0,600,3270.0
+PE018,5,Jalen Dunbar,Javier Pruitt,Super Welterweight,8,15200.0,29800.0,False,False,45000.0,Thursday,2,260.0,New York,Big,6,2700,3120.0,1200,7020.0
+PE013,3,Omar Lattimore,Ramon Salazar,Super Welterweight,6,13000.0,21500.0,True,False,34500.0,Thursday,2,260.0,New York,Big,3,1350,1560.0,600,3510.0

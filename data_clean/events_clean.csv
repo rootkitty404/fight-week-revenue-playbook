@@ -1,0 +1,52 @@
+Event_ID,Event_Date,City,State,Venue,Venue_Capacity,Latitude,Longitude,Headliner,Headliner_Tier,Headliner_Is_Local,Tickets_Sold,DAZN_Rights_Fee,Team_Hotel_Rate,Market,Card_Type,Room_Size,Sell_Through
+PE001,2024-01-27,Brooklyn,NY,Brooklyn Harbor Arena,17000,40.6826,-73.9754,Darius Montoya,Title,True,12655,1350000.0,260.0,New York,Big,Arena (15K+),0.744
+PE002,2024-01-27,Houston,TX,Gulf Coast Arena,18000,29.7508,-95.3621,Brianna Ortega,Contender,False,6944,300000.0,170.0,Texas,Mid-sized,Arena (15K+),0.386
+PE003,2024-02-24,Atlanta,GA,Peachtree Arena,17000,33.7573,-84.3963,Luis Reyes,Title,False,16320,1070000.0,210.0,Atlanta,Big,Arena (15K+),0.96
+PE004,2024-03-23,Philadelphia,PA,Liberty Hall,5500,39.9526,-75.1652,Rashad Holloway,Contender,False,4205,310000.0,185.0,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),0.765
+PE005,2024-04-06,Oxon Hill,MD,Harbor Casino Theater,4500,38.7964,-77.0081,Omar Ruiz,Contender,False,2953,300000.0,190.0,DMV,Mid-sized,Mid-sized room (4K-7.5K),0.656
+PE006,2024-04-27,New York,NY,Empire Garden Arena,19000,40.7505,-73.9934,Isaiah Castillo,Title,False,13928,1260000.0,260.0,New York,Big,Arena (15K+),0.733
+PE007,2024-05-25,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Omar Banks,Star,True,17000,2140000.0,220.0,Las Vegas,Big,Arena (15K+),1.0
+PE008,2024-06-08,Washington,DC,Capitol Arena,18000,38.8981,-77.0209,Nia Okafor,Contender,False,6905,330000.0,190.0,DMV,Mid-sized,Arena (15K+),0.384
+PE009,2024-08-10,New York,NY,Empire Garden Arena,19000,40.7505,-73.9934,Rashad Montoya,Title,False,12605,1260000.0,260.0,New York,Big,Arena (15K+),0.663
+PE010,2024-08-17,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Javier Fairley,Star,False,14820,1690000.0,220.0,Las Vegas,Big,Arena (15K+),0.872
+PE011,2024-08-17,Houston,TX,Bayou Event Center,7500,29.7,-95.4,Ramon Mendoza,Contender,True,6070,350000.0,170.0,Texas,Mid-sized,Mid-sized room (4K-7.5K),0.809
+PE012,2024-08-24,Philadelphia,PA,Liberty Hall,5500,39.9526,-75.1652,Isaiah Salazar,Contender,False,4118,320000.0,185.0,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),0.749
+PE013,2024-09-07,New York,NY,Empire Garden Arena,19000,40.7505,-73.9934,Ximena Castillo,Star,False,15836,2010000.0,260.0,New York,Big,Arena (15K+),0.833
+PE014,2024-09-14,Washington,DC,Anacostia Event Center,6000,38.8623,-76.9951,Angel Brooks,Title,False,3930,380000.0,190.0,DMV,Mid-sized,Mid-sized room (4K-7.5K),0.655
+PE015,2024-09-28,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Devonte Banks,Star,False,15029,2000000.0,220.0,Las Vegas,Big,Arena (15K+),0.884
+PE016,2024-11-16,Oxon Hill,MD,Harbor Casino Theater,4500,38.7964,-77.0081,Andre Navarro,Contender,False,3006,330000.0,190.0,DMV,Mid-sized,Mid-sized room (4K-7.5K),0.668
+PE017,2024-12-14,Washington,DC,Anacostia Event Center,6000,38.8623,-76.9951,Devonte Castillo,Contender,False,4061,340000.0,190.0,DMV,Mid-sized,Mid-sized room (4K-7.5K),0.677
+PE018,2025-01-04,New York,NY,Empire Garden Arena,19000,40.7505,-73.9934,Diego Holloway,Title,True,13956,1210000.0,260.0,New York,Big,Arena (15K+),0.735
+PE019,2025-02-01,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Javier Coleman,Title,True,12286,1140000.0,220.0,Las Vegas,Big,Arena (15K+),0.723
+PE020,2025-02-15,Washington,DC,Anacostia Event Center,6000,38.8623,-76.9951,Luis Chavez,Contender,True,5209,260000.0,190.0,DMV,Mid-sized,Mid-sized room (4K-7.5K),0.868
+PE021,2025-03-01,San Antonio,TX,Alamo City Hall,6000,29.4241,-98.4936,Ximena Mendoza,Title,True,5548,380000.0,170.0,Texas,Mid-sized,Mid-sized room (4K-7.5K),0.925
+PE022,2025-03-29,Philadelphia,PA,Liberty Hall,5500,39.9526,-75.1652,Ramon Archuleta,Contender,False,3523,260000.0,185.0,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),0.641
+PE023,2025-04-05,Washington,DC,Anacostia Event Center,6000,38.8623,-76.9951,Keyana Fairley,Title,True,5826,370000.0,190.0,DMV,Mid-sized,Mid-sized room (4K-7.5K),0.971
+PE024,2025-04-19,New York,NY,Empire Garden Arena,19000,40.7505,-73.9934,Darius Holloway,Star,False,16126,2040000.0,260.0,New York,Big,Arena (15K+),0.849
+PE025,2025-04-26,Houston,TX,Bayou Event Center,7500,29.7,-95.4,Diego Chavez,Contender,True,7121,260000.0,170.0,Texas,Mid-sized,Mid-sized room (4K-7.5K),0.949
+PE026,2025-05-24,Philadelphia,PA,South Philly Arena,19000,39.9012,-75.172,Angel Dunbar,Title,False,9155,360000.0,185.0,Philadelphia,Mid-sized,Arena (15K+),0.482
+PE027,2025-06-21,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Terrell Brooks,Star,False,15418,1670000.0,220.0,Las Vegas,Big,Arena (15K+),0.907
+PE028,2025-06-28,Philadelphia,PA,Riverfront Casino Event Center,4000,39.97,-75.13,Tyrese Archuleta,Contender,True,3589,290000.0,185.0,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),0.897
+PE029,2025-08-09,Houston,TX,Bayou Event Center,7500,29.7,-95.4,Elijah Ortega,Title,False,5105,440000.0,170.0,Texas,Mid-sized,Mid-sized room (4K-7.5K),0.681
+PE030,2025-08-09,Houston,TX,Gulf Coast Arena,18000,29.7508,-95.3621,Angel Ortega,Title,False,8488,370000.0,170.0,Texas,Mid-sized,Arena (15K+),0.472
+PE031,2025-08-30,San Antonio,TX,Alamo City Hall,6000,29.4241,-98.4936,Tyrese Reyes,Contender,True,5159,320000.0,170.0,Texas,Mid-sized,Mid-sized room (4K-7.5K),0.86
+PE032,2025-09-06,Washington,DC,Capitol Arena,18000,38.8981,-77.0209,Xavier Archuleta,Title,False,8788,370000.0,190.0,DMV,Mid-sized,Arena (15K+),0.488
+PE033,2025-09-13,Oxon Hill,MD,Harbor Casino Theater,4500,38.7964,-77.0081,Kofi Simms,Contender,False,2961,320000.0,190.0,DMV,Mid-sized,Mid-sized room (4K-7.5K),0.658
+PE034,2025-09-20,Houston,TX,Bayou Event Center,7500,29.7,-95.4,Keyana Okafor,Title,True,7075,420000.0,170.0,Texas,Mid-sized,Mid-sized room (4K-7.5K),0.943
+PE035,2025-10-04,Philadelphia,PA,Riverfront Casino Event Center,4000,39.97,-75.13,Ramon Salazar,Contender,True,3299,340000.0,185.0,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),0.825
+PE036,2025-10-11,New York,NY,Empire Garden Arena,19000,40.7505,-73.9934,Omar Chavez,Star,False,15927,2110000.0,260.0,New York,Big,Arena (15K+),0.838
+PE037,2025-11-08,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Terrell Banks,Title,False,10829,1030000.0,220.0,Las Vegas,Big,Arena (15K+),0.637
+PE038,2025-11-22,New York,NY,Empire Garden Arena,19000,40.7505,-73.9934,Angel Navarro,Star,True,19000,1780000.0,260.0,New York,Big,Arena (15K+),1.0
+PE039,2025-11-29,Brooklyn,NY,Brooklyn Harbor Arena,17000,40.6826,-73.9754,Kofi Grant,Title,False,11643,1140000.0,260.0,New York,Big,Arena (15K+),0.685
+PE040,2026-01-03,Atlanta,GA,Peachtree Arena,17000,33.7573,-84.3963,Nia Carter,Star,True,17000,2190000.0,210.0,Atlanta,Big,Arena (15K+),1.0
+PE041,2026-01-10,Philadelphia,PA,Riverfront Casino Event Center,4000,39.97,-75.13,Javier Dunbar,Title,False,3040,430000.0,185.0,Philadelphia,Mid-sized,Mid-sized room (4K-7.5K),0.76
+PE042,2026-01-17,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Omar Coleman,Title,True,11276,960000.0,220.0,Las Vegas,Big,Arena (15K+),0.663
+PE043,2026-01-24,Atlanta,GA,Peachtree Arena,17000,33.7573,-84.3963,Isaiah Ruiz,Title,False,16320,1110000.0,210.0,Atlanta,Big,Arena (15K+),0.96
+PE044,2026-01-24,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Omar Padilla,Star,False,15576,1750000.0,220.0,Las Vegas,Big,Arena (15K+),0.916
+PE045,2026-03-07,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Xavier Brooks,Star,False,15505,1720000.0,220.0,Las Vegas,Big,Arena (15K+),0.912
+PE046,2026-04-18,San Antonio,TX,Alamo City Hall,6000,29.4241,-98.4936,Darius Coleman,Contender,True,5217,270000.0,170.0,Texas,Mid-sized,Mid-sized room (4K-7.5K),0.87
+PE047,2026-05-23,Philadelphia,PA,South Philly Arena,19000,39.9012,-75.172,Ramon Ruiz,Contender,False,7491,280000.0,185.0,Philadelphia,Mid-sized,Arena (15K+),0.394
+PE048,2026-05-30,Atlanta,GA,Peachtree Arena,17000,33.7573,-84.3963,Andre Fairley,Title,False,16320,1180000.0,210.0,Atlanta,Big,Arena (15K+),0.96
+PE049,2026-08-01,Las Vegas,NV,Paradise Arena,15000,36.107,-115.17,Keyana Lattimore,Title,True,11529,970000.0,220.0,Las Vegas,Big,Arena (15K+),0.769
+PE050,2026-08-22,Las Vegas,NV,Desert Grand Arena,17000,36.1029,-115.1784,Isaiah Coleman,Title,False,10854,910000.0,220.0,Las Vegas,Big,Arena (15K+),0.638
+PE051,2026-08-29,Brooklyn,NY,Brooklyn Harbor Arena,17000,40.6826,-73.9754,Ramon Vega,Star,True,16226,1820000.0,260.0,New York,Big,Arena (15K+),0.954

@@ -1,0 +1,140 @@
+Package_ID,Event_ID,Package,Price,Units_Available,Units_Sold
+H0001,PE001,Ringside Exp.,"2,240",45,45
+H0002,PE001,vip lounge,$970,147,142
+H0003,PE001,Walkout Access,"3,740",17,17
+H0004,PE002,ringside experience,"1,080",48,21
+H0005,PE002,vip lounge,470,127,40
+H0006,PE002,Hotel + Ticket Bundle,650,89,33
+H0007,PE003,Ringside Exp.,1900,49,48
+H0008,PE003,vip lounge,820,166,161
+H0009,PE003,Walk-out Access,"$3,160",19,19
+H0010,PE004,Ringside Experience,1150,32,21
+H0011,PE004,V.I.P. Lounge,500,94,56
+H0012,PE005,ringside experience,"$1,080",28,18
+H0013,PE005,vip lounge,$470,78,42
+H0014,PE005,Hotel + Ticket Bundle,$650,42,27
+H0015,PE006,Ringside Experience,2240,49,47
+H0016,PE006,V.I.P. Lounge,970,137,137
+H0017,PE006,Walkout Access,3740,16,16
+H0018,PE007,Ringside Exp.,"$2,810",47,45
+H0019,PE007,V.I.P. Lounge,1220,158,157
+H0020,PE007,Walkout Access,"$4,690",16,16
+H0021,PE008,ringside experience,"1,080",45,18
+H0022,PE008,VIP Lounge,470,170,80
+H0023,PE009,ringside experience,2240,60,58
+H0024,PE009,V.I.P. Lounge,970,156,151
+H0025,PE009,Walk-out Access,"$3,740",18,18
+H0026,PE009,hotel bundle,"$1,350",80,79
+H0027,PE010,Ringside Exp.,2810,50,48
+H0028,PE010,VIP Lounge,1220,157,156
+H0029,PE010,Walkout Access,"$4,690",18,18
+H0030,PE011,Ringside Exp.,"$1,080",40,34
+H0031,PE011,vip lounge,470,82,54
+H0032,PE012,Ringside Exp.,"1,150",35,23
+H0033,PE012,V.I.P. Lounge,500,96,58
+H0034,PE013,Ringside Experience,"$2,930",61,59
+H0035,PE013,vip lounge,"1,270",180,180
+H0036,PE013,Walkout Access,"4,880",21,21
+H0037,PE013,Hotel + Ticket Bundle,"$1,760",90,89
+H0038,PE014,Ringside Exp.,"$1,380",26,16
+H0039,PE014,VIP Lounge,600,72,41
+H0040,PE015,ringside experience,2810,57,56
+H0041,PE015,V.I.P. Lounge,1220,174,172
+H0042,PE015,Walk-out Access,4690,18,18
+H0043,PE016,Ringside Exp.,"1,080",25,16
+H0044,PE016,VIP Lounge,470,65,41
+H0045,PE017,Ringside Exp.,1080,28,16
+H0046,PE017,vip lounge,470,82,51
+H0047,PE018,Ringside Experience,"$2,240",46,45
+H0048,PE018,vip lounge,970,132,128
+H0049,PE018,Walk-out Access,"$3,740",20,19
+H0050,PE018,Hotel + Ticket Bundle,"$1,350",74,74
+H0051,PE019,Ringside Experience,2160,58,57
+H0052,PE019,vip lounge,$930,162,160
+H0053,PE019,Walk-out Access,"$3,590",20,20
+H0054,PE020,ringside experience,1080,37,31
+H0055,PE020,VIP Lounge,470,94,71
+H0056,PE020,Hotel + Ticket Bundle,$650,54,45
+H0057,PE021,ringside experience,1380,34,22
+H0058,PE021,vip lounge,600,89,57
+H0059,PE022,Ringside Experience,"$1,150",28,18
+H0060,PE022,V.I.P. Lounge,500,99,64
+H0061,PE023,Ringside Experience,"1,380",37,32
+H0062,PE023,V.I.P. Lounge,$600,89,66
+H0063,PE024,Ringside Exp.,"2,930",62,60
+H0064,PE024,V.I.P. Lounge,"1,270",173,168
+H0065,PE024,walkout,4880,18,18
+H0066,PE025,Ringside Exp.,"1,080",35,29
+H0067,PE025,VIP Lounge,$470,108,94
+H0068,PE026,Ringside Exp.,"1,470",56,24
+H0069,PE026,vip lounge,$640,133,61
+H0070,PE027,Ringside Experience,"2,810",46,46
+H0071,PE027,VIP Lounge,1220,134,130
+H0072,PE027,Walk-out Access,4690,20,19
+H0073,PE027,hotel bundle,1690,76,75
+H0074,PE028,ringside experience,"$1,150",29,23
+H0075,PE028,V.I.P. Lounge,500,77,59
+H0076,PE029,ringside experience,"1,380",30,18
+H0077,PE029,V.I.P. Lounge,600,107,54
+H0078,PE030,Ringside Experience,1380,51,21
+H0079,PE030,V.I.P. Lounge,600,135,57
+H0080,PE031,ringside experience,"$1,080",35,24
+H0081,PE031,VIP Lounge,470,103,81
+H0082,PE032,ringside experience,"$1,380",51,21
+H0083,PE032,V.I.P. Lounge,$600,131,43
+H0084,PE033,ringside experience,1080,27,16
+H0085,PE033,VIP Lounge,$470,89,52
+H0086,PE034,Ringside Experience,"1,380",39,26
+H0087,PE034,vip lounge,$600,103,78
+H0088,PE035,Ringside Experience,"$1,150",27,23
+H0089,PE035,V.I.P. Lounge,500,69,60
+H0090,PE036,ringside experience,"$2,930",51,50
+H0091,PE036,VIP Lounge,"1,270",171,169
+H0092,PE036,walkout,"$4,880",21,20
+H0093,PE036,hotel bundle,"$1,760",67,66
+H0094,PE037,Ringside Exp.,2160,43,41
+H0095,PE037,VIP Lounge,930,168,164
+H0096,PE037,walkout,"$3,590",19,18
+H0097,PE038,Ringside Exp.,"2,930",51,49
+H0098,PE038,vip lounge,1270,171,165
+H0099,PE038,Walk-out Access,4880,21,21
+H0100,PE039,Ringside Exp.,"2,240",49,48
+H0101,PE039,V.I.P. Lounge,$970,162,158
+H0102,PE039,walkout,3740,15,15
+H0103,PE040,Ringside Exp.,2480,52,51
+H0104,PE040,vip lounge,"$1,070",150,144
+H0105,PE040,Walk-out Access,"$4,120",16,16
+H0106,PE040,Hotel & Ticket,"$1,490",71,69
+H0107,PE041,Ringside Exp.,1470,28,14
+H0108,PE041,VIP Lounge,640,71,43
+H0109,PE042,Ringside Experience,"2,160",60,58
+H0110,PE042,V.I.P. Lounge,$930,159,159
+H0111,PE042,Walk-out Access,"$3,590",17,17
+H0112,PE042,Hotel & Ticket,1290,72,71
+H0113,PE043,Ringside Exp.,"1,900",57,55
+H0114,PE043,VIP Lounge,820,148,145
+H0115,PE043,Walkout Access,"$3,160",20,19
+H0116,PE043,Hotel + Ticket Bundle,"1,140",85,85
+H0117,PE044,Ringside Experience,"$2,810",47,46
+H0118,PE044,vip lounge,1220,150,147
+H0119,PE044,Walkout Access,"$4,690",20,19
+H0120,PE045,Ringside Experience,"2,810",52,52
+H0121,PE045,VIP Lounge,"1,220",171,165
+H0122,PE045,Walk-out Access,"4,690",16,16
+H0123,PE046,ringside experience,1080,31,26
+H0124,PE046,V.I.P. Lounge,470,86,61
+H0125,PE047,Ringside Exp.,"1,150",56,23
+H0126,PE047,VIP Lounge,500,133,52
+H0127,PE048,Ringside Experience,"$1,900",51,50
+H0128,PE048,VIP Lounge,820,165,163
+H0129,PE048,walkout,"$3,160",19,18
+H0130,PE049,Ringside Experience,"2,160",47,45
+H0131,PE049,V.I.P. Lounge,$930,114,110
+H0132,PE049,Walkout Access,"3,590",19,19
+H0133,PE050,Ringside Experience,2160,54,54
+H0134,PE050,vip lounge,930,119,117
+H0135,PE050,walkout,"$3,590",19,18
+H0136,PE051,Ringside Exp.,2930,43,43
+H0137,PE051,VIP Lounge,"$1,270",141,137
+H0138,PE051,walkout,4880,20,19
+H0139,PE051,Hotel & Ticket,"$1,760",67,65

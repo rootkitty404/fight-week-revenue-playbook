@@ -1,0 +1,307 @@
+Line_ID,Event_ID,Category,Amount
+X00278,PE047,Venue Settlement,104068.0
+X00065,PE011,"Officials, Doctors & Ambulance",14300.0
+X00073,PE013,Venue Rent,400450.26
+X00056,PE010,Venue Settlement,117200.0
+X00018,PE003,Medical Testing & Insurance,16200.0
+X00173,PE029,"Officials, Doctors & Ambulance",13300.0
+X00268,PE045,Commission & Gate Tax,446600.0
+X00290,PE049,Venue Settlement,162769.98
+X00080,PE014,Venue Settlement,38100.0
+X00079,PE014,Venue Rent,54400.0
+X00101,PE017,"Officials, Doctors & Ambulance",12813.32
+X00108,PE018,Medical Testing & Insurance,16800.0
+X00180,PE030,Medical Testing & Insurance,16740.07
+X00045,PE008,Production Company (flat fee),20000.0
+X00214,PE036,Commission & Gate Tax,339100.0
+X00253,PE043,Venue Rent,276102.0
+X00031,PE006,Venue Rent,435700.0
+X00240,PE040,Medical Testing & Insurance,15600.0
+X00150,PE025,Medical Testing & Insurance,16900.0
+X00097,PE017,Venue Rent,77900.0
+X00155,PE026,"Officials, Doctors & Ambulance",15535.0
+X00038,PE007,Venue Settlement,145384.0
+X00152,PE026,Venue Settlement,92400.0
+X00090,PE015,Medical Testing & Insurance,17100.0
+X00226,PE038,Commission & Gate Tax,396380.02
+X00140,PE024,Venue Settlement,158000.0
+X00277,PE047,Venue Rent,200100.0
+X00293,PE049,"Officials, Doctors & Ambulance",30113.0
+X00274,PE046,Commission & Gate Tax,35700.0
+X00070,PE012,Commission & Gate Tax,31708.56
+X00093,PE016,Production Company (flat fee),20000.0
+X00026,PE005,Venue Settlement,21796.0
+X00186,PE031,Medical Testing & Insurance,17400.0
+X00094,PE016,Commission & Gate Tax,23200.0
+X00089,PE015,"Officials, Doctors & Ambulance",43100.0
+X00187,PE032,Venue Rent,226511.0
+X00138,PE023,Medical Testing & Insurance,16308.0
+X00238,PE040,Commission & Gate Tax,304000.0
+X00142,PE024,Commission & Gate Tax,315400.0
+X00198,PE033,Medical Testing & Insurance,16056.04
+X00149,PE025,"Officials, Doctors & Ambulance",13857.0
+X00054,PE009,Medical Testing & Insurance,17300.0
+X00263,PE044,"Officials, Doctors & Ambulance",32771.0
+X00267,PE045,Production Company (flat fee),40000.0
+X00057,PE010,Production Company (flat fee),40000.0
+X00166,PE028,Commission & Gate Tax,28300.0
+X00159,PE027,Production Company (flat fee),40000.0
+X00209,PE035,"Officials, Doctors & Ambulance",12200.0
+X00282,PE047,Medical Testing & Insurance,14300.0
+X00265,PE045,Venue Rent,425600.0
+X00252,PE042,Medical Testing & Insurance,17924.0
+X00127,PE022,Venue Rent,54338.0
+X00004,PE001,Commission & Gate Tax,205590.86
+X00172,PE029,Commission & Gate Tax,55514.0
+X00014,PE003,Venue Settlement,160001.0
+X00217,PE037,Venue Rent,268921.0
+X00264,PE044,Medical Testing & Insurance,17600.0
+X00095,PE016,"Officials, Doctors & Ambulance",16436.0
+X00281,PE047,"Officials, Doctors & Ambulance",17923.38
+X00114,PE019,Medical Testing & Insurance,16800.0
+X00303,PE051,Production Company (flat fee),40000.0
+X00023,PE004,"Officials, Doctors & Ambulance",14600.0
+X00001,PE001,Venue Rent,320900.0
+X00130,PE022,Commission & Gate Tax,30768.0
+X00167,PE028,"Officials, Doctors & Ambulance",13900.0
+X00182,PE031,Venue Settlement,24667.34
+X00034,PE006,Commission & Gate Tax,208500.0
+X00096,PE016,Medical Testing & Insurance,16600.0
+X00242,PE041,Venue Settlement,28954.87
+X00244,PE041,Commission & Gate Tax,30422.3
+X00121,PE021,Venue Rent,53600.0
+X00146,PE025,Venue Settlement,31300.0
+X00147,PE025,Production Company (flat fee),20000.0
+X00297,PE050,Production Company (flat fee),40000.0
+X00112,PE019,Commission & Gate Tax,323254.0
+X00215,PE036,"Officials, Doctors & Ambulance",30100.0
+X00053,PE009,"Officials, Doctors & Ambulance",30494.0
+X00203,PE034,"Officials, Doctors & Ambulance",16941.68
+X00204,PE034,Medical Testing & Insurance,17900.0
+X00035,PE006,"Officials, Doctors & Ambulance",34892.74
+X00223,PE038,Venue Rent,280009.0
+X00046,PE008,Commission & Gate Tax,36300.0
+X00181,PE031,Venue Rent,67085.0
+X00074,PE013,Venue Settlement,152234.0
+X00246,PE041,Medical Testing & Insurance,14800.0
+X00060,PE010,Medical Testing & Insurance,17654.0
+X00285,PE048,Production Company (flat fee),40000.0
+X00261,PE044,Production Company (flat fee),40000.0
+X00110,PE019,Venue Settlement,105300.0
+X00291,PE049,Production Company (flat fee),40000.0
+X00133,PE023,Venue Rent,54228.17
+X00202,PE034,Commission & Gate Tax,66149.0
+X00051,PE009,Production Company (flat fee),40000.0
+X00296,PE050,Venue Settlement,143900.0
+X00072,PE012,Medical Testing & Insurance,17634.0
+X00237,PE040,Production Company (flat fee),40000.0
+X00260,PE044,Venue Settlement,119700.0
+X00298,PE050,Commission & Gate Tax,284633.54
+X00013,PE003,Venue Rent,304843.0
+X00115,PE020,Venue Rent,66370.0
+X00235,PE040,Venue Rent,253321.0
+X00063,PE011,Production Company (flat fee),20000.0
+X00027,PE005,Production Company (flat fee),20000.0
+X00300,PE050,Medical Testing & Insurance,15851.0
+X00005,PE001,"Officials, Doctors & Ambulance",33960.0
+X00111,PE019,Production Company (flat fee),40000.0
+X00248,PE042,Venue Settlement,119741.0
+X00210,PE035,Medical Testing & Insurance,17100.0
+X00194,PE033,Venue Settlement,28700.0
+X00078,PE013,Medical Testing & Insurance,14300.0
+X00136,PE023,Commission & Gate Tax,58612.04
+X00091,PE016,Venue Rent,46921.0
+X00176,PE030,Venue Settlement,99136.06
+X00196,PE033,Commission & Gate Tax,20373.0
+X00211,PE036,Venue Rent,285216.0
+X00243,PE041,Production Company (flat fee),20000.0
+X00024,PE004,Medical Testing & Insurance,17500.0
+X00197,PE033,"Officials, Doctors & Ambulance",12000.0
+X00132,PE022,Medical Testing & Insurance,14822.96
+X00160,PE027,Commission & Gate Tax,464800.0
+X00183,PE031,Production Company (flat fee),20000.0
+X00088,PE015,Commission & Gate Tax,482472.0
+X00213,PE036,Production Company (flat fee),40000.0
+X00081,PE014,Production Company (flat fee),20000.0
+X00043,PE008,Venue Rent,223038.0
+X00165,PE028,Production Company (flat fee),20000.0
+X00085,PE015,Venue Rent,340800.0
+X00234,PE039,Medical Testing & Insurance,15500.0
+X00247,PE042,Venue Rent,251100.0
+X00169,PE029,Venue Rent,50900.0
+X00232,PE039,Commission & Gate Tax,183656.0
+X00154,PE026,Commission & Gate Tax,57837.0
+X00276,PE046,Medical Testing & Insurance,14422.0
+X00219,PE037,Production Company (flat fee),40000.0
+X00083,PE014,"Officials, Doctors & Ambulance",14841.0
+X00117,PE020,Production Company (flat fee),20000.0
+X00002,PE001,Venue Settlement,142259.0
+X00104,PE018,Venue Settlement,115900.0
+X00006,PE001,Medical Testing & Insurance,15100.0
+X00273,PE046,Production Company (flat fee),20000.0
+X00129,PE022,Production Company (flat fee),20000.0
+X00292,PE049,Commission & Gate Tax,279123.4
+X00288,PE048,Medical Testing & Insurance,15700.0
+X00058,PE010,Commission & Gate Tax,473200.0
+X00066,PE011,Medical Testing & Insurance,17144.44
+X00212,PE036,Venue Settlement,131300.0
+X00077,PE013,"Officials, Doctors & Ambulance",37100.0
+X00040,PE007,Commission & Gate Tax,523652.0
+X00257,PE043,"Officials, Doctors & Ambulance",39555.0
+X00284,PE048,Venue Settlement,169800.0
+X00269,PE045,"Officials, Doctors & Ambulance",41656.0
+X00178,PE030,Commission & Gate Tax,56614.0
+X00028,PE005,Commission & Gate Tax,19678.0
+X00190,PE032,Commission & Gate Tax,59527.0
+X00254,PE043,Venue Settlement,114600.0
+X00225,PE038,Production Company (flat fee),40000.0
+X00255,PE043,Production Company (flat fee),40000.0
+X00229,PE039,Venue Rent,325400.73
+X00139,PE024,Venue Rent,433100.0
+X00275,PE046,"Officials, Doctors & Ambulance",12500.0
+X00177,PE030,Production Company (flat fee),20000.0
+X00107,PE018,"Officials, Doctors & Ambulance",41800.0
+X00068,PE012,Venue Settlement,34300.0
+X00188,PE032,Venue Settlement,81000.0
+X00206,PE035,Venue Settlement,37600.0
+X00280,PE047,Commission & Gate Tax,42600.0
+X00118,PE020,Commission & Gate Tax,32600.0
+X00122,PE021,Venue Settlement,26201.49
+X00041,PE007,"Officials, Doctors & Ambulance",37897.0
+X00069,PE012,Production Company (flat fee),20000.0
+X00239,PE040,"Officials, Doctors & Ambulance",30353.0
+X00299,PE050,"Officials, Doctors & Ambulance",39500.0
+X00071,PE012,"Officials, Doctors & Ambulance",17196.0
+X00102,PE017,Medical Testing & Insurance,16998.0
+X00295,PE050,Venue Rent,318353.0
+X00306,PE051,Medical Testing & Insurance,14684.0
+X00179,PE030,"Officials, Doctors & Ambulance",18441.0
+X00036,PE006,Medical Testing & Insurance,14000.0
+X00233,PE039,"Officials, Doctors & Ambulance",35097.26
+X00236,PE040,Venue Settlement,143300.0
+X00011,PE002,"Officials, Doctors & Ambulance",16800.0
+X00305,PE051,"Officials, Doctors & Ambulance",45000.0
+X00055,PE010,Venue Rent,372800.0
+X00220,PE037,Commission & Gate Tax,256800.0
+X00259,PE044,Venue Rent,292000.0
+X00128,PE022,Venue Settlement,30711.0
+X00141,PE024,Production Company (flat fee),40000.0
+X00283,PE048,Venue Rent,309252.0
+X00208,PE035,Commission & Gate Tax,25581.0
+X00131,PE022,"Officials, Doctors & Ambulance",14542.46
+X00061,PE011,Venue Rent,52800.0
+X00015,PE003,Production Company (flat fee),40000.0
+X00258,PE043,Medical Testing & Insurance,14919.0
+X00256,PE043,Commission & Gate Tax,236800.0
+X00033,PE006,Production Company (flat fee),40000.0
+X00098,PE017,Venue Settlement,29400.0
+X00025,PE005,Venue Rent,45600.0
+X00241,PE041,Venue Rent,71800.0
+X00222,PE037,Medical Testing & Insurance,14686.58
+X00185,PE031,"Officials, Doctors & Ambulance",16900.0
+X00189,PE032,Production Company (flat fee),20000.0
+X00193,PE033,Venue Rent,44788.91
+X00030,PE005,Medical Testing & Insurance,16033.86
+X00158,PE027,Venue Settlement,125665.0
+X00164,PE028,Venue Settlement,34800.0
+X00050,PE009,Venue Settlement,155088.0
+X00205,PE035,Venue Rent,74300.0
+X00151,PE026,Venue Rent,207284.66
+X00289,PE049,Venue Rent,300777.17
+X00042,PE007,Medical Testing & Insurance,16300.0
+X00163,PE028,Venue Rent,40800.0
+X00009,PE002,Production Company (flat fee),20000.0
+X00084,PE014,Medical Testing & Insurance,16700.0
+X00302,PE051,Venue Settlement,191446.0
+X00191,PE032,"Officials, Doctors & Ambulance",16600.0
+X00199,PE034,Venue Rent,73660.0
+X00195,PE033,Production Company (flat fee),20000.0
+X00162,PE027,Medical Testing & Insurance,16134.62
+X00075,PE013,Production Company (flat fee),40000.0
+X00145,PE025,Venue Rent,45391.0
+X00170,PE029,Venue Settlement,26009.0
+X00294,PE049,Medical Testing & Insurance,15828.0
+X00100,PE017,Commission & Gate Tax,30400.0
+X00286,PE048,Commission & Gate Tax,219170.0
+X00016,PE003,Commission & Gate Tax,246148.2
+X00044,PE008,Venue Settlement,99500.0
+X00125,PE021,"Officials, Doctors & Ambulance",14232.17
+X00120,PE020,Medical Testing & Insurance,14238.0
+X00126,PE021,Medical Testing & Insurance,14308.0
+X00105,PE018,Production Company (flat fee),40000.0
+X00059,PE010,"Officials, Doctors & Ambulance",41517.0
+X00251,PE042,"Officials, Doctors & Ambulance",33700.0
+X00304,PE051,Commission & Gate Tax,310671.0
+X00168,PE028,Medical Testing & Insurance,16840.0
+X00143,PE024,"Officials, Doctors & Ambulance",42600.0
+X00279,PE047,Production Company (flat fee),20000.0
+X00262,PE044,Commission & Gate Tax,550269.0
+X00287,PE048,"Officials, Doctors & Ambulance",36029.55
+X00221,PE037,"Officials, Doctors & Ambulance",34234.0
+X00175,PE030,Venue Rent,232834.78
+X00012,PE002,Medical Testing & Insurance,16100.000000000002
+X00076,PE013,Commission & Gate Tax,326838.5
+X00228,PE038,Medical Testing & Insurance,16980.0
+X00148,PE025,Commission & Gate Tax,45425.54
+X00067,PE012,Venue Rent,72000.0
+X00157,PE027,Venue Rent,377640.0
+X00007,PE002,Venue Rent,238500.0
+X00153,PE026,Production Company (flat fee),20000.0
+X00227,PE038,"Officials, Doctors & Ambulance",32935.71
+X00216,PE036,Medical Testing & Insurance,17370.88
+X00099,PE017,Production Company (flat fee),20000.0
+X00249,PE042,Production Company (flat fee),40000.0
+X00106,PE018,Commission & Gate Tax,231430.0
+X00184,PE031,Commission & Gate Tax,33400.0
+X00245,PE041,"Officials, Doctors & Ambulance",12547.0
+X00250,PE042,Commission & Gate Tax,282900.0
+X00119,PE020,"Officials, Doctors & Ambulance",13500.0
+X00207,PE035,Production Company (flat fee),20000.0
+X00113,PE019,"Officials, Doctors & Ambulance",31699.0
+X00017,PE003,"Officials, Doctors & Ambulance",37300.0
+X00020,PE004,Venue Settlement,28953.0
+X00231,PE039,Production Company (flat fee),40000.0
+X00008,PE002,Venue Settlement,94600.0
+X00161,PE027,"Officials, Doctors & Ambulance",35875.0
+X00135,PE023,Production Company (flat fee),20000.0
+X00047,PE008,"Officials, Doctors & Ambulance",17317.64
+X00123,PE021,Production Company (flat fee),20000.0
+X00039,PE007,Production Company (flat fee),40000.0
+X00092,PE016,Venue Settlement,34600.0
+X00301,PE051,Venue Rent,295284.0
+X00218,PE037,Venue Settlement,167100.0
+X00124,PE021,Commission & Gate Tax,48742.26
+X00037,PE007,Venue Rent,331863.0
+X00200,PE034,Venue Settlement,29600.0
+X00003,PE001,Production Company (flat fee),40000.0
+X00048,PE008,Medical Testing & Insurance,17379.0
+X00224,PE038,Venue Settlement,170556.67
+X00029,PE005,"Officials, Doctors & Ambulance",16500.0
+X00201,PE034,Production Company (flat fee),20000.0
+X00022,PE004,Commission & Gate Tax,30799.0
+X00174,PE029,Medical Testing & Insurance,15800.0
+X00021,PE004,Production Company (flat fee),20000.0
+X00032,PE006,Venue Settlement,150300.0
+X00087,PE015,Production Company (flat fee),40000.0
+X00064,PE011,Commission & Gate Tax,45700.0
+X00272,PE046,Venue Settlement,20300.0
+X00082,PE014,Commission & Gate Tax,32521.0
+X00230,PE039,Venue Settlement,167607.0
+X00010,PE002,Commission & Gate Tax,35400.0
+X00171,PE029,Production Company (flat fee),20000.0
+X00052,PE009,Commission & Gate Tax,201400.0
+X00266,PE045,Venue Settlement,115897.13
+X00103,PE018,Venue Rent,288600.0
+X00271,PE046,Venue Rent,66675.0
+X00019,PE004,Venue Rent,48100.0
+X00144,PE024,Medical Testing & Insurance,15000.0
+X00062,PE011,Venue Settlement,32489.0
+X00270,PE045,Medical Testing & Insurance,16934.0
+X00109,PE019,Venue Rent,371338.0
+X00156,PE026,Medical Testing & Insurance,17922.0
+X00116,PE020,Venue Settlement,29318.0
+X00086,PE015,Venue Settlement,134679.0
+X00049,PE009,Venue Rent,252900.0
+X00192,PE032,Medical Testing & Insurance,14100.0
+X00137,PE023,"Officials, Doctors & Ambulance",16660.0
+X00134,PE023,Venue Settlement,25730.0

@@ -1,0 +1,197 @@
+Deal_ID,Event_ID,Sponsor,Category,Placement,Fee,Market,Card_Type
+D0001,PE001,Peak Energy Drink,Beverage,Fight Night Only,24100.0,New York,Big
+D0002,PE001,Southside Tequila,Spirits,Fight Night Only,77000.0,New York,Big
+D0003,PE001,Crown Auto Group,Automotive,Fight Night Only,58700.0,New York,Big
+D0004,PE001,Liberty Credit Union,Financial,Fight Night Only,28300.0,New York,Big
+D0005,PE001,Kingpin Sportsbook,Betting,Fight Night Only,22500.0,New York,Big
+D0006,PE001,Fresh Fade Barbers,Local Business,Fight Night Only,89400.0,New York,Big
+D0007,PE002,Liberty Credit Union,Financial,Fight Night Only,5200.0,Texas,Mid-sized
+D0008,PE002,Crown Auto Group,Automotive,Fight Week + Fight Night,20700.0,Texas,Mid-sized
+D0009,PE002,Fresh Fade Barbers,Local Business,Fight Night Only,17500.0,Texas,Mid-sized
+D0010,PE002,Blaze Hot Sauce,Food,Fight Night Only,6500.0,Texas,Mid-sized
+D0011,PE003,Southside Tequila,Spirits,Fight Week + Fight Night,141100.0,Atlanta,Big
+D0012,PE003,Iron Temple Gym,Local Business,Fight Night Only,61400.0,Atlanta,Big
+D0013,PE003,Nova Wireless,Telecom,Fight Night Only,77700.0,Atlanta,Big
+D0014,PE003,Peak Energy Drink,Beverage,Fight Night Only,26200.0,Atlanta,Big
+D0015,PE003,Kingpin Sportsbook,Betting,Fight Night Only,47900.0,Atlanta,Big
+D0016,PE003,Liberty Credit Union,Financial,Fight Night Only,80100.0,Atlanta,Big
+D0017,PE004,Crown Auto Group,Automotive,Fight Night Only,18100.0,Philadelphia,Mid-sized
+D0018,PE004,Riverline Bank,Financial,Fight Night Only,7500.0,Philadelphia,Mid-sized
+D0019,PE004,Peak Energy Drink,Beverage,Fight Night Only,14000.0,Philadelphia,Mid-sized
+D0020,PE004,Liberty Credit Union,Financial,Fight Night Only,5300.0,Philadelphia,Mid-sized
+D0021,PE005,Fresh Fade Barbers,Local Business,Fight Night Only,8700.0,DMV,Mid-sized
+D0022,PE005,Southside Tequila,Spirits,Fight Night Only,15800.0,DMV,Mid-sized
+D0023,PE005,Liberty Credit Union,Financial,Fight Night Only,15500.0,DMV,Mid-sized
+D0024,PE005,Nova Wireless,Telecom,Fight Night Only,21400.0,DMV,Mid-sized
+D0025,PE006,Liberty Credit Union,Financial,Fight Night Only,61000.0,New York,Big
+D0026,PE006,Crown Auto Group,Automotive,Fight Week + Fight Night,82600.0,New York,Big
+D0027,PE006,Blaze Hot Sauce,Food,Fight Night Only,53300.0,New York,Big
+D0028,PE006,Fresh Fade Barbers,Local Business,Fight Night Only,60900.0,New York,Big
+D0029,PE007,Crown Auto Group,Automotive,Fight Night Only,32500.0,Las Vegas,Big
+D0030,PE007,Kingpin Sportsbook,Betting,Fight Night Only,62300.0,Las Vegas,Big
+D0031,PE007,Blaze Hot Sauce,Food,Fight Week + Fight Night,76600.0,Las Vegas,Big
+D0032,PE007,Southside Tequila,Spirits,Fight Night Only,86900.0,Las Vegas,Big
+D0033,PE007,Fresh Fade Barbers,Local Business,Fight Week + Fight Night,43100.0,Las Vegas,Big
+D0034,PE007,Nova Wireless,Telecom,Fight Night Only,72600.0,Las Vegas,Big
+D0035,PE008,Crown Auto Group,Automotive,Fight Night Only,13400.0,DMV,Mid-sized
+D0036,PE008,Kingpin Sportsbook,Betting,Fight Night Only,21000.0,DMV,Mid-sized
+D0037,PE008,Peak Energy Drink,Beverage,Fight Night Only,17100.0,DMV,Mid-sized
+D0038,PE009,Fresh Fade Barbers,Local Business,Fight Night Only,41400.0,New York,Big
+D0039,PE009,Riverline Bank,Financial,Fight Night Only,47800.0,New York,Big
+D0040,PE009,Blaze Hot Sauce,Food,Fight Night Only,44200.0,New York,Big
+D0041,PE009,Southside Tequila,Spirits,Fight Night Only,26000.0,New York,Big
+D0042,PE009,Peak Energy Drink,Beverage,Fight Night Only,34600.0,New York,Big
+D0043,PE010,Riverline Bank,Financial,Fight Night Only,48400.0,Las Vegas,Big
+D0044,PE010,Kingpin Sportsbook,Betting,Fight Night Only,43600.0,Las Vegas,Big
+D0045,PE010,Liberty Credit Union,Financial,Fight Night Only,72500.0,Las Vegas,Big
+D0046,PE010,Nova Wireless,Telecom,Fight Week + Fight Night,73500.0,Las Vegas,Big
+D0047,PE010,Blaze Hot Sauce,Food,Fight Night Only,89000.0,Las Vegas,Big
+D0048,PE011,Nova Wireless,Telecom,Fight Night Only,21900.0,Texas,Mid-sized
+D0049,PE011,Fresh Fade Barbers,Local Business,Fight Night Only,19300.0,Texas,Mid-sized
+D0050,PE012,Fresh Fade Barbers,Local Business,Fight Night Only,14500.0,Philadelphia,Mid-sized
+D0051,PE012,Kingpin Sportsbook,Betting,Fight Night Only,18200.0,Philadelphia,Mid-sized
+D0052,PE012,Iron Temple Gym,Local Business,Fight Night Only,19300.0,Philadelphia,Mid-sized
+D0053,PE012,Peak Energy Drink,Beverage,Fight Night Only,23300.0,Philadelphia,Mid-sized
+D0054,PE013,Liberty Credit Union,Financial,Fight Week + Fight Night,65500.0,New York,Big
+D0055,PE013,Fresh Fade Barbers,Local Business,Fight Night Only,26500.0,New York,Big
+D0056,PE013,Riverline Bank,Financial,Fight Night Only,58900.0,New York,Big
+D0057,PE013,Southside Tequila,Spirits,Fight Night Only,54600.0,New York,Big
+D0058,PE013,Peak Energy Drink,Beverage,Fight Night Only,82100.0,New York,Big
+D0059,PE014,Crown Auto Group,Automotive,Fight Night Only,6700.0,DMV,Mid-sized
+D0060,PE014,Peak Energy Drink,Beverage,Fight Night Only,22600.0,DMV,Mid-sized
+D0061,PE014,Fresh Fade Barbers,Local Business,Fight Week + Fight Night,10100.0,DMV,Mid-sized
+D0062,PE015,Nova Wireless,Telecom,Fight Night Only,63900.0,Las Vegas,Big
+D0063,PE015,Peak Energy Drink,Beverage,Fight Night Only,19600.0,Las Vegas,Big
+D0064,PE015,Riverline Bank,Financial,Fight Week + Fight Night,81500.0,Las Vegas,Big
+D0065,PE015,Blaze Hot Sauce,Food,Fight Night Only,70500.0,Las Vegas,Big
+D0066,PE016,Blaze Hot Sauce,Food,Fight Night Only,11800.0,DMV,Mid-sized
+D0067,PE016,Southside Tequila,Spirits,Fight Night Only,16300.0,DMV,Mid-sized
+D0068,PE017,Crown Auto Group,Automotive,Fight Night Only,18600.0,DMV,Mid-sized
+D0069,PE017,Kingpin Sportsbook,Betting,Fight Night Only,21800.0,DMV,Mid-sized
+D0070,PE017,Fresh Fade Barbers,Local Business,Fight Night Only,13000.0,DMV,Mid-sized
+D0071,PE017,Liberty Credit Union,Financial,Fight Night Only,19700.0,DMV,Mid-sized
+D0072,PE018,Crown Auto Group,Automotive,Fight Night Only,20500.0,New York,Big
+D0073,PE018,Liberty Credit Union,Financial,Fight Night Only,24700.0,New York,Big
+D0074,PE018,Nova Wireless,Telecom,Fight Night Only,41100.0,New York,Big
+D0075,PE019,Blaze Hot Sauce,Food,Fight Week + Fight Night,143400.0,Las Vegas,Big
+D0076,PE019,Fresh Fade Barbers,Local Business,Fight Night Only,62900.0,Las Vegas,Big
+D0077,PE019,Southside Tequila,Spirits,Fight Night Only,59900.0,Las Vegas,Big
+D0078,PE020,Riverline Bank,Financial,Fight Week + Fight Night,10200.0,DMV,Mid-sized
+D0079,PE020,Liberty Credit Union,Financial,Fight Night Only,14200.0,DMV,Mid-sized
+D0080,PE020,Southside Tequila,Spirits,Fight Night Only,19600.0,DMV,Mid-sized
+D0081,PE021,Liberty Credit Union,Financial,Fight Night Only,7300.0,Texas,Mid-sized
+D0082,PE021,Kingpin Sportsbook,Betting,Fight Night Only,14600.0,Texas,Mid-sized
+D0083,PE022,Fresh Fade Barbers,Local Business,Fight Night Only,21900.0,Philadelphia,Mid-sized
+D0084,PE022,Crown Auto Group,Automotive,Fight Night Only,23400.0,Philadelphia,Mid-sized
+D0085,PE023,Crown Auto Group,Automotive,Fight Night Only,12700.0,DMV,Mid-sized
+D0086,PE023,Liberty Credit Union,Financial,Fight Night Only,19300.0,DMV,Mid-sized
+D0087,PE023,Blaze Hot Sauce,Food,Fight Night Only,21600.0,DMV,Mid-sized
+D0088,PE023,Kingpin Sportsbook,Betting,Fight Night Only,16600.0,DMV,Mid-sized
+D0089,PE024,Peak Energy Drink,Beverage,Fight Night Only,42900.0,New York,Big
+D0090,PE024,Southside Tequila,Spirits,Fight Night Only,58200.0,New York,Big
+D0091,PE024,Kingpin Sportsbook,Betting,Fight Week + Fight Night,31100.0,New York,Big
+D0092,PE024,Riverline Bank,Financial,Fight Night Only,49200.0,New York,Big
+D0093,PE024,Crown Auto Group,Automotive,Fight Night Only,46900.0,New York,Big
+D0094,PE025,Iron Temple Gym,Local Business,Fight Night Only,5600.0,Texas,Mid-sized
+D0095,PE025,Fresh Fade Barbers,Local Business,Fight Night Only,7000.0,Texas,Mid-sized
+D0096,PE025,Blaze Hot Sauce,Food,Fight Night Only,16100.000000000002,Texas,Mid-sized
+D0097,PE025,Nova Wireless,Telecom,Fight Night Only,6500.0,Texas,Mid-sized
+D0098,PE026,Iron Temple Gym,Local Business,Fight Night Only,8500.0,Philadelphia,Mid-sized
+D0099,PE026,Liberty Credit Union,Financial,Fight Week + Fight Night,19800.0,Philadelphia,Mid-sized
+D0100,PE027,Iron Temple Gym,Local Business,Fight Week + Fight Night,104900.0,Las Vegas,Big
+D0101,PE027,Kingpin Sportsbook,Betting,Fight Night Only,43800.0,Las Vegas,Big
+D0102,PE027,Liberty Credit Union,Financial,Fight Week + Fight Night,107500.0,Las Vegas,Big
+D0103,PE028,Crown Auto Group,Automotive,Fight Night Only,19700.0,Philadelphia,Mid-sized
+D0104,PE028,Nova Wireless,Telecom,Fight Night Only,24300.0,Philadelphia,Mid-sized
+D0105,PE028,Iron Temple Gym,Local Business,Fight Night Only,22800.0,Philadelphia,Mid-sized
+D0106,PE028,Fresh Fade Barbers,Local Business,Fight Night Only,24200.0,Philadelphia,Mid-sized
+D0107,PE029,Kingpin Sportsbook,Betting,Fight Week + Fight Night,11100.0,Texas,Mid-sized
+D0108,PE029,Blaze Hot Sauce,Food,Fight Week + Fight Night,20600.0,Texas,Mid-sized
+D0109,PE030,Nova Wireless,Telecom,Fight Night Only,18400.0,Texas,Mid-sized
+D0110,PE030,Crown Auto Group,Automotive,Fight Night Only,16900.0,Texas,Mid-sized
+D0111,PE031,Crown Auto Group,Automotive,Fight Night Only,16500.0,Texas,Mid-sized
+D0112,PE031,Blaze Hot Sauce,Food,Fight Night Only,21800.0,Texas,Mid-sized
+D0113,PE031,Fresh Fade Barbers,Local Business,Fight Night Only,24300.0,Texas,Mid-sized
+D0114,PE032,Southside Tequila,Spirits,Fight Night Only,21100.0,DMV,Mid-sized
+D0115,PE032,Crown Auto Group,Automotive,Fight Night Only,19300.0,DMV,Mid-sized
+D0116,PE032,Riverline Bank,Financial,Fight Night Only,13800.0,DMV,Mid-sized
+D0117,PE033,Fresh Fade Barbers,Local Business,Fight Week + Fight Night,28200.0,DMV,Mid-sized
+D0118,PE033,Nova Wireless,Telecom,Fight Night Only,23500.0,DMV,Mid-sized
+D0119,PE034,Blaze Hot Sauce,Food,Fight Night Only,17300.0,Texas,Mid-sized
+D0120,PE034,Nova Wireless,Telecom,Fight Week + Fight Night,30400.0,Texas,Mid-sized
+D0121,PE034,Southside Tequila,Spirits,Fight Night Only,13600.0,Texas,Mid-sized
+D0122,PE034,Liberty Credit Union,Financial,Fight Night Only,16800.0,Texas,Mid-sized
+D0123,PE035,Nova Wireless,Telecom,Fight Night Only,12300.0,Philadelphia,Mid-sized
+D0124,PE035,Peak Energy Drink,Beverage,Fight Night Only,23100.0,Philadelphia,Mid-sized
+D0125,PE036,Riverline Bank,Financial,Fight Night Only,24000.0,New York,Big
+D0126,PE036,Crown Auto Group,Automotive,Fight Week + Fight Night,133700.0,New York,Big
+D0127,PE036,Peak Energy Drink,Beverage,Fight Week + Fight Night,34000.0,New York,Big
+D0128,PE036,Liberty Credit Union,Financial,Fight Night Only,87700.0,New York,Big
+D0129,PE036,Southside Tequila,Spirits,Fight Night Only,88200.0,New York,Big
+D0130,PE037,Blaze Hot Sauce,Food,Fight Night Only,42900.0,Las Vegas,Big
+D0131,PE037,Riverline Bank,Financial,Fight Week + Fight Night,94900.0,Las Vegas,Big
+D0132,PE037,Kingpin Sportsbook,Betting,Fight Night Only,56600.0,Las Vegas,Big
+D0133,PE037,Crown Auto Group,Automotive,Fight Night Only,31000.0,Las Vegas,Big
+D0134,PE037,Nova Wireless,Telecom,Fight Week + Fight Night,61300.0,Las Vegas,Big
+D0135,PE038,Riverline Bank,Financial,Fight Night Only,35800.0,New York,Big
+D0136,PE038,Crown Auto Group,Automotive,Fight Night Only,53300.0,New York,Big
+D0137,PE038,Fresh Fade Barbers,Local Business,Fight Week + Fight Night,54300.0,New York,Big
+D0138,PE039,Riverline Bank,Financial,Fight Night Only,64700.0,New York,Big
+D0139,PE039,Blaze Hot Sauce,Food,Fight Week + Fight Night,51000.0,New York,Big
+D0140,PE039,Iron Temple Gym,Local Business,Fight Night Only,19300.0,New York,Big
+D0141,PE040,Riverline Bank,Financial,Fight Night Only,78300.0,Atlanta,Big
+D0142,PE040,Fresh Fade Barbers,Local Business,Fight Week + Fight Night,115000.0,Atlanta,Big
+D0143,PE040,Liberty Credit Union,Financial,Fight Night Only,68500.0,Atlanta,Big
+D0144,PE040,Peak Energy Drink,Beverage,Fight Night Only,77700.0,Atlanta,Big
+D0145,PE040,Nova Wireless,Telecom,Fight Night Only,20200.0,Atlanta,Big
+D0146,PE041,Peak Energy Drink,Beverage,Fight Week + Fight Night,19400.0,Philadelphia,Mid-sized
+D0147,PE041,Liberty Credit Union,Financial,Fight Night Only,17400.0,Philadelphia,Mid-sized
+D0148,PE041,Fresh Fade Barbers,Local Business,Fight Night Only,19700.0,Philadelphia,Mid-sized
+D0149,PE041,Crown Auto Group,Automotive,Fight Night Only,14400.0,Philadelphia,Mid-sized
+D0150,PE042,Nova Wireless,Telecom,Fight Night Only,19000.0,Las Vegas,Big
+D0151,PE042,Crown Auto Group,Automotive,Fight Night Only,87700.0,Las Vegas,Big
+D0152,PE042,Southside Tequila,Spirits,Fight Week + Fight Night,139600.0,Las Vegas,Big
+D0153,PE042,Iron Temple Gym,Local Business,Fight Night Only,51900.0,Las Vegas,Big
+D0154,PE042,Kingpin Sportsbook,Betting,Fight Night Only,28900.0,Las Vegas,Big
+D0155,PE042,Peak Energy Drink,Beverage,Fight Night Only,87400.0,Las Vegas,Big
+D0156,PE043,Riverline Bank,Financial,Fight Night Only,89100.0,Atlanta,Big
+D0157,PE043,Kingpin Sportsbook,Betting,Fight Night Only,43800.0,Atlanta,Big
+D0158,PE043,Liberty Credit Union,Financial,Fight Night Only,41900.0,Atlanta,Big
+D0159,PE043,Peak Energy Drink,Beverage,Fight Night Only,43100.0,Atlanta,Big
+D0160,PE044,Kingpin Sportsbook,Betting,Fight Night Only,52900.0,Las Vegas,Big
+D0161,PE044,Riverline Bank,Financial,Fight Week + Fight Night,61700.0,Las Vegas,Big
+D0162,PE044,Southside Tequila,Spirits,Fight Night Only,43800.0,Las Vegas,Big
+D0163,PE044,Crown Auto Group,Automotive,Fight Night Only,49000.0,Las Vegas,Big
+D0164,PE045,Blaze Hot Sauce,Food,Fight Night Only,59500.0,Las Vegas,Big
+D0165,PE045,Iron Temple Gym,Local Business,Fight Night Only,80200.0,Las Vegas,Big
+D0166,PE045,Southside Tequila,Spirits,Fight Night Only,21700.0,Las Vegas,Big
+D0167,PE045,Liberty Credit Union,Financial,Fight Night Only,76000.0,Las Vegas,Big
+D0168,PE045,Peak Energy Drink,Beverage,Fight Night Only,67000.0,Las Vegas,Big
+D0169,PE046,Crown Auto Group,Automotive,Fight Night Only,23200.0,Texas,Mid-sized
+D0170,PE046,Nova Wireless,Telecom,Fight Night Only,11900.0,Texas,Mid-sized
+D0171,PE046,Fresh Fade Barbers,Local Business,Fight Night Only,20200.0,Texas,Mid-sized
+D0172,PE047,Crown Auto Group,Automotive,Fight Night Only,22700.0,Philadelphia,Mid-sized
+D0173,PE047,Blaze Hot Sauce,Food,Fight Night Only,8000.0,Philadelphia,Mid-sized
+D0174,PE047,Southside Tequila,Spirits,Fight Week + Fight Night,32800.0,Philadelphia,Mid-sized
+D0175,PE047,Kingpin Sportsbook,Betting,Fight Week + Fight Night,24600.0,Philadelphia,Mid-sized
+D0176,PE048,Kingpin Sportsbook,Betting,Fight Night Only,74000.0,Atlanta,Big
+D0177,PE048,Fresh Fade Barbers,Local Business,Fight Night Only,21500.0,Atlanta,Big
+D0178,PE048,Peak Energy Drink,Beverage,Fight Night Only,60600.0,Atlanta,Big
+D0179,PE048,Crown Auto Group,Automotive,Fight Night Only,51400.0,Atlanta,Big
+D0180,PE048,Iron Temple Gym,Local Business,Fight Night Only,15300.0,Atlanta,Big
+D0181,PE048,Liberty Credit Union,Financial,Fight Night Only,26400.0,Atlanta,Big
+D0182,PE049,Riverline Bank,Financial,Fight Night Only,22600.0,Las Vegas,Big
+D0183,PE049,Fresh Fade Barbers,Local Business,Fight Night Only,55400.0,Las Vegas,Big
+D0184,PE049,Iron Temple Gym,Local Business,Fight Night Only,88100.0,Las Vegas,Big
+D0185,PE050,Riverline Bank,Financial,Fight Night Only,65000.0,Las Vegas,Big
+D0186,PE050,Southside Tequila,Spirits,Fight Night Only,29800.0,Las Vegas,Big
+D0187,PE050,Fresh Fade Barbers,Local Business,Fight Week + Fight Night,82000.0,Las Vegas,Big
+D0188,PE050,Liberty Credit Union,Financial,Fight Night Only,30400.0,Las Vegas,Big
+D0189,PE050,Iron Temple Gym,Local Business,Fight Night Only,51300.0,Las Vegas,Big
+D0190,PE050,Nova Wireless,Telecom,Fight Night Only,57600.0,Las Vegas,Big
+D0191,PE051,Southside Tequila,Spirits,Fight Week + Fight Night,66600.0,New York,Big
+D0192,PE051,Nova Wireless,Telecom,Fight Night Only,86800.0,New York,Big
+D0193,PE051,Fresh Fade Barbers,Local Business,Fight Week + Fight Night,113800.0,New York,Big
+D0194,PE051,Iron Temple Gym,Local Business,Fight Night Only,60000.0,New York,Big
+D0195,PE051,Riverline Bank,Financial,Fight Night Only,54000.0,New York,Big
+D0196,PE051,Liberty Credit Union,Financial,Fight Week + Fight Night,103200.0,New York,Big

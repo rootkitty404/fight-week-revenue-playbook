@@ -1,0 +1,140 @@
+Package_ID,Event_ID,Package,Price,Units_Available,Units_Sold,Package_Sell_Through,Sold_Out,Package_Revenue,Market,Card_Type
+H0001,PE001,Ringside Experience,2240.0,45,45,1.0,True,100800.0,New York,Big
+H0002,PE001,VIP Lounge,970.0,147,142,0.966,True,137740.0,New York,Big
+H0003,PE001,Walkout Access,3740.0,17,17,1.0,True,63580.0,New York,Big
+H0004,PE002,Ringside Experience,1080.0,48,21,0.438,False,22680.0,Texas,Mid-sized
+H0005,PE002,VIP Lounge,470.0,127,40,0.315,False,18800.0,Texas,Mid-sized
+H0006,PE002,Hotel + Ticket Bundle,650.0,89,33,0.371,False,21450.0,Texas,Mid-sized
+H0007,PE003,Ringside Experience,1900.0,49,48,0.98,True,91200.0,Atlanta,Big
+H0008,PE003,VIP Lounge,820.0,166,161,0.97,True,132020.0,Atlanta,Big
+H0009,PE003,Walkout Access,3160.0,19,19,1.0,True,60040.0,Atlanta,Big
+H0010,PE004,Ringside Experience,1150.0,32,21,0.656,False,24150.0,Philadelphia,Mid-sized
+H0011,PE004,VIP Lounge,500.0,94,56,0.596,False,28000.0,Philadelphia,Mid-sized
+H0012,PE005,Ringside Experience,1080.0,28,18,0.643,False,19440.0,DMV,Mid-sized
+H0013,PE005,VIP Lounge,470.0,78,42,0.538,False,19740.0,DMV,Mid-sized
+H0014,PE005,Hotel + Ticket Bundle,650.0,42,27,0.643,False,17550.0,DMV,Mid-sized
+H0015,PE006,Ringside Experience,2240.0,49,47,0.959,True,105280.0,New York,Big
+H0016,PE006,VIP Lounge,970.0,137,137,1.0,True,132890.0,New York,Big
+H0017,PE006,Walkout Access,3740.0,16,16,1.0,True,59840.0,New York,Big
+H0018,PE007,Ringside Experience,2810.0,47,45,0.957,True,126450.0,Las Vegas,Big
+H0019,PE007,VIP Lounge,1220.0,158,157,0.994,True,191540.0,Las Vegas,Big
+H0020,PE007,Walkout Access,4690.0,16,16,1.0,True,75040.0,Las Vegas,Big
+H0021,PE008,Ringside Experience,1080.0,45,18,0.4,False,19440.0,DMV,Mid-sized
+H0022,PE008,VIP Lounge,470.0,170,80,0.471,False,37600.0,DMV,Mid-sized
+H0023,PE009,Ringside Experience,2240.0,60,58,0.967,True,129920.0,New York,Big
+H0024,PE009,VIP Lounge,970.0,156,151,0.968,True,146470.0,New York,Big
+H0025,PE009,Walkout Access,3740.0,18,18,1.0,True,67320.0,New York,Big
+H0026,PE009,Hotel + Ticket Bundle,1350.0,80,79,0.988,True,106650.0,New York,Big
+H0027,PE010,Ringside Experience,2810.0,50,48,0.96,True,134880.0,Las Vegas,Big
+H0028,PE010,VIP Lounge,1220.0,157,156,0.994,True,190320.0,Las Vegas,Big
+H0029,PE010,Walkout Access,4690.0,18,18,1.0,True,84420.0,Las Vegas,Big
+H0030,PE011,Ringside Experience,1080.0,40,34,0.85,False,36720.0,Texas,Mid-sized
+H0031,PE011,VIP Lounge,470.0,82,54,0.659,False,25380.0,Texas,Mid-sized
+H0032,PE012,Ringside Experience,1150.0,35,23,0.657,False,26450.0,Philadelphia,Mid-sized
+H0033,PE012,VIP Lounge,500.0,96,58,0.604,False,29000.0,Philadelphia,Mid-sized
+H0034,PE013,Ringside Experience,2930.0,61,59,0.967,True,172870.0,New York,Big
+H0035,PE013,VIP Lounge,1270.0,180,180,1.0,True,228600.0,New York,Big
+H0036,PE013,Walkout Access,4880.0,21,21,1.0,True,102480.0,New York,Big
+H0037,PE013,Hotel + Ticket Bundle,1760.0,90,89,0.989,True,156640.0,New York,Big
+H0038,PE014,Ringside Experience,1380.0,26,16,0.615,False,22080.0,DMV,Mid-sized
+H0039,PE014,VIP Lounge,600.0,72,41,0.569,False,24600.0,DMV,Mid-sized
+H0040,PE015,Ringside Experience,2810.0,57,56,0.982,True,157360.0,Las Vegas,Big
+H0041,PE015,VIP Lounge,1220.0,174,172,0.989,True,209840.0,Las Vegas,Big
+H0042,PE015,Walkout Access,4690.0,18,18,1.0,True,84420.0,Las Vegas,Big
+H0043,PE016,Ringside Experience,1080.0,25,16,0.64,False,17280.0,DMV,Mid-sized
+H0044,PE016,VIP Lounge,470.0,65,41,0.631,False,19270.0,DMV,Mid-sized
+H0045,PE017,Ringside Experience,1080.0,28,16,0.571,False,17280.0,DMV,Mid-sized
+H0046,PE017,VIP Lounge,470.0,82,51,0.622,False,23970.0,DMV,Mid-sized
+H0047,PE018,Ringside Experience,2240.0,46,45,0.978,True,100800.0,New York,Big
+H0048,PE018,VIP Lounge,970.0,132,128,0.97,True,124160.0,New York,Big
+H0049,PE018,Walkout Access,3740.0,20,19,0.95,True,71060.0,New York,Big
+H0050,PE018,Hotel + Ticket Bundle,1350.0,74,74,1.0,True,99900.0,New York,Big
+H0051,PE019,Ringside Experience,2160.0,58,57,0.983,True,123120.0,Las Vegas,Big
+H0052,PE019,VIP Lounge,930.0,162,160,0.988,True,148800.0,Las Vegas,Big
+H0053,PE019,Walkout Access,3590.0,20,20,1.0,True,71800.0,Las Vegas,Big
+H0054,PE020,Ringside Experience,1080.0,37,31,0.838,False,33480.0,DMV,Mid-sized
+H0055,PE020,VIP Lounge,470.0,94,71,0.755,False,33370.0,DMV,Mid-sized
+H0056,PE020,Hotel + Ticket Bundle,650.0,54,45,0.833,False,29250.0,DMV,Mid-sized
+H0057,PE021,Ringside Experience,1380.0,34,22,0.647,False,30360.0,Texas,Mid-sized
+H0058,PE021,VIP Lounge,600.0,89,57,0.64,False,34200.0,Texas,Mid-sized
+H0059,PE022,Ringside Experience,1150.0,28,18,0.643,False,20700.0,Philadelphia,Mid-sized
+H0060,PE022,VIP Lounge,500.0,99,64,0.646,False,32000.0,Philadelphia,Mid-sized
+H0061,PE023,Ringside Experience,1380.0,37,32,0.865,False,44160.0,DMV,Mid-sized
+H0062,PE023,VIP Lounge,600.0,89,66,0.742,False,39600.0,DMV,Mid-sized
+H0063,PE024,Ringside Experience,2930.0,62,60,0.968,True,175800.0,New York,Big
+H0064,PE024,VIP Lounge,1270.0,173,168,0.971,True,213360.0,New York,Big
+H0065,PE024,Walkout Access,4880.0,18,18,1.0,True,87840.0,New York,Big
+H0066,PE025,Ringside Experience,1080.0,35,29,0.829,False,31320.0,Texas,Mid-sized
+H0067,PE025,VIP Lounge,470.0,108,94,0.87,False,44180.0,Texas,Mid-sized
+H0068,PE026,Ringside Experience,1470.0,56,24,0.429,False,35280.0,Philadelphia,Mid-sized
+H0069,PE026,VIP Lounge,640.0,133,61,0.459,False,39040.0,Philadelphia,Mid-sized
+H0070,PE027,Ringside Experience,2810.0,46,46,1.0,True,129260.0,Las Vegas,Big
+H0071,PE027,VIP Lounge,1220.0,134,130,0.97,True,158600.0,Las Vegas,Big
+H0072,PE027,Walkout Access,4690.0,20,19,0.95,True,89110.0,Las Vegas,Big
+H0073,PE027,Hotel + Ticket Bundle,1690.0,76,75,0.987,True,126750.0,Las Vegas,Big
+H0074,PE028,Ringside Experience,1150.0,29,23,0.793,False,26450.0,Philadelphia,Mid-sized
+H0075,PE028,VIP Lounge,500.0,77,59,0.766,False,29500.0,Philadelphia,Mid-sized
+H0076,PE029,Ringside Experience,1380.0,30,18,0.6,False,24840.0,Texas,Mid-sized
+H0077,PE029,VIP Lounge,600.0,107,54,0.505,False,32400.0,Texas,Mid-sized
+H0078,PE030,Ringside Experience,1380.0,51,21,0.412,False,28980.0,Texas,Mid-sized
+H0079,PE030,VIP Lounge,600.0,135,57,0.422,False,34200.0,Texas,Mid-sized
+H0080,PE031,Ringside Experience,1080.0,35,24,0.686,False,25920.0,Texas,Mid-sized
+H0081,PE031,VIP Lounge,470.0,103,81,0.786,False,38070.0,Texas,Mid-sized
+H0082,PE032,Ringside Experience,1380.0,51,21,0.412,False,28980.0,DMV,Mid-sized
+H0083,PE032,VIP Lounge,600.0,131,43,0.328,False,25800.0,DMV,Mid-sized
+H0084,PE033,Ringside Experience,1080.0,27,16,0.593,False,17280.0,DMV,Mid-sized
+H0085,PE033,VIP Lounge,470.0,89,52,0.584,False,24440.0,DMV,Mid-sized
+H0086,PE034,Ringside Experience,1380.0,39,26,0.667,False,35880.0,Texas,Mid-sized
+H0087,PE034,VIP Lounge,600.0,103,78,0.757,False,46800.0,Texas,Mid-sized
+H0088,PE035,Ringside Experience,1150.0,27,23,0.852,False,26450.0,Philadelphia,Mid-sized
+H0089,PE035,VIP Lounge,500.0,69,60,0.87,False,30000.0,Philadelphia,Mid-sized
+H0090,PE036,Ringside Experience,2930.0,51,50,0.98,True,146500.0,New York,Big
+H0091,PE036,VIP Lounge,1270.0,171,169,0.988,True,214630.0,New York,Big
+H0092,PE036,Walkout Access,4880.0,21,20,0.952,True,97600.0,New York,Big
+H0093,PE036,Hotel + Ticket Bundle,1760.0,67,66,0.985,True,116160.0,New York,Big
+H0094,PE037,Ringside Experience,2160.0,43,41,0.953,True,88560.0,Las Vegas,Big
+H0095,PE037,VIP Lounge,930.0,168,164,0.976,True,152520.0,Las Vegas,Big
+H0096,PE037,Walkout Access,3590.0,19,18,0.947,False,64620.0,Las Vegas,Big
+H0097,PE038,Ringside Experience,2930.0,51,49,0.961,True,143570.0,New York,Big
+H0098,PE038,VIP Lounge,1270.0,171,165,0.965,True,209550.0,New York,Big
+H0099,PE038,Walkout Access,4880.0,21,21,1.0,True,102480.0,New York,Big
+H0100,PE039,Ringside Experience,2240.0,49,48,0.98,True,107520.0,New York,Big
+H0101,PE039,VIP Lounge,970.0,162,158,0.975,True,153260.0,New York,Big
+H0102,PE039,Walkout Access,3740.0,15,15,1.0,True,56100.0,New York,Big
+H0103,PE040,Ringside Experience,2480.0,52,51,0.981,True,126480.0,Atlanta,Big
+H0104,PE040,VIP Lounge,1070.0,150,144,0.96,True,154080.0,Atlanta,Big
+H0105,PE040,Walkout Access,4120.0,16,16,1.0,True,65920.0,Atlanta,Big
+H0106,PE040,Hotel + Ticket Bundle,1490.0,71,69,0.972,True,102810.0,Atlanta,Big
+H0107,PE041,Ringside Experience,1470.0,28,14,0.5,False,20580.0,Philadelphia,Mid-sized
+H0108,PE041,VIP Lounge,640.0,71,43,0.606,False,27520.0,Philadelphia,Mid-sized
+H0109,PE042,Ringside Experience,2160.0,60,58,0.967,True,125280.0,Las Vegas,Big
+H0110,PE042,VIP Lounge,930.0,159,159,1.0,True,147870.0,Las Vegas,Big
+H0111,PE042,Walkout Access,3590.0,17,17,1.0,True,61030.0,Las Vegas,Big
+H0112,PE042,Hotel + Ticket Bundle,1290.0,72,71,0.986,True,91590.0,Las Vegas,Big
+H0113,PE043,Ringside Experience,1900.0,57,55,0.965,True,104500.0,Atlanta,Big
+H0114,PE043,VIP Lounge,820.0,148,145,0.98,True,118900.0,Atlanta,Big
+H0115,PE043,Walkout Access,3160.0,20,19,0.95,True,60040.0,Atlanta,Big
+H0116,PE043,Hotel + Ticket Bundle,1140.0,85,85,1.0,True,96900.0,Atlanta,Big
+H0117,PE044,Ringside Experience,2810.0,47,46,0.979,True,129260.0,Las Vegas,Big
+H0118,PE044,VIP Lounge,1220.0,150,147,0.98,True,179340.0,Las Vegas,Big
+H0119,PE044,Walkout Access,4690.0,20,19,0.95,True,89110.0,Las Vegas,Big
+H0120,PE045,Ringside Experience,2810.0,52,52,1.0,True,146120.0,Las Vegas,Big
+H0121,PE045,VIP Lounge,1220.0,171,165,0.965,True,201300.0,Las Vegas,Big
+H0122,PE045,Walkout Access,4690.0,16,16,1.0,True,75040.0,Las Vegas,Big
+H0123,PE046,Ringside Experience,1080.0,31,26,0.839,False,28080.0,Texas,Mid-sized
+H0124,PE046,VIP Lounge,470.0,86,61,0.709,False,28670.0,Texas,Mid-sized
+H0125,PE047,Ringside Experience,1150.0,56,23,0.411,False,26450.0,Philadelphia,Mid-sized
+H0126,PE047,VIP Lounge,500.0,133,52,0.391,False,26000.0,Philadelphia,Mid-sized
+H0127,PE048,Ringside Experience,1900.0,51,50,0.98,True,95000.0,Atlanta,Big
+H0128,PE048,VIP Lounge,820.0,165,163,0.988,True,133660.0,Atlanta,Big
+H0129,PE048,Walkout Access,3160.0,19,18,0.947,False,56880.0,Atlanta,Big
+H0130,PE049,Ringside Experience,2160.0,47,45,0.957,True,97200.0,Las Vegas,Big
+H0131,PE049,VIP Lounge,930.0,114,110,0.965,True,102300.0,Las Vegas,Big
+H0132,PE049,Walkout Access,3590.0,19,19,1.0,True,68210.0,Las Vegas,Big
+H0133,PE050,Ringside Experience,2160.0,54,54,1.0,True,116640.0,Las Vegas,Big
+H0134,PE050,VIP Lounge,930.0,119,117,0.983,True,108810.0,Las Vegas,Big
+H0135,PE050,Walkout Access,3590.0,19,18,0.947,False,64620.0,Las Vegas,Big
+H0136,PE051,Ringside Experience,2930.0,43,43,1.0,True,125990.0,New York,Big
+H0137,PE051,VIP Lounge,1270.0,141,137,0.972,True,173990.0,New York,Big
+H0138,PE051,Walkout Access,4880.0,20,19,0.95,True,92720.0,New York,Big
+H0139,PE051,Hotel + Ticket Bundle,1760.0,67,65,0.97,True,114400.0,New York,Big

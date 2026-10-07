@@ -1,0 +1,315 @@
+Line_ID,Event_ID,Category,Amount
+X00278,PE047,Venue Settlement,104068
+X00065,PE011,Officials/Medical Staff,$14.3K
+X00073,PE013,Rent - Venue,"$400,450.26"
+X00056,PE010,Settlement,$117.2K
+X00018,PE003,fighter insurance & medicals,$16.2K
+X00173,PE029,Officials/Medical Staff,$13.3K
+X00268,PE045,commission fee,$446.6K
+X00290,PE049,Settlement,"$162,769.98"
+X00080,PE014,venue labor & settlement,$38.1K
+X00079,PE014,Venue Rent,$54.4K
+X00101,PE017,"Officials, Doctors & Ambulance","$12,813.32"
+X00108,PE018,Medical Testing & Insurance,$16.8K
+X00180,PE030,fighter insurance & medicals,"$16,740.07"
+X00045,PE008,Prod. Co (flat),$20K
+X00214,PE036,commission fee,$339.1K
+X00253,PE043,Venue Rent,"276,102"
+X00031,PE006,Rent - Venue,$435.7K
+X00240,PE040,fighter insurance & medicals,$15.6K
+X00150,PE025,Medical Testing & Insurance,$16.9K
+X00097,PE017,VENUE RENT,$77.9K
+X00155,PE026,Officials/Medical Staff,"15,535"
+X00038,PE007,Settlement,145384
+X00152,PE026,Venue Settlement,$92.4K
+X00090,PE015,Medical Testing & Insurance,$17.1K
+X00226,PE038,Commission & Gate Tax,"$396,380.02"
+X00140,PE024,venue labor & settlement,$158K
+X00277,PE047,Venue Rent,$200.1K
+X00293,PE049,"Officials, Doctors & Ambulance","30,113"
+X00274,PE046,commission fee,$35.7K
+X00070,PE012,Commission & Gate Tax,"$31,708.56"
+X00093,PE016,production company,"$20,000.00"
+X00026,PE005,venue labor & settlement,"21,796"
+X00186,PE031,fighter insurance & medicals,$17.4K
+X00094,PE016,Commission & Gate Tax,$23.2K
+X00089,PE015,officials & ambulance,$43.1K
+X00187,PE032,VENUE RENT,"226,511"
+X00138,PE023,Medical Testing & Insurance,"16,308"
+X00238,PE040,Gate Tax,$304K
+X00142,PE024,Gate Tax,$315.4K
+X00198,PE033,Medical Testing & Insurance,"$16,056.04"
+X00149,PE025,officials & ambulance,"13,857"
+X00054,PE009,Medical Testing & Insurance,$17.3K
+X00263,PE044,Officials/Medical Staff,"32,771"
+X00267,PE045,production company,$40K
+X00057,PE010,Production Co. flat fee,"$40,000.00"
+X00166,PE028,Commission & Gate Tax,$28.3K
+X00159,PE027,production company,40000
+X00209,PE035,officials & ambulance,$12.2K
+X00282,PE047,Medicals + Insurance,$14.3K
+X00265,PE045,venue rental,$425.6K
+X00252,PE042,Medicals + Insurance,"17,924"
+X00127,PE022,VENUE RENT,54338
+X00004,PE001,commission fee,"$205,590.86"
+X00172,PE029,commission fee,"55,514"
+X00014,PE003,Venue Settlement,160001
+X00217,PE037,VENUE RENT,"268,921"
+X00264,PE044,Medical Testing & Insurance,$17.6K
+X00095,PE016,Officials/Medical Staff,16436
+X00281,PE047,officials & ambulance,"$17,923.38"
+X00114,PE019,fighter insurance & medicals,$16.8K
+X00303,PE051,Production Company (flat fee),"40,000"
+X00023,PE004,Officials/Medical Staff,$14.6K
+X00001,PE001,Rent - Venue,$320.9K
+X00130,PE022,Gate Tax,"30,768"
+X00167,PE028,Officials/Medical Staff,$13.9K
+X00182,PE031,Settlement,"$24,667.34"
+X00034,PE006,Gate Tax,$208.5K
+X00096,PE016,Medicals + Insurance,$16.6K
+X00242,PE041,Settlement,"$28,954.87"
+X00244,PE041,Gate Tax,"$30,422.30"
+X00121,PE021,venue rental,$53.6K
+X00146,PE025,Venue Settlement,$31.3K
+X00147,PE025,Production Co. flat fee,$20K
+X00297,PE050,Production Co. flat fee,"40,000"
+X00112,PE019,Commission & Gate Tax,"323,254"
+X00215,PE036,officials & ambulance,$30.1K
+X00053,PE009,"Officials, Doctors & Ambulance","30,494"
+X00203,PE034,officials & ambulance,"$16,941.68"
+X00204,PE034,fighter insurance & medicals,$17.9K
+X00035,PE006,Officials/Medical Staff,"$34,892.74"
+X00223,PE038,VENUE RENT,"280,009"
+X00046,PE008,Gate Tax,$36.3K
+X00181,PE031,Venue Rent,67085
+X00074,PE013,Venue Settlement,"152,234"
+X00246,PE041,Medical Testing & Insurance,$14.8K
+X00060,PE010,Medical Testing & Insurance,"17,654"
+X00285,PE048,Production Company (flat fee),"40,000"
+X00261,PE044,production company,$40K
+X00110,PE019,Venue Settlement,$105.3K
+X00291,PE049,Prod. Co (flat),"$40,000.00"
+X00133,PE023,Venue Rent,"$54,228.17"
+X00202,PE034,Commission & Gate Tax,"66,149"
+X00051,PE009,Production Co. flat fee,$40K
+X00296,PE050,Venue Settlement,$143.9K
+X00072,PE012,Medical Testing & Insurance,"17,634"
+X00237,PE040,Production Company (flat fee),$40K
+X00260,PE044,Venue Settlement,$119.7K
+X00298,PE050,Commission & Gate Tax,"$284,633.54"
+X00013,PE003,VENUE RENT,304843
+X00115,PE020,VENUE RENT,66370
+X00235,PE040,venue rental,253321
+X00226,PE038,Commission & Gate Tax,"$396,380.02"
+X00063,PE011,Production Company (flat fee),"$20,000.00"
+X00027,PE005,Production Co. flat fee,$20K
+X00300,PE050,Medical Testing & Insurance,"15,851"
+X00005,PE001,"Officials, Doctors & Ambulance",33960
+X00111,PE019,Production Co. flat fee,$40K
+X00248,PE042,venue labor & settlement,"119,741"
+X00210,PE035,Medicals + Insurance,$17.1K
+X00194,PE033,venue labor & settlement,$28.7K
+X00078,PE013,fighter insurance & medicals,$14.3K
+X00136,PE023,commission fee,"$58,612.04"
+X00091,PE016,Rent - Venue,"46,921"
+X00176,PE030,Venue Settlement,"$99,136.06"
+X00196,PE033,Commission & Gate Tax,"20,373"
+X00211,PE036,Rent - Venue,285216
+X00243,PE041,Prod. Co (flat),20000
+X00024,PE004,Medical Testing & Insurance,$17.5K
+X00197,PE033,"Officials, Doctors & Ambulance",$12K
+X00132,PE022,Medical Testing & Insurance,"$14,822.96"
+X00160,PE027,Commission & Gate Tax,$464.8K
+X00183,PE031,Prod. Co (flat),$20K
+X00088,PE015,Commission & Gate Tax,"482,472"
+X00213,PE036,Prod. Co (flat),$40K
+X00081,PE014,Production Company (flat fee),"20,000"
+X00043,PE008,VENUE RENT,"223,038"
+X00165,PE028,Production Co. flat fee,$20K
+X00085,PE015,Venue Rent,$340.8K
+X00234,PE039,Medicals + Insurance,$15.5K
+X00247,PE042,Venue Rent,$251.1K
+X00169,PE029,VENUE RENT,$50.9K
+X00232,PE039,Commission & Gate Tax,183656
+X00154,PE026,commission fee,57837
+X00276,PE046,fighter insurance & medicals,"14,422"
+X00219,PE037,Production Company (flat fee),"$40,000.00"
+X00083,PE014,Officials/Medical Staff,14841
+X00117,PE020,Prod. Co (flat),$20K
+X00196,PE033,Commission & Gate Tax,"20,373"
+X00002,PE001,Settlement,"142,259"
+X00104,PE018,Venue Settlement,$115.9K
+X00006,PE001,Medicals + Insurance,$15.1K
+X00273,PE046,Production Co. flat fee,$20K
+X00129,PE022,Production Co. flat fee,$20K
+X00292,PE049,commission fee,"$279,123.40"
+X00288,PE048,Medical Testing & Insurance,$15.7K
+X00058,PE010,Commission & Gate Tax,$473.2K
+X00066,PE011,Medical Testing & Insurance,"$17,144.44"
+X00212,PE036,Settlement,$131.3K
+X00077,PE013,"Officials, Doctors & Ambulance",$37.1K
+X00040,PE007,Commission & Gate Tax,"523,652"
+X00257,PE043,officials & ambulance,39555
+X00263,PE044,Officials/Medical Staff,"32,771"
+X00284,PE048,Settlement,$169.8K
+X00269,PE045,officials & ambulance,"41,656"
+X00178,PE030,commission fee,56614
+X00028,PE005,Gate Tax,19678
+X00190,PE032,Gate Tax,59527
+X00254,PE043,Settlement,$114.6K
+X00225,PE038,production company,40000
+X00255,PE043,Production Co. flat fee,$40K
+X00229,PE039,venue rental,"$325,400.73"
+X00139,PE024,Venue Rent,$433.1K
+X00275,PE046,"Officials, Doctors & Ambulance",$12.5K
+X00177,PE030,Production Company (flat fee),$20K
+X00107,PE018,"Officials, Doctors & Ambulance",$41.8K
+X00068,PE012,Venue Settlement,$34.3K
+X00188,PE032,venue labor & settlement,$81K
+X00206,PE035,venue labor & settlement,$37.6K
+X00280,PE047,Gate Tax,$42.6K
+X00118,PE020,Commission & Gate Tax,$32.6K
+X00122,PE021,venue labor & settlement,"$26,201.49"
+X00041,PE007,"Officials, Doctors & Ambulance","37,897"
+X00069,PE012,Production Co. flat fee,$20K
+X00239,PE040,"Officials, Doctors & Ambulance","30,353"
+X00299,PE050,"Officials, Doctors & Ambulance",$39.5K
+X00071,PE012,"Officials, Doctors & Ambulance","17,196"
+X00102,PE017,fighter insurance & medicals,16998
+X00295,PE050,VENUE RENT,"318,353"
+X00306,PE051,Medical Testing & Insurance,14684
+X00179,PE030,"Officials, Doctors & Ambulance",18441
+X00036,PE006,Medicals + Insurance,$14K
+X00233,PE039,"Officials, Doctors & Ambulance","$35,097.26"
+X00236,PE040,Settlement,$143.3K
+X00011,PE002,"Officials, Doctors & Ambulance",$16.8K
+X00305,PE051,Officials/Medical Staff,$45K
+X00055,PE010,VENUE RENT,$372.8K
+X00220,PE037,Gate Tax,$256.8K
+X00259,PE044,venue rental,$292K
+X00128,PE022,Venue Settlement,30711
+X00141,PE024,Production Co. flat fee,$40K
+X00283,PE048,venue rental,309252
+X00208,PE035,commission fee,"25,581"
+X00131,PE022,"Officials, Doctors & Ambulance","$14,542.46"
+X00139,PE024,Venue Rent,$433.1K
+X00061,PE011,Venue Rent,$52.8K
+X00015,PE003,Production Company (flat fee),"40,000"
+X00258,PE043,Medical Testing & Insurance,"14,919"
+X00256,PE043,Commission & Gate Tax,$236.8K
+X00033,PE006,Prod. Co (flat),$40K
+X00098,PE017,Venue Settlement,$29.4K
+X00025,PE005,Rent - Venue,$45.6K
+X00241,PE041,VENUE RENT,$71.8K
+X00222,PE037,fighter insurance & medicals,"$14,686.58"
+X00185,PE031,Officials/Medical Staff,$16.9K
+X00189,PE032,Production Company (flat fee),"$20,000.00"
+X00285,PE048,Production Company (flat fee),"40,000"
+X00193,PE033,Rent - Venue,"$44,788.91"
+X00030,PE005,Medical Testing & Insurance,"$16,033.86"
+X00158,PE027,venue labor & settlement,125665
+X00164,PE028,Venue Settlement,$34.8K
+X00050,PE009,Settlement,"155,088"
+X00180,PE030,fighter insurance & medicals,"$16,740.07"
+X00205,PE035,venue rental,$74.3K
+X00151,PE026,Rent - Venue,"$207,284.66"
+X00289,PE049,Rent - Venue,"$300,777.17"
+X00042,PE007,Medical Testing & Insurance,$16.3K
+X00163,PE028,Venue Rent,$40.8K
+X00009,PE002,Production Co. flat fee,$20K
+X00084,PE014,fighter insurance & medicals,$16.7K
+X00302,PE051,Venue Settlement,191446
+X00191,PE032,"Officials, Doctors & Ambulance",$16.6K
+X00199,PE034,Rent - Venue,"73,660"
+X00195,PE033,Production Co. flat fee,"20,000"
+X00162,PE027,Medical Testing & Insurance,"$16,134.62"
+X00075,PE013,Production Company (flat fee),40000
+X00145,PE025,Rent - Venue,"45,391"
+X00170,PE029,venue labor & settlement,26009
+X00294,PE049,fighter insurance & medicals,15828
+X00100,PE017,Gate Tax,$30.4K
+X00286,PE048,Commission & Gate Tax,219170
+X00016,PE003,commission fee,"$246,148.20"
+X00044,PE008,Venue Settlement,$99.5K
+X00125,PE021,"Officials, Doctors & Ambulance","$14,232.17"
+X00120,PE020,fighter insurance & medicals,14238
+X00126,PE021,Medical Testing & Insurance,"14,308"
+X00267,PE045,production company,$40K
+X00105,PE018,Prod. Co (flat),40000
+X00059,PE010,Officials/Medical Staff,"41,517"
+X00251,PE042,officials & ambulance,$33.7K
+X00304,PE051,Commission & Gate Tax,"310,671"
+X00168,PE028,Medicals + Insurance,"16,840"
+X00143,PE024,officials & ambulance,$42.6K
+X00279,PE047,production company,"20,000"
+X00262,PE044,Commission & Gate Tax,"550,269"
+X00287,PE048,"Officials, Doctors & Ambulance","$36,029.55"
+X00221,PE037,"Officials, Doctors & Ambulance","34,234"
+X00175,PE030,Rent - Venue,"$232,834.78"
+X00012,PE002,fighter insurance & medicals,$16.1K
+X00076,PE013,Commission & Gate Tax,"$326,838.50"
+X00228,PE038,Medicals + Insurance,"16,980"
+X00148,PE025,Gate Tax,"$45,425.54"
+X00067,PE012,VENUE RENT,$72K
+X00060,PE010,Medical Testing & Insurance,"17,654"
+X00157,PE027,VENUE RENT,377640
+X00007,PE002,Venue Rent,$238.5K
+X00153,PE026,Production Co. flat fee,"20,000"
+X00227,PE038,Officials/Medical Staff,"$32,935.71"
+X00216,PE036,Medicals + Insurance,"$17,370.88"
+X00099,PE017,production company,$20K
+X00249,PE042,production company,"40,000"
+X00106,PE018,Gate Tax,"231,430"
+X00184,PE031,commission fee,$33.4K
+X00245,PE041,"Officials, Doctors & Ambulance","12,547"
+X00250,PE042,Gate Tax,$282.9K
+X00119,PE020,officials & ambulance,$13.5K
+X00207,PE035,Production Company (flat fee),$20K
+X00113,PE019,Officials/Medical Staff,"31,699"
+X00017,PE003,"Officials, Doctors & Ambulance",$37.3K
+X00020,PE004,Venue Settlement,"28,953"
+X00231,PE039,Production Company (flat fee),$40K
+X00008,PE002,venue labor & settlement,$94.6K
+X00161,PE027,officials & ambulance,35875
+X00135,PE023,Production Co. flat fee,"$20,000.00"
+X00047,PE008,Officials/Medical Staff,"$17,317.64"
+X00123,PE021,Production Company (flat fee),"$20,000.00"
+X00039,PE007,Prod. Co (flat),"40,000"
+X00092,PE016,Settlement,$34.6K
+X00301,PE051,Venue Rent,295284
+X00218,PE037,Settlement,$167.1K
+X00124,PE021,Gate Tax,"$48,742.26"
+X00037,PE007,Rent - Venue,"331,863"
+X00200,PE034,venue labor & settlement,$29.6K
+X00003,PE001,production company,$40K
+X00048,PE008,Medical Testing & Insurance,"17,379"
+X00224,PE038,venue labor & settlement,"$170,556.67"
+X00029,PE005,"Officials, Doctors & Ambulance",$16.5K
+X00201,PE034,production company,$20K
+X00022,PE004,commission fee,"30,799"
+X00174,PE029,Medicals + Insurance,$15.8K
+X00021,PE004,Production Co. flat fee,"20,000"
+X00032,PE006,venue labor & settlement,$150.3K
+X00087,PE015,Prod. Co (flat),$40K
+X00064,PE011,Commission & Gate Tax,$45.7K
+X00272,PE046,Settlement,$20.3K
+X00082,PE014,commission fee,"32,521"
+X00230,PE039,Venue Settlement,167607
+X00010,PE002,commission fee,$35.4K
+X00171,PE029,production company,$20K
+X00052,PE009,commission fee,$201.4K
+X00266,PE045,venue labor & settlement,"$115,897.13"
+X00103,PE018,VENUE RENT,$288.6K
+X00271,PE046,VENUE RENT,"66,675"
+X00019,PE004,Venue Rent,"48,100"
+X00144,PE024,Medicals + Insurance,$15K
+X00062,PE011,Settlement,"32,489"
+X00270,PE045,Medicals + Insurance,16934
+X00109,PE019,Rent - Venue,371338
+X00156,PE026,Medicals + Insurance,"17,922"
+X00116,PE020,venue labor & settlement,"29,318"
+X00086,PE015,Settlement,134679
+X00049,PE009,venue rental,$252.9K
+X00192,PE032,Medical Testing & Insurance,$14.1K
+X00137,PE023,Officials/Medical Staff,16660
+X00134,PE023,Venue Settlement,25730

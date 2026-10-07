@@ -1,0 +1,107 @@
+Block_ID,Event_ID,Hotel,Rooms_Blocked,Rooms_Picked_Up,Nights,Nightly_Rate,Commission_Pct,Pickup_Rate,Commission_Earned,Market,Card_Type
+R0001,PE001,Metro Plaza Inn,315,181,3,405.0,0.1,0.575,21991.5,New York,Big
+R0002,PE001,Union Square Hotel,134,64,3,370.0,0.1,0.478,7104.0,New York,Big
+R0003,PE002,Skyline Court Hotel,98,54,3,178.0,0.08,0.551,2306.88,Texas,Mid-sized
+R0004,PE002,Union Square Hotel,81,30,2,232.0,0.1,0.37,1392.0,Texas,Mid-sized
+R0005,PE002,Ringside Suites,143,67,3,169.0,0.1,0.469,3396.9,Texas,Mid-sized
+R0006,PE003,Skyline Court Hotel,278,104,3,291.0,0.1,0.374,9079.2,Atlanta,Big
+R0007,PE004,Grandview Hotel,81,34,2,174.0,0.1,0.42,1183.2,Philadelphia,Mid-sized
+R0008,PE004,Champion Lodge,229,85,2,157.0,0.1,0.371,2669.0,Philadelphia,Mid-sized
+R0009,PE005,Champion Lodge,81,46,2,147.0,0.12,0.568,1622.88,DMV,Mid-sized
+R0010,PE005,Ringside Suites,181,79,2,225.0,0.1,0.436,3555.0,DMV,Mid-sized
+R0011,PE005,Skyline Court Hotel,187,93,2,211.0,0.1,0.497,3924.6,DMV,Mid-sized
+R0012,PE006,Skyline Court Hotel,183,103,3,401.0,0.08,0.563,9912.72,New York,Big
+R0013,PE006,Metro Plaza Inn,338,133,2,228.0,0.08,0.393,4851.84,New York,Big
+R0014,PE007,Ringside Suites,321,145,2,326.0,0.08,0.452,7563.2,Las Vegas,Big
+R0015,PE007,Grandview Hotel,384,127,2,308.0,0.08,0.331,6258.56,Las Vegas,Big
+R0016,PE007,Metro Plaza Inn,243,99,3,261.0,0.1,0.407,7751.7,Las Vegas,Big
+R0017,PE008,Ringside Suites,117,41,3,236.0,0.1,0.35,2902.8,DMV,Mid-sized
+R0018,PE008,Champion Lodge,143,70,3,216.0,0.12,0.49,5443.2,DMV,Mid-sized
+R0019,PE008,Metro Plaza Inn,129,44,3,190.0,0.08,0.341,2006.4,DMV,Mid-sized
+R0020,PE009,Champion Lodge,202,87,2,256.0,0.1,0.431,4454.4,New York,Big
+R0021,PE009,Metro Plaza Inn,381,159,3,282.0,0.08,0.417,10761.12,New York,Big
+R0022,PE009,Union Square Hotel,186,95,3,213.0,0.1,0.511,6070.5,New York,Big
+R0023,PE010,Ringside Suites,367,118,3,232.0,0.1,0.322,8212.8,Las Vegas,Big
+R0024,PE010,Champion Lodge,207,106,2,202.0,0.12,0.512,5138.88,Las Vegas,Big
+R0025,PE010,Grandview Hotel,203,95,3,336.0,0.1,0.468,9576.0,Las Vegas,Big
+R0026,PE011,Ringside Suites,194,65,3,194.0,0.08,0.335,3026.4,Texas,Mid-sized
+R0027,PE011,Skyline Court Hotel,158,73,3,124.0,0.1,0.462,2715.6,Texas,Mid-sized
+R0028,PE012,Skyline Court Hotel,219,121,3,187.0,0.1,0.553,6788.1,Philadelphia,Mid-sized
+R0029,PE013,Union Square Hotel,280,107,2,244.0,0.08,0.382,4177.28,New York,Big
+R0030,PE014,Metro Plaza Inn,188,95,3,133.0,0.08,0.505,3032.4,DMV,Mid-sized
+R0031,PE014,Grandview Hotel,181,97,3,122.0,0.1,0.536,3550.2,DMV,Mid-sized
+R0032,PE015,Ringside Suites,149,80,3,378.0,0.12,0.537,10886.4,Las Vegas,Big
+R0033,PE015,Skyline Court Hotel,358,137,3,263.0,0.1,0.383,10809.3,Las Vegas,Big
+R0034,PE015,Champion Lodge,350,112,3,360.0,0.1,0.32,12096.0,Las Vegas,Big
+R0035,PE016,Skyline Court Hotel,164,52,2,254.0,0.12,0.317,3169.92,DMV,Mid-sized
+R0036,PE016,Ringside Suites,215,102,3,175.0,0.1,0.474,5355.0,DMV,Mid-sized
+R0037,PE017,Champion Lodge,212,115,3,196.0,0.12,0.542,8114.4,DMV,Mid-sized
+R0038,PE017,Skyline Court Hotel,77,36,3,194.0,0.1,0.468,2095.2,DMV,Mid-sized
+R0039,PE018,Grandview Hotel,164,92,3,252.0,0.08,0.561,5564.16,New York,Big
+R0040,PE019,Union Square Hotel,398,168,2,368.0,0.12,0.422,14837.76,Las Vegas,Big
+R0041,PE020,Metro Plaza Inn,110,46,2,242.0,0.08,0.418,1781.12,DMV,Mid-sized
+R0042,PE021,Skyline Court Hotel,236,89,3,138.0,0.12,0.377,4421.52,Texas,Mid-sized
+R0043,PE021,Union Square Hotel,205,82,2,208.0,0.08,0.4,2728.96,Texas,Mid-sized
+R0044,PE022,Champion Lodge,236,117,3,180.0,0.08,0.496,5054.4,Philadelphia,Mid-sized
+R0045,PE022,Ringside Suites,224,74,2,206.0,0.1,0.33,3048.8,Philadelphia,Mid-sized
+R0046,PE023,Grandview Hotel,81,32,3,169.0,0.1,0.395,1622.4,DMV,Mid-sized
+R0047,PE023,Ringside Suites,237,116,2,179.0,0.1,0.489,4152.8,DMV,Mid-sized
+R0048,PE023,Champion Lodge,95,37,3,231.0,0.1,0.389,2564.1,DMV,Mid-sized
+R0049,PE024,Grandview Hotel,244,115,2,195.0,0.1,0.471,4485.0,New York,Big
+R0050,PE024,Metro Plaza Inn,262,98,3,300.0,0.1,0.374,8820.0,New York,Big
+R0051,PE024,Champion Lodge,168,53,3,203.0,0.08,0.315,2582.16,New York,Big
+R0052,PE025,Grandview Hotel,156,73,3,148.0,0.08,0.468,2592.96,Texas,Mid-sized
+R0053,PE025,Metro Plaza Inn,200,97,3,177.0,0.12,0.485,6180.84,Texas,Mid-sized
+R0054,PE025,Ringside Suites,65,33,2,180.0,0.08,0.508,950.4,Texas,Mid-sized
+R0055,PE026,Skyline Court Hotel,164,66,3,182.0,0.1,0.402,3603.6,Philadelphia,Mid-sized
+R0056,PE026,Metro Plaza Inn,76,35,3,214.0,0.1,0.461,2247.0,Philadelphia,Mid-sized
+R0057,PE026,Union Square Hotel,135,75,3,249.0,0.12,0.556,6723.0,Philadelphia,Mid-sized
+R0058,PE027,Union Square Hotel,373,172,2,193.0,0.1,0.461,6639.2,Las Vegas,Big
+R0059,PE028,Metro Plaza Inn,88,46,3,129.0,0.12,0.523,2136.24,Philadelphia,Mid-sized
+R0060,PE029,Metro Plaza Inn,70,31,2,191.0,0.1,0.443,1184.2,Texas,Mid-sized
+R0061,PE030,Union Square Hotel,215,120,3,209.0,0.12,0.558,9028.8,Texas,Mid-sized
+R0062,PE031,Skyline Court Hotel,183,62,3,201.0,0.1,0.339,3738.6,Texas,Mid-sized
+R0063,PE032,Union Square Hotel,195,90,2,250.0,0.1,0.462,4500.0,DMV,Mid-sized
+R0064,PE032,Grandview Hotel,227,82,3,134.0,0.08,0.361,2637.12,DMV,Mid-sized
+R0065,PE032,Champion Lodge,65,36,2,146.0,0.08,0.554,840.96,DMV,Mid-sized
+R0066,PE033,Skyline Court Hotel,186,91,3,202.0,0.12,0.489,6617.52,DMV,Mid-sized
+R0067,PE034,Ringside Suites,136,75,3,245.0,0.08,0.551,4410.0,Texas,Mid-sized
+R0068,PE034,Skyline Court Hotel,128,51,3,134.0,0.1,0.398,2050.2,Texas,Mid-sized
+R0069,PE035,Metro Plaza Inn,145,47,3,239.0,0.1,0.324,3369.9,Philadelphia,Mid-sized
+R0070,PE035,Ringside Suites,111,54,3,260.0,0.08,0.486,3369.6,Philadelphia,Mid-sized
+R0071,PE035,Union Square Hotel,128,51,2,150.0,0.1,0.398,1530.0,Philadelphia,Mid-sized
+R0072,PE036,Ringside Suites,370,203,2,386.0,0.1,0.549,15671.6,New York,Big
+R0073,PE036,Union Square Hotel,412,202,3,284.0,0.1,0.49,17210.4,New York,Big
+R0074,PE037,Champion Lodge,179,101,2,213.0,0.1,0.564,4302.6,Las Vegas,Big
+R0075,PE037,Skyline Court Hotel,250,118,3,354.0,0.1,0.472,12531.6,Las Vegas,Big
+R0076,PE037,Grandview Hotel,195,83,3,236.0,0.12,0.426,7051.68,Las Vegas,Big
+R0077,PE038,Grandview Hotel,358,175,2,219.0,0.1,0.489,7665.0,New York,Big
+R0078,PE039,Union Square Hotel,216,93,3,251.0,0.12,0.431,8403.48,New York,Big
+R0079,PE039,Ringside Suites,161,90,3,320.0,0.1,0.559,8640.0,New York,Big
+R0080,PE039,Grandview Hotel,348,187,2,321.0,0.08,0.537,9604.32,New York,Big
+R0081,PE040,Metro Plaza Inn,415,161,3,249.0,0.1,0.388,12026.7,Atlanta,Big
+R0082,PE040,Grandview Hotel,268,147,3,319.0,0.1,0.549,14067.9,Atlanta,Big
+R0083,PE041,Union Square Hotel,80,36,3,157.0,0.1,0.45,1695.6,Philadelphia,Mid-sized
+R0084,PE041,Champion Lodge,82,42,3,238.0,0.1,0.512,2998.8,Philadelphia,Mid-sized
+R0085,PE042,Champion Lodge,206,98,3,238.0,0.1,0.476,6997.2,Las Vegas,Big
+R0086,PE042,Union Square Hotel,244,102,3,265.0,0.12,0.418,9730.8,Las Vegas,Big
+R0087,PE042,Skyline Court Hotel,320,138,3,190.0,0.08,0.431,6292.8,Las Vegas,Big
+R0088,PE043,Metro Plaza Inn,292,145,3,223.0,0.08,0.497,7760.4,Atlanta,Big
+R0089,PE043,Skyline Court Hotel,312,111,2,180.0,0.08,0.356,3196.8,Atlanta,Big
+R0090,PE044,Metro Plaza Inn,194,67,3,323.0,0.08,0.345,5193.84,Las Vegas,Big
+R0091,PE044,Ringside Suites,129,70,3,328.0,0.1,0.543,6888.0,Las Vegas,Big
+R0092,PE044,Grandview Hotel,262,124,2,367.0,0.12,0.473,10921.92,Las Vegas,Big
+R0093,PE045,Metro Plaza Inn,148,82,2,340.0,0.12,0.554,6691.2,Las Vegas,Big
+R0094,PE045,Champion Lodge,236,106,3,331.0,0.08,0.449,8420.64,Las Vegas,Big
+R0095,PE045,Skyline Court Hotel,365,167,3,309.0,0.1,0.458,15480.9,Las Vegas,Big
+R0096,PE046,Metro Plaza Inn,203,87,3,238.0,0.1,0.429,6211.8,Texas,Mid-sized
+R0097,PE046,Skyline Court Hotel,135,69,3,195.0,0.1,0.511,4036.5,Texas,Mid-sized
+R0098,PE047,Ringside Suites,216,104,2,260.0,0.12,0.481,6489.6,Philadelphia,Mid-sized
+R0099,PE047,Grandview Hotel,210,109,3,241.0,0.12,0.519,9456.84,Philadelphia,Mid-sized
+R0100,PE048,Skyline Court Hotel,361,185,3,169.0,0.08,0.512,7503.6,Atlanta,Big
+R0101,PE048,Union Square Hotel,343,154,3,278.0,0.1,0.449,12843.6,Atlanta,Big
+R0102,PE049,Skyline Court Hotel,325,121,3,300.0,0.12,0.372,13068.0,Las Vegas,Big
+R0103,PE050,Ringside Suites,297,106,3,205.0,0.1,0.357,6519.0,Las Vegas,Big
+R0104,PE051,Union Square Hotel,333,128,3,205.0,0.1,0.384,7872.0,New York,Big
+R0105,PE051,Ringside Suites,339,110,2,260.0,0.12,0.324,6864.0,New York,Big
+R0106,PE051,Grandview Hotel,119,43,3,211.0,0.12,0.361,3266.28,New York,Big
